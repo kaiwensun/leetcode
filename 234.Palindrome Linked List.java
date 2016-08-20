@@ -8,6 +8,8 @@
  */
  
  /**
+  *Improvement:
+  * Use two pointers with different step length (1 and 2), so the length and middle can be found in a single run.
   *Result:
   * 22 / 22 test cases passed.
   * Status: Accepted
