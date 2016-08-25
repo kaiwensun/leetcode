@@ -1,6 +1,6 @@
 /**
  *Idea:
- *  Backtracking. Bitwise operation to save space.
+ *  Backtracking. Bitwise operation to save memory space. Pre-prune to reduce search space.
  *Result:
  *  6 / 6 test cases passed.
  *  Status: Accepted
@@ -24,17 +24,15 @@ public class Solution {
             return true;
         row = index[0];
         col = index[1];
-        for(char c : dict){
-            if(canSet(row,col,c)){
-                setHash(row,col,c);
-                board[row][col]=c;
-                if(solveSudoku(row,col+1)){
-                    return true;
-                }
-                else{
-                    removeHash(row,col,c);
-                    board[row][col]='.';
-                }
+        for(char c : getPossibleChar(row, col)){
+            setHash(row,col,c);
+            board[row][col]=c;
+            if(solveSudoku(row,col+1)){
+                return true;
+            }
+            else{
+                removeHash(row,col,c);
+                board[row][col]='.';
             }
         }
         return false;
@@ -67,14 +65,21 @@ public class Solution {
         hash[1][col] |= bit;
         hash[2][getBoxIndex(row,col)] |= bit;
     }
-    private boolean canSet(int row, int col, char c){
-        int bit = 1<<((int)c-(int)'1');
-        return (bit & (hash[0][row] | hash[1][col] | hash[2][getBoxIndex(row,col)]))==0;
-    }
     private void removeHash(int row, int col, char c){
         int bit = ~(1<<((int)c-(int)'1'));
         hash[0][row] &= bit;
         hash[1][col] &= bit;
         hash[2][getBoxIndex(row,col)] &= bit;
     }
+    private LinkedList<Character> getPossibleChar(int row, int col){
+        int bit = (~(hash[0][row] | hash[1][col] |  hash[2][getBoxIndex(row,col)])) & 0x01ff;
+        LinkedList<Character> possi = new LinkedList<>();
+        for(char c='1';c<='9';c++){
+            if(bit%2==1)
+                possi.add(c);
+            bit = bit>>1;
+        }
+        return possi;
+    }
 }
+
