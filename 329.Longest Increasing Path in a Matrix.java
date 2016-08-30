@@ -30,7 +30,6 @@ public class Solution {
     
     boolean isVally(int row, int col){
         int c = matrix[row][col];
-        //System.out.println("c="+c+",row and col = "+row+" "+col);
         return (steps[row][col]==0)
         && (col==0 || matrix[row][col-1]>=c)
         && (col==matrix[0].length-1 || matrix[row][col+1]>=c)
