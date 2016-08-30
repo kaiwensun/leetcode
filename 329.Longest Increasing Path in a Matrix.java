@@ -1,11 +1,12 @@
 /**
  *Basic Idea:
  * Dynamic Programming. Keep record of the length of the longest increasing path from each entry.
- * Don't forget there might be multiple valley.
+ * <del>Don't forget there might be multiple valley.</del> It is not necessary to search from a valley.
  *Result:
  * 137 / 137 test cases passed.
  * Status: Accepted
- * Runtime: 17 ms
+ * Runtime: 16 ms
+ * Your runtime beats 66.10% of javasubmissions.
  *Date:
  * 8/20/2016
  */ 
@@ -20,22 +21,12 @@ public class Solution {
         int maxlen = -1;
         for(int row = 0; row < matrix.length;row++){
             for(int col = 0;col<matrix[0].length;col++){
-                if(isVally(row,col)){
-                    maxlen = Math.max(maxlen,findIncSteps(row,col,Integer.MIN_VALUE));
-                }
+                maxlen = Math.max(maxlen,findIncSteps(row,col,Integer.MIN_VALUE));
             }
         }
         return maxlen;
     }
-    
-    boolean isVally(int row, int col){
-        int c = matrix[row][col];
-        return (steps[row][col]==0)
-        && (col==0 || matrix[row][col-1]>=c)
-        && (col==matrix[0].length-1 || matrix[row][col+1]>=c)
-        && (row==0 || matrix[row-1][col]>=c)
-        && (row==matrix.length-1 || matrix[row+1][col]>=c);
-    }
+
     private int findIncSteps(int row, int col, int value){
         if(row<0 || row>=matrix.length || col<0 || col>=matrix[0].length)
             return 0;
