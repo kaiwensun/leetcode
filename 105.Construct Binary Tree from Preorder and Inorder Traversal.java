@@ -1,6 +1,8 @@
 /**
  *Basic idea:
  * Determine the range of subtree arrays, and solve recursivelly.
+ *Improved O(n) idea:
+ * Using stack. https://discuss.leetcode.com/topic/795/the-iterative-solution-is-easier-than-you-think
  *Result:
  * 202 / 202 test cases passed.
  * Status: Accepted
