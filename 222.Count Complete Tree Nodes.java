@@ -5,6 +5,8 @@
  * otherwise root.right must be full without the last level.
  * So we need recursively call on either root.right or root.left; not both.
  * Since calcDepth() is recursively called, the time complexity is O(logn * logn).
+ *Improved idea:
+ * https://discuss.leetcode.com/topic/31392/my-java-solution-with-explanation-which-beats-99/2
  *Result:
  * 18 / 18 test cases passed.
  * Status: Accepted
