@@ -5,7 +5,7 @@
  * 34 / 34 test cases passed.
  * Status: Accepted
  * Runtime: 2 ms
- * We are in the progress of updating the graph distribution. Please check the distribution again within weeks.
+ * Your runtime beats 68.26% of java submissions.
  *Date:
  * 9/8/2016
  */
