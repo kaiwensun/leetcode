@@ -3,6 +3,7 @@
  * 16 / 16 test cases passed.
  * Status: Accepted
  * Runtime: 99 ms
+ * Your runtime beats 63.13% of java submissions.
  *Date:
  * 10/1/2016
  */
