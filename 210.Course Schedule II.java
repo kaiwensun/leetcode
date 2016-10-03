@@ -1,6 +1,6 @@
 /**
  *Basic idea:
- * Topology sort. DFS.
+ * Topology sort. DFS. Add a special course called Graduation.
  *Result:
  * 36 / 36 test cases passed.
  * Status: Accepted
