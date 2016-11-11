@@ -5,7 +5,6 @@
  * Runtime: 82 ms
  * Sorry. We do not have enough accepted submissions.
  */
-#include<algorithm>
 class Solution {
 public:
 	int minMoves(vector<int>& nums) {
