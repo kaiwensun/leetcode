@@ -8,9 +8,9 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        bool visited[193] = {false};
+        bool visited[1001] = {false};
         while(n!=1){
-            if(n>=193){
+            if(n>1000){
                 int tmpn = 0;
                 while(n!=0){
                     tmpn+=(n%10)*(n%10);
