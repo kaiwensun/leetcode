@@ -5,13 +5,9 @@ class Solution(object):
         :rtype: int
         """
         rval = 0
-        target_min = target_max = 0
-        met_min = met_max = False
+        maximal = 0
         for i in xrange(len(arr)):
-            met_min = met_min or arr[i] == target_min
-            target_max = max(target_max, arr[i])
-            if target_max == i and met_min:
+            maximal = max(maximal, arr[i])
+            if maximal == i:
                 rval += 1
-                target_min = target_max = i + 1
-                met_min = met_max = False
         return rval
