@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: bool
         """
         seen = set()
-        cnt = 0
         for i in xrange(len(S)):
             if S[i] == '0':
                 continue
@@ -16,7 +15,6 @@ class Solution(object):
                     break
                 if num not in seen:
                     seen.add(num)
-                    cnt += 1
-                    if cnt == N:
+                    if len(seen) == N:
                         return True
         return False
