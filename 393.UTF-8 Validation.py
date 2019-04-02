@@ -1,4 +1,3 @@
-import re
 class Solution(object):
     codes = {
             int('10000000', 2): (int('00000000', 2), 1),
