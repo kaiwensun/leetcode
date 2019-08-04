@@ -7,25 +7,18 @@ class Solution(object):
         """
         if len(text1) < len(text2):
             text1, text2 = text2, text1
-        print text1, text2
         M, N = len(text1), len(text2)
-        dp_common_ended_at = [[0] * N, [0] * N]
-        dp_common_range_mx = [[0] * N, [0] * N]
+        dp = [0] * N
         for m in xrange(M):
+            upleft = 0
             for n in xrange(N):
                 if text1[m] == text2[n]:
-                    dp_common_ended_at[1][n] = max(
-                        n and dp_common_range_mx[1][n - 1],
-                        m and dp_common_range_mx[0][n],
-                        (m and n and dp_common_range_mx[0][n - 1]) + 1
+                    cell = max(
+                        n and dp[n - 1],
+                        m and dp[n],
+                        (m and n and upleft) + 1
                     )
-                dp_common_range_mx[1][n] = max(
-                    m and dp_common_range_mx[0][n],
-                    n and dp_common_range_mx[1][n - 1],
-                    dp_common_ended_at[1][n]
-                )
-            dp_common_ended_at[0][:] = [0] * N
-            dp_common_ended_at[0], dp_common_ended_at[1] = dp_common_ended_at[1], dp_common_ended_at[0]
-            dp_common_range_mx[0][:] = [0] * N
-            dp_common_range_mx[0], dp_common_range_mx[1] = dp_common_range_mx[1], dp_common_range_mx[0]
-        return dp_common_range_mx[0][-1]
+                else:
+                    cell = max(n and dp[n - 1], m and dp[n])
+                upleft, dp[n] = dp[n], cell
+        return dp[-1]
