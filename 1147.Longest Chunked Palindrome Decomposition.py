@@ -8,9 +8,7 @@ class Solution(object):
         left, right, width = 0, len(text), 1
         while left < len(text) / 2:
             for width in xrange(1, len(text) / 2 - left + 1):
-                # print text[left: left + width] == text[right - width: right], text[left: left + width], text[right - width: right]
                 if text[left: left + width] == text[right - width: right]:
-                    # print text[left: left + width] 
                     left = left + width
                     right = right - width
                     res += 2
