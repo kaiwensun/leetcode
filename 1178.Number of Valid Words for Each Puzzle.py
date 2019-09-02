@@ -17,14 +17,14 @@ class Solution(object):
             while index < len(puzzle_list):
                 c = puzzle_list[index]
                 if c in trie:
-                    inner_p = puzzle_list[index]
+                    p = puzzle_list[index]
                     c_missmatches = False
-                    while c > inner_p:
+                    while c > p:
                         index += 1
                         if index == len(puzzle_list) or c < puzzle_list[index]:
                             c_missmatches = True
                             break
-                        inner_p = puzzle_list[index]
+                        p = puzzle_list[index]
                     if c_missmatches:
                         continue
                     res += query(trie[c], puzzle_list, None if c == head else head, index)
