@@ -16,20 +16,13 @@ class Solution:
             if arr1[index] > must_strictly_bigger_than:
                 res1 = attempt(index + 1, arr1[index])
             else:
-                res1 = -1
+                res1 = float('inf')
             bigger = getSlightlyStrightlyBigger(must_strictly_bigger_than)
             if bigger is None:
-                res2 = -1
+                res2 = float('inf')
             else:
                 res2 = attempt(index + 1, bigger)
-            if res2 != -1:
-                if res1 == -1:
-                    res = res2 + 1
-                else:
-                    res = min(res1, res2 + 1)
-            else:
-                res = res1
-            return res
+            return min(res1, res2 + 1)
                 
         res = attempt(0, float('-inf'))
-        return res
+        return res if res != float('inf') else -1
