@@ -1,4 +1,5 @@
 # My post at https://leetcode.com/problems/critical-connections-in-a-network/discuss/382638/I-like-this-questionDFS-with-detailed-explanation-O(orEor)-solution
+
 import collections
 class Solution(object):
     def criticalConnections(self, n, connections):
@@ -29,6 +30,5 @@ class Solution(object):
             rank[node] = n
             return min_back_depth
             
-        for node in xrange(n):
-            dfs(node, 0)
+        dfs(0, 0)
         return list(connections)
