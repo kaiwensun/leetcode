@@ -1,3 +1,5 @@
+# my post at https://leetcode.com/problems/make-array-strictly-increasing/discuss/377531/on2-logn-solution-starting-from-brute-force-improve-by-memoization
+
 import bisect, functools
 class Solution:
     def makeArrayIncreasing(self, arr1: List[int], arr2: List[int]) -> int:
