@@ -1,3 +1,6 @@
+# Learning from this question:
+# Use `collections.Counter()`, instead of `collections.defaultdict(int)`.
+
 import collections
 class Solution(object):
     def longestSubsequence(self, arr, diff):
@@ -6,7 +9,7 @@ class Solution(object):
         :type difference: int
         :rtype: int
         """
-        dp = collections.defaultdict(int)
+        dp = collections.Counter()
         for a in arr:
             dp[a] = max(dp[a], dp[a - diff] + 1)
         return max(dp.values())
