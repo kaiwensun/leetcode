@@ -6,4 +6,4 @@ class Solution(object):
         :rtype: int
         """
         counter = collections.Counter(map(lambda posi: posi%2, chips))
-        return min(counter.values()) if len(counter.keys()) == 2 else 0
+        return min(counter[0], counter[1])
