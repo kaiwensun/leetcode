@@ -14,12 +14,11 @@ class FindElements(object):
         """
         if val == 0:
             self.ele = set()
-        if root is None:
-            return
-        self.ele.add(val)
-        root.val = val
-        self.__init__(root.left, val * 2 + 1)
-        self.__init__(root.right, val * 2 + 2)
+        if root:
+            self.ele.add(val)
+            root.val = val
+            self.__init__(root.left, val * 2 + 1)
+            self.__init__(root.right, val * 2 + 2)
         
 
     def find(self, target):
