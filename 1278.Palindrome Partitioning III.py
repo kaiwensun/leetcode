@@ -4,12 +4,9 @@ class Solution:
         
         @functools.lru_cache(None)
         def numOfReplacementNeeded(i, j):
-            res = 0
-            while i < j:
-                res += s[i] != s[j]
-                i += 1
-                j -= 1
-            return res
+            if i >= j:
+                return 0
+            return numOfReplacementNeeded(i + 1, j - 1) + (s[i] != s[j])
         
         # how many replacements are needed
         @functools.lru_cache(None)
