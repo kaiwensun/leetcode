@@ -10,3 +10,5 @@ class Solution(object):
             if len(res[-1]) == size:
                 res.append([])
         return res[:-1]
+
+# comment: order is not that important. try bucket sort (in essence, grouping), to decrease complexity from O(n log n) to O(n).
