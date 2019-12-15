@@ -1,0 +1,5 @@
+Summary - To find the next combination:
+1. Based on the previous combination result, remove the tail part that shares the same trailing substrings as the `characters`.
+2. In the remaining part, get the last (rightmost) character, memorize its place in `characters`, and remove it from the remaining part.
+3. Now the remaining part is not long enough. To complete the combination, starting from the right side of the removed character in step2, add characters one by one to the remaining part until the length is enough.
+4. Now you get a new combination.
