@@ -3,7 +3,7 @@ class Solution(object):
     def maxFreq(self, s, maxLetters, minSize, maxSize):
         T = lambda: collections.defaultdict(T)
         trie = T()
-        data = [[trie, set(), i] for i in xrange(len(s))]
+        data = [[trie, set()] for i in xrange(len(s))]
         res = 0
         for l in xrange(minSize):
             for start in xrange(len(s)):
