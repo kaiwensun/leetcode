@@ -12,7 +12,7 @@ class Solution(object):
         boxes_to_open = initialBoxes
         res = 0
         opened_something = True
-        while opened_something and boxes_to_open:
+        while opened_something:
             index = 0
             opened_something = False
             while index < len(boxes_to_open):
