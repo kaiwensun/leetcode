@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: List[str]
         """
         T = lambda: collections.defaultdict(T)
-        words = sorted(words, key=len)
         trie = T()
         res = []
         for word in words:
@@ -26,7 +25,4 @@ class Solution(object):
                 return True
             return False
         res = []
-        for word in words:
-            if dfs(trie, word, 0):
-                res.append(word)
-        return res
+        return [word for word in words if dfs(trie, word, 0)]
