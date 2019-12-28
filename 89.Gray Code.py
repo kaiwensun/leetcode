@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        cur = [0]
+        res = [0]
         for i in xrange(n):
-            cur = cur + [(1 << i) | ele for ele in reversed(cur)]
-        return cur
+            res += [(1 << i) | ele for ele in reversed(res)]
+        return res
