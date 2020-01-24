@@ -1,14 +1,8 @@
 class Solution(object):
     def removeStones(self, stones):
-        """
-        :type stones: List[List[int]]
-        :rtype: int
-        """
         data = {}
         def find(x):
-            if x not in data:
-                data[x] = x
-            if data[x] != x:
+            if data.setdefault(x, x) != x:
                 data[x] = find(data[x])
             return data[x]
 
