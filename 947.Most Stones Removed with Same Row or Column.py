@@ -1,4 +1,3 @@
-import collections
 class Solution(object):
     def removeStones(self, stones):
         """
