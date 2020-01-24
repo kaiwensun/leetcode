@@ -11,10 +11,9 @@ class Solution(object):
             if data[x] != x:
                 data[x] = find(data[x])
             return data[x]
+
         def union(x, y):
-            xp = find(x)
-            yp = find(y)
-            data[xp] = yp
+            data[find(x)] = find(y)
             
         for stone in stones:
             union(*enumerate(stone))
