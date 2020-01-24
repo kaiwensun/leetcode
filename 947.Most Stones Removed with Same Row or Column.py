@@ -21,5 +21,4 @@ class Solution(object):
             union(*enumerate(stone))
         for key in data.keys():
             find(key)
-        total = sum(map(len, map(set, zip(*stones))))
         return len(stones) - len(set(data.values()))
