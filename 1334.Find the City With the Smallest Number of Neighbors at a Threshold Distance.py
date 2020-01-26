@@ -1,4 +1,4 @@
-from collections import defaultdict, deque
+from collections import defaultdict
 class Solution(object):
     def findTheCity(self, n, edges, distanceThreshold):
         """
