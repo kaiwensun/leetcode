@@ -11,7 +11,6 @@ class Solution(object):
         for edge in edges:
             dist[edge[0]][edge[1]] = edge[2]
             dist[edge[1]][edge[0]] = edge[2]
-        print dist
         for k in xrange(n):
             for i in xrange(n):
                 for j in xrange(n):
@@ -25,6 +24,4 @@ class Solution(object):
             if count <= mn:
                 mn = count
                 res = start
-        import pprint
-        pprint.pprint(dist)
         return res
