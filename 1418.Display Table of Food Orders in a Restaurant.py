@@ -3,11 +3,6 @@ class Solution(object):
     def displayTable(self, orders):
         foodNames = {}
         title = ["Table"]
-        def getFoodId(foodName):
-            if foodName not in foodNames:
-                foodNames[foodName] = len(foodNames)
-                title.append(foodName)
-            return foodNames[foodName]
         for order in orders:
             foodNames[(order[2])] = None
         for key in sorted(foodNames.keys()):
@@ -15,7 +10,7 @@ class Solution(object):
             title.append(key)
         res = collections.defaultdict(lambda: [0] * len(foodNames))
         for order in orders:
-            res[order[1]][getFoodId(order[2])] += 1
+            res[order[1]][foodNames[order[2]]] += 1
         table = [title]
         for key in sorted(res.keys(), key=int):
             value = map(str, res[key])
