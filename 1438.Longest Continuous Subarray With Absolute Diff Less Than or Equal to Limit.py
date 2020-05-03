@@ -13,12 +13,10 @@ class Solution(object):
         res = 0
         for i, num in enumerate(nums):
             while -max_heap[0][0] > num + limit or max_heap[0][1] < max_left:
-                max_left = max(max_left, max_heap[0][1])
-                heapq.heappop(max_heap)
+                max_left = max(max_left, heapq.heappop(max_heap)[1])
             heapq.heappush(max_heap, (-num, i))
             while min_heap[0][0] < num - limit or min_heap[0][1] < min_left:
-                min_left = max(min_left, min_heap[0][1])
-                heapq.heappop(min_heap)
+                min_left = max(min_left, heapq.heappop(min_heap)[1])
             heapq.heappush(min_heap, (num, i))
             res = max(res, i - max(max_left, min_left))
         return res
