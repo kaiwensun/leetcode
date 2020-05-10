@@ -11,17 +11,6 @@ class Solution:
                     rightApple += 1
                 remainsApple[i][j] = (remainsApple[i + 1][j] if i != m - 1 else 0) + rightApple
 
-        def rightHasApple(i, j):
-            if i == m - 1:
-                return remainsApple[i][j] > 0
-            else:
-                return remainsApple[i][j] - remainsApple[i + 1][j] > 0
-        def belowHasApple(i, j):
-            if j == n - 1:
-                return remainsApple[i][j] > 0
-            else:
-                return remainsApple[i][j] - remainsApple[i][j + 1] > 0
-
         @functools.lru_cache(None)
         def dp(remainPieces, i, j):
             if remainPieces == 1:
@@ -33,17 +22,12 @@ class Solution:
             res = 0
             seenAppleOnRight = False
             for new_i in range(i + 1, m):
-                seenAppleOnRight = seenAppleOnRight or rightHasApple(new_i - 1, j)
-                if seenAppleOnRight:
+                if remainsApple[i][j] != remainsApple[new_i][j]:
                     res += dp(remainPieces - 1, new_i, j)
                     res %= MOD
-            seenAppleBelow = False
             for new_j in range(j + 1, n):
-                seenAppleBelow = seenAppleBelow or belowHasApple(i, new_j - 1)
-                if seenAppleBelow:
+                if remainsApple[i][j] != remainsApple[i][new_j]:
                     res += dp(remainPieces - 1, i, new_j)
                     res %= MOD
             return res
-
         return dp(k, 0, 0)
-                
