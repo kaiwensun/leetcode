@@ -2,7 +2,8 @@ from functools import lru_cache
 class Solution:
     def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
 	
-	    # max prefixes are actually not necessary. they are just a small optimization that doesn't significantly affect time complexity.
+        # Max prefixes are actually not necessary.
+	# They are just a small optimization that doesn't significantly affect time complexity.
         maxPrefix1 = [nums1[0]] * len(nums1)
         maxPrefix2 = [nums2[0]] * len(nums2)
         minPrefix1 = [nums1[0]] * len(nums1)
@@ -23,13 +24,13 @@ class Solution:
             if j == 0:
                 return max(nums2[0] * maxPrefix1[i], nums2[0] * minPrefix1[i])
 			
-			# if nums1[i] and nums2[j] are not used
+            # if nums1[i] and nums2[j] are not used
             res = dp(i - 1, j - 1)
 			
-			# if nums1[i] and nums2[j] are paired
+            # if nums1[i] and nums2[j] are paired
             res = max(nums1[i] * nums2[j], res, nums1[i] * nums2[j] + res)
 			
-			# if either nums1[i] or nums2[j] is used
+            # if either nums1[i] or nums2[j] is used
             res = max(res, dp(i, j - 1), dp(i - 1, j))
 
             return res
