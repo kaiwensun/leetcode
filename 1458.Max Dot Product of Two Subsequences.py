@@ -3,7 +3,7 @@ class Solution:
     def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
 	
         # Max prefixes are actually not necessary.
-	# They are just a small optimization that doesn't significantly affect time complexity.
+        # They are just a small optimization that doesn't significantly affect time complexity.
         maxPrefix1 = [nums1[0]] * len(nums1)
         maxPrefix2 = [nums2[0]] * len(nums2)
         minPrefix1 = [nums1[0]] * len(nums1)
