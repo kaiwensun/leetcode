@@ -3,7 +3,6 @@
 def final_prices(prices)
     stack = [0]
     res = []
-    mn_index = -1
     for price in prices.reverse
         stack.pop while stack[-1] > price
         res << [price - stack.last, 0].max
