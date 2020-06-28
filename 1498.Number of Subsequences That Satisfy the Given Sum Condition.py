@@ -6,11 +6,9 @@ class Solution:
         nums.sort()
         res = 0
         for index, num in enumerate(nums):
+            if num + num > target: break
             rindex = bisect.bisect(nums, target - num, lo=index)
-            size = rindex - index - 2
-            if size >= 0:
-                res += ((1 << (size + 1)) - 1) % MOD
-                res %= MOD
-            if num + num <= target:
-                res += 1
+            size = rindex - index - 1
+            res += (1 << size) % MOD
+            res %= MOD
         return res % MOD
