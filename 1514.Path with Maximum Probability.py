@@ -1,4 +1,4 @@
-import collections
+import collections, heapq
 class Solution(object):
     def maxProbability(self, n, edges, succProb, start, end):
         """
@@ -11,31 +11,22 @@ class Solution(object):
         """
         if start == end:
             return 1.0
-        probs = [None] * n
-        # probs[start] = 1.0
+        visited = set()
         graph = collections.defaultdict(list)
         for i in xrange(len(edges)):
             u, v = edges[i]
             graph[u].append([v, succProb[i]])
             graph[v].append([u, succProb[i]])
-        priority_queue = collections.defaultdict(float)
-        priority_queue[start] = 1.0
-        def findMax(priority_queue):
-            max_prob = -1
-            res = None
-            for node, prob in priority_queue.iteritems():
-                if max_prob < prob:
-                    max_prob = prob
-                    res = node
-            return res
-        
-        while priority_queue:
-            node = findMax(priority_queue)
-            probs[node] = priority_queue.pop(node)
+        heap = [[-1.0, start]]
+        while heap:
+            neg_prob, node = heapq.heappop(heap)
             if node == end:
-                return probs[node]
+                return -neg_prob
+            if node in visited:
+                continue
+            visited.add(node)
             for neighbor, edge_prob in graph[node]:
-                if probs[neighbor] is not None:
-                    continue                
-                priority_queue[neighbor] = max(priority_queue[neighbor], probs[node] * edge_prob)
+                if neighbor in visited:
+                    continue
+                heapq.heappush(heap, [edge_prob * neg_prob, neighbor])
         return 0.0
