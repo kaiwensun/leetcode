@@ -16,7 +16,7 @@ def remove_elements(head, val)
     while fast
         fast = fast.next while fast && fast.val == val
         if fast
-            slow.next.val = fast.val
+            slow.next = fast
             fast = fast.next
             slow = slow.next
         end
