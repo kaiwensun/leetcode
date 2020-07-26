@@ -14,6 +14,8 @@ def clean_root_level_files():
         if os.path.isfile(os.path.join(root_path, fname)))
     moved_cnt = 0
     for fname in fnames:
+        if fname == "README.md":
+            continue
         num_str, main_name = fname.split(".", 1)
         try:
             num = int(num_str)
@@ -34,6 +36,9 @@ def clean_root_level_files():
             full_fname = os.path.join(root_path, fname)
             target_file_name = FORMAT % (num, main_name.strip())
             full_target_file_name = os.path.join(full_folder_name, target_file_name)
+            if os.path.exists(full_target_file_name):
+                print("Unhandled [target already exists!]: " + fname + " -> " + target_file_name)
+                continue
             if not dryrun:
                 shutil.move(full_fname, full_target_file_name)
             moved_cnt += 1
