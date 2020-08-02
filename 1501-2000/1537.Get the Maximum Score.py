@@ -1,5 +1,3 @@
-from functools import lru_cache
-
 class Solution:
     def maxSum(self, nums1: List[int], nums2: List[int]) -> int:
         nums1.append(0)
