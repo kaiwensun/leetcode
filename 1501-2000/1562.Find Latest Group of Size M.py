@@ -35,7 +35,5 @@ class Solution(object):
                 union(i, i - 1)
             if i != len(arr) - 1 and size[i + 1] != 0:
                 union(i, i + 1)
-            if size[i] == m == 1 and data[i] == i:
-                res = step + 1
         return res
 
