@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 * total: 1569; solved: 930; attempted: 18; unsolved without lock: 312
 
 |Status|#|Title|Locked|Difficulty|
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 |&check;|1|[Two Sum](https://leetcode.com/problems/two-sum)||Easy|
 |&check;|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)||Medium|
 |&check;|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||Medium|
