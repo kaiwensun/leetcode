@@ -34,10 +34,26 @@ function Item(item) {
 		}
 	}
 	this.specialTreate = function() {
-		// temporarily empty
+		// AC'ed in anonymous session
+		const otherSession = [
+			4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
+			16, 18, 21, 24, 25, 26, 31, 34, 36, 38,
+			39, 40, 46, 47, 51, 52, 54, 56, 57, 58,
+			59, 61, 63, 68, 69, 71, 73, 74, 77, 82,
+			83, 86, 98, 101, 102, 104, 105, 110, 111, 112,
+			113, 118, 135, 138, 139, 141, 145, 153, 160, 165,
+			167, 175, 181, 182, 183, 189, 191, 198, 205, 206,
+			209, 216, 218, 223, 225, 228, 232, 233, 234, 235,
+			236, 240, 241, 242, 257, 273, 289, 290, 292, 303,
+			312, 316, 318, 319, 322, 331, 343, 349, 350, 375,
+			376, 377, 378, 388, 394, 397, 398, 404, 414, 415,
+			419, 433, 447, 458];
+		if (otherSession.includes(this._id)) {
+			this._status = "ac";
+		}
 	}
 	
-	this._id = item.children[1].textContent;
+	this._id = parseInt(item.children[1].textContent);
 	this._status = item.children[0].getAttribute("value")
 	this._title = item.children[2].getAttribute("value");
 	this._link = item.children[2].getElementsByTagName("a")[0].href;
