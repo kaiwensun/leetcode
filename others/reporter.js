@@ -51,6 +51,12 @@ function Item(item) {
 		if (otherSession.includes(this._id)) {
 			this._status = "ac";
 		}
+		if (this._title == "Most Visited Sector in  a Circular Track") {
+			this._title = "Most Visited Sector in a Circular Track";
+		}
+		if (this._title == "Longest Uncommon Subsequence I ") {
+			this._title = "Longest Uncommon Subsequence I";
+		}
 	}
 	
 	this._id = parseInt(item.children[1].textContent);

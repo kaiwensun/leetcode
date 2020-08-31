@@ -14,6 +14,9 @@ public class Solution {
         int[] res = {-1,-1};
         int l = 0;
         int r = nums.length-1;
+        if (nums.length == 0) {
+            return new int[]{-1, -1};
+        }
         if(nums[0]==target)
             res[0] = 0;
         if(nums[nums.length-1]==target)

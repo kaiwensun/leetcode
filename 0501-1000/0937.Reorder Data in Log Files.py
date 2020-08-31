@@ -15,6 +15,6 @@ class Solution(object):
                 letter_logs.append(log)
             else:
                 digit_logs.append(log)
-        letter_logs = sorted(letter_logs, cmp=lambda l1, l2: cmp(l1.split(' ', 1)[1], l2.split(' ', 1)[1]))
+        letter_logs = sorted(letter_logs, cmp=lambda l1, l2: (cmp(list(reversed(l1.split(' ', 1))), list(reversed(l2.split(' ', 1))))))
         return letter_logs + digit_logs
-    
+
