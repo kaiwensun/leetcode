@@ -76,22 +76,23 @@ Item.genTableHeader = function() {
 	return `|${attributes.join("|")}|\n${line}`;
 }
 
+function getQuestions() {
+	return $("#question-app .reactable-data > tr").get().map(item => new Item(item)).sort((a, b) => a._id - b._id);
+}
+
 function genMarkdown() {
-	let items = $("#question-app .reactable-data > tr").get();
 	let tableHeader = Item.genTableHeader();
-	let tableContent = items.map(item => new Item(item)).map(item => item.toMarkdown()).join("\n");
+	let tableContent = getQuestions().map(item => item.toMarkdown()).join("\n");
 	return tableHeader + "\n" + tableContent;
 }
 
 function genJSON() {
-	let items = $("#question-app .reactable-data > tr").get();
-	return items.map(item => new Item(item)).map(item => item.toJSON());
+	return getQuestions().map(item => item.toJSON());
 }
 
 function getStats() {
-	let items = $("#question-app .reactable-data > tr").get();
-	items = items.map(item => new Item(item));
-	res = {}
+	let items = getQuestions();
+	let res = {}
 	res.total = items.length;
 	res.solved = items.filter(item => item._status == "ac").length;
 	res.attempted = items.filter(item => item._status == "notac").length;
