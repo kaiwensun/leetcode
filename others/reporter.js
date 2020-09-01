@@ -3,7 +3,7 @@
 function Item(item) {
 
 	this.toMarkdown = function() {
-		return `|${this.statusString()}|${this._id}|[${this._title}](${this._link})|${this.lockedString()}|${this._difficulty}|`;
+		return `|${this.statusString()}${this.lockedString()}|${this._id}|[${this._title}](${this._link})|${this._difficulty}|`;
 	}
 	this.toJSON = function() {
 		return {
@@ -66,12 +66,11 @@ function Item(item) {
 	this._difficulty = item.children[5].textContent;
 	this._locked = item.children[2].getElementsByClassName("fa-lock").length !== 0;
 	this.specialTreate();
-	
 	return this;
 }
 
 Item.genTableHeader = function() {
-	let attributes = ["Status", "#", "Title", "Locked", "Difficulty"];
+	let attributes = ["Status", "#", "Title", "Difficulty"];
 	let line = `${"|:---".repeat(attributes.length)}|`;
 	return `|${attributes.join("|")}|\n${line}`;
 }
