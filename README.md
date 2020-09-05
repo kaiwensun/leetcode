@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |total|solved|attempted|unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1571|937|17|307|
+|1571|938|17|307|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -696,7 +696,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|Easy|
 |&#x1f512;|681|[Next Closest Time](https://leetcode.com/problems/next-closest-time)|Medium|
 ||682|[Baseball Game](https://leetcode.com/problems/baseball-game)|Easy|
-|&#x1f512;|683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Hard|
+|&check;&#x1f512;|683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Hard|
 |&check;|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|Medium|
 ||685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii)|Hard|
 ||686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match)|Medium|

@@ -47,8 +47,9 @@ function Item(item) {
 			236, 240, 241, 242, 257, 273, 289, 290, 292, 303,
 			312, 316, 318, 319, 322, 331, 343, 349, 350, 375,
 			376, 377, 378, 388, 394, 397, 398, 404, 414, 415,
-			419, 433, 447, 458, 157];
-		if (otherSessions.includes(this._id)) {
+			419, 433, 447, 458];
+		const otherAccounts = [157, 683];
+		if ((otherSessions + otherAccounts).includes(this._id)) {
 			this._status = "ac";
 		}
 		if (this._title == "Most Visited Sector in  a Circular Track") {
