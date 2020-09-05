@@ -34,8 +34,8 @@ function Item(item) {
 		}
 	}
 	this.specialTreate = function() {
-		// AC'ed in anonymous session
-		const otherSession = [
+		// AC'ed in other sessions
+		const otherSessions = [
 			4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
 			16, 18, 21, 24, 25, 26, 31, 34, 36, 38,
 			39, 40, 46, 47, 51, 52, 54, 56, 57, 58,
@@ -47,8 +47,8 @@ function Item(item) {
 			236, 240, 241, 242, 257, 273, 289, 290, 292, 303,
 			312, 316, 318, 319, 322, 331, 343, 349, 350, 375,
 			376, 377, 378, 388, 394, 397, 398, 404, 414, 415,
-			419, 433, 447, 458];
-		if (otherSession.includes(this._id)) {
+			419, 433, 447, 458, 157];
+		if (otherSessions.includes(this._id)) {
 			this._status = "ac";
 		}
 		if (this._title == "Most Visited Sector in  a Circular Track") {
@@ -109,9 +109,12 @@ function reportJSON() {
 	console.log(JSON.stringify(report));
 }
 
-function reportStats() {
+function reportStatsMarkdown() {
 	let stats = ['total', 'solved', 'attempted', 'unsolved without lock'];
+	let header = `|${stats.join("|")}|`;
+	let line = `${"|:---:".repeat(stats.length)}|`;
 	let data = getStats();
-	res = stats.map(stat => `${stat}: ${data[stat]}`);
-	console.log(res.join("; "));
+	let counts = `|${stats.map(stat => data[stat]).join("|")}|`;
+	res = [header, line, counts].join("\n");
+	console.log(res);
 }
