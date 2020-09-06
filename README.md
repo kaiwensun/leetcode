@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |total|solved|attempted|unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1571|938|17|307|
+|1579|942|17|311|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -1584,4 +1584,12 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|1568|[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|Hard|
 |&check;|1569|[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|Hard|
 |&#x1f512;|1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|Medium|
-|&#x1f512;|1571|[Warehouse Manager](https://leetcode.com/problems/warehouse-manager)|Medium|
+|&#x1f512;|1571|[Warehouse Manager](https://leetcode.com/problems/warehouse-manager)|Easy|
+||1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)|Easy|
+||1573|[Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string)|Medium|
+||1574|[Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted)|Medium|
+||1575|[Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes)|Hard|
+|&check;|1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|Easy|
+|&check;|1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|Medium|
+|&check;|1578|[Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|Medium|
+|&check;|1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|Hard|
