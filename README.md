@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |total|solved|attempted|unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1579|949|16|305|
+|1579|950|16|305|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -304,7 +304,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&#x1f512;|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|Medium|
 |&check;|289|[Game of Life](https://leetcode.com/problems/game-of-life)|Medium|
 |&check;|290|[Word Pattern](https://leetcode.com/problems/word-pattern)|Easy|
-|&#x1f512;|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii)|Hard|
+|&check;&#x1f512;|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii)|Hard|
 |&check;|292|[Nim Game](https://leetcode.com/problems/nim-game)|Easy|
 |&#x1f512;|293|[Flip Game](https://leetcode.com/problems/flip-game)|Easy|
 |&#x1f512;|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii)|Medium|
