@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |total|solved|attempted|unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1579|946|17|307|
+|1579|949|16|305|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -78,7 +78,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Medium|
 |&check;|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Medium|
 |&check;|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Medium|
-||65|[Valid Number](https://leetcode.com/problems/valid-number)|Hard|
+|&check;|65|[Valid Number](https://leetcode.com/problems/valid-number)|Hard|
 |&check;|66|[Plus One](https://leetcode.com/problems/plus-one)|Easy|
 |&check;|67|[Add Binary](https://leetcode.com/problems/add-binary)|Easy|
 |&check;|68|[Text Justification](https://leetcode.com/problems/text-justification)|Hard|
@@ -177,7 +177,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&#x1f512;|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance)|Medium|
 |&check;|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|Medium|
 |&#x1f512;|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges)|Medium|
-|?|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap)|Hard|
+|&check;|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap)|Hard|
 |&check;|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|Medium|
 |&check;|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)|Medium|
 |&check;|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Easy|
@@ -848,7 +848,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|
 ||833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string)|Medium|
 ||834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)|Hard|
-||835|[Image Overlap](https://leetcode.com/problems/image-overlap)|Medium|
+|&check;|835|[Image Overlap](https://leetcode.com/problems/image-overlap)|Medium|
 ||836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)|Easy|
 ||837|[New 21 Game](https://leetcode.com/problems/new-21-game)|Medium|
 |&check;|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|Medium|
