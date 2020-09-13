@@ -7,31 +7,29 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        s_index = 0
-        value_based_heap = []
-        index_based_heap = []  # can be optimized without using heap
+        index_based_queue_l = index_based_queue_r = 0
+        value_based_queue = []
         taken_indexes = [False] * len(s) # index in s
         t_index = 0
         while t_index < len(t):
-            assert(s_index == len(s) or not taken_indexes[s_index])
-            while index_based_heap and taken_indexes[index_based_heap[0]]:
-                heapq.heappop(index_based_heap)
-            while value_based_heap and taken_indexes[value_based_heap[0][1]]:
-                heapq.heappop(value_based_heap)
-            if value_based_heap and t[t_index] == value_based_heap[0][0]:
-                v, i = heapq.heappop(value_based_heap)
+            assert(index_based_queue_r == len(s) or not taken_indexes[index_based_queue_r])
+            while index_based_queue_l < index_based_queue_r and taken_indexes[index_based_queue_l]:
+                index_based_queue_l += 1
+            while value_based_queue and taken_indexes[value_based_queue[0][1]]:
+                heapq.heappop(value_based_queue)
+            if value_based_queue and t[t_index] == value_based_queue[0][0]:
+                v, i = heapq.heappop(value_based_queue)
                 assert(not taken_indexes[i])
                 taken_indexes[i] = True
                 t_index += 1
-            elif index_based_heap and t[t_index] == s[index_based_heap[0]]:
-                i = heapq.heappop(index_based_heap)
-                assert(not taken_indexes[i])
-                taken_indexes[i] = True
+            elif index_based_queue_l < index_based_queue_r and t[t_index] == s[index_based_queue_l]:
+                assert(not taken_indexes[index_based_queue_l])
+                taken_indexes[index_based_queue_l] = True
                 t_index += 1
-            elif s_index < len(s):
-                heapq.heappush(value_based_heap, (s[s_index], s_index))
-                heapq.heappush(index_based_heap, s_index)
-                s_index += 1
+                index_based_queue_l += 1
+            elif index_based_queue_r < len(s):
+                heapq.heappush(value_based_queue, (s[index_based_queue_r], index_based_queue_r))
+                index_based_queue_r += 1
             else:
                 return False
         return True
