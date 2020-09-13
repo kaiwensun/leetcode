@@ -8,8 +8,8 @@ class Solution(object):
         :rtype: bool
         """
         s_index = 0
-        value_based_heap = []  # can be optimized without using heap
-        index_based_heap = []
+        value_based_heap = []
+        index_based_heap = []  # can be optimized without using heap
         taken_indexes = [False] * len(s) # index in s
         t_index = 0
         while t_index < len(t):
