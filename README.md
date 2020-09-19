@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |total|solved|attempted|unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1579|950|16|305|
+|1591|960|16|303|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -70,7 +70,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|Medium|
 |&check;|55|[Jump Game](https://leetcode.com/problems/jump-game)|Medium|
 |&check;|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|Medium|
-|&check;|57|[Insert Interval](https://leetcode.com/problems/insert-interval)|Hard|
+|&check;|57|[Insert Interval](https://leetcode.com/problems/insert-interval)|Medium|
 |&check;|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|Easy|
 |&check;|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|Medium|
 |&check;|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|Hard|
@@ -165,7 +165,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 ||149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|Hard|
 |&check;|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|Medium|
 |&check;|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|Medium|
-||152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|Medium|
+|&check;|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|Medium|
 |&check;|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|Medium|
 |&check;|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|Hard|
 |&check;|155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|
@@ -312,7 +312,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&#x1f512;|296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point)|Hard|
 ||297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|Hard|
 |&#x1f512;|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|Medium|
-|&check;|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|Easy|
+|&check;|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|Medium|
 |&check;|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|
 ||301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|Hard|
 |&#x1f512;|302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|Hard|
@@ -434,7 +434,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&#x1f512;|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting)|Medium|
 |&check;|419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board)|Medium|
 ||420|[Strong Password Checker](https://leetcode.com/problems/strong-password-checker)|Hard|
-||421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|Medium|
+|&check;|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|Medium|
 |&#x1f512;|422|[Valid Word Square](https://leetcode.com/problems/valid-word-square)|Easy|
 ||423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english)|Medium|
 ||424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|Medium|
@@ -456,7 +456,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 ||440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|Hard|
 |&check;|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|Easy|
 |&check;|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|Medium|
-||443|[String Compression](https://leetcode.com/problems/string-compression)|Easy|
+||443|[String Compression](https://leetcode.com/problems/string-compression)|Medium|
 |&#x1f512;|444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction)|Medium|
 ||445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)|Medium|
 ||446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)|Hard|
@@ -853,7 +853,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 ||837|[New 21 Game](https://leetcode.com/problems/new-21-game)|Medium|
 |&check;|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|Medium|
 |&check;|839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups)|Hard|
-||840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)|Easy|
+||840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)|Medium|
 ||841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|Medium|
 |&check;|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)|Medium|
 ||843|[Guess the Word](https://leetcode.com/problems/guess-the-word)|Hard|
@@ -862,7 +862,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights)|Medium|
 ||847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)|Hard|
 ||848|[Shifting Letters](https://leetcode.com/problems/shifting-letters)|Medium|
-||849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)|Easy|
+||849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)|Medium|
 ||850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii)|Hard|
 ||851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich)|Medium|
 ||852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|Easy|
@@ -962,7 +962,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 ||946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)|Medium|
 |&check;|947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)|Medium|
 |&check;|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens)|Medium|
-|&check;|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits)|Easy|
+|&check;|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits)|Medium|
 |&check;|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)|Medium|
 |&check;|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|Medium|
 |&check;|952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|Hard|
@@ -1593,3 +1593,15 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|Medium|
 |&check;|1578|[Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|Medium|
 |&check;|1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|Hard|
+|&#x1f512;|1580|[Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|Medium|
+|&#x1f512;|1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)|Easy|
+|&check;|1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)|Easy|
+|&check;|1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends)|Medium|
+|&check;|1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)|Medium|
+|&check;|1585|[Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|Hard|
+|&#x1f512;|1586|[Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii)|Medium|
+|&#x1f512;|1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)|Easy|
+|&check;|1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)|Easy|
+|&check;|1589|[Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation)|Medium|
+|&check;|1590|[Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p)|Medium|
+|&check;|1591|[Strange Printer II](https://leetcode.com/problems/strange-printer-ii)|Hard|
