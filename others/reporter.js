@@ -49,7 +49,7 @@ function Item(item) {
 			376, 377, 378, 388, 394, 397, 398, 404, 414, 415,
 			419, 433, 447, 458];
 		const otherAccounts = [157, 291, 683];
-		if ((otherSessions + otherAccounts).includes(this._id)) {
+		if ((otherSessions).includes(this._id) || otherAccounts.includes(this._id)) {
 			this._status = "ac";
 		}
 		if (this._title == "Most Visited Sector in  a Circular Track") {
@@ -100,6 +100,15 @@ function getStats() {
 	return res;
 }
 
+function genStatsMarkdown() {
+	let stats = ['total', 'solved', 'attempted', 'unsolved without lock'];
+	let header = `|${stats.map(s => s.charAt(0).toUpperCase() + s.slice(1)).join("|")}|`;
+	let line = `${"|:---:".repeat(stats.length)}|`;
+	let data = getStats();
+	let counts = `|${stats.map(stat => data[stat]).join("|")}|`;
+	return [header, line, counts].join("\n");
+}
+
 function reportMarkdown() {
 	let report = genMarkdown();
 	console.log(report);
@@ -110,12 +119,8 @@ function reportJSON() {
 	console.log(JSON.stringify(report));
 }
 
-function reportStatsMarkdown() {
-	let stats = ['total', 'solved', 'attempted', 'unsolved without lock'];
-	let header = `|${stats.join("|")}|`;
-	let line = `${"|:---:".repeat(stats.length)}|`;
-	let data = getStats();
-	let counts = `|${stats.map(stat => data[stat]).join("|")}|`;
-	res = [header, line, counts].join("\n");
-	console.log(res);
+
+function report() {
+	let today = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+	console.log(`* Last updat: ${today}\n\n${genStatsMarkdown()}\n\n${genMarkdown()}\n`);
 }
