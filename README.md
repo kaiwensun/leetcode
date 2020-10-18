@@ -10,7 +10,7 @@ Most of these codes are my solutions to programming problems at the online-judge
 
 |Total|Solved|Attempted|Unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1627|990|16|301|
+|1627|994|16|297|
 
 |Status|#|Title|Difficulty|
 |:---|:---|:---|:---|
@@ -1632,10 +1632,10 @@ Most of these codes are my solutions to programming problems at the online-judge
 |&check;|1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|Medium|
 |&check;|1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|Hard|
 |&#x1f512;|1618|[Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen)|Medium|
-||1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|Easy|
-||1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|Medium|
-||1621|[Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|Medium|
-||1622|[Fancy Sequence](https://leetcode.com/problems/fancy-sequence)|Hard|
+|&check;|1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)|Easy|
+|&check;|1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|Medium|
+|&check;|1621|[Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|Medium|
+|&check;|1622|[Fancy Sequence](https://leetcode.com/problems/fancy-sequence)|Hard|
 |&#x1f512;|1623|[All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country)|Easy|
 |&check;|1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|Easy|
 |&check;|1625|[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|Medium|
