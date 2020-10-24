@@ -14,7 +14,7 @@ class Solution(object):
             while i <= j and tokens[i] <= power:
                 points += 1
                 rval = max(rval, points)
-                power -= tokens[i]f
+                power -= tokens[i]
                 i += 1
             if points and i <= j:
                 points -= 1
