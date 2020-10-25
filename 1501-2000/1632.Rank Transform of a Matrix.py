@@ -22,21 +22,16 @@ class Solution(object):
             if rx != ry:
                 uf_data[rx] = ry
 
-        def find_smallers_and_equals(matrix, is_transpose):
-            m, n = len(matrix), len(matrix[0])
-            for i in xrange(m):
-                num2indexes = defaultdict(list)
-                for j, num in enumerate(matrix[i]):
-                    num2indexes[num].append((j, i) if is_transpose else (i, j))
-                sorted_nums = list(sorted(num2indexes.keys()))
-                for k in xrange(len(sorted_nums)):
-                    num = sorted_nums[k]
-                    if k != 0:
-                        smaller = num2indexes[sorted_nums[k - 1]][0]
-                        for num_index in num2indexes[num]:
-                            smallers[num_index].append(smaller)
-                    for t in xrange(len(num2indexes[num]) - 1):
-                        union(num2indexes[num][t], num2indexes[num][t + 1])
+        def find_smallers_and_equals(matrixT, is_transpose):
+            for i, row in enumerate(matrixT):
+                sorted_row = list(sorted((num, j) for j, num in enumerate(row)))
+                for sj in xrange(1, len(sorted_row)):
+                    point1 = (sorted_row[sj - 1][1], i) if is_transpose else (i, sorted_row[sj - 1][1])
+                    point2 = (sorted_row[sj][1], i) if is_transpose else (i, sorted_row[sj][1])
+                    if matrix[point1[0]][point1[1]] == matrix[point2[0]][point2[1]]:
+                        union(point1, point2)
+                    else:
+                        smallers[point2].append(point1)
                         
         def get_rank(point):
             if not ans[point[0]][point[1]]:
