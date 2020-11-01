@@ -5,7 +5,7 @@ class Solution(object):
         :type pieces: List[List[int]]
         :rtype: bool
         """
-        
+
         pieces = {piece[0] : piece for piece in pieces if piece}
         i = 0
         while i < len(arr):
