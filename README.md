@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1052|16|505|21|
+|1886|1053|16|504|21|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1694,7 +1694,7 @@
 ||LCP 03|[Programmable Robot](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|[Coin Bonus](https://leetcode-cn.com/problems/coin-bonus)||Hard|
-||LCP 06|[拿硬币](https://leetcode-cn.com/problems/na-ying-bi)||Easy|
+|&check;|LCP 06|[拿硬币](https://leetcode-cn.com/problems/na-ying-bi)|[py](LCP/LCP%2006.%E6%8B%BF%E7%A1%AC%E5%B8%81.py)|Easy|
 ||LCP 07|[传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi)||Easy|
 ||LCP 08|[剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)||Medium|
 ||LCP 09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)||Hard|
