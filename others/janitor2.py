@@ -115,6 +115,9 @@ class Solution:
     def _parse_basename(self):
         # id.title[.version][.hint].typ
         splited = self._basename.split(".")
+        if len(splited) > 2 and re.match("^面试题 \d{2}$", splited[0]) and re.match("^\d{2}$", splited[1]):
+            splited[0] += "." + splited[1]
+            splited.pop(1)
         if len(splited) > 5:
             raise ValueError("Unable to parse basename %s" % self._basename)
         for i in range(len(splited)):

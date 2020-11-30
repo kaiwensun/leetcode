@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1054|16|503|21|
+|1886|1055|16|502|21|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1791,7 +1791,7 @@
 ||剑指 Offer 67|[把字符串转换成整数 LCOF](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||Medium|
 ||剑指 Offer 68 - I|[二叉搜索树的最近公共祖先 LCOF](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
 ||剑指 Offer 68 - II|[二叉树的最近公共祖先 LCOF](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
-||面试题 01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci)||Easy|
+|&check;|面试题 01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.01.Is%20Unique%20LCCI.py)|Easy|
 ||面试题 01.02|[Check Permutation LCCI](https://leetcode-cn.com/problems/check-permutation-lcci)||Easy|
 ||面试题 01.03|[String to URL LCCI](https://leetcode-cn.com/problems/string-to-url-lcci)||Easy|
 ||面试题 01.04|[Palindrome Permutation LCCI](https://leetcode-cn.com/problems/palindrome-permutation-lcci)||Easy|
