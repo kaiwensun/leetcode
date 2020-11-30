@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|
 |:---:|:---:|:---:|:---:|
-|1886|1050|16|507|
+|1886|1051|16|506|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -780,7 +780,7 @@
 |&check;|764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign)|[java](0501-1000/0764.Largest%20Plus%20Sign.java)|Medium|
 ||765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands)||Hard|
 ||766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)||Easy|
-||767|[Reorganize String](https://leetcode.com/problems/reorganize-string)||Medium|
+|&check;|767|[Reorganize String](https://leetcode.com/problems/reorganize-string)|[py](0501-1000/0767.Reorganize%20String.py)|Medium|
 |&check;|768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)|[py](0501-1000/0768.Max%20Chunks%20To%20Make%20Sorted%20II.py)|Hard|
 |&check;|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)|[py](0501-1000/0769.Max%20Chunks%20To%20Make%20Sorted.py)|Medium|
 ||770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv)||Hard|
