@@ -298,11 +298,12 @@ def gen_markdown(questions, solutions):
         attempted = len(ATTEMPTED)
         unsolved_without_lock = len([q for q in questions if (
             not q.lock() and q.id() not in NOT_BACKFILLED and not LOCAL_MAP[q.id()])])
+        unsynced = len(NOT_BACKFILLED)
         return """
-|Total|Solved|Attempted|Unsolved without lock|
-|:---:|:---:|:---:|:---:|
-|%s|%s|%s|%s|
-""" % (total, solved, attempted, unsolved_without_lock)
+|Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
+|:---:|:---:|:---:|:---:|:---:|
+|%s|%s|%s|%s|%s|
+""" % (total, solved, attempted, unsolved_without_lock, unsynced)
 
     def gen_markdown_intro():
 
