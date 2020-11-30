@@ -344,7 +344,7 @@ def load_resources():
 
     def list_code_folders():
         folder_patterns = ["\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题"]
-        folder_pattern = "^(" + ")|(".join(folder_patterns) + ")$"
+        folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
         return [os.path.join(root_path, folder) for folder in os.listdir(root_path) if folder_matcher.match(folder)]
@@ -357,9 +357,9 @@ def load_resources():
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", ".git", "others", README_FILENAME]
-        known_children_pattern = "^(" + \
-            ")|(".join(known_children_patterns) + ")$"
+            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", ".git", ".gitignore", "others", README_FILENAME]
+        known_children_pattern = "^((" + \
+            ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)
         for file_name in os.listdir(root_path):
             if not known_children_matcher.match(file_name):

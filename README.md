@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1051|16|506|21|
+|1886|1052|16|505|21|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1689,7 +1689,7 @@
 |&check;|1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence)|[py](1501-2000/1673.Find%20the%20Most%20Competitive%20Subsequence.py)|Medium|
 |&check;|1674|[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)|[py](1501-2000/1674.Minimum%20Moves%20to%20Make%20Array%20Complementary.py)|Medium|
 |&check;|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)|[py](1501-2000/1675.Minimize%20Deviation%20in%20Array.py)|Hard|
-||LCP 01|[Guess Numbers](https://leetcode-cn.com/problems/guess-numbers)||Easy|
+|&check;|LCP 01|[Guess Numbers](https://leetcode-cn.com/problems/guess-numbers)|[py](LCP/LCP%2001.Guess%20Numbers.py)|Easy|
 ||LCP 02|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction)||Easy|
 ||LCP 03|[Programmable Robot](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
