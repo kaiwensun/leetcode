@@ -1716,7 +1716,7 @@
 ||LCP 25|[古董键盘](https://leetcode-cn.com/problems/Uh984O)||Hard|
 ||LCP 26|[导航装置](https://leetcode-cn.com/problems/hSRGyL)||Hard|
 ||LCP 27|[黑盒光线反射](https://leetcode-cn.com/problems/IQvJ9i)||Hard|
-|&check;|剑指 Offer 03|[数组中重复的数字 LCOF](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|[py](剑指 Offer/%E5%89%91%E6%8C%87%20Offer%2003.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%20LCOF.py)|Easy|
+|&check;|剑指 Offer 03|[数组中重复的数字 LCOF](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|[py](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2003.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%20LCOF.py)|Easy|
 ||剑指 Offer 04|[二维数组中的查找 LCOF](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)||Medium|
 ||剑指 Offer 05|[替换空格 LCOF](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)||Easy|
 ||剑指 Offer 06|[从尾到头打印链表 LCOF](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|

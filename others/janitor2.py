@@ -271,7 +271,7 @@ def gen_markdown(questions, solutions):
         def get_solution_links(question):
             res = []
             for sol in sorted(LOCAL_MAP[question.id()], key=lambda sol: sol.type()):
-                relative_link = "/".join([sol.desired_folder(),
+                relative_link = "/".join([urllib.parse.quote(sol.desired_folder()),
                                           urllib.parse.quote(sol.desired_basename())])
                 res.append("[%s](%s)" % (sol.type(), relative_link))
             if not res and question.id() in NOT_BACKFILLED:
