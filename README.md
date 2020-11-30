@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1055|16|502|21|
+|1886|1055|16|502|20|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -989,7 +989,7 @@
 |&check;|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|[rb](0501-1000/0973.K%20Closest%20Points%20to%20Origin.rb)|Medium|
 |?|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)||Medium|
 ||975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump)||Hard|
-|&check;|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|(not uploaded yet)|Easy|
+|&check;|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[py](0501-1000/0976.Largest%20Perimeter%20Triangle.py)|Easy|
 |&check;|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|(not uploaded yet)|Easy|
 |&check;|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)|(not uploaded yet)|Medium|
 |&check;|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|(not uploaded yet)|Medium|

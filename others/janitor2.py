@@ -7,11 +7,12 @@ import requests
 import collections
 import datetime
 import urllib
+import sys
 
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
 LOCAL_MAP = collections.defaultdict(list)
-NOT_BACKFILLED = {962, 965, 966, 971, 976, 977, 978, 979, 981,
+NOT_BACKFILLED = {962, 965, 966, 971, 977, 978, 979, 981,
                   982, 984, 985, 988, 989, 990, 1024, 1037, 1038, 1040, 1200, 1233}
 ATTEMPTED = {354, 564, 741, 805, 878, 891, 931, 964,
              974, 1000, 1004, 1092, 1199, 1234, 1397, 1655}
@@ -390,13 +391,33 @@ def correct_local_files(questions, solutions):
         print("%d file(s) moved." % Solution.moved_cnt)
 
 
+# ======== search solutions ========
+def search_local_solutions(qid):
+    if qid.isdigit():
+        qid = str(int(qid))
+    if qid in ATTEMPTED:
+        print(qid + " was attempted.")
+    elif qid in NOT_BACKFILLED:
+        print(qid + " was completed, but not submitted to GitHub.")
+    elif LOCAL_MAP[qid]:
+        for sol in LOCAL_MAP[qid]:
+            print(sol.desired_abs_path())
+    else:
+        print("Not found")
+
+
 # ======== main ========
 
 def main():
     questions, solutions = load_resources()
-    correct_local_files(questions, solutions)
-    markdown = gen_markdown(questions, solutions)
-    update_file(README_FILENAME, markdown)
+    if len(sys.argv) == 1:
+        correct_local_files(questions, solutions)
+        markdown = gen_markdown(questions, solutions)
+        update_file(README_FILENAME, markdown)
+    elif len(sys.argv) == 2:
+        search_local_solutions(sys.argv[1])
+    else:
+        raise Exception("Too many arguments.")
 
 
 if __name__ == "__main__":
