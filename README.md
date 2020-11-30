@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1055|16|502|20|
+|1886|1056|16|501|20|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1706,7 +1706,7 @@
 ||LCP 15|[游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong)||Hard|
 ||LCP 16|[游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua)||Hard|
 ||LCP 17|[速算机器人](https://leetcode-cn.com/problems/nGK0Fy)||Easy|
-||LCP 18|[早餐组合](https://leetcode-cn.com/problems/2vYnGI)||Easy|
+|&check;|LCP 18|[早餐组合](https://leetcode-cn.com/problems/2vYnGI)|[py](LCP/LCP%2018.%E6%97%A9%E9%A4%90%E7%BB%84%E5%90%88.py)|Easy|
 ||LCP 19|[秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe)||Medium|
 ||LCP 20|[快速公交](https://leetcode-cn.com/problems/meChtZ)||Hard|
 ||LCP 21|[追逐游戏](https://leetcode-cn.com/problems/Za25hA)||Hard|
