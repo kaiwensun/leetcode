@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1057|16|500|10|
+|1886|1057|16|500|7|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -998,11 +998,11 @@
 |&check;|982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|[cpp](0501-1000/0982.Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.cpp)|Hard|
 |&check;|983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[java](0501-1000/0983.Minimum%20Cost%20For%20Tickets.java)|Medium|
 |&check;|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|[py](0501-1000/0984.String%20Without%20AAA%20or%20BBB.py)|Medium|
-|&check;|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|(not uploaded yet)|Easy|
+|&check;|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|[rb](0501-1000/0985.Sum%20of%20Even%20Numbers%20After%20Queries.rb)|Easy|
 |&check;|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)|[rb](0501-1000/0986.Interval%20List%20Intersections.rb)|Medium|
 |&check;|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[py](0501-1000/0987.Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|Medium|
-|&check;|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|(not uploaded yet)|Medium|
-|&check;|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|(not uploaded yet)|Easy|
+|&check;|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[py](0501-1000/0988.Smallest%20String%20Starting%20From%20Leaf.py)|Medium|
+|&check;|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[py](0501-1000/0989.Add%20to%20Array-Form%20of%20Integer.py)|Easy|
 |&check;|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|(not uploaded yet)|Medium|
 ||991|[Broken Calculator](https://leetcode.com/problems/broken-calculator)||Medium|
 |&check;|992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers)|[py](0501-1000/0992.Subarrays%20with%20K%20Different%20Integers.py)|Hard|
