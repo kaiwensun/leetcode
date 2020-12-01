@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1056|16|501|20|
+|1886|1056|16|501|19|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -975,7 +975,7 @@
 ||959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)||Medium|
 |&check;|960|[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)|[py](0501-1000/0960.Delete%20Columns%20to%20Make%20Sorted%20III.py)|Hard|
 |&check;|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)|[py](0501-1000/0961.N-Repeated%20Element%20in%20Size%202N%20Array.2.py), [py](0501-1000/0961.N-Repeated%20Element%20in%20Size%202N%20Array.py)|Easy|
-|&check;|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)|(not uploaded yet)|Medium|
+|&check;|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)|[py](0501-1000/0962.Maximum%20Width%20Ramp.py)|Medium|
 |&check;|963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii)|[py](0501-1000/0963.Minimum%20Area%20Rectangle%20II.py)|Medium|
 |?|964|[Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number)||Hard|
 |&check;|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|(not uploaded yet)|Easy|
