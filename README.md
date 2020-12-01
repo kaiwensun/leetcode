@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1056|16|501|18|
+|1886|1056|16|501|16|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -979,12 +979,12 @@
 |&check;|963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii)|[py](0501-1000/0963.Minimum%20Area%20Rectangle%20II.py)|Medium|
 |?|964|[Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number)||Hard|
 |&check;|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[java](0501-1000/0965.Univalued%20Binary%20Tree.java)|Easy|
-|&check;|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)|(not uploaded yet)|Medium|
+|&check;|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)|[py](0501-1000/0966.Vowel%20Spellchecker.py)|Medium|
 |&check;|967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[rb](0501-1000/0967.Numbers%20With%20Same%20Consecutive%20Differences.rb)|Medium|
 |&check;|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)|[py](0501-1000/0968.Binary%20Tree%20Cameras.py)|Hard|
 |&check;|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting)|[py](0501-1000/0969.Pancake%20Sorting.py)|Medium|
 |&check;|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[py](0501-1000/0970.Powerful%20Integers.py)|Easy|
-|&check;|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)|(not uploaded yet)|Medium|
+|&check;|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)|[java](0501-1000/0971.Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.java)|Medium|
 ||972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers)||Hard|
 |&check;|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|[rb](0501-1000/0973.K%20Closest%20Points%20to%20Origin.rb)|Medium|
 |?|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)||Medium|
