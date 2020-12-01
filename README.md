@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1056|16|501|19|
+|1886|1056|16|501|18|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -978,7 +978,7 @@
 |&check;|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)|[py](0501-1000/0962.Maximum%20Width%20Ramp.py)|Medium|
 |&check;|963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii)|[py](0501-1000/0963.Minimum%20Area%20Rectangle%20II.py)|Medium|
 |?|964|[Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number)||Hard|
-|&check;|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|(not uploaded yet)|Easy|
+|&check;|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[java](0501-1000/0965.Univalued%20Binary%20Tree.java)|Easy|
 |&check;|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker)|(not uploaded yet)|Medium|
 |&check;|967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[rb](0501-1000/0967.Numbers%20With%20Same%20Consecutive%20Differences.rb)|Medium|
 |&check;|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)|[py](0501-1000/0968.Binary%20Tree%20Cameras.py)|Hard|
