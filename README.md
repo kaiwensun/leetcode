@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1057|16|500|7|
+|1886|1057|16|500|5|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1003,7 +1003,7 @@
 |&check;|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[py](0501-1000/0987.Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.py)|Medium|
 |&check;|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[py](0501-1000/0988.Smallest%20String%20Starting%20From%20Leaf.py)|Medium|
 |&check;|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[py](0501-1000/0989.Add%20to%20Array-Form%20of%20Integer.py)|Easy|
-|&check;|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|(not uploaded yet)|Medium|
+|&check;|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[py](0501-1000/0990.Satisfiability%20of%20Equality%20Equations.py)|Medium|
 ||991|[Broken Calculator](https://leetcode.com/problems/broken-calculator)||Medium|
 |&check;|992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers)|[py](0501-1000/0992.Subarrays%20with%20K%20Different%20Integers.py)|Hard|
 |&check;|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[rb](0501-1000/0993.Cousins%20in%20Binary%20Tree.rb)|Easy|
@@ -1037,7 +1037,7 @@
 |&check;|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[py](1001-1500/1021.Remove%20Outermost%20Parentheses.py)|Easy|
 |&check;|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[py](1001-1500/1022.Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|Easy|
 |&check;|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching)|[py](1001-1500/1023.Camelcase%20Matching.py)|Medium|
-|&check;|1024|[Video Stitching](https://leetcode.com/problems/video-stitching)|(not uploaded yet)|Medium|
+|&check;|1024|[Video Stitching](https://leetcode.com/problems/video-stitching)|[py](1001-1500/1024.Video%20Stitching.py)|Medium|
 |&check;|1025|[Divisor Game](https://leetcode.com/problems/divisor-game)|[py](1001-1500/1025.Divisor%20Game.py)|Easy|
 |&check;|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[py](1001-1500/1026.Maximum%20Difference%20Between%20Node%20and%20Ancestor.py)|Medium|
 |&check;|1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence)|[py](1001-1500/1027.Longest%20Arithmetic%20Subsequence.py)|Medium|
