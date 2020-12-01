@@ -12,7 +12,7 @@ import sys
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
 LOCAL_MAP = collections.defaultdict(list)
-NOT_BACKFILLED = {1037, 1038, 1040, 1200, 1233}
+NOT_BACKFILLED = set()
 ATTEMPTED = {354, 564, 741, 805, 878, 891, 931, 964,
              974, 1000, 1004, 1092, 1199, 1234, 1397, 1655}
 
@@ -302,11 +302,18 @@ def gen_markdown(questions, solutions):
         unsolved_without_lock = len([q for q in questions if (
             not q.lock() and q.id() not in NOT_BACKFILLED and not LOCAL_MAP[q.id()])])
         unsynced = len(NOT_BACKFILLED)
-        return """
+        if unsynced:
+            return """
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
 |%s|%s|%s|%s|%s|
 """ % (total, solved, attempted, unsolved_without_lock, unsynced)
+        else:
+            return """
+|Total|Solved|Attempted|Unsolved without lock|
+|:---:|:---:|:---:|:---:|
+|%s|%s|%s|%s|
+""" % (total, solved, attempted, unsolved_without_lock)
 
     def gen_markdown_intro():
 
