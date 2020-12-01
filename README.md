@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1056|16|501|15|
+|1886|1056|16|501|14|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -991,7 +991,7 @@
 ||975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump)||Hard|
 |&check;|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[py](0501-1000/0976.Largest%20Perimeter%20Triangle.py)|Easy|
 |&check;|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[py](0501-1000/0977.Squares%20of%20a%20Sorted%20Array.py)|Easy|
-|&check;|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)|(not uploaded yet)|Medium|
+|&check;|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)|[py](0501-1000/0978.Longest%20Turbulent%20Subarray.py)|Medium|
 |&check;|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|(not uploaded yet)|Medium|
 |&check;|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii)|[py](0501-1000/0980.Unique%20Paths%20III.py)|Hard|
 |&check;|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)|(not uploaded yet)|Medium|
