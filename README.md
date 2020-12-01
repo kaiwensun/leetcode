@@ -47,7 +47,7 @@
 |&check;|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[py](0001-0500/0031.Next%20Permutation.py)|Medium|
 |&check;|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[py](0001-0500/0032.Longest%20Valid%20Parentheses.py)|Hard|
 |&check;|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[java](0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.java), [rb](0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.rb)|Medium|
-|&check;|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[java](0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|Medium|
+|&check;|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[java](0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java), [py](0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
 |&check;|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[cpp](0001-0500/0035.Search%20Insert%20Position.cpp), [rb](0001-0500/0035.Search%20Insert%20Position.rb)|Easy|
 |&check;|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[py](0001-0500/0036.Valid%20Sudoku.py)|Medium|
 |&check;|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[java](0001-0500/0037.Sudoku%20Solver.java), [java](0001-0500/0037.Sudoku%20Solver.2.%28bitwise%20and%20prune%29.java), [py](0001-0500/0037.Sudoku%20Solver.py)|Hard|
