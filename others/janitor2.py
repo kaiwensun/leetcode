@@ -15,9 +15,11 @@ LOCAL_MAP = collections.defaultdict(list)
 NOT_BACKFILLED = set()
 ATTEMPTED = {354, 564, 741, 805, 878, 891, 931, 964,
              974, 1000, 1004, 1092, 1199, 1234, 1397, 1655}
+STARRED = {321}
 
 NOT_BACKFILLED = {str(item) for item in NOT_BACKFILLED}
 ATTEMPTED = {str(item) for item in ATTEMPTED}
+STARRED = set(map(str, STARRED))
 
 
 def get_root_path():
@@ -269,6 +271,8 @@ def gen_markdown(questions, solutions):
                 status += "?"
             if question.lock():
                 status += "&#x1f512;"
+            if qid in STARRED:
+                status += "&star;"
             return status
 
         def get_solution_links(question):
@@ -302,18 +306,23 @@ def gen_markdown(questions, solutions):
         unsolved_without_lock = len([q for q in questions if (
             not q.lock() and q.id() not in NOT_BACKFILLED and not LOCAL_MAP[q.id()])])
         unsynced = len(NOT_BACKFILLED)
+        starred = len(STARRED)
+        line1 = "|Total|Solved|Attempted|Unsolved without lock|"
+        line2 = "|:---:|:---:|:---:|:---:|"
+        line3 = "|%s|%s|%s|%s|"
+        args = [total, solved, attempted, unsolved_without_lock]
+
         if unsynced:
-            return """
-|Total|Solved|Attempted|Unsolved without lock|Not synced to GitHub|
-|:---:|:---:|:---:|:---:|:---:|
-|%s|%s|%s|%s|%s|
-""" % (total, solved, attempted, unsolved_without_lock, unsynced)
-        else:
-            return """
-|Total|Solved|Attempted|Unsolved without lock|
-|:---:|:---:|:---:|:---:|
-|%s|%s|%s|%s|
-""" % (total, solved, attempted, unsolved_without_lock)
+            line1 += "Not synced to GitHub"
+            line2 += ":---:|"
+            line3 += "%s|"
+            args.append(unsolved_without_lock)
+        if starred:
+            line1 += "Starred"
+            line2 += ":---:|"
+            line3 += "%s|"
+            args.append(starred)
+        return "\n".join(["", line1, line2, line3, ""]) % tuple(args)
 
     def gen_markdown_intro():
 
