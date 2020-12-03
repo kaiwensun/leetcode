@@ -18,14 +18,12 @@ class Solution:
             if step % 2:  # cat moves
                 res = 3
                 for nxt in graph[cat]:
-                    res = max(res, dp(step + 1, mouse, nxt))
-                    if res == 5:
+                    if 5 == (res := max(res, dp(step + 1, mouse, nxt))):
                         break
             else:  # mouse moves
                 res = 5
                 for nxt in graph[mouse]:
-                    res = min(res, dp(step + 1, nxt, cat))
-                    if res == 3:
+                    if 3 == (res := min(res, dp(step + 1, nxt, cat))):
                         break
             return res
 
