@@ -54,10 +54,11 @@ class Question:
     def is_us(self):
         return self._id.isdigit()
 
-    def url(self):
-        url_pattern = Question.US_QUESTION_URL_PATTERN if self.is_us(
-        ) else Question.CN_QUESTION_URL_PATTERN
-        return url_pattern % self._slug
+    def cn_url(self):
+        return Question.CN_QUESTION_URL_PATTERN % self._slug
+
+    def us_url(self):
+        return Question.US_QUESTION_URL_PATTERN % self._slug
 
     def id(self):
         return self._id
@@ -75,7 +76,7 @@ class Question:
             return (float("inf"), self.id())
 
     def __str__(self):
-        return "%s, %s, %s" % (self.id(), self.title(), self.url())
+        return "%s, %s, %s" % (self.id(), self.title(), self.us_url())
 
 
 class Solution:
@@ -286,7 +287,10 @@ def gen_markdown(questions, solutions):
             return ", ".join(res)
 
         def get_question_link(question):
-            return "[%s](%s)" % (question.title(), question.url())
+            if question.is_us():
+                return "[%s](%s) ([CN](%s))" % (question.title(), question.us_url(), question.cn_url())
+            else:
+                return "[%s](%s)" % (question.title(), question.cn_url())
 
         row = [
             "",
