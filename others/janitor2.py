@@ -350,9 +350,22 @@ def gen_markdown(questions, solutions):
                gen_markdown_today()]
         return "\n".join(res)
 
+    def gen_markdown_language_stats(solutions):
+        DO_NOT_STATS = {"txt", "sql", "sh"}
+        cnt = collections.Counter(
+            sol.type() for sol in solutions if sol.type() not in DO_NOT_STATS)
+        sm = sum(cnt.values())
+        line1 = line2 = line3 = "|"
+        for lang, lan_cnt in cnt.most_common():
+            line1 += lang + "|"
+            line2 += ":---:|"
+            line3 += "%.1f%%|" % (lan_cnt * 100 / float(sm))
+        return "\n".join(["", line1, line2, line3, ""])
+
     res = [
         gen_markdown_intro(),
         gen_markdown_stats(questions, solutions),
+        gen_markdown_language_stats(solutions),
         gen_markdown_questions(questions)
     ]
     return "\n".join(res)

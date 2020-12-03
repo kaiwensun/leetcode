@@ -12,6 +12,11 @@
 |1886|1059|16|498|1|
 
 
+|py|java|rb|c|cpp|js|php|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|65.2%|14.0%|11.3%|5.0%|4.0%|0.4%|0.1%|
+
+
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
 |&check;|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) ([CN](https://leetcode-cn.com/problems/minimize-deviation-in-array))|[py](1501-2000/1675.Minimize%20Deviation%20in%20Array.py)|Hard|
