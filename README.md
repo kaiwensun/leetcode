@@ -9,24 +9,25 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1059|16|498|1|
+|1887|1063|16|494|1|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.0%|11.3%|5.0%|4.0%|0.4%|0.1%|
+|65.2%|14.2%|11.2%|5.0%|4.0%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
+|&#x1f512;|1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) ([CN](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree-iv))||Medium|
 |&check;|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) ([CN](https://leetcode-cn.com/problems/minimize-deviation-in-array))|[py](1501-2000/1675.Minimize%20Deviation%20in%20Array.py)|Hard|
 |&check;|1674|[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) ([CN](https://leetcode-cn.com/problems/minimum-moves-to-make-array-complementary))|[py](1501-2000/1674.Minimum%20Moves%20to%20Make%20Array%20Complementary.py)|Medium|
 |&check;|1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence) ([CN](https://leetcode-cn.com/problems/find-the-most-competitive-subsequence))|[py](1501-2000/1673.Find%20the%20Most%20Competitive%20Subsequence.py)|Medium|
 |&check;|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) ([CN](https://leetcode-cn.com/problems/richest-customer-wealth))|[py](1501-2000/1672.Richest%20Customer%20Wealth.py)|Easy|
-||1671|[Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) ([CN](https://leetcode-cn.com/problems/minimum-number-of-removals-to-make-mountain-array))||Hard|
-||1670|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) ([CN](https://leetcode-cn.com/problems/design-front-middle-back-queue))||Medium|
-||1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) ([CN](https://leetcode-cn.com/problems/merge-in-between-linked-lists))||Medium|
-||1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) ([CN](https://leetcode-cn.com/problems/maximum-repeating-substring))||Easy|
+|&check;|1671|[Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) ([CN](https://leetcode-cn.com/problems/minimum-number-of-removals-to-make-mountain-array))|[py](1501-2000/1671.Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.py)|Hard|
+|&check;|1670|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) ([CN](https://leetcode-cn.com/problems/design-front-middle-back-queue))|[java](1501-2000/1670.Design%20Front%20Middle%20Back%20Queue.java)|Medium|
+|&check;|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) ([CN](https://leetcode-cn.com/problems/merge-in-between-linked-lists))|[java](1501-2000/1669.Merge%20In%20Between%20Linked%20Lists.java)|Medium|
+|&check;|1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) ([CN](https://leetcode-cn.com/problems/maximum-repeating-substring))|[py](1501-2000/1668.Maximum%20Repeating%20Substring.py)|Easy|
 |&#x1f512;|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) ([CN](https://leetcode-cn.com/problems/fix-names-in-a-table))||Easy|
 |&#x1f512;|1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree) ([CN](https://leetcode-cn.com/problems/change-the-root-of-a-binary-tree))||Medium|
 |&check;|1665|[Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) ([CN](https://leetcode-cn.com/problems/minimum-initial-energy-to-finish-tasks))|[py](1501-2000/1665.Minimum%20Initial%20Energy%20to%20Finish%20Tasks.py)|Hard|
