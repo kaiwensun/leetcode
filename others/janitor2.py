@@ -8,6 +8,7 @@ import collections
 import datetime
 import urllib
 import sys
+import json
 
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
@@ -375,8 +376,16 @@ def gen_markdown(questions, solutions):
 
 def load_resources():
 
+    def save_online_resource(json_dict, abs_path):
+        with open(abs_path, "w") as out:
+            json.dump(json_dict, out)
+
     def get_online_problems():
-        return requests.get("https://leetcode-cn.com/api/problems/all/").json()
+        obj = requests.get("https://leetcode-cn.com/api/problems/all/").json()
+        root_path = get_root_path()
+        abs_file_path = os.path.join(root_path, "others", "api-cn.backup.json")
+        save_online_resource(obj, abs_file_path)
+        return obj
 
     def list_code_folders():
         folder_patterns = ["\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题"]
