@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1886|1058|16|499|1|
+|1886|1059|16|498|1|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -217,7 +217,7 @@
 |&check;|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[rb](0001-0500/0201.Bitwise%20AND%20of%20Numbers%20Range.rb)|Medium|
 |&check;|202|[Happy Number](https://leetcode.com/problems/happy-number)|[cpp](0001-0500/0202.Happy%20Number.cpp), [rb](0001-0500/0202.Happy%20Number.rb)|Easy|
 |&check;|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[c](0001-0500/0203.Remove%20Linked%20List%20Elements.c), [rb](0001-0500/0203.Remove%20Linked%20List%20Elements.rb)|Easy|
-||204|[Count Primes](https://leetcode.com/problems/count-primes)||Easy|
+|&check;|204|[Count Primes](https://leetcode.com/problems/count-primes)|[py](0001-0500/0204.Count%20Primes.%28linear%20sieve%29.py)|Easy|
 |&check;|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[cpp](0001-0500/0205.Isomorphic%20Strings.cpp)|Easy|
 |&check;|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[cpp](0001-0500/0206.Reverse%20Linked%20List.cpp)|Easy|
 |&check;|207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[py](0001-0500/0207.Course%20Schedule.py), [rb](0001-0500/0207.Course%20Schedule.rb)|Medium|
@@ -1023,7 +1023,7 @@
 |&check;|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[py](1001-1500/1007.Minimum%20Domino%20Rotations%20For%20Equal%20Row.py)|Medium|
 |&check;|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[py](1001-1500/1008.Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.py), [rb](1001-1500/1008.Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.rb)|Medium|
 |&check;|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)|[py](1001-1500/1009.Complement%20of%20Base%2010%20Integer.py)|Easy|
-|&check;|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[py](1001-1500/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|Easy|
+|&check;|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[py](1001-1500/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.py)|Medium|
 |&check;|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[py](1001-1500/1011.Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py)|Medium|
 ||1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits)||Hard|
 |&check;|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|[py](1001-1500/1013.Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|Easy|
@@ -1679,7 +1679,7 @@
 |&check;|1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)|[py](1501-2000/1663.Smallest%20String%20With%20A%20Given%20Numeric%20Value.py)|Medium|
 |&check;|1664|[Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array)|[py](1501-2000/1664.Ways%20to%20Make%20a%20Fair%20Array.2.py), [py](1501-2000/1664.Ways%20to%20Make%20a%20Fair%20Array.py)|Medium|
 |&check;|1665|[Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|[py](1501-2000/1665.Minimum%20Initial%20Energy%20to%20Finish%20Tasks.py)|Hard|
-|&#x1f512;|1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/flip-binary-tree)||Medium|
+|&#x1f512;|1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)||Medium|
 |&#x1f512;|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)||Easy|
 ||1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring)||Easy|
 ||1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)||Medium|
