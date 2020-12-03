@@ -71,7 +71,7 @@ class Question:
 
     def order(self):
         if self.is_us():
-            return (int(self.id()),)
+            return (-int(self.id()),)
         else:
             return (float("inf"), self.id())
 
