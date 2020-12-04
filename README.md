@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1065|15|492|2|
+|1887|1066|15|491|2|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.1%|11.2%|5.0%|3.9%|0.4%|0.1%|
+|65.3%|14.1%|11.2%|5.0%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1905,4 +1905,4 @@
 ||面试题 17.23|[Max Black Square LCCI](https://leetcode-cn.com/problems/max-black-square-lcci)||Medium|
 ||面试题 17.24|[Max Submatrix LCCI](https://leetcode-cn.com/problems/max-submatrix-lcci)||Hard|
 ||面试题 17.25|[Word Rectangle LCCI](https://leetcode-cn.com/problems/word-rectangle-lcci)||Hard|
-||面试题 17.26|[Sparse Similarity LCCI](https://leetcode-cn.com/problems/sparse-similarity-lcci)||Hard|
+|&check;|面试题 17.26|[Sparse Similarity LCCI](https://leetcode-cn.com/problems/sparse-similarity-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.26.Sparse%20Similarity%20LCCI.py)|Hard|
