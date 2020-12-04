@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|491|0|15|491|2|
+|490|0|15|490|2|
 
 
 
@@ -74,7 +74,6 @@
 ||864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys) ([CN](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys))||Hard|
 ||856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) ([CN](https://leetcode-cn.com/problems/score-of-parentheses))||Medium|
 ||855|[Exam Room](https://leetcode.com/problems/exam-room) ([CN](https://leetcode-cn.com/problems/exam-room))||Medium|
-||852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([CN](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array))||Easy|
 ||851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich) ([CN](https://leetcode-cn.com/problems/loud-and-rich))||Medium|
 ||850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) ([CN](https://leetcode-cn.com/problems/rectangle-area-ii))||Hard|
 ||847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) ([CN](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes))||Hard|

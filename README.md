@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1066|15|491|2|
+|1887|1067|15|490|2|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -843,7 +843,7 @@
 ||855|[Exam Room](https://leetcode.com/problems/exam-room) ([CN](https://leetcode-cn.com/problems/exam-room))||Medium|
 |&check;|854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings) ([CN](https://leetcode-cn.com/problems/k-similar-strings))|[py](0501-1000/0854.K-Similar%20Strings.py)|Hard|
 |&check;|853|[Car Fleet](https://leetcode.com/problems/car-fleet) ([CN](https://leetcode-cn.com/problems/car-fleet))|[py](0501-1000/0853.Car%20Fleet.py)|Medium|
-||852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([CN](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array))||Easy|
+|&check;|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) ([CN](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array))|[py](0501-1000/0852.Peak%20Index%20in%20a%20Mountain%20Array.py)|Easy|
 ||851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich) ([CN](https://leetcode-cn.com/problems/loud-and-rich))||Medium|
 ||850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) ([CN](https://leetcode-cn.com/problems/rectangle-area-ii))||Hard|
 |&check;|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) ([CN](https://leetcode-cn.com/problems/maximize-distance-to-closest-person))|[py](0501-1000/0849.Maximize%20Distance%20to%20Closest%20Person.py)|Medium|
