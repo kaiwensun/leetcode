@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1068|15|489|2|
+|1887|1069|15|488|2|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.1%|11.2%|5.0%|3.9%|0.4%|0.1%|
+|65.3%|14.1%|11.3%|5.0%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1728,7 +1728,7 @@
 ||剑指 Offer 06|[从尾到头打印链表 LCOF](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|
 ||剑指 Offer 07|[重建二叉树 LCOF](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)||Medium|
 ||剑指 Offer 09|[用两个栈实现队列 LCOF](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)||Easy|
-||剑指 Offer 10- I|[斐波那契数列  LCOF](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)||Easy|
+|&check;|剑指 Offer 10- I|[斐波那契数列  LCOF](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)|[rb](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2010-%20I.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%20%20LCOF.rb)|Easy|
 ||剑指 Offer 10- II|[青蛙跳台阶问题  LCOF](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)||Easy|
 ||剑指 Offer 11|[旋转数组的最小数字  LCOF](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)||Easy|
 ||剑指 Offer 12|[矩阵中的路径  LCOF](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)||Medium|

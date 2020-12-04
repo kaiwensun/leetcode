@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|489|0|15|489|2|
+|488|0|15|488|2|
 
 
 
@@ -329,7 +329,6 @@
 ||剑指 Offer 06|[从尾到头打印链表 LCOF](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|
 ||剑指 Offer 07|[重建二叉树 LCOF](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)||Medium|
 ||剑指 Offer 09|[用两个栈实现队列 LCOF](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)||Easy|
-||剑指 Offer 10- I|[斐波那契数列  LCOF](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)||Easy|
 ||剑指 Offer 10- II|[青蛙跳台阶问题  LCOF](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)||Easy|
 ||剑指 Offer 11|[旋转数组的最小数字  LCOF](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)||Easy|
 ||剑指 Offer 12|[矩阵中的路径  LCOF](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)||Medium|

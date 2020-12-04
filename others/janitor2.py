@@ -91,7 +91,7 @@ class Solution:
                    "rb", "sh", "js", "sql", "php", "txt"}
     KNOWN_CN_GROUPS = [
         re.compile("^LCP \d{2}$"),
-        re.compile("^剑指 Offer \d{2}$"),
+        re.compile("^剑指 Offer \d{2}(- I{1,3})?$"),
         re.compile("^面试题 \d{2}\.\d{2}$")
     ]
     ROOT_PATH = None
@@ -152,7 +152,7 @@ class Solution:
                 if self._title is not None:
                     raise ValueError(
                         "Found multiple titles from basename %s" % self._basename)
-                self._title = piece
+                self._title = piece.strip()
         question = ONLINE_MAP.get(self.id())
         if question is None:
             raise ValueError(
