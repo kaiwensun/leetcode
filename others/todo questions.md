@@ -12,10 +12,6 @@
 |491|0|15|491|2|
 
 
-|
-|
-|
-
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|

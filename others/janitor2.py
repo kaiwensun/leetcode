@@ -356,6 +356,8 @@ def gen_markdown(questions, solutions, title):
         cnt = collections.Counter(
             sol.type() for sol in solutions if sol.type() not in DO_NOT_STATS)
         sm = sum(cnt.values())
+        if sm == 0:
+            return ""
         line1 = line2 = line3 = "|"
         for lang, lan_cnt in cnt.most_common():
             line1 += lang + "|"
