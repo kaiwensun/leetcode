@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1065|16|492|2|
+|1887|1065|15|492|2|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -603,7 +603,7 @@
 |&check;|1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) ([CN](https://leetcode-cn.com/problems/find-in-mountain-array))|[py](1001-1500/1095.Find%20in%20Mountain%20Array.py)|Hard|
 |&check;|1094|[Car Pooling](https://leetcode.com/problems/car-pooling) ([CN](https://leetcode-cn.com/problems/car-pooling))|[py](1001-1500/1094.Car%20Pooling.py)|Medium|
 |&check;|1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample) ([CN](https://leetcode-cn.com/problems/statistics-from-a-large-sample))|[py](1001-1500/1093.Statistics%20from%20a%20Large%20Sample.py)|Medium|
-|&check;?|1092|[Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) ([CN](https://leetcode-cn.com/problems/shortest-common-supersequence))|[py](1001-1500/1092.Shortest%20Common%20Supersequence%20.py)|Hard|
+|&check;|1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence) ([CN](https://leetcode-cn.com/problems/shortest-common-supersequence))|[py](1001-1500/1092.Shortest%20Common%20Supersequence.py)|Hard|
 |&check;|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) ([CN](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix))|[py](1001-1500/1091.Shortest%20Path%20in%20Binary%20Matrix.py)|Medium|
 |&check;|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels) ([CN](https://leetcode-cn.com/problems/largest-values-from-labels))|[py](1001-1500/1090.Largest%20Values%20From%20Labels.py)|Medium|
 |&check;|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) ([CN](https://leetcode-cn.com/problems/duplicate-zeros))|[java](1001-1500/1089.Duplicate%20Zeros.java)|Easy|

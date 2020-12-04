@@ -42,7 +42,7 @@ class Question:
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
         self._title = dic["stat"]["question__title"]
-        if self._id == "1560":
+        if self._id in ["1560", "1092"]:  # malformatted title from api
             self._title = " ".join(self._title.split())
 
         self._lock = dic["paid_only"]
@@ -378,7 +378,7 @@ def load_resources():
 
     def save_online_resource(json_dict, abs_path):
         with open(abs_path, "w") as out:
-            json.dump(json_dict, out)
+            json.dump(json_dict, out, indent=2)
 
     def get_online_problems():
         obj = requests.get("https://leetcode-cn.com/api/problems/all/").json()
