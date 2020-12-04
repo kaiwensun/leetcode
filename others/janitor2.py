@@ -245,7 +245,7 @@ def update_file(relative_path, content):
 # ======== markdowne ========
 
 
-def gen_markdown(questions, solutions):
+def gen_markdown(questions, solutions, title):
 
     def gen_markdown_questions(questions):
         header = """
@@ -345,7 +345,7 @@ def gen_markdown(questions, solutions):
         def gen_markdown_today():
             return "* Last updat: " + datetime.date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
 
-        res = ["# My LeetCode solutions",
+        res = ["# " + title,
                gen_markdown_site_links(),
                gen_markdown_self_link(),
                gen_markdown_today()]
@@ -446,6 +446,22 @@ def search_local_solutions(qid):
     else:
         print("Not found")
 
+# ======== generate subtables ========
+
+def select_todo_without_lock(qid):
+    if qid in NOT_BACKFILLED:
+        return False
+    if len(LOCAL_MAP[qid]):
+        return False
+    if ONLINE_MAP[qid].lock():
+        return False
+    return True
+
+def filter_questions_and_solutions(questions, solutions, selector):
+    rtn_questions = [question for question in questions if selector(question.id())]
+    rtn_solutions = [solution for solution in solutions if selector(solution.id())]
+    return rtn_questions, rtn_solutions
+
 
 # ======== main ========
 
@@ -453,8 +469,12 @@ def main():
     questions, solutions = load_resources()
     if len(sys.argv) == 1:
         correct_local_files(questions, solutions)
-        markdown = gen_markdown(questions, solutions)
+        markdown = gen_markdown(questions, solutions, "My LeetCode solutions")
         update_file(README_FILENAME, markdown)
+        
+        todo_que, todo_sol = filter_questions_and_solutions(questions, solutions, select_todo_without_lock)
+        markdown = gen_markdown(todo_que, todo_sol, "To do questions")
+        update_file(os.path.join("others", "todo questions.md"), markdown)
     elif len(sys.argv) == 2:
         search_local_solutions(sys.argv[1])
     else:
