@@ -1,15 +1,13 @@
 class Foo {
     private int next = 1;
 
-    private void attempt(Runnable runnable, int targetState) throws InterruptedException {
-        synchronized(this) {
-            while (next != targetState) {
-                this.wait();
-            }
-            runnable.run();
-            next += 1;
-            this.notifyAll();
+    private synchronized void attempt(Runnable runnable, int targetState) throws InterruptedException {
+        while (next != targetState) {
+            this.wait();
         }
+        runnable.run();
+        next += 1;
+        this.notifyAll();
     }
 
     public void first(Runnable printFirst) throws InterruptedException {
