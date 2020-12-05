@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1070|15|487|2|
+|1887|1071|15|486|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.1%|11.3%|5.0%|3.9%|0.4%|0.1%|
+|65.3%|14.2%|11.2%|5.0%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1380,7 +1380,7 @@
 |&check;|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) ([CN](https://leetcode-cn.com/problems/maximum-product-of-word-lengths))|[py](0001-0500/0318.Maximum%20Product%20of%20Word%20Lengths.py)|Medium|
 |&#x1f512;|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings) ([CN](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings))||Hard|
 |&check;|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) ([CN](https://leetcode-cn.com/problems/remove-duplicate-letters))|[py](0001-0500/0316.Remove%20Duplicate%20Letters.py)|Medium|
-||315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) ([CN](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self))||Hard|
+|&check;&star;|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) ([CN](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self))|[java](0001-0500/0315.Count%20of%20Smaller%20Numbers%20After%20Self.java)|Hard|
 |&#x1f512;|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) ([CN](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal))||Medium|
 |&check;|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number) ([CN](https://leetcode-cn.com/problems/super-ugly-number))|[py](0001-0500/0313.Super%20Ugly%20Number.py)|Medium|
 |&check;|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons) ([CN](https://leetcode-cn.com/problems/burst-balloons))|[c](0001-0500/0312.Burst%20Balloons.c), [py](0001-0500/0312.Burst%20Balloons.2.%28recursive%29.py), [py](0001-0500/0312.Burst%20Balloons.1.%28iterative%29.py)|Hard|

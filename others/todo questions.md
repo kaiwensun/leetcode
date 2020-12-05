@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|487|0|15|487|2|
+|486|0|15|486|3|
 
 
 
@@ -272,7 +272,6 @@
 ||335|[Self Crossing](https://leetcode.com/problems/self-crossing) ([CN](https://leetcode-cn.com/problems/self-crossing))||Hard|
 ||330|[Patching Array](https://leetcode.com/problems/patching-array) ([CN](https://leetcode-cn.com/problems/patching-array))||Hard|
 ||327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) ([CN](https://leetcode-cn.com/problems/count-of-range-sum))||Hard|
-||315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) ([CN](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self))||Hard|
 ||306|[Additive Number](https://leetcode.com/problems/additive-number) ([CN](https://leetcode-cn.com/problems/additive-number))||Medium|
 ||301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) ([CN](https://leetcode-cn.com/problems/remove-invalid-parentheses))||Hard|
 ||297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) ([CN](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree))||Hard|
