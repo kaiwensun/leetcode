@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1071|15|486|3|
+|1887|1072|15|485|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.2%|11.2%|5.0%|3.9%|0.4%|0.1%|
+|65.2%|14.2%|11.2%|4.9%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -581,7 +581,7 @@
 ||1117|[Building H2O](https://leetcode.com/problems/building-h2o) ([CN](https://leetcode-cn.com/problems/building-h2o))||Medium|
 ||1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) ([CN](https://leetcode-cn.com/problems/print-zero-even-odd))||Medium|
 ||1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) ([CN](https://leetcode-cn.com/problems/print-foobar-alternately))||Medium|
-||1114|[Print in Order](https://leetcode.com/problems/print-in-order) ([CN](https://leetcode-cn.com/problems/print-in-order))||Easy|
+|&check;|1114|[Print in Order](https://leetcode.com/problems/print-in-order) ([CN](https://leetcode-cn.com/problems/print-in-order))|[java](1001-1500/1114.Print%20in%20Order.java)|Easy|
 |&#x1f512;|1113|[Reported Posts](https://leetcode.com/problems/reported-posts) ([CN](https://leetcode-cn.com/problems/reported-posts))||Easy|
 |&#x1f512;|1112|[Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) ([CN](https://leetcode-cn.com/problems/highest-grade-for-each-student))||Medium|
 |&check;|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) ([CN](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings))|[py](1001-1500/1111.Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings.py)|Medium|

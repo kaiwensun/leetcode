@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|486|0|15|486|3|
+|485|0|15|485|3|
 
 
 
@@ -29,7 +29,6 @@
 ||1117|[Building H2O](https://leetcode.com/problems/building-h2o) ([CN](https://leetcode-cn.com/problems/building-h2o))||Medium|
 ||1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) ([CN](https://leetcode-cn.com/problems/print-zero-even-odd))||Medium|
 ||1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) ([CN](https://leetcode-cn.com/problems/print-foobar-alternately))||Medium|
-||1114|[Print in Order](https://leetcode.com/problems/print-in-order) ([CN](https://leetcode-cn.com/problems/print-in-order))||Easy|
 ||1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) ([CN](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target))||Hard|
 ||1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) ([CN](https://leetcode-cn.com/problems/numbers-with-repeated-digits))||Hard|
 |?|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) ([CN](https://leetcode-cn.com/problems/max-consecutive-ones-iii))||Medium|
