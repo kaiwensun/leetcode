@@ -1,15 +1,14 @@
 class Foo {
-    private Integer next = 1;
-    private Object lock = new Object();
+    private int next = 1;
 
     private void attempt(Runnable runnable, int targetState) throws InterruptedException {
-        synchronized(lock) {
+        synchronized(this) {
             while (next != targetState) {
-                lock.wait();
+                this.wait();
             }
             runnable.run();
             next += 1;
-            lock.notifyAll();
+            this.notifyAll();
         }
     }
 
@@ -24,6 +23,5 @@ class Foo {
     public void third(Runnable printThird) throws InterruptedException {
         attempt(printThird, 3);
     }
-
 }
 
