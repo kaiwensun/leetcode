@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1072|15|485|3|
+|1887|1073|15|484|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.2%|11.2%|4.9%|3.9%|0.4%|0.1%|
+|65.1%|14.3%|11.2%|4.9%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -580,7 +580,7 @@
 |&#x1f512;|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month) ([CN](https://leetcode-cn.com/problems/number-of-days-in-a-month))||Easy|
 ||1117|[Building H2O](https://leetcode.com/problems/building-h2o) ([CN](https://leetcode-cn.com/problems/building-h2o))||Medium|
 ||1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) ([CN](https://leetcode-cn.com/problems/print-zero-even-odd))||Medium|
-||1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) ([CN](https://leetcode-cn.com/problems/print-foobar-alternately))||Medium|
+|&check;|1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) ([CN](https://leetcode-cn.com/problems/print-foobar-alternately))|[java](1001-1500/1115.Print%20FooBar%20Alternately.java)|Medium|
 |&check;|1114|[Print in Order](https://leetcode.com/problems/print-in-order) ([CN](https://leetcode-cn.com/problems/print-in-order))|[java](1001-1500/1114.Print%20in%20Order.java)|Easy|
 |&#x1f512;|1113|[Reported Posts](https://leetcode.com/problems/reported-posts) ([CN](https://leetcode-cn.com/problems/reported-posts))||Easy|
 |&#x1f512;|1112|[Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) ([CN](https://leetcode-cn.com/problems/highest-grade-for-each-student))||Medium|
