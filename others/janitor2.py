@@ -237,6 +237,82 @@ class Solution:
             "is_in_root": self.is_in_root()
         })
 
+class QuestionDetails:
+    def __init__(self, titleSlug):
+        self.titleSlug = titleSlug
+    def _query(self):
+        get_url = "https://leetcode.com/problems/%s/" % self.titleSlug
+        graphql_url ="https://leetcode.com/graphql"
+        client = requests.Session()
+        resp1 = client.get(url)
+        csrf = client.cookies['csrftoken']
+        query="""query questionData($titleSlug: String!) {
+            question(titleSlug: $titleSlug) {
+                questionId
+                questionFrontendId
+                boundTopicId
+                title
+                titleSlug
+                content
+                translatedTitle
+                translatedContent
+                isPaidOnly
+                difficulty
+                likes
+                dislikes
+                isLiked
+                similarQuestions
+                contributors {
+                username
+                profileUrl
+                avatarUrl
+                __typename
+                }
+                topicTags {
+                name
+                slug
+                translatedName
+                __typename
+                }
+                companyTagStats
+                codeSnippets {
+                lang
+                langSlug
+                code
+                __typename
+                }
+                stats
+                hints
+                solution {
+                id
+                canSeeDetail
+                paidOnly
+                hasVideoSolution
+                __typename
+                }
+                status
+                sampleTestCase
+                metaData
+                judgerAvailable
+                judgeType
+                mysqlSchemas
+                enableRunCode
+                enableTestMode
+                enableDebugger
+                envInfo
+                libraryUrl
+                adminUrl
+                __typename
+            }
+        }"""
+        params = {
+            'operationName': 'questionData',
+            'variables': {'titleSlug': self.titleSlug},
+            'query': query
+        }
+        resp2 = client.post(graphql_url, json=params, headers={"X-CSRFToken":csrf, "Referer":resp1.url})
+        return resp2.json()['data']['question']
+
 # ======== readme ========
 
 
