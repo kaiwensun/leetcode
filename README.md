@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1079|15|486|3|
+|1892|1079|15|482|3|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -19,10 +19,10 @@
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
-||5620|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) ([CN](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers))||Medium|
-||5619|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))||Medium|
-||5618|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) ([CN](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs))||Medium|
-||5617|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) ([CN](https://leetcode-cn.com/problems/goal-parser-interpretation))||Easy|
+|&check;|1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))|[py](1501-2000/1681.Minimum%20Incompatibility.py)|Medium|
+|&check;|1680|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) ([CN](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers))|[py](1501-2000/1680.Concatenation%20of%20Consecutive%20Binary%20Numbers.py)|Medium|
+|&check;|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) ([CN](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs))|[py](1501-2000/1679.Max%20Number%20of%20K-Sum%20Pairs.py)|Medium|
+|&check;|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) ([CN](https://leetcode-cn.com/problems/goal-parser-interpretation))|[py](1501-2000/1678.Goal%20Parser%20Interpretation.py)|Easy|
 |&#x1f512;|1677|[Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices) ([CN](https://leetcode-cn.com/problems/products-worth-over-invoices))||Easy|
 |&#x1f512;|1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) ([CN](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree-iv))||Medium|
 |&check;|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) ([CN](https://leetcode-cn.com/problems/minimize-deviation-in-array))|[py](1501-2000/1675.Minimize%20Deviation%20in%20Array.py)|Hard|

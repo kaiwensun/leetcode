@@ -38,6 +38,7 @@ class Question:
     US_QUESTION_URL_PATTERN = "https://leetcode.com/problems/%s"
     CN_QUESTION_URL_PATTERN = "https://leetcode-cn.com/problems/%s"
     DIFFICULTIES = ["Easy", "Medium", "Hard"]
+    QID_SPLIT = 5000  # new weekly contest questions have very big question ids
 
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
@@ -48,6 +49,7 @@ class Question:
         self._lock = dic["paid_only"]
         self._difficulty = dic["difficulty"]["level"]
         self._slug = dic["stat"]["question__title_slug"]
+        self._correct_new_weekly_contest_question()
 
     def difficulty(self):
         return Question.DIFFICULTIES[self._difficulty - 1]
@@ -69,6 +71,23 @@ class Question:
 
     def lock(self):
         return self._lock
+
+    def _correct_new_weekly_contest_question(self):
+        if self.is_us() and int(self.id()) > Question.QID_SPLIT:
+            qd = QuestionDetails(self._slug)
+            light = qd.query_light()
+            if light:
+                if light["title"] != self.title():
+                    print("[WARN] Failed to correct the question data for %s: QuestionDetails titles don't match." % self.id())
+                elif str(light["questionFrontendId"]) == self.id():
+                    print("[WARN] Failed to correct the question data for %s: ID from QuestionDetails is same." % self.id())
+                else:
+                    new_id = str(light["questionFrontendId"]) 
+                    print("[WARN] Correct the question ID: %s -> %s" % (self.id(), new_id))
+                    self._id = new_id
+            else:
+                print("[WARN] Failed to correct the question data for %s: QuestionDetails data not found." % self.id())
+
 
     def order(self):
         if self.is_us():
@@ -240,13 +259,22 @@ class Solution:
 class QuestionDetails:
     def __init__(self, titleSlug):
         self.titleSlug = titleSlug
-    def _query(self):
-        get_url = "https://leetcode.com/problems/%s/" % self.titleSlug
-        graphql_url ="https://leetcode.com/graphql"
-        client = requests.Session()
-        resp1 = client.get(url)
-        csrf = client.cookies['csrftoken']
-        query="""query questionData($titleSlug: String!) {
+
+    def query_light(self):
+        query_str = """query questionData($titleSlug: String!) {
+            question(titleSlug: $titleSlug) {
+                questionId
+                questionFrontendId
+                boundTopicId
+                title
+                titleSlug
+            }
+        }"""
+        return self._query(query_str)
+
+    def query_full(self):
+        # do not abuse
+        query_str="""query questionData($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
                 questionId
                 questionFrontendId
@@ -305,10 +333,19 @@ class QuestionDetails:
                 __typename
             }
         }"""
+        return self._query(query_str)
+
+
+    def _query(self, query_str):
+        get_url = "https://leetcode.com/problems/%s/" % self.titleSlug
+        graphql_url ="https://leetcode.com/graphql"
+        client = requests.Session()
+        resp1 = client.get(get_url)
+        csrf = client.cookies['csrftoken']
         params = {
             'operationName': 'questionData',
             'variables': {'titleSlug': self.titleSlug},
-            'query': query
+            'query': query_str
         }
         resp2 = client.post(graphql_url, json=params, headers={"X-CSRFToken":csrf, "Referer":resp1.url})
         return resp2.json()['data']['question']
