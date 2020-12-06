@@ -9,16 +9,21 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1887|1073|15|484|3|
+|1892|1078|15|487|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.1%|14.3%|11.2%|4.9%|3.9%|0.4%|0.1%|
+|65.2%|14.3%|11.2%|4.9%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
+||5620|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) ([CN](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers))||Medium|
+||5619|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))||Medium|
+||5618|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) ([CN](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs))||Medium|
+||5617|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) ([CN](https://leetcode-cn.com/problems/goal-parser-interpretation))||Easy|
+|&#x1f512;|1677|[Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices) ([CN](https://leetcode-cn.com/problems/products-worth-over-invoices))||Easy|
 |&#x1f512;|1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) ([CN](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree-iv))||Medium|
 |&check;|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) ([CN](https://leetcode-cn.com/problems/minimize-deviation-in-array))|[py](1501-2000/1675.Minimize%20Deviation%20in%20Array.py)|Hard|
 |&check;|1674|[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) ([CN](https://leetcode-cn.com/problems/minimum-moves-to-make-array-complementary))|[py](1501-2000/1674.Minimum%20Moves%20to%20Make%20Array%20Complementary.py)|Medium|
@@ -579,7 +584,7 @@
 |&#x1f512;|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string) ([CN](https://leetcode-cn.com/problems/remove-vowels-from-a-string))||Easy|
 |&#x1f512;|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month) ([CN](https://leetcode-cn.com/problems/number-of-days-in-a-month))||Easy|
 ||1117|[Building H2O](https://leetcode.com/problems/building-h2o) ([CN](https://leetcode-cn.com/problems/building-h2o))||Medium|
-||1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) ([CN](https://leetcode-cn.com/problems/print-zero-even-odd))||Medium|
+|&check;|1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) ([CN](https://leetcode-cn.com/problems/print-zero-even-odd))|[java](1001-1500/1116.Print%20Zero%20Even%20Odd.java)|Medium|
 |&check;|1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) ([CN](https://leetcode-cn.com/problems/print-foobar-alternately))|[java](1001-1500/1115.Print%20FooBar%20Alternately.java)|Medium|
 |&check;|1114|[Print in Order](https://leetcode.com/problems/print-in-order) ([CN](https://leetcode-cn.com/problems/print-in-order))|[java](1001-1500/1114.Print%20in%20Order.java)|Easy|
 |&#x1f512;|1113|[Reported Posts](https://leetcode.com/problems/reported-posts) ([CN](https://leetcode-cn.com/problems/reported-posts))||Easy|

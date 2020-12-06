@@ -116,6 +116,9 @@ class Solution:
         else:
             return self._id
 
+    def original_abs_path(self):
+        return self._abs_path
+
     def _parse_basename(self):
         # id.title[.version][.hint].typ
         splited = self._basename.split(".")
@@ -155,15 +158,18 @@ class Solution:
                 self._title = piece.strip()
         question = ONLINE_MAP.get(self.id())
         if question is None:
-            raise ValueError(
-                "Unable to auto-detect title from online source, for the basename %s", self._basename)
+            if self.is_us() and 1600 < int(self.id()) < 1800:
+                print("[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
+            else:
+                raise ValueError(
+                    "Unable to auto-detect title from online source, for the basename %s", self._basename)
         if self._title is None:
             # tring to fill the title from online source
             print("[WARN] Solution %s name defaults to %s" %
                   (self.id(), question.title()))
             self._title = question.title()
         else:
-            if self._title != question.title():
+            if question and self._title != question.title():
                 raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
                     question.title(), self._title, self._basename))
 
@@ -444,7 +450,7 @@ def search_local_solutions(qid):
         print(qid + " was completed, but not submitted to GitHub.")
     elif LOCAL_MAP[qid]:
         for sol in LOCAL_MAP[qid]:
-            print(sol.desired_abs_path())
+            print(sol.original_abs_path())
     else:
         print("Not found")
 
