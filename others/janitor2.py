@@ -398,7 +398,7 @@ def gen_markdown(questions, solutions, title):
             if question.lock():
                 status += "&#x1f512;"
             if qid in STARRED:
-                status += "&star;"
+                status += "&#x2B50;"
             return status
 
         def get_solution_links(question):
