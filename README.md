@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1080|15|481|3|
+|1892|1081|15|480|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.1%|14.4%|11.2%|4.9%|3.9%|0.4%|0.1%|
+|65.1%|14.5%|11.2%|4.9%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -505,7 +505,7 @@
 |&check;&#x1f512;|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows) ([CN](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows))|[py](1001-1500/1198.Find%20Smallest%20Common%20Element%20in%20All%20Rows.py)|Medium|
 |&check;&#x1f512;|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves) ([CN](https://leetcode-cn.com/problems/minimum-knight-moves))|[py](1001-1500/1197.Minimum%20Knight%20Moves.py)|Medium|
 |&check;&#x1f512;|1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket) ([CN](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket))|[py](1001-1500/1196.How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py)|Easy|
-||1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) ([CN](https://leetcode-cn.com/problems/fizz-buzz-multithreaded))||Medium|
+|&check;|1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) ([CN](https://leetcode-cn.com/problems/fizz-buzz-multithreaded))|[java](1001-1500/1195.Fizz%20Buzz%20Multithreaded.java)|Medium|
 |&#x1f512;|1194|[Tournament Winners](https://leetcode.com/problems/tournament-winners) ([CN](https://leetcode-cn.com/problems/tournament-winners))||Hard|
 |&#x1f512;|1193|[Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) ([CN](https://leetcode-cn.com/problems/monthly-transactions-i))||Medium|
 |&check;|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) ([CN](https://leetcode-cn.com/problems/critical-connections-in-a-network))|[py](1001-1500/1192.Critical%20Connections%20in%20a%20Network.py)|Hard|

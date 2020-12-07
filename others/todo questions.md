@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|481|0|15|481|3|
+|480|0|15|480|3|
 
 
 
@@ -21,7 +21,6 @@
 |?|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) ([CN](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string))||Medium|
 ||1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist) ([CN](https://leetcode-cn.com/problems/design-skiplist))||Hard|
 ||1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) ([CN](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies))||Hard|
-||1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) ([CN](https://leetcode-cn.com/problems/fizz-buzz-multithreaded))||Medium|
 ||1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table) ([CN](https://leetcode-cn.com/problems/reformat-department-table))||Easy|
 ||1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray) ([CN](https://leetcode-cn.com/problems/online-majority-element-in-subarray))||Hard|
 ||1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) ([CN](https://leetcode-cn.com/problems/smallest-sufficient-team))||Hard|
