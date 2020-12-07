@@ -78,16 +78,19 @@ class Question:
             light = qd.query_light()
             if light:
                 if light["title"] != self.title():
-                    print("[WARN] Failed to correct the question data for %s: QuestionDetails titles don't match." % self.id())
+                    print(
+                        "[WARN] Failed to correct the question data for %s: QuestionDetails titles don't match." % self.id())
                 elif str(light["questionFrontendId"]) == self.id():
-                    print("[WARN] Failed to correct the question data for %s: ID from QuestionDetails is same." % self.id())
+                    print(
+                        "[WARN] Failed to correct the question data for %s: ID from QuestionDetails is same." % self.id())
                 else:
-                    new_id = str(light["questionFrontendId"]) 
-                    print("[WARN] Correct the question ID: %s -> %s" % (self.id(), new_id))
+                    new_id = str(light["questionFrontendId"])
+                    print("[WARN] Correct the question ID: %s -> %s" %
+                          (self.id(), new_id))
                     self._id = new_id
             else:
-                print("[WARN] Failed to correct the question data for %s: QuestionDetails data not found." % self.id())
-
+                print(
+                    "[WARN] Failed to correct the question data for %s: QuestionDetails data not found." % self.id())
 
     def order(self):
         if self.is_us():
@@ -178,7 +181,8 @@ class Solution:
         question = ONLINE_MAP.get(self.id())
         if question is None:
             if self.is_us() and 1600 < int(self.id()) < 1800:
-                print("[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
+                print(
+                    "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
             else:
                 raise ValueError(
                     "Unable to auto-detect title from online source, for the basename %s", self._basename)
@@ -256,6 +260,7 @@ class Solution:
             "is_in_root": self.is_in_root()
         })
 
+
 class QuestionDetails:
     def __init__(self, titleSlug):
         self.titleSlug = titleSlug
@@ -274,7 +279,7 @@ class QuestionDetails:
 
     def query_full(self):
         # do not abuse
-        query_str="""query questionData($titleSlug: String!) {
+        query_str = """query questionData($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
                 questionId
                 questionFrontendId
@@ -335,10 +340,9 @@ class QuestionDetails:
         }"""
         return self._query(query_str)
 
-
     def _query(self, query_str):
         get_url = "https://leetcode.com/problems/%s/" % self.titleSlug
-        graphql_url ="https://leetcode.com/graphql"
+        graphql_url = "https://leetcode.com/graphql"
         client = requests.Session()
         resp1 = client.get(get_url)
         csrf = client.cookies['csrftoken']
@@ -347,7 +351,8 @@ class QuestionDetails:
             'variables': {'titleSlug': self.titleSlug},
             'query': query_str
         }
-        resp2 = client.post(graphql_url, json=params, headers={"X-CSRFToken":csrf, "Referer":resp1.url})
+        resp2 = client.post(graphql_url, json=params, headers={
+                            "X-CSRFToken": csrf, "Referer": resp1.url})
         return resp2.json()['data']['question']
 
 # ======== readme ========
@@ -569,6 +574,7 @@ def search_local_solutions(qid):
 
 # ======== generate subtables ========
 
+
 def select_todo_without_lock(qid):
     if qid in NOT_BACKFILLED:
         return False
@@ -578,9 +584,12 @@ def select_todo_without_lock(qid):
         return False
     return True
 
+
 def filter_questions_and_solutions(questions, solutions, selector):
-    rtn_questions = [question for question in questions if selector(question.id())]
-    rtn_solutions = [solution for solution in solutions if selector(solution.id())]
+    rtn_questions = [
+        question for question in questions if selector(question.id())]
+    rtn_solutions = [
+        solution for solution in solutions if selector(solution.id())]
     return rtn_questions, rtn_solutions
 
 
@@ -592,8 +601,9 @@ def main():
         correct_local_files(questions, solutions)
         markdown = gen_markdown(questions, solutions, "My LeetCode solutions")
         update_file(README_FILENAME, markdown)
-        
-        todo_que, todo_sol = filter_questions_and_solutions(questions, solutions, select_todo_without_lock)
+
+        todo_que, todo_sol = filter_questions_and_solutions(
+            questions, solutions, select_todo_without_lock)
         markdown = gen_markdown(todo_que, todo_sol, "To do questions")
         update_file(os.path.join("others", "todo questions.md"), markdown)
     elif len(sys.argv) == 2:

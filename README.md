@@ -9,17 +9,17 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1079|15|482|3|
+|1892|1080|15|481|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.4%|11.2%|4.9%|3.9%|0.4%|0.1%|
+|65.1%|14.4%|11.2%|4.9%|3.9%|0.4%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
-|&check;|1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))|[py](1501-2000/1681.Minimum%20Incompatibility.py)|Medium|
+|&check;|1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))|[py](1501-2000/1681.Minimum%20Incompatibility.py)|Hard|
 |&check;|1680|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) ([CN](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers))|[py](1501-2000/1680.Concatenation%20of%20Consecutive%20Binary%20Numbers.py)|Medium|
 |&check;|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) ([CN](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs))|[py](1501-2000/1679.Max%20Number%20of%20K-Sum%20Pairs.py)|Medium|
 |&check;|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) ([CN](https://leetcode-cn.com/problems/goal-parser-interpretation))|[py](1501-2000/1678.Goal%20Parser%20Interpretation.py)|Easy|
@@ -474,7 +474,7 @@
 |&#x1f512;|1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler) ([CN](https://leetcode-cn.com/problems/meeting-scheduler))||Medium|
 |&#x1f512;|1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression) ([CN](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression))||Easy|
 |&check;|1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) ([CN](https://leetcode-cn.com/problems/airplane-seat-assignment-probability))|[java](1001-1500/1227.Airplane%20Seat%20Assignment%20Probability.java)|Medium|
-||1226|[The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) ([CN](https://leetcode-cn.com/problems/the-dining-philosophers))||Medium|
+|&check;|1226|[The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) ([CN](https://leetcode-cn.com/problems/the-dining-philosophers))|[java](1001-1500/1226.The%20Dining%20Philosophers.java)|Medium|
 |&#x1f512;|1225|[Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates) ([CN](https://leetcode-cn.com/problems/report-contiguous-dates))||Hard|
 |&check;|1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency) ([CN](https://leetcode-cn.com/problems/maximum-equal-frequency))|[py](1001-1500/1224.Maximum%20Equal%20Frequency.py)|Hard|
 |&check;|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation) ([CN](https://leetcode-cn.com/problems/dice-roll-simulation))|[py](1001-1500/1223.Dice%20Roll%20Simulation.py)|Medium|
