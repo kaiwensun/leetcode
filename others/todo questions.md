@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|478|0|15|478|3|
+|477|0|15|477|3|
 
 
 
@@ -17,7 +17,6 @@
 |:---|:---|:---|:---|:---|
 |?|1655|[Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers) ([CN](https://leetcode-cn.com/problems/distribute-repeating-integers))||Hard|
 |?|1397|[Find All Good Strings](https://leetcode.com/problems/find-all-good-strings) ([CN](https://leetcode-cn.com/problems/find-all-good-strings))||Hard|
-|?|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) ([CN](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string))||Medium|
 ||1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist) ([CN](https://leetcode-cn.com/problems/design-skiplist))||Hard|
 ||1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) ([CN](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies))||Hard|
 ||1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table) ([CN](https://leetcode-cn.com/problems/reformat-department-table))||Easy|

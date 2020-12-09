@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1083|15|478|3|
+|1892|1084|15|477|3|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -466,7 +466,7 @@
 |&check;|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) ([CN](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation))|[java](1001-1500/1237.Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.java)|Easy|
 |&#x1f512;|1236|[Web Crawler](https://leetcode.com/problems/web-crawler) ([CN](https://leetcode-cn.com/problems/web-crawler))||Medium|
 |&check;|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) ([CN](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling))|[py](1001-1500/1235.Maximum%20Profit%20in%20Job%20Scheduling.py)|Hard|
-|?|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) ([CN](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string))||Medium|
+|&check;?|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) ([CN](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string))|[py](1001-1500/1234.Replace%20the%20Substring%20for%20Balanced%20String.py)|Medium|
 |&check;|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) ([CN](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem))|[py](1001-1500/1233.Remove%20Sub-Folders%20from%20the%20Filesystem.py)|Medium|
 |&check;|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) ([CN](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line))|[rb](1001-1500/1232.Check%20If%20It%20Is%20a%20Straight%20Line.rb)|Easy|
 |&#x1f512;|1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate) ([CN](https://leetcode-cn.com/problems/divide-chocolate))||Hard|
