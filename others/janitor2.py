@@ -15,7 +15,7 @@ ONLINE_MAP = {}
 LOCAL_MAP = collections.defaultdict(list)
 NOT_BACKFILLED = set()
 ATTEMPTED = {354, 564, 741, 805, 878, 891, 931, 964,
-             974, 1000, 1004, 1199, 1397, 1655}
+             974, 1000, 1199, 1397, 1655}
 STARRED = {315, 321, 913}
 
 NOT_BACKFILLED = {str(item) for item in NOT_BACKFILLED}

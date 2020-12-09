@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1084|14|477|3|
+|1892|1085|13|476|3|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -696,7 +696,7 @@
 |&check;|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) ([CN](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row))|[py](1001-1500/1007.Minimum%20Domino%20Rotations%20For%20Equal%20Row.py)|Medium|
 |&check;|1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) ([CN](https://leetcode-cn.com/problems/clumsy-factorial))|[py](1001-1500/1006.Clumsy%20Factorial.py)|Medium|
 |&check;|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) ([CN](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations))|[py](1001-1500/1005.Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py)|Easy|
-|?|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) ([CN](https://leetcode-cn.com/problems/max-consecutive-ones-iii))||Medium|
+|&check;|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) ([CN](https://leetcode-cn.com/problems/max-consecutive-ones-iii))|[java](1001-1500/1004.Max%20Consecutive%20Ones%20III.java)|Medium|
 |&check;|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) ([CN](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions))|[py](1001-1500/1003.Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|Medium|
 |&check;|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters) ([CN](https://leetcode-cn.com/problems/find-common-characters))|[py](1001-1500/1002.Find%20Common%20Characters.py)|Easy|
 |&check;|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination) ([CN](https://leetcode-cn.com/problems/grid-illumination))|[py](1001-1500/1001.Grid%20Illumination.py)|Hard|
