@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|475|0|12|475|3|
+|474|0|12|474|3|
 
 
 
@@ -266,7 +266,6 @@
 ||297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) ([CN](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree))||Hard|
 ||295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) ([CN](https://leetcode-cn.com/problems/find-median-from-data-stream))||Hard|
 ||282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators) ([CN](https://leetcode-cn.com/problems/expression-add-operators))||Hard|
-||268|[Missing Number](https://leetcode.com/problems/missing-number) ([CN](https://leetcode-cn.com/problems/missing-number))||Easy|
 ||262|[Trips and Users](https://leetcode.com/problems/trips-and-users) ([CN](https://leetcode-cn.com/problems/trips-and-users))||Hard|
 ||214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) ([CN](https://leetcode-cn.com/problems/shortest-palindrome))||Hard|
 ||197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) ([CN](https://leetcode-cn.com/problems/rising-temperature))||Easy|

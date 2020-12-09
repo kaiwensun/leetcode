@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1086|12|475|3|
+|1892|1087|12|474|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.0%|14.6%|11.1%|4.9%|3.9%|0.4%|0.1%|
+|65.0%|14.6%|11.1%|4.9%|3.9%|0.5%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1432,7 +1432,7 @@
 |&#x1f512;|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) ([CN](https://leetcode-cn.com/problems/encode-and-decode-strings))||Medium|
 |&#x1f512;|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) ([CN](https://leetcode-cn.com/problems/closest-binary-search-tree-value))||Easy|
 |&#x1f512;|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary) ([CN](https://leetcode-cn.com/problems/alien-dictionary))||Hard|
-||268|[Missing Number](https://leetcode.com/problems/missing-number) ([CN](https://leetcode-cn.com/problems/missing-number))||Easy|
+|&check;|268|[Missing Number](https://leetcode.com/problems/missing-number) ([CN](https://leetcode-cn.com/problems/missing-number))|[js](0001-0500/0268.Missing%20Number.js)|Easy|
 |&#x1f512;|267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) ([CN](https://leetcode-cn.com/problems/palindrome-permutation-ii))||Medium|
 |&#x1f512;|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) ([CN](https://leetcode-cn.com/problems/palindrome-permutation))||Easy|
 |&#x1f512;|265|[Paint House II](https://leetcode.com/problems/paint-house-ii) ([CN](https://leetcode-cn.com/problems/paint-house-ii))||Hard|
