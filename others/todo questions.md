@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|473|0|12|473|3|
+|472|0|10|472|3|
 
 
 
@@ -36,7 +36,6 @@
 ||936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) ([CN](https://leetcode-cn.com/problems/stamping-the-sequence))||Hard|
 ||935|[Knight Dialer](https://leetcode.com/problems/knight-dialer) ([CN](https://leetcode-cn.com/problems/knight-dialer))||Medium|
 ||932|[Beautiful Array](https://leetcode.com/problems/beautiful-array) ([CN](https://leetcode-cn.com/problems/beautiful-array))||Medium|
-|?|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) ([CN](https://leetcode-cn.com/problems/minimum-falling-path-sum))||Medium|
 ||930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) ([CN](https://leetcode-cn.com/problems/binary-subarrays-with-sum))||Medium|
 ||928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii) ([CN](https://leetcode-cn.com/problems/minimize-malware-spread-ii))||Hard|
 ||926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) ([CN](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing))||Medium|

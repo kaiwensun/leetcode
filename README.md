@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1892|1087|12|474|3|
+|1893|1089|10|472|3|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -19,6 +19,7 @@
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
+|&#x1f512;|1682|[Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii) ([CN](https://leetcode-cn.com/problems/longest-palindromic-subsequence-ii))||Medium|
 |&check;|1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) ([CN](https://leetcode-cn.com/problems/minimum-incompatibility))|[py](1501-2000/1681.Minimum%20Incompatibility.py)|Hard|
 |&check;|1680|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) ([CN](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers))|[py](1501-2000/1680.Concatenation%20of%20Consecutive%20Binary%20Numbers.py)|Medium|
 |&check;|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) ([CN](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs))|[py](1501-2000/1679.Max%20Number%20of%20K-Sum%20Pairs.py)|Medium|
@@ -700,7 +701,7 @@
 |&check;|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) ([CN](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions))|[py](1001-1500/1003.Check%20If%20Word%20Is%20Valid%20After%20Substitutions.py)|Medium|
 |&check;|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters) ([CN](https://leetcode-cn.com/problems/find-common-characters))|[py](1001-1500/1002.Find%20Common%20Characters.py)|Easy|
 |&check;|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination) ([CN](https://leetcode-cn.com/problems/grid-illumination))|[py](1001-1500/1001.Grid%20Illumination.py)|Hard|
-|?|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones) ([CN](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones))||Hard|
+|&check;|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones) ([CN](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones))|[py](0501-1000/1000.Minimum%20Cost%20to%20Merge%20Stones.py)|Hard|
 |&check;|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) ([CN](https://leetcode-cn.com/problems/available-captures-for-rook))|[py](0501-1000/0999.Available%20Captures%20for%20Rook.py)|Easy|
 |&check;|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii) ([CN](https://leetcode-cn.com/problems/maximum-binary-tree-ii))|[py](0501-1000/0998.Maximum%20Binary%20Tree%20II.py)|Medium|
 |&check;|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) ([CN](https://leetcode-cn.com/problems/find-the-town-judge))|[py](0501-1000/0997.Find%20the%20Town%20Judge.py), [rb](0501-1000/0997.Find%20the%20Town%20Judge.rb)|Easy|
@@ -769,7 +770,7 @@
 |&check;|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge) ([CN](https://leetcode-cn.com/problems/shortest-bridge))|[py](0501-1000/0934.Shortest%20Bridge.py)|Medium|
 |&check;|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) ([CN](https://leetcode-cn.com/problems/number-of-recent-calls))|[java](0501-1000/0933.Number%20of%20Recent%20Calls.java)|Easy|
 ||932|[Beautiful Array](https://leetcode.com/problems/beautiful-array) ([CN](https://leetcode-cn.com/problems/beautiful-array))||Medium|
-|?|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) ([CN](https://leetcode-cn.com/problems/minimum-falling-path-sum))||Medium|
+|&check;|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) ([CN](https://leetcode-cn.com/problems/minimum-falling-path-sum))|[js](0501-1000/0931.Minimum%20Falling%20Path%20Sum.js)|Medium|
 ||930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) ([CN](https://leetcode-cn.com/problems/binary-subarrays-with-sum))||Medium|
 |&check;|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) ([CN](https://leetcode-cn.com/problems/unique-email-addresses))|[py](0501-1000/0929.Unique%20Email%20Addresses.py)|Easy|
 ||928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii) ([CN](https://leetcode-cn.com/problems/minimize-malware-spread-ii))||Hard|
