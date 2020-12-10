@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|468|0|6|468|4|
+|467|0|6|467|4|
 
 
 
@@ -153,7 +153,6 @@
 ||661|[Image Smoother](https://leetcode.com/problems/image-smoother) ([CN](https://leetcode-cn.com/problems/image-smoother))||Easy|
 ||658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) ([CN](https://leetcode-cn.com/problems/find-k-closest-elements))||Medium|
 ||650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) ([CN](https://leetcode-cn.com/problems/2-keys-keyboard))||Medium|
-||649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate) ([CN](https://leetcode-cn.com/problems/dota2-senate))||Medium|
 ||648|[Replace Words](https://leetcode.com/problems/replace-words) ([CN](https://leetcode-cn.com/problems/replace-words))||Medium|
 ||647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) ([CN](https://leetcode-cn.com/problems/palindromic-substrings))||Medium|
 ||646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) ([CN](https://leetcode-cn.com/problems/maximum-length-of-pair-chain))||Medium|
