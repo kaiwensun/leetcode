@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|470|0|8|470|3|
+|469|0|7|469|3|
 
 
 
@@ -115,7 +115,6 @@
 ||745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search) ([CN](https://leetcode-cn.com/problems/prefix-and-suffix-search))||Hard|
 ||744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) ([CN](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target))||Easy|
 ||743|[Network Delay Time](https://leetcode.com/problems/network-delay-time) ([CN](https://leetcode-cn.com/problems/network-delay-time))||Medium|
-|?|741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup) ([CN](https://leetcode-cn.com/problems/cherry-pickup))||Hard|
 ||739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) ([CN](https://leetcode-cn.com/problems/daily-temperatures))||Medium|
 ||738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) ([CN](https://leetcode-cn.com/problems/monotone-increasing-digits))||Medium|
 ||736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression) ([CN](https://leetcode-cn.com/problems/parse-lisp-expression))||Hard|

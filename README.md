@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1893|1091|8|470|3|
+|1893|1092|7|469|3|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.0%|14.6%|11.1%|4.9%|3.9%|0.5%|0.1%|
+|65.0%|14.5%|11.1%|4.9%|3.9%|0.5%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -960,7 +960,7 @@
 ||744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) ([CN](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target))||Easy|
 ||743|[Network Delay Time](https://leetcode.com/problems/network-delay-time) ([CN](https://leetcode-cn.com/problems/network-delay-time))||Medium|
 |&#x1f512;|742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree) ([CN](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree))||Medium|
-|?|741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup) ([CN](https://leetcode-cn.com/problems/cherry-pickup))||Hard|
+|&check;|741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup) ([CN](https://leetcode-cn.com/problems/cherry-pickup))|[py](0501-1000/0741.Cherry%20Pickup.py)|Hard|
 |&check;|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn) ([CN](https://leetcode-cn.com/problems/delete-and-earn))|[java](0501-1000/0740.Delete%20and%20Earn.java)|Medium|
 ||739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) ([CN](https://leetcode-cn.com/problems/daily-temperatures))||Medium|
 ||738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) ([CN](https://leetcode-cn.com/problems/monotone-increasing-digits))||Medium|
