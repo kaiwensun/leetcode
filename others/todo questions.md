@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|474|0|12|474|3|
+|473|0|12|473|3|
 
 
 
@@ -24,7 +24,6 @@
 ||1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) ([CN](https://leetcode-cn.com/problems/smallest-sufficient-team))||Hard|
 ||1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) ([CN](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target))||Hard|
 ||1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) ([CN](https://leetcode-cn.com/problems/numbers-with-repeated-digits))||Hard|
-|?|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones) ([CN](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones))||Hard|
 ||991|[Broken Calculator](https://leetcode.com/problems/broken-calculator) ([CN](https://leetcode-cn.com/problems/broken-calculator))||Medium|
 ||975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump) ([CN](https://leetcode-cn.com/problems/odd-even-jump))||Hard|
 ||972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers) ([CN](https://leetcode-cn.com/problems/equal-rational-numbers))||Hard|
