@@ -14,8 +14,8 @@ README_FILENAME = "README.md"
 ONLINE_MAP = {}
 LOCAL_MAP = collections.defaultdict(list)
 NOT_BACKFILLED = set()
-ATTEMPTED = {564, 805, 891, 964, 1199, 1397, 1655}
-STARRED = {315, 321, 913}
+ATTEMPTED = {564, 891, 964, 1199, 1397, 1655}
+STARRED = {315, 321, 805, 913}
 
 NOT_BACKFILLED = {str(item) for item in NOT_BACKFILLED}
 ATTEMPTED = {str(item) for item in ATTEMPTED}
