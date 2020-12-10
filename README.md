@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1893|1090|9|471|3|
+|1893|1091|8|470|3|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -823,7 +823,7 @@
 |&check;|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) ([CN](https://leetcode-cn.com/problems/boats-to-save-people))|[py](0501-1000/0881.Boats%20to%20Save%20People.py)|Medium|
 |&check;|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index) ([CN](https://leetcode-cn.com/problems/decoded-string-at-index))|[py](0501-1000/0880.Decoded%20String%20at%20Index.py)|Medium|
 ||879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes) ([CN](https://leetcode-cn.com/problems/profitable-schemes))||Hard|
-|?|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number) ([CN](https://leetcode-cn.com/problems/nth-magical-number))||Hard|
+|&check;|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number) ([CN](https://leetcode-cn.com/problems/nth-magical-number))|[py](0501-1000/0878.Nth%20Magical%20Number.%28lcm%20loop%29.py)|Hard|
 |&check;|877|[Stone Game](https://leetcode.com/problems/stone-game) ([CN](https://leetcode-cn.com/problems/stone-game))|[py](0501-1000/0877.Stone%20Game.py)|Medium|
 |&check;|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([CN](https://leetcode-cn.com/problems/middle-of-the-linked-list))|[py](0501-1000/0876.Middle%20of%20the%20Linked%20List.py), [rb](0501-1000/0876.Middle%20of%20the%20Linked%20List.rb)|Easy|
 ||875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) ([CN](https://leetcode-cn.com/problems/koko-eating-bananas))||Medium|

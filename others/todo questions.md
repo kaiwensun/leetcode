@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|471|0|9|471|3|
+|470|0|8|470|3|
 
 
 
@@ -51,7 +51,6 @@
 ||885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) ([CN](https://leetcode-cn.com/problems/spiral-matrix-iii))||Medium|
 ||882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph) ([CN](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph))||Hard|
 ||879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes) ([CN](https://leetcode-cn.com/problems/profitable-schemes))||Hard|
-|?|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number) ([CN](https://leetcode-cn.com/problems/nth-magical-number))||Hard|
 ||875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) ([CN](https://leetcode-cn.com/problems/koko-eating-bananas))||Medium|
 ||871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops) ([CN](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops))||Hard|
 ||870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle) ([CN](https://leetcode-cn.com/problems/advantage-shuffle))||Medium|
