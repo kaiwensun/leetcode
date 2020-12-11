@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|467|0|6|467|4|
+|466|0|5|466|4|
 
 
 
@@ -185,7 +185,6 @@
 ||575|[Distribute Candies](https://leetcode.com/problems/distribute-candies) ([CN](https://leetcode-cn.com/problems/distribute-candies))||Easy|
 ||572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) ([CN](https://leetcode-cn.com/problems/subtree-of-another-tree))||Easy|
 ||565|[Array Nesting](https://leetcode.com/problems/array-nesting) ([CN](https://leetcode-cn.com/problems/array-nesting))||Medium|
-|?|564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) ([CN](https://leetcode-cn.com/problems/find-the-closest-palindrome))||Hard|
 ||558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) ([CN](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees))||Medium|
 ||554|[Brick Wall](https://leetcode.com/problems/brick-wall) ([CN](https://leetcode-cn.com/problems/brick-wall))||Medium|
 ||552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) ([CN](https://leetcode-cn.com/problems/student-attendance-record-ii))||Hard|

@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1893|1094|6|467|4|
+|1893|1095|5|466|4|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -1137,7 +1137,7 @@
 |&check;|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) ([CN](https://leetcode-cn.com/problems/permutation-in-string))|[py](0501-1000/0567.Permutation%20in%20String.py), [rb](0501-1000/0567.Permutation%20in%20String.rb)|Medium|
 |&check;|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) ([CN](https://leetcode-cn.com/problems/reshape-the-matrix))|[py](0501-1000/0566.Reshape%20the%20Matrix.py)|Easy|
 ||565|[Array Nesting](https://leetcode.com/problems/array-nesting) ([CN](https://leetcode-cn.com/problems/array-nesting))||Medium|
-|?|564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) ([CN](https://leetcode-cn.com/problems/find-the-closest-palindrome))||Hard|
+|&check;|564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) ([CN](https://leetcode-cn.com/problems/find-the-closest-palindrome))|[py](0501-1000/0564.Find%20the%20Closest%20Palindrome.py)|Hard|
 |&check;|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) ([CN](https://leetcode-cn.com/problems/binary-tree-tilt))|[py](0501-1000/0563.Binary%20Tree%20Tilt.py)|Easy|
 |&#x1f512;|562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix) ([CN](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix))||Medium|
 |&check;|561|[Array Partition I](https://leetcode.com/problems/array-partition-i) ([CN](https://leetcode-cn.com/problems/array-partition-i))|[rb](0501-1000/0561.Array%20Partition%20I.rb)|Easy|
