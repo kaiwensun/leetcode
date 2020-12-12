@@ -41,6 +41,7 @@ class Question:
 
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
+        self._contest_temp_id = None
         self._title = dic["stat"]["question__title"]
         if self._id in ["1560", "1092"]:  # malformatted title from api
             self._title = " ".join(self._title.split())
@@ -86,7 +87,7 @@ class Question:
                     new_id = str(light["questionFrontendId"])
                     print("[WARN] Correct the question ID: %s -> %s" %
                           (self.id(), new_id))
-                    self._id = new_id
+                    self._contest_temp_id, self._id = self._id, new_id
             else:
                 print(
                     "[WARN] Failed to correct the question data for %s: QuestionDetails data not found." % self.id())
@@ -155,7 +156,9 @@ class Solution:
         self._typ = splited[-1]
         if self._typ not in Solution.KNOWN_TYPES:
             raise ValueError("Unknown file type for %s" % self._basename)
+
         self._id = splited[0]
+        self._set_question()
         self._desired_folder = self._calc_desired_folder()
         self._title = self._version = self._hint = None
         for piece in splited[1:-1]:
@@ -177,14 +180,10 @@ class Solution:
                     raise ValueError(
                         "Found multiple titles from basename %s" % self._basename)
                 self._title = piece.strip()
-        question = ONLINE_MAP.get(self.id())
+        question = self._question
         if question is None:
-            if self.is_us() and 1600 < int(self.id()) < 1800:
-                print(
-                    "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
-            else:
-                raise ValueError(
-                    "Unable to auto-detect title from online source, for the basename %s", self._basename)
+            raise ValueError(
+                "Unable to auto-detect title from online source, for the basename %s", self._basename)
         if self._title is None:
             # tring to fill the title from online source
             print("[WARN] Solution %s name defaults to %s" %
@@ -241,6 +240,23 @@ class Solution:
             res.append("(" + self._hint + ")")
         res.append(self._typ)
         return ".".join(res)
+
+    def _set_question(self):
+        if self.id() in ONLINE_MAP:
+            self._question = ONLINE_MAP[self.id()]
+        else:
+            if self.is_us() and 1600 < int(self.id()) < 1800:
+                print(
+                    "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
+            else:
+                for q in ONLINE_MAP.values():
+                    if q.is_us() and q._contest_temp_id == self.id():
+                        self._question = q
+                        self._id = q.id()
+                        break
+                else:
+                    raise ValueError(
+                        "Unable to auto-detect title from online source, for the basename %s", self._basename)
 
     def __str__(self):
         return repr(self)
