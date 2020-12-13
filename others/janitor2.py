@@ -385,11 +385,18 @@ def update_file(relative_path, content):
 
 
 def gen_markdown(questions, solutions, title):
+    
+    CN_FLAG = ":cn:"
+    US_FLAG = ":us:"
+    STAR = ":star:"
+    LOCK = ":lock:"
+    CHECK_MARK = ":heavy_check_mark:"
+    QUESTION_MARK = ":question:"
 
     def gen_markdown_questions(questions):
         header = """
-|Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
-|:---|:---|:---|:---|:---|
+|Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
+|:---|:---|:---|:---|:---|:---|
 """
         body = "\n".join(gen_markdown_question_row(question)
                          for question in questions)
@@ -407,13 +414,13 @@ def gen_markdown(questions, solutions, title):
                 if LOCAL_MAP[qid] and qid in NOT_BACKFILLED:
                     print(
                         "[WARN] question %s is in NOT_BACKFILLED but a solution is found" % qid)
-                status += "&check;"
+                status += CHECK_MARK
             if qid in ATTEMPTED:
-                status += "?"
+                status += QUESTION_MARK
             if question.lock():
-                status += "&#x1f512;"
+                status += LOCK
             if qid in STARRED:
-                status += "&#x2B50;"
+                status += STAR
             return status
 
         def get_solution_links(question):
@@ -426,17 +433,21 @@ def gen_markdown(questions, solutions, title):
                 return "(not uploaded yet)"
             return ", ".join(res)
 
-        def get_question_link(question):
+        def get_us_question_link(question):
             if question.is_us():
-                return "[%s](%s) ([CN](%s))" % (question.title(), question.us_url(), question.cn_url())
+                return "[%s](%s)" % (US_FLAG, question.us_url())
             else:
-                return "[%s](%s)" % (question.title(), question.cn_url())
+                return ""
+
+        def get_cn_question_link(question):
+            return "[%s](%s)" % (CN_FLAG, question.cn_url())
 
         row = [
             "",
             get_status(question),
             question.id(),
-            get_question_link(question),
+            question.title(),
+            get_us_question_link(question) + get_cn_question_link(question),
             get_solution_links(question),
             question.difficulty(),
             ""
