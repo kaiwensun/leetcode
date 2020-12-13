@@ -42,7 +42,7 @@ class Question:
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
         self._contest_temp_id = None
-        self._title = dic["stat"]["question__title"]
+        self._title = dic["stat"]["question__title"].strip()
         if self._id in ["1560", "1092"]:  # malformatted title from api
             self._title = " ".join(self._title.split())
 
@@ -77,6 +77,7 @@ class Question:
             qd = QuestionDetails(self._slug)
             light = qd.query_light()
             if light:
+                light["title"] = light["title"].strip()
                 if light["title"] != self.title():
                     print(
                         "[WARN] Failed to correct the question data for %s: QuestionDetails titles don't match." % self.id())
