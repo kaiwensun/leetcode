@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1898|1099|5|466|4|
+|1898|1100|5|465|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.5%|11.1%|4.8%|3.8%|0.5%|0.1%|
+|65.1%|14.5%|11.1%|4.8%|3.8%|0.5%|0.1%|
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1707,7 +1707,7 @@
 |&check;|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) ([CN](https://leetcode-cn.com/problems/add-two-numbers))|[c](0001-0500/0002.Add%20Two%20Numbers.c), [py](0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
 |&check;|1|[Two Sum](https://leetcode.com/problems/two-sum) ([CN](https://leetcode-cn.com/problems/two-sum))|[c](0001-0500/0001.Two%20Sum.c), [java](0001-0500/0001.Two%20Sum.java), [py](0001-0500/0001.Two%20Sum.py)|Easy|
 |&check;|LCP 01|[Guess Numbers](https://leetcode-cn.com/problems/guess-numbers)|[py](LCP/LCP%2001.Guess%20Numbers.py)|Easy|
-||LCP 02|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction)||Easy|
+|&check;|LCP 02|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction)|[java](LCP/LCP%2002.Deep%20Dark%20Fraction.java)|Easy|
 ||LCP 03|[Programmable Robot](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|[Coin Bonus](https://leetcode-cn.com/problems/coin-bonus)||Hard|

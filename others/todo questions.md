@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|466|0|5|466|4|
+|465|0|5|465|4|
 
 
 
@@ -279,7 +279,6 @@
 ||93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) ([CN](https://leetcode-cn.com/problems/restore-ip-addresses))||Medium|
 ||87|[Scramble String](https://leetcode.com/problems/scramble-string) ([CN](https://leetcode-cn.com/problems/scramble-string))||Hard|
 ||29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) ([CN](https://leetcode-cn.com/problems/divide-two-integers))||Medium|
-||LCP 02|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction)||Easy|
 ||LCP 03|[Programmable Robot](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|[Coin Bonus](https://leetcode-cn.com/problems/coin-bonus)||Hard|
