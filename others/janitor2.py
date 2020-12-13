@@ -283,9 +283,7 @@ class QuestionDetails:
     def query_light(self):
         query_str = """query questionData($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
-                questionId
                 questionFrontendId
-                boundTopicId
                 title
                 titleSlug
             }
