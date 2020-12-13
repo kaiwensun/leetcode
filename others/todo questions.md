@@ -9,15 +9,12 @@
 
 |Total|Solved|Attempted|Unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|469|0|5|469|4|
+|466|0|5|466|4|
 
 
 
 |Status|#|Question|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|
-||1687|[Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports) ([CN](https://leetcode-cn.com/problems/delivering-boxes-from-storage-to-ports))||Hard|
-||1686|[Stone Game VI](https://leetcode.com/problems/stone-game-vi) ([CN](https://leetcode-cn.com/problems/stone-game-vi))||Medium|
-||1685|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array) ([CN](https://leetcode-cn.com/problems/sum-of-absolute-differences-in-a-sorted-array))||Medium|
 |?|1655|[Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers) ([CN](https://leetcode-cn.com/problems/distribute-repeating-integers))||Hard|
 |?|1397|[Find All Good Strings](https://leetcode.com/problems/find-all-good-strings) ([CN](https://leetcode-cn.com/problems/find-all-good-strings))||Hard|
 ||1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist) ([CN](https://leetcode-cn.com/problems/design-skiplist))||Hard|
