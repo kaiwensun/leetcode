@@ -25,6 +25,8 @@ class Solution(object):
             if b1 and b2:
                 if p2s[p]==s and s2p[s]==p:
                     continue
+                else:
+                    return False
             elif not b1 and not b2:
                 p2s[p]=s
                 s2p[s]=p
