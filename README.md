@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1902|1109|5|261|4|
+|1902|1110|5|260|4|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -828,7 +828,7 @@
 ||885|Spiral Matrix III|[:us:](https://leetcode.com/problems/spiral-matrix-iii)[:cn:](https://leetcode-cn.com/problems/spiral-matrix-iii)||Medium|
 |:heavy_check_mark:|884|Uncommon Words from Two Sentences|[:us:](https://leetcode.com/problems/uncommon-words-from-two-sentences)[:cn:](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences)|[py](0501-1000/0884.Uncommon%20Words%20from%20Two%20Sentences.py)|Easy|
 |:heavy_check_mark:|883|Projection Area of 3D Shapes|[:us:](https://leetcode.com/problems/projection-area-of-3d-shapes)[:cn:](https://leetcode-cn.com/problems/projection-area-of-3d-shapes)|[py](0501-1000/0883.Projection%20Area%20of%203D%20Shapes.py)|Easy|
-||882|Reachable Nodes In Subdivided Graph|[:us:](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)[:cn:](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph)||Hard|
+|:heavy_check_mark:|882|Reachable Nodes In Subdivided Graph|[:us:](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)[:cn:](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph)|[py](0501-1000/0882.Reachable%20Nodes%20In%20Subdivided%20Graph.py)|Hard|
 |:heavy_check_mark:|881|Boats to Save People|[:us:](https://leetcode.com/problems/boats-to-save-people)[:cn:](https://leetcode-cn.com/problems/boats-to-save-people)|[py](0501-1000/0881.Boats%20to%20Save%20People.py)|Medium|
 |:heavy_check_mark:|880|Decoded String at Index|[:us:](https://leetcode.com/problems/decoded-string-at-index)[:cn:](https://leetcode-cn.com/problems/decoded-string-at-index)|[py](0501-1000/0880.Decoded%20String%20at%20Index.py)|Medium|
 ||879|Profitable Schemes|[:us:](https://leetcode.com/problems/profitable-schemes)[:cn:](https://leetcode-cn.com/problems/profitable-schemes)||Hard|

@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|460|0|5|261|4|
+|459|0|5|260|4|
 
 
 
@@ -48,7 +48,6 @@
 |:question:|891|Sum of Subsequence Widths|[:us:](https://leetcode.com/problems/sum-of-subsequence-widths)[:cn:](https://leetcode-cn.com/problems/sum-of-subsequence-widths)||Hard|
 ||887|Super Egg Drop|[:us:](https://leetcode.com/problems/super-egg-drop)[:cn:](https://leetcode-cn.com/problems/super-egg-drop)||Hard|
 ||885|Spiral Matrix III|[:us:](https://leetcode.com/problems/spiral-matrix-iii)[:cn:](https://leetcode-cn.com/problems/spiral-matrix-iii)||Medium|
-||882|Reachable Nodes In Subdivided Graph|[:us:](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)[:cn:](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph)||Hard|
 ||879|Profitable Schemes|[:us:](https://leetcode.com/problems/profitable-schemes)[:cn:](https://leetcode-cn.com/problems/profitable-schemes)||Hard|
 ||875|Koko Eating Bananas|[:us:](https://leetcode.com/problems/koko-eating-bananas)[:cn:](https://leetcode-cn.com/problems/koko-eating-bananas)||Medium|
 ||871|Minimum Number of Refueling Stops|[:us:](https://leetcode.com/problems/minimum-number-of-refueling-stops)[:cn:](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)||Hard|
