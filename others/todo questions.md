@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|461|0|5|262|4|
+|460|0|5|261|4|
 
 
 
@@ -38,7 +38,6 @@
 ||932|Beautiful Array|[:us:](https://leetcode.com/problems/beautiful-array)[:cn:](https://leetcode-cn.com/problems/beautiful-array)||Medium|
 ||930|Binary Subarrays With Sum|[:us:](https://leetcode.com/problems/binary-subarrays-with-sum)[:cn:](https://leetcode-cn.com/problems/binary-subarrays-with-sum)||Medium|
 ||928|Minimize Malware Spread II|[:us:](https://leetcode.com/problems/minimize-malware-spread-ii)[:cn:](https://leetcode-cn.com/problems/minimize-malware-spread-ii)||Hard|
-||926|Flip String to Monotone Increasing|[:us:](https://leetcode.com/problems/flip-string-to-monotone-increasing)[:cn:](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing)||Medium|
 ||920|Number of Music Playlists|[:us:](https://leetcode.com/problems/number-of-music-playlists)[:cn:](https://leetcode-cn.com/problems/number-of-music-playlists)||Hard|
 ||915|Partition Array into Disjoint Intervals|[:us:](https://leetcode.com/problems/partition-array-into-disjoint-intervals)[:cn:](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals)||Medium|
 ||910|Smallest Range II|[:us:](https://leetcode.com/problems/smallest-range-ii)[:cn:](https://leetcode-cn.com/problems/smallest-range-ii)||Medium|

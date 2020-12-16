@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1902|1108|5|262|4|
+|1902|1109|5|261|4|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -784,7 +784,7 @@
 |:heavy_check_mark:|929|Unique Email Addresses|[:us:](https://leetcode.com/problems/unique-email-addresses)[:cn:](https://leetcode-cn.com/problems/unique-email-addresses)|[py](0501-1000/0929.Unique%20Email%20Addresses.py)|Easy|
 ||928|Minimize Malware Spread II|[:us:](https://leetcode.com/problems/minimize-malware-spread-ii)[:cn:](https://leetcode-cn.com/problems/minimize-malware-spread-ii)||Hard|
 |:heavy_check_mark:|927|Three Equal Parts|[:us:](https://leetcode.com/problems/three-equal-parts)[:cn:](https://leetcode-cn.com/problems/three-equal-parts)|[py](0501-1000/0927.Three%20Equal%20Parts.py)|Hard|
-||926|Flip String to Monotone Increasing|[:us:](https://leetcode.com/problems/flip-string-to-monotone-increasing)[:cn:](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing)||Medium|
+|:heavy_check_mark:|926|Flip String to Monotone Increasing|[:us:](https://leetcode.com/problems/flip-string-to-monotone-increasing)[:cn:](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing)|[py](0501-1000/0926.Flip%20String%20to%20Monotone%20Increasing.py)|Medium|
 |:heavy_check_mark:|925|Long Pressed Name|[:us:](https://leetcode.com/problems/long-pressed-name)[:cn:](https://leetcode-cn.com/problems/long-pressed-name)|[java](0501-1000/0925.Long%20Pressed%20Name.java)|Easy|
 |:heavy_check_mark:|924|Minimize Malware Spread|[:us:](https://leetcode.com/problems/minimize-malware-spread)[:cn:](https://leetcode-cn.com/problems/minimize-malware-spread)|[py](0501-1000/0924.Minimize%20Malware%20Spread.py)|Hard|
 |:heavy_check_mark:|923|3Sum With Multiplicity|[:us:](https://leetcode.com/problems/3sum-with-multiplicity)[:cn:](https://leetcode-cn.com/problems/3sum-with-multiplicity)|[py](0501-1000/0923.3Sum%20With%20Multiplicity.py)|Medium|
