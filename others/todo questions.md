@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|455|0|5|256|4|
+|454|0|5|255|4|
 
 
 
@@ -57,7 +57,6 @@
 ||864|Shortest Path to Get All Keys|[:us:](https://leetcode.com/problems/shortest-path-to-get-all-keys)[:cn:](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)||Hard|
 ||856|Score of Parentheses|[:us:](https://leetcode.com/problems/score-of-parentheses)[:cn:](https://leetcode-cn.com/problems/score-of-parentheses)||Medium|
 ||855|Exam Room|[:us:](https://leetcode.com/problems/exam-room)[:cn:](https://leetcode-cn.com/problems/exam-room)||Medium|
-||851|Loud and Rich|[:us:](https://leetcode.com/problems/loud-and-rich)[:cn:](https://leetcode-cn.com/problems/loud-and-rich)||Medium|
 ||850|Rectangle Area II|[:us:](https://leetcode.com/problems/rectangle-area-ii)[:cn:](https://leetcode-cn.com/problems/rectangle-area-ii)||Hard|
 ||847|Shortest Path Visiting All Nodes|[:us:](https://leetcode.com/problems/shortest-path-visiting-all-nodes)[:cn:](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)||Hard|
 ||843|Guess the Word|[:us:](https://leetcode.com/problems/guess-the-word)[:cn:](https://leetcode-cn.com/problems/guess-the-word)||Hard|

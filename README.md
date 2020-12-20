@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1908|1118|5|256|4|
+|1908|1119|5|255|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.4%|14.5%|10.9%|4.8%|3.8%|0.5%|0.1%|
+|65.4%|14.4%|10.9%|4.8%|3.8%|0.5%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -865,7 +865,7 @@
 |:heavy_check_mark:|854|K-Similar Strings|[:us:](https://leetcode.com/problems/k-similar-strings)[:cn:](https://leetcode-cn.com/problems/k-similar-strings)|[py](0501-1000/0854.K-Similar%20Strings.py)|Hard|
 |:heavy_check_mark:|853|Car Fleet|[:us:](https://leetcode.com/problems/car-fleet)[:cn:](https://leetcode-cn.com/problems/car-fleet)|[py](0501-1000/0853.Car%20Fleet.py)|Medium|
 |:heavy_check_mark:|852|Peak Index in a Mountain Array|[:us:](https://leetcode.com/problems/peak-index-in-a-mountain-array)[:cn:](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array)|[py](0501-1000/0852.Peak%20Index%20in%20a%20Mountain%20Array.py)|Easy|
-||851|Loud and Rich|[:us:](https://leetcode.com/problems/loud-and-rich)[:cn:](https://leetcode-cn.com/problems/loud-and-rich)||Medium|
+|:heavy_check_mark:|851|Loud and Rich|[:us:](https://leetcode.com/problems/loud-and-rich)[:cn:](https://leetcode-cn.com/problems/loud-and-rich)|[py](0501-1000/0851.Loud%20and%20Rich.py)|Medium|
 ||850|Rectangle Area II|[:us:](https://leetcode.com/problems/rectangle-area-ii)[:cn:](https://leetcode-cn.com/problems/rectangle-area-ii)||Hard|
 |:heavy_check_mark:|849|Maximize Distance to Closest Person|[:us:](https://leetcode.com/problems/maximize-distance-to-closest-person)[:cn:](https://leetcode-cn.com/problems/maximize-distance-to-closest-person)|[py](0501-1000/0849.Maximize%20Distance%20to%20Closest%20Person.py)|Medium|
 |:heavy_check_mark:|848|Shifting Letters|[:us:](https://leetcode.com/problems/shifting-letters)[:cn:](https://leetcode-cn.com/problems/shifting-letters)|[py](0501-1000/0848.Shifting%20Letters.py)|Medium|
