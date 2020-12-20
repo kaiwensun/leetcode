@@ -75,7 +75,6 @@ class Question:
     def is_contest(self):
         return self.is_us() and int(self.id()) > Question.QID_SPLIT
 
-
     def _correct_new_weekly_contest_question(self):
         if self.is_contest():
             qd = QuestionDetails(self._slug)
@@ -259,15 +258,15 @@ class Solution:
         if self.id() in ONLINE_MAP:
             self._question = ONLINE_MAP[self.id()]
         else:
-            if (self.is_us() and 1600 < int(self.id()) < 1800) or self.is_contest():
-                print(
-                    "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
+            for q in ONLINE_MAP.values():
+                if q.is_us() and q._contest_temp_id == self.id():
+                    self._question = q
+                    self._id = q.id()
+                    break
             else:
-                for q in ONLINE_MAP.values():
-                    if q.is_us() and q._contest_temp_id == self.id():
-                        self._question = q
-                        self._id = q.id()
-                        break
+                if (self.is_us() and 1600 < int(self.id()) < 1800) or self.is_contest():
+                    print(
+                        "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
                 else:
                     raise ValueError(
                         "Unable to auto-detect title from online source, for the basename %s", self._basename)
@@ -397,7 +396,7 @@ def update_file(relative_path, content):
 
 
 def gen_markdown(questions, solutions, title):
-    
+
     CN_FLAG = ":cn:"
     US_FLAG = ":us:"
     STAR = ":star:"

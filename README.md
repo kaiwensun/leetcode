@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1904|1117|5|257|4|
+|1908|1117|5|257|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.4%|14.5%|10.9%|4.9%|3.8%|0.5%|0.1%|
+|65.4%|14.5%|10.9%|4.8%|3.8%|0.5%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1697|Checking Existence of Edge Length Limited Paths|[:us:](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)[:cn:](https://leetcode-cn.com/problems/checking-existence-of-edge-length-limited-paths)|[py](1501-2000/1697.Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths.py)|Hard|
+|:heavy_check_mark:|1696|Jump Game VI|[:us:](https://leetcode.com/problems/jump-game-vi)[:cn:](https://leetcode-cn.com/problems/jump-game-vi)|[py](1501-2000/1696.Jump%20Game%20VI.py)|Medium|
+|:heavy_check_mark:|1695|Maximum Erasure Value|[:us:](https://leetcode.com/problems/maximum-erasure-value)[:cn:](https://leetcode-cn.com/problems/maximum-erasure-value)|[py](1501-2000/1695.Maximum%20Erasure%20Value.py)|Medium|
+|:heavy_check_mark:|1694|Reformat Phone Number|[:us:](https://leetcode.com/problems/reformat-phone-number)[:cn:](https://leetcode-cn.com/problems/reformat-phone-number)|[py](1501-2000/1694.Reformat%20Phone%20Number.py)|Easy|
 |:lock:|1693|Daily Leads and Partners|[:us:](https://leetcode.com/problems/daily-leads-and-partners)[:cn:](https://leetcode-cn.com/problems/daily-leads-and-partners)||Easy|
 |:lock:|1692|Count Ways to Distribute Candies|[:us:](https://leetcode.com/problems/count-ways-to-distribute-candies)[:cn:](https://leetcode-cn.com/problems/count-ways-to-distribute-candies)||Hard|
 |:heavy_check_mark:|1691|Maximum Height by Stacking Cuboids|[:us:](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)[:cn:](https://leetcode-cn.com/problems/maximum-height-by-stacking-cuboids)|[py](1501-2000/1691.Maximum%20Height%20by%20Stacking%20Cuboids.py)|Hard|
@@ -1400,7 +1404,7 @@
 |:heavy_check_mark::star:|315|Count of Smaller Numbers After Self|[:us:](https://leetcode.com/problems/count-of-smaller-numbers-after-self)[:cn:](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self)|[java](0001-0500/0315.Count%20of%20Smaller%20Numbers%20After%20Self.java)|Hard|
 |:lock:|314|Binary Tree Vertical Order Traversal|[:us:](https://leetcode.com/problems/binary-tree-vertical-order-traversal)[:cn:](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal)||Medium|
 |:heavy_check_mark:|313|Super Ugly Number|[:us:](https://leetcode.com/problems/super-ugly-number)[:cn:](https://leetcode-cn.com/problems/super-ugly-number)|[py](0001-0500/0313.Super%20Ugly%20Number.py)|Medium|
-|:heavy_check_mark:|312|Burst Balloons|[:us:](https://leetcode.com/problems/burst-balloons)[:cn:](https://leetcode-cn.com/problems/burst-balloons)|[c](0001-0500/0312.Burst%20Balloons.c), [py](0001-0500/0312.Burst%20Balloons.2.%28recursive%29.py), [py](0001-0500/0312.Burst%20Balloons.1.%28iterative%29.py)|Hard|
+|:heavy_check_mark:|312|Burst Balloons|[:us:](https://leetcode.com/problems/burst-balloons)[:cn:](https://leetcode-cn.com/problems/burst-balloons)|[c](0001-0500/0312.Burst%20Balloons.c), [py](0001-0500/0312.Burst%20Balloons.2.%28recursive%29.py), [py](0001-0500/0312.Burst%20Balloons.%28lru_cache%29.py), [py](0001-0500/0312.Burst%20Balloons.1.%28iterative%29.py)|Hard|
 |:lock:|311|Sparse Matrix Multiplication|[:us:](https://leetcode.com/problems/sparse-matrix-multiplication)[:cn:](https://leetcode-cn.com/problems/sparse-matrix-multiplication)||Medium|
 |:heavy_check_mark:|310|Minimum Height Trees|[:us:](https://leetcode.com/problems/minimum-height-trees)[:cn:](https://leetcode-cn.com/problems/minimum-height-trees)|[java](0001-0500/0310.Minimum%20Height%20Trees.2.%28stack%20overflow%29.java), [py](0001-0500/0310.Minimum%20Height%20Trees.py)|Medium|
 |:heavy_check_mark:|309|Best Time to Buy and Sell Stock with Cooldown|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)[:cn:](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|[py](0001-0500/0309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|Medium|
