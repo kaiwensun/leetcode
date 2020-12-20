@@ -181,10 +181,13 @@ class Solution:
                     raise ValueError(
                         "Found multiple titles from basename %s" % self._basename)
                 self._title = piece.strip()
-        question = self._question
+        question = getattr(self, "_question", None)
         if question is None:
-            raise ValueError(
-                "Unable to auto-detect title from online source, for the basename %s", self._basename)
+            msg = "Unable to auto-detect title from online source, for the basename %s" % self._basename
+            if self.is_us() and int(self.id()) > 5000:
+                print("[WARN] " + msg)
+            else:
+                raise ValueError(msg)
         if self._title is None:
             # tring to fill the title from online source
             print("[WARN] Solution %s name defaults to %s" %
@@ -219,7 +222,10 @@ class Solution:
             raise ValueError("Unknown question id %s" % self._id)
 
     def desired_abs_path(self):
-        return os.path.join(Solution.ROOT_PATH, self.desired_folder(), self.desired_basename())
+        if self.is_us() and int(self.id()) > 5000:
+            return os.path.join(Solution.ROOT_PATH, self.desired_basename())
+        else:
+            return os.path.join(Solution.ROOT_PATH, self.desired_folder(), self.desired_basename())
 
     def is_misplaced(self):
         return self._abs_path != self.desired_abs_path()
@@ -246,7 +252,7 @@ class Solution:
         if self.id() in ONLINE_MAP:
             self._question = ONLINE_MAP[self.id()]
         else:
-            if self.is_us() and 1600 < int(self.id()) < 1800:
+            if self.is_us() and (1600 < int(self.id()) < 1800 or int(self.id()) > 5000):
                 print(
                     "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
             else:
