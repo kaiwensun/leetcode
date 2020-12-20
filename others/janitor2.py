@@ -72,8 +72,12 @@ class Question:
     def lock(self):
         return self._lock
 
+    def is_contest(self):
+        return self.is_us() and int(self.id()) > Question.QID_SPLIT
+
+
     def _correct_new_weekly_contest_question(self):
-        if self.is_us() and int(self.id()) > Question.QID_SPLIT:
+        if self.is_contest():
             qd = QuestionDetails(self._slug)
             light = qd.query_light()
             if light:
@@ -142,6 +146,9 @@ class Solution:
     def original_abs_path(self):
         return self._abs_path
 
+    def is_contest(self):
+        return self.is_us() and int(self.id()) > Question.QID_SPLIT
+
     def _parse_basename(self):
         # id.title[.version][.hint].typ
         splited = self._basename.split(".")
@@ -184,7 +191,7 @@ class Solution:
         question = getattr(self, "_question", None)
         if question is None:
             msg = "Unable to auto-detect title from online source, for the basename %s" % self._basename
-            if self.is_us() and int(self.id()) > 5000:
+            if self.is_contest():
                 print("[WARN] " + msg)
             else:
                 raise ValueError(msg)
@@ -222,7 +229,7 @@ class Solution:
             raise ValueError("Unknown question id %s" % self._id)
 
     def desired_abs_path(self):
-        if self.is_us() and int(self.id()) > 5000:
+        if self.is_contest():
             return os.path.join(Solution.ROOT_PATH, self.desired_basename())
         else:
             return os.path.join(Solution.ROOT_PATH, self.desired_folder(), self.desired_basename())
@@ -252,7 +259,7 @@ class Solution:
         if self.id() in ONLINE_MAP:
             self._question = ONLINE_MAP[self.id()]
         else:
-            if self.is_us() and (1600 < int(self.id()) < 1800 or int(self.id()) > 5000):
+            if (self.is_us() and 1600 < int(self.id()) < 1800) or self.is_contest():
                 print(
                     "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
             else:
