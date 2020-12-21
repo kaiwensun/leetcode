@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1908|1120|5|254|4|
+|1908|1121|5|253|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.5%|14.4%|10.9%|4.8%|3.8%|0.5%|0.1%|
+|65.4%|14.5%|10.9%|4.8%|3.8%|0.5%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1284,7 +1284,7 @@
 |:heavy_check_mark:|435|Non-overlapping Intervals|[:us:](https://leetcode.com/problems/non-overlapping-intervals)[:cn:](https://leetcode-cn.com/problems/non-overlapping-intervals)|[py](0001-0500/0435.Non-overlapping%20Intervals.py)|Medium|
 ||434|Number of Segments in a String|[:us:](https://leetcode.com/problems/number-of-segments-in-a-string)[:cn:](https://leetcode-cn.com/problems/number-of-segments-in-a-string)||Easy|
 |:heavy_check_mark:|433|Minimum Genetic Mutation|[:us:](https://leetcode.com/problems/minimum-genetic-mutation)[:cn:](https://leetcode-cn.com/problems/minimum-genetic-mutation)|[java](0001-0500/0433.Minimum%20Genetic%20Mutation.2.%28Queue%29.java), [java](0001-0500/0433.Minimum%20Genetic%20Mutation.1.%28Hash%29.java)|Medium|
-||432|All O`one Data Structure|[:us:](https://leetcode.com/problems/all-oone-data-structure)[:cn:](https://leetcode-cn.com/problems/all-oone-data-structure)||Hard|
+|:heavy_check_mark:|432|All O`one Data Structure|[:us:](https://leetcode.com/problems/all-oone-data-structure)[:cn:](https://leetcode-cn.com/problems/all-oone-data-structure)|[java](0001-0500/0432.All%20O%60one%20Data%20Structure.java)|Hard|
 |:lock:|431|Encode N-ary Tree to Binary Tree|[:us:](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)[:cn:](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree)||Hard|
 |:heavy_check_mark:|430|Flatten a Multilevel Doubly Linked List|[:us:](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)[:cn:](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|[java](0001-0500/0430.Flatten%20a%20Multilevel%20Doubly%20Linked%20List.java)|Medium|
 ||429|N-ary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-level-order-traversal)[:cn:](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)||Medium|

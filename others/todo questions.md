@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|453|0|5|254|4|
+|452|0|5|253|4|
 
 
 
@@ -219,7 +219,6 @@
 ||443|String Compression|[:us:](https://leetcode.com/problems/string-compression)[:cn:](https://leetcode-cn.com/problems/string-compression)||Medium|
 ||440|K-th Smallest in Lexicographical Order|[:us:](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)[:cn:](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)||Hard|
 ||434|Number of Segments in a String|[:us:](https://leetcode.com/problems/number-of-segments-in-a-string)[:cn:](https://leetcode-cn.com/problems/number-of-segments-in-a-string)||Easy|
-||432|All O`one Data Structure|[:us:](https://leetcode.com/problems/all-oone-data-structure)[:cn:](https://leetcode-cn.com/problems/all-oone-data-structure)||Hard|
 ||429|N-ary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-level-order-traversal)[:cn:](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)||Medium|
 ||427|Construct Quad Tree|[:us:](https://leetcode.com/problems/construct-quad-tree)[:cn:](https://leetcode-cn.com/problems/construct-quad-tree)||Medium|
 ||424|Longest Repeating Character Replacement|[:us:](https://leetcode.com/problems/longest-repeating-character-replacement)[:cn:](https://leetcode-cn.com/problems/longest-repeating-character-replacement)||Medium|
