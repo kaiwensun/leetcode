@@ -9,12 +9,15 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|447|0|5|248|4|
+|450|0|5|251|4|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)[:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
+||1702|Maximum Binary String After Change|[:us:](https://leetcode.com/problems/maximum-binary-string-after-change)[:cn:](https://leetcode-cn.com/problems/maximum-binary-string-after-change)||Medium|
+||1701|Average Waiting Time|[:us:](https://leetcode.com/problems/average-waiting-time)[:cn:](https://leetcode-cn.com/problems/average-waiting-time)||Medium|
 |:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers)[:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|
 |:question:|1397|Find All Good Strings|[:us:](https://leetcode.com/problems/find-all-good-strings)[:cn:](https://leetcode-cn.com/problems/find-all-good-strings)||Hard|
 ||1206|Design Skiplist|[:us:](https://leetcode.com/problems/design-skiplist)[:cn:](https://leetcode-cn.com/problems/design-skiplist)||Hard|
