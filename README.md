@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1909|1124|5|250|4|
+|1909|1125|5|249|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.5%|10.9%|4.8%|3.8%|0.5%|0.2%|
+|65.3%|14.5%|10.8%|4.8%|3.8%|0.5%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1040,7 +1040,7 @@
 |:heavy_check_mark:|680|Valid Palindrome II|[:us:](https://leetcode.com/problems/valid-palindrome-ii)[:cn:](https://leetcode-cn.com/problems/valid-palindrome-ii)|[py](0501-1000/0680.Valid%20Palindrome%20II.py)|Easy|
 ||679|24 Game|[:us:](https://leetcode.com/problems/24-game)[:cn:](https://leetcode-cn.com/problems/24-game)||Hard|
 |:heavy_check_mark:|678|Valid Parenthesis String|[:us:](https://leetcode.com/problems/valid-parenthesis-string)[:cn:](https://leetcode-cn.com/problems/valid-parenthesis-string)|[rb](0501-1000/0678.Valid%20Parenthesis%20String.rb), [rb](0501-1000/0678.Valid%20Parenthesis%20String.2.rb)|Medium|
-||677|Map Sum Pairs|[:us:](https://leetcode.com/problems/map-sum-pairs)[:cn:](https://leetcode-cn.com/problems/map-sum-pairs)||Medium|
+|:heavy_check_mark:|677|Map Sum Pairs|[:us:](https://leetcode.com/problems/map-sum-pairs)[:cn:](https://leetcode-cn.com/problems/map-sum-pairs)|[py](0501-1000/0677.Map%20Sum%20Pairs.py)|Medium|
 ||676|Implement Magic Dictionary|[:us:](https://leetcode.com/problems/implement-magic-dictionary)[:cn:](https://leetcode-cn.com/problems/implement-magic-dictionary)||Medium|
 ||675|Cut Off Trees for Golf Event|[:us:](https://leetcode.com/problems/cut-off-trees-for-golf-event)[:cn:](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)||Hard|
 |:heavy_check_mark:|674|Longest Continuous Increasing Subsequence|[:us:](https://leetcode.com/problems/longest-continuous-increasing-subsequence)[:cn:](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence)|[c](0501-1000/0674.Longest%20Continuous%20Increasing%20Subsequence.c)|Easy|

@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|449|0|5|250|4|
+|448|0|5|249|4|
 
 
 
@@ -131,7 +131,6 @@
 ||685|Redundant Connection II|[:us:](https://leetcode.com/problems/redundant-connection-ii)[:cn:](https://leetcode-cn.com/problems/redundant-connection-ii)||Hard|
 ||682|Baseball Game|[:us:](https://leetcode.com/problems/baseball-game)[:cn:](https://leetcode-cn.com/problems/baseball-game)||Easy|
 ||679|24 Game|[:us:](https://leetcode.com/problems/24-game)[:cn:](https://leetcode-cn.com/problems/24-game)||Hard|
-||677|Map Sum Pairs|[:us:](https://leetcode.com/problems/map-sum-pairs)[:cn:](https://leetcode-cn.com/problems/map-sum-pairs)||Medium|
 ||676|Implement Magic Dictionary|[:us:](https://leetcode.com/problems/implement-magic-dictionary)[:cn:](https://leetcode-cn.com/problems/implement-magic-dictionary)||Medium|
 ||675|Cut Off Trees for Golf Event|[:us:](https://leetcode.com/problems/cut-off-trees-for-golf-event)[:cn:](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)||Hard|
 ||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii)[:cn:](https://leetcode-cn.com/problems/bulb-switcher-ii)||Medium|
