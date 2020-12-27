@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|448|0|5|249|4|
+|447|0|5|248|4|
 
 
 
@@ -99,7 +99,6 @@
 ||766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix)[:cn:](https://leetcode-cn.com/problems/toeplitz-matrix)||Easy|
 ||765|Couples Holding Hands|[:us:](https://leetcode.com/problems/couples-holding-hands)[:cn:](https://leetcode-cn.com/problems/couples-holding-hands)||Hard|
 ||762|Prime Number of Set Bits in Binary Representation|[:us:](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)[:cn:](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)||Easy|
-||761|Special Binary String|[:us:](https://leetcode.com/problems/special-binary-string)[:cn:](https://leetcode-cn.com/problems/special-binary-string)||Hard|
 ||757|Set Intersection Size At Least Two|[:us:](https://leetcode.com/problems/set-intersection-size-at-least-two)[:cn:](https://leetcode-cn.com/problems/set-intersection-size-at-least-two)||Hard|
 ||754|Reach a Number|[:us:](https://leetcode.com/problems/reach-a-number)[:cn:](https://leetcode-cn.com/problems/reach-a-number)||Medium|
 ||753|Cracking the Safe|[:us:](https://leetcode.com/problems/cracking-the-safe)[:cn:](https://leetcode-cn.com/problems/cracking-the-safe)||Hard|

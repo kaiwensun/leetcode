@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1918|1133|5|249|4|
+|1918|1134|5|248|4|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -965,7 +965,7 @@
 |:heavy_check_mark:|764|Largest Plus Sign|[:us:](https://leetcode.com/problems/largest-plus-sign)[:cn:](https://leetcode-cn.com/problems/largest-plus-sign)|[java](0501-1000/0764.Largest%20Plus%20Sign.java)|Medium|
 |:heavy_check_mark:|763|Partition Labels|[:us:](https://leetcode.com/problems/partition-labels)[:cn:](https://leetcode-cn.com/problems/partition-labels)|[py](0501-1000/0763.Partition%20Labels.py)|Medium|
 ||762|Prime Number of Set Bits in Binary Representation|[:us:](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)[:cn:](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)||Easy|
-||761|Special Binary String|[:us:](https://leetcode.com/problems/special-binary-string)[:cn:](https://leetcode-cn.com/problems/special-binary-string)||Hard|
+|:heavy_check_mark:|761|Special Binary String|[:us:](https://leetcode.com/problems/special-binary-string)[:cn:](https://leetcode-cn.com/problems/special-binary-string)|[py](0501-1000/0761.Special%20Binary%20String.py)|Hard|
 |:heavy_check_mark::lock:|760|Find Anagram Mappings|[:us:](https://leetcode.com/problems/find-anagram-mappings)[:cn:](https://leetcode-cn.com/problems/find-anagram-mappings)|[py](0501-1000/0760.Find%20Anagram%20Mappings.py)|Easy|
 |:lock:|759|Employee Free Time|[:us:](https://leetcode.com/problems/employee-free-time)[:cn:](https://leetcode-cn.com/problems/employee-free-time)||Hard|
 |:lock:|758|Bold Words in String|[:us:](https://leetcode.com/problems/bold-words-in-string)[:cn:](https://leetcode-cn.com/problems/bold-words-in-string)||Easy|
