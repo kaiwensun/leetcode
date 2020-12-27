@@ -9,19 +9,19 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1913|1127|5|251|4|
+|1913|1128|5|250|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.5%|10.8%|4.8%|3.8%|0.5%|0.2%|
+|65.2%|14.6%|10.8%|4.8%|3.8%|0.5%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)[:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
 ||1702|Maximum Binary String After Change|[:us:](https://leetcode.com/problems/maximum-binary-string-after-change)[:cn:](https://leetcode-cn.com/problems/maximum-binary-string-after-change)||Medium|
-||1701|Average Waiting Time|[:us:](https://leetcode.com/problems/average-waiting-time)[:cn:](https://leetcode-cn.com/problems/average-waiting-time)||Medium|
+|:heavy_check_mark:|1701|Average Waiting Time|[:us:](https://leetcode.com/problems/average-waiting-time)[:cn:](https://leetcode-cn.com/problems/average-waiting-time)|[java](1501-2000/1701.Average%20Waiting%20Time.java)|Medium|
 |:heavy_check_mark:|1700|Number of Students Unable to Eat Lunch|[:us:](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)[:cn:](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch)|[cpp](1501-2000/1700.Number%20of%20Students%20Unable%20to%20Eat%20Lunch.cpp)|Easy|
 |:lock:|1698|Number of Distinct Substrings in a String|[:us:](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)[:cn:](https://leetcode-cn.com/problems/number-of-distinct-substrings-in-a-string)||Hard|
 |:heavy_check_mark:|1697|Checking Existence of Edge Length Limited Paths|[:us:](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)[:cn:](https://leetcode-cn.com/problems/checking-existence-of-edge-length-limited-paths)|[py](1501-2000/1697.Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths.py)|Hard|
