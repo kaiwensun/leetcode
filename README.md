@@ -9,18 +9,22 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1913|1132|5|250|4|
+|1917|1133|5|249|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.5%|10.8%|4.8%|3.8%|0.5%|0.2%|
+|65.3%|14.6%|10.8%|4.8%|3.8%|0.5%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1707|Maximum XOR With an Element From Array|[:us:](https://leetcode.com/problems/maximum-xor-with-an-element-from-array)[:cn:](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array)|[py](1501-2000/1707.Maximum%20XOR%20With%20an%20Element%20From%20Array.py)|Hard|
+|:heavy_check_mark:|1706|Where Will the Ball Fall|[:us:](https://leetcode.com/problems/where-will-the-ball-fall)[:cn:](https://leetcode-cn.com/problems/where-will-the-ball-fall)|[py](1501-2000/1706.Where%20Will%20the%20Ball%20Fall.py)|Medium|
+|:heavy_check_mark:|1705|Maximum Number of Eaten Apples|[:us:](https://leetcode.com/problems/maximum-number-of-eaten-apples)[:cn:](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples)|[py](1501-2000/1705.Maximum%20Number%20of%20Eaten%20Apples.py)|Medium|
+|:heavy_check_mark:|1704|Determine if String Halves Are Alike|[:us:](https://leetcode.com/problems/determine-if-string-halves-are-alike)[:cn:](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike)|[py](1501-2000/1704.Determine%20if%20String%20Halves%20Are%20Alike.py)|Easy|
 ||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)[:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
-||1702|Maximum Binary String After Change|[:us:](https://leetcode.com/problems/maximum-binary-string-after-change)[:cn:](https://leetcode-cn.com/problems/maximum-binary-string-after-change)||Medium|
+|:heavy_check_mark:|1702|Maximum Binary String After Change|[:us:](https://leetcode.com/problems/maximum-binary-string-after-change)[:cn:](https://leetcode-cn.com/problems/maximum-binary-string-after-change)|[java](1501-2000/1702.Maximum%20Binary%20String%20After%20Change.java)|Medium|
 |:heavy_check_mark:|1701|Average Waiting Time|[:us:](https://leetcode.com/problems/average-waiting-time)[:cn:](https://leetcode-cn.com/problems/average-waiting-time)|[java](1501-2000/1701.Average%20Waiting%20Time.java)|Medium|
 |:heavy_check_mark:|1700|Number of Students Unable to Eat Lunch|[:us:](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)[:cn:](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch)|[cpp](1501-2000/1700.Number%20of%20Students%20Unable%20to%20Eat%20Lunch.cpp)|Easy|
 |:lock:|1698|Number of Distinct Substrings in a String|[:us:](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)[:cn:](https://leetcode-cn.com/problems/number-of-distinct-substrings-in-a-string)||Hard|
