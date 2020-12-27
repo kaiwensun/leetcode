@@ -14,7 +14,7 @@
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.6%|10.8%|4.8%|3.8%|0.5%|0.2%|
+|65.2%|14.6%|10.8%|4.8%|3.8%|0.6%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -255,7 +255,7 @@
 |:heavy_check_mark:|1473|Paint House III|[:us:](https://leetcode.com/problems/paint-house-iii)[:cn:](https://leetcode-cn.com/problems/paint-house-iii)|[py](1001-1500/1473.Paint%20House%20III.py)|Hard|
 |:heavy_check_mark:|1472|Design Browser History|[:us:](https://leetcode.com/problems/design-browser-history)[:cn:](https://leetcode-cn.com/problems/design-browser-history)|[py](1001-1500/1472.Design%20Browser%20History.py)|Medium|
 |:heavy_check_mark:|1471|The k Strongest Values in an Array|[:us:](https://leetcode.com/problems/the-k-strongest-values-in-an-array)[:cn:](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array)|[rb](1001-1500/1471.The%20k%20Strongest%20Values%20in%20an%20Array.rb)|Medium|
-|:heavy_check_mark:|1470|Shuffle the Array|[:us:](https://leetcode.com/problems/shuffle-the-array)[:cn:](https://leetcode-cn.com/problems/shuffle-the-array)|[py](1001-1500/1470.Shuffle%20the%20Array.py), [rb](1001-1500/1470.Shuffle%20the%20Array.rb)|Easy|
+|:heavy_check_mark:|1470|Shuffle the Array|[:us:](https://leetcode.com/problems/shuffle-the-array)[:cn:](https://leetcode-cn.com/problems/shuffle-the-array)|[js](1001-1500/1470.Shuffle%20the%20Array.js), [py](1001-1500/1470.Shuffle%20the%20Array.py), [rb](1001-1500/1470.Shuffle%20the%20Array.rb)|Easy|
 |:lock:|1469|Find All The Lonely Nodes|[:us:](https://leetcode.com/problems/find-all-the-lonely-nodes)[:cn:](https://leetcode-cn.com/problems/find-all-the-lonely-nodes)||Easy|
 |:lock:|1468|Calculate Salaries|[:us:](https://leetcode.com/problems/calculate-salaries)[:cn:](https://leetcode-cn.com/problems/calculate-salaries)||Medium|
 |:heavy_check_mark:|1467|Probability of a Two Boxes Having The Same Number of Distinct Balls|[:us:](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)[:cn:](https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|[py](1001-1500/1467.Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls.py)|Hard|
