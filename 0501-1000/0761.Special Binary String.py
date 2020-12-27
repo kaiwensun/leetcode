@@ -22,18 +22,12 @@ class Solution(object):
                     ones = zeros = 0
             return res
 
-        changed = True
-        while changed:
-            changed = False
-            for start in xrange(len(S)):
-                substrings = get_consecutive_substrings(S, start)
-                total_size = sum(map(len, substrings))
-                substrings.sort(reverse=True)
-                if len(substrings) > 1:
-                    new_substr = [item for substring in substrings for item in substring]
-                    if S[start:start+total_size] != new_substr:
-                        changed = True
-                        S[start:start+total_size] = new_substr
+        for start in xrange(len(S) - 1, -1, -1):
+            substrings = get_consecutive_substrings(S, start)
+            total_size = sum(map(len, substrings))
+            substrings.sort(reverse=True)
+            if len(substrings) > 1:
+                S[start:start+total_size] = [item for substring in substrings for item in substring]
 
         return "".join(S)
 
