@@ -9,6 +9,7 @@ import datetime
 import urllib
 import sys
 import json
+import time
 
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
@@ -26,6 +27,28 @@ def get_root_path():
     return os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 
 # ======== Modeling ========
+
+
+class GraphQLData:
+    BASE_URL = "https://leetcode.com"
+    GRAPHQL_URL = BASE_URL + "/graphql"
+
+    def __init__(self):
+        self.client = None
+        self.csrf = None
+
+    def _query(self):
+        if self.csrf is None:
+            self.client = requests.Session()
+            self.client.get(GraphQLData.BASE_URL)
+            self.csrf = self.client.cookies['csrftoken']
+        params = {
+            'operationName': "query",
+            'variables': self.variables,
+            'query': 'query ' + self.query_str
+        }
+        return self.client.post(GraphQLData.GRAPHQL_URL, json=params, headers={
+            "X-CSRFToken": self.csrf, "Referer": GraphQLData.BASE_URL})
 
 
 class Question:
@@ -114,7 +137,7 @@ class Solution:
 
     FOLDER_SIZE = 500
     KNOWN_TYPES = {"c", "cpp", "java", "py",
-                   "rb", "sh", "js", "sql", "php", "txt"}
+                   "rb", "sh", "js", "sql", "php", "txt", "md"}
     KNOWN_CN_GROUPS = [
         re.compile("^LCP \d{2}$"),
         re.compile("^剑指 Offer \d{2}(- I{1,3})?$"),
@@ -289,23 +312,18 @@ class Solution:
         })
 
 
-class QuestionDetails:
-    def __init__(self, titleSlug):
-        self.titleSlug = titleSlug
-
-    def query_light(self):
-        query_str = """query questionData($titleSlug: String!) {
+class QuestionDetails(GraphQLData):
+    LIGHT_QUERY = """
+        query($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
                 questionFrontendId
                 title
                 titleSlug
             }
         }"""
-        return self._query(query_str)
 
-    def query_full(self):
-        # do not abuse
-        query_str = """query questionData($titleSlug: String!) {
+    FULL_QUERY = """
+        query($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
                 questionId
                 questionFrontendId
@@ -322,32 +340,32 @@ class QuestionDetails:
                 isLiked
                 similarQuestions
                 contributors {
-                username
-                profileUrl
-                avatarUrl
-                __typename
+                    username
+                    profileUrl
+                    avatarUrl
+                    __typename
                 }
                 topicTags {
-                name
-                slug
-                translatedName
-                __typename
+                    name
+                    slug
+                    translatedName
+                    __typename
                 }
                 companyTagStats
                 codeSnippets {
-                lang
-                langSlug
-                code
-                __typename
+                    lang
+                    langSlug
+                    code
+                    __typename
                 }
                 stats
                 hints
                 solution {
-                id
-                canSeeDetail
-                paidOnly
-                hasVideoSolution
-                __typename
+                    id
+                    canSeeDetail
+                    paidOnly
+                    hasVideoSolution
+                    __typename
                 }
                 status
                 sampleTestCase
@@ -363,23 +381,167 @@ class QuestionDetails:
                 adminUrl
                 __typename
             }
-        }"""
-        return self._query(query_str)
-
-    def _query(self, query_str):
-        get_url = "https://leetcode.com/problems/%s/" % self.titleSlug
-        graphql_url = "https://leetcode.com/graphql"
-        client = requests.Session()
-        resp1 = client.get(get_url)
-        csrf = client.cookies['csrftoken']
-        params = {
-            'operationName': 'questionData',
-            'variables': {'titleSlug': self.titleSlug},
-            'query': query_str
         }
-        resp2 = client.post(graphql_url, json=params, headers={
-                            "X-CSRFToken": csrf, "Referer": resp1.url})
-        return resp2.json()['data']['question']
+    """
+
+    def __init__(self, titleSlug):
+        self.titleSlug = titleSlug
+        self.variables = {'titleSlug': self.titleSlug}
+        super().__init__()
+
+    def query_light(self):
+        self.query_str = QuestionDetails.LIGHT_QUERY
+        return self._query().json()['data']['question']
+
+    def query_full(self):
+        # do not abuse
+        self.query_str = QuestionDetails.FULL_QUERY
+        return self._query().json()['data']['question']
+
+
+class Topic(GraphQLData):
+    TOPIC_URL_PATTERN = "https://leetcode.com/discuss/topic/%d"
+    query_str = """
+        query($topicId: Int!) {
+            topic(id: $topicId) {
+                id
+                viewCount
+                topLevelCommentCount
+                subscribed
+                title
+                pinned
+                tags
+                hideFromTrending
+                post {
+                ...DiscussPost
+                __typename
+                }
+                __typename
+            }
+        }
+
+        fragment DiscussPost on PostNode {
+            id
+            content
+            updationDate
+            creationDate
+            status
+            author {
+                username
+            }
+            __typename
+        }"""
+
+    def __init__(self, topic_id):
+        self.topic_id = int(topic_id)
+        self.variables = {'topicId': self.topic_id}
+        super().__init__()
+
+    def query(self):
+        resp = self._query().json()
+        title = resp['data']['topic']['title']
+        content = resp['data']['topic']['post']['content']
+        creation_time = resp['data']['topic']['post']['creationDate']
+        creation_time = time.strftime(
+            "%Y-%m-%d %H:%M:%S", time.gmtime(creation_time))
+        update_time = resp['data']['topic']['post']['updationDate']
+        update_time = time.strftime(
+            "%Y-%m-%d %H:%M:%S", time.gmtime(update_time))
+        return {
+            "title": title,
+            "content": content,
+            "creation_time": creation_time,
+            "update_time": update_time
+        }
+
+    @functools.lru_cache(1)
+    def get_topic_url(self):
+        # 301 redirect
+        resp = requests.get(Topic.TOPIC_URL_PATTERN % self.topic_id)
+        return resp.url
+
+    def get_title_slug(self):
+        topic_url = self.get_topic_url()
+        pattern = r"(?<=^https://leetcode.com/problems/).*(?=/discuss/" + \
+            str(self.topic_id) + "/.*$)"
+        # print(self.topic_id, topic_url)
+        return re.search(pattern, topic_url).group()
+
+    @functools.lru_cache(1)
+    def get_question_id(self):
+        qd = QuestionDetails(self.get_title_slug())
+        light = qd.query_light()
+        return light["questionFrontendId"]
+
+    @functools.lru_cache(1)  # generate at most once
+    def generate_local_file(self):
+        root_path = get_root_path()
+        qid = self.get_question_id()
+        question = ONLINE_MAP[qid]
+        file_name = "%s.%s.md" % (qid, question.title())
+        abs_path = os.path.join(root_path, file_name)
+        param = self.query()
+        param["content"] = param["content"].replace(
+            '\\n', '\n').replace('\\t', '\t')
+        param["link"] = self.get_topic_url()
+        param["topic_id"] = self.topic_id
+
+        metadata = "\n".join(["> Source: [{topic_id}]({link})",
+                              ">",
+                              "> Created at: {creation_time}",
+                              ">",
+                              "> Updated at: {update_time}"])
+
+        file_content = "\n\n".join(["# {title}",
+                                    metadata,
+                                    "----",
+                                    "{content}"]).format(**param)
+        with open(abs_path, "w") as out:
+            out.write(file_content)
+            print("[INFO] Generated discussion at %s" % abs_path)
+            print(param["title"])
+
+
+class TopicManager(GraphQLData):
+    FILTER_OUT = [496542, 866365, 673853]
+
+    query_str = """
+        query($username: String!, $limit: Int) {
+            userRecentTopics(username: $username, limit: $limit) {
+                id
+                title
+                commentCount
+                post {
+                creationDate
+                voteCount
+                __typename
+                }
+                __typename
+            }
+        }
+    """
+
+    def __init__(self, username, limit=20):
+        self.username = username
+        self.limit = limit
+        self.variables = {'username': self.username, 'limit': self.limit}
+        super().__init__()
+
+    @functools.lru_cache(1)
+    def query(self):
+        return self._query().json()['data']['userRecentTopics']
+
+    def get_topic_ids(self):
+        resp = self.query()
+        return [item["id"] for item in resp if item["id"] not in TopicManager.FILTER_OUT]
+
+    def get_topics(self):
+        return [Topic(topic_id) for topic_id in self.get_topic_ids()]
+
+    def generate_local_files(self):
+        for topic in self.get_topics():
+            topic.generate_local_file()
+
 
 # ======== readme ========
 
@@ -513,7 +675,7 @@ def gen_markdown(questions, solutions, title):
         return "\n".join(res)
 
     def gen_markdown_language_stats(solutions):
-        DO_NOT_STATS = {"txt", "sql", "sh"}
+        DO_NOT_STATS = {"txt", "sql", "sh", "md"}
         cnt = collections.Counter(
             sol.type() for sol in solutions if sol.type() not in DO_NOT_STATS)
         sm = sum(cnt.values())
@@ -651,3 +813,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # fetch discussions only when needed
+    # TopicManager("kaiwensun", 50).generate_local_files()
