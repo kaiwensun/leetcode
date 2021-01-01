@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|445|0|5|246|4|
+|444|0|5|245|4|
 
 
 
@@ -136,7 +136,6 @@
 ||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii)[:cn:](https://leetcode-cn.com/problems/bulb-switcher-ii)||Medium|
 ||670|Maximum Swap|[:us:](https://leetcode.com/problems/maximum-swap)[:cn:](https://leetcode-cn.com/problems/maximum-swap)||Medium|
 ||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)[:cn:](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
-||665|Non-decreasing Array|[:us:](https://leetcode.com/problems/non-decreasing-array)[:cn:](https://leetcode-cn.com/problems/non-decreasing-array)||Easy|
 ||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer)[:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
 ||661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother)[:cn:](https://leetcode-cn.com/problems/image-smoother)||Easy|
 ||658|Find K Closest Elements|[:us:](https://leetcode.com/problems/find-k-closest-elements)[:cn:](https://leetcode-cn.com/problems/find-k-closest-elements)||Medium|

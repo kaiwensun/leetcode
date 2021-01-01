@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1918|1136|5|246|4|
+|1918|1137|5|245|4|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.1%|14.6%|10.7%|4.9%|3.8%|0.6%|0.2%|
+|65.1%|14.5%|10.7%|5.0%|3.8%|0.6%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1061,7 +1061,7 @@
 ||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)[:cn:](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
 |:heavy_check_mark:|667|Beautiful Arrangement II|[:us:](https://leetcode.com/problems/beautiful-arrangement-ii)[:cn:](https://leetcode-cn.com/problems/beautiful-arrangement-ii)|[py](0501-1000/0667.Beautiful%20Arrangement%20II.py)|Medium|
 |:lock:|666|Path Sum IV|[:us:](https://leetcode.com/problems/path-sum-iv)[:cn:](https://leetcode-cn.com/problems/path-sum-iv)||Medium|
-||665|Non-decreasing Array|[:us:](https://leetcode.com/problems/non-decreasing-array)[:cn:](https://leetcode-cn.com/problems/non-decreasing-array)||Easy|
+|:heavy_check_mark:|665|Non-decreasing Array|[:us:](https://leetcode.com/problems/non-decreasing-array)[:cn:](https://leetcode-cn.com/problems/non-decreasing-array)|[c](0501-1000/0665.Non-decreasing%20Array.c)|Easy|
 ||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer)[:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
 |:lock:|663|Equal Tree Partition|[:us:](https://leetcode.com/problems/equal-tree-partition)[:cn:](https://leetcode-cn.com/problems/equal-tree-partition)||Medium|
 |:heavy_check_mark:|662|Maximum Width of Binary Tree|[:us:](https://leetcode.com/problems/maximum-width-of-binary-tree)[:cn:](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)|[rb](0501-1000/0662.Maximum%20Width%20of%20Binary%20Tree.rb)|Medium|
