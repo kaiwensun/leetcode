@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1923|1141|5|245|5|
+|1924|1142|5|244|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.2%|14.5%|10.7%|5.0%|3.8%|0.6%|0.2%|
+|65.2%|14.6%|10.7%|5.0%|3.8%|0.6%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -23,6 +23,7 @@
 |:heavy_check_mark:|1712|Ways to Split Array Into Three Subarrays|[:us:](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays) [:cn:](https://leetcode-cn.com/problems/ways-to-split-array-into-three-subarrays)|[py](1501-2000/1712.Ways%20to%20Split%20Array%20Into%20Three%20Subarrays.py)|Medium|
 |:heavy_check_mark:|1711|Count Good Meals|[:us:](https://leetcode.com/problems/count-good-meals) [:cn:](https://leetcode-cn.com/problems/count-good-meals)|[py](1501-2000/1711.Count%20Good%20Meals.py)|Medium|
 |:heavy_check_mark:|1710|Maximum Units on a Truck|[:us:](https://leetcode.com/problems/maximum-units-on-a-truck) [:cn:](https://leetcode-cn.com/problems/maximum-units-on-a-truck)|[py](1501-2000/1710.Maximum%20Units%20on%20a%20Truck.py)|Easy|
+|:lock:|1709|Biggest Window Between Visits|[:us:](https://leetcode.com/problems/biggest-window-between-visits) [:cn:](https://leetcode-cn.com/problems/biggest-window-between-visits)||Medium|
 |:lock:|1708|Largest Subarray Length K|[:us:](https://leetcode.com/problems/largest-subarray-length-k) [:cn:](https://leetcode-cn.com/problems/largest-subarray-length-k)||Easy|
 |:heavy_check_mark:|1707|Maximum XOR With an Element From Array|[:us:](https://leetcode.com/problems/maximum-xor-with-an-element-from-array) [:cn:](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array)|[py](1501-2000/1707.Maximum%20XOR%20With%20an%20Element%20From%20Array.py)|Hard|
 |:heavy_check_mark:|1706|Where Will the Ball Fall|[:us:](https://leetcode.com/problems/where-will-the-ball-fall) [:cn:](https://leetcode-cn.com/problems/where-will-the-ball-fall)|[py](1501-2000/1706.Where%20Will%20the%20Ball%20Fall.py)|Medium|
@@ -1222,7 +1223,7 @@
 |:lock:|512|Game Play Analysis II|[:us:](https://leetcode.com/problems/game-play-analysis-ii) [:cn:](https://leetcode-cn.com/problems/game-play-analysis-ii)||Easy|
 |:lock:|511|Game Play Analysis I|[:us:](https://leetcode.com/problems/game-play-analysis-i) [:cn:](https://leetcode-cn.com/problems/game-play-analysis-i)||Easy|
 |:lock:|510|Inorder Successor in BST II|[:us:](https://leetcode.com/problems/inorder-successor-in-bst-ii) [:cn:](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii)||Medium|
-||509|Fibonacci Number|[:us:](https://leetcode.com/problems/fibonacci-number) [:cn:](https://leetcode-cn.com/problems/fibonacci-number)||Easy|
+|:heavy_check_mark:|509|Fibonacci Number|[:us:](https://leetcode.com/problems/fibonacci-number) [:cn:](https://leetcode-cn.com/problems/fibonacci-number)|[java](0501-1000/0509.Fibonacci%20Number.java)|Easy|
 |:heavy_check_mark:|508|Most Frequent Subtree Sum|[:us:](https://leetcode.com/problems/most-frequent-subtree-sum) [:cn:](https://leetcode-cn.com/problems/most-frequent-subtree-sum)|[py](0501-1000/0508.Most%20Frequent%20Subtree%20Sum.py)|Medium|
 |:heavy_check_mark:|507|Perfect Number|[:us:](https://leetcode.com/problems/perfect-number) [:cn:](https://leetcode-cn.com/problems/perfect-number)|[py](0501-1000/0507.Perfect%20Number.py)|Easy|
 |:heavy_check_mark:|506|Relative Ranks|[:us:](https://leetcode.com/problems/relative-ranks) [:cn:](https://leetcode-cn.com/problems/relative-ranks)|[py](0501-1000/0506.Relative%20Ranks.py)|Easy|
