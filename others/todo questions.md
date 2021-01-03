@@ -15,251 +15,251 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)[:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
-|:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers)[:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|
-|:question:|1397|Find All Good Strings|[:us:](https://leetcode.com/problems/find-all-good-strings)[:cn:](https://leetcode-cn.com/problems/find-all-good-strings)||Hard|
-||1206|Design Skiplist|[:us:](https://leetcode.com/problems/design-skiplist)[:cn:](https://leetcode-cn.com/problems/design-skiplist)||Hard|
-||1203|Sort Items by Groups Respecting Dependencies|[:us:](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)[:cn:](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)||Hard|
-||1179|Reformat Department Table|[:us:](https://leetcode.com/problems/reformat-department-table)[:cn:](https://leetcode-cn.com/problems/reformat-department-table)||Easy|
-||1157|Online Majority Element In Subarray|[:us:](https://leetcode.com/problems/online-majority-element-in-subarray)[:cn:](https://leetcode-cn.com/problems/online-majority-element-in-subarray)||Hard|
-||1125|Smallest Sufficient Team|[:us:](https://leetcode.com/problems/smallest-sufficient-team)[:cn:](https://leetcode-cn.com/problems/smallest-sufficient-team)||Hard|
-||1074|Number of Submatrices That Sum to Target|[:us:](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)[:cn:](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target)||Hard|
-||1012|Numbers With Repeated Digits|[:us:](https://leetcode.com/problems/numbers-with-repeated-digits)[:cn:](https://leetcode-cn.com/problems/numbers-with-repeated-digits)||Hard|
-||991|Broken Calculator|[:us:](https://leetcode.com/problems/broken-calculator)[:cn:](https://leetcode-cn.com/problems/broken-calculator)||Medium|
-||975|Odd Even Jump|[:us:](https://leetcode.com/problems/odd-even-jump)[:cn:](https://leetcode-cn.com/problems/odd-even-jump)||Hard|
-||972|Equal Rational Numbers|[:us:](https://leetcode.com/problems/equal-rational-numbers)[:cn:](https://leetcode-cn.com/problems/equal-rational-numbers)||Hard|
-|:question:|964|Least Operators to Express Number|[:us:](https://leetcode.com/problems/least-operators-to-express-number)[:cn:](https://leetcode-cn.com/problems/least-operators-to-express-number)||Hard|
-||959|Regions Cut By Slashes|[:us:](https://leetcode.com/problems/regions-cut-by-slashes)[:cn:](https://leetcode-cn.com/problems/regions-cut-by-slashes)||Medium|
-||946|Validate Stack Sequences|[:us:](https://leetcode.com/problems/validate-stack-sequences)[:cn:](https://leetcode-cn.com/problems/validate-stack-sequences)||Medium|
-||945|Minimum Increment to Make Array Unique|[:us:](https://leetcode.com/problems/minimum-increment-to-make-array-unique)[:cn:](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique)||Medium|
-||943|Find the Shortest Superstring|[:us:](https://leetcode.com/problems/find-the-shortest-superstring)[:cn:](https://leetcode-cn.com/problems/find-the-shortest-superstring)||Hard|
-||940|Distinct Subsequences II|[:us:](https://leetcode.com/problems/distinct-subsequences-ii)[:cn:](https://leetcode-cn.com/problems/distinct-subsequences-ii)||Hard|
-||936|Stamping The Sequence|[:us:](https://leetcode.com/problems/stamping-the-sequence)[:cn:](https://leetcode-cn.com/problems/stamping-the-sequence)||Hard|
-||935|Knight Dialer|[:us:](https://leetcode.com/problems/knight-dialer)[:cn:](https://leetcode-cn.com/problems/knight-dialer)||Medium|
-||932|Beautiful Array|[:us:](https://leetcode.com/problems/beautiful-array)[:cn:](https://leetcode-cn.com/problems/beautiful-array)||Medium|
-||930|Binary Subarrays With Sum|[:us:](https://leetcode.com/problems/binary-subarrays-with-sum)[:cn:](https://leetcode-cn.com/problems/binary-subarrays-with-sum)||Medium|
-||928|Minimize Malware Spread II|[:us:](https://leetcode.com/problems/minimize-malware-spread-ii)[:cn:](https://leetcode-cn.com/problems/minimize-malware-spread-ii)||Hard|
-||920|Number of Music Playlists|[:us:](https://leetcode.com/problems/number-of-music-playlists)[:cn:](https://leetcode-cn.com/problems/number-of-music-playlists)||Hard|
-||915|Partition Array into Disjoint Intervals|[:us:](https://leetcode.com/problems/partition-array-into-disjoint-intervals)[:cn:](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals)||Medium|
-||910|Smallest Range II|[:us:](https://leetcode.com/problems/smallest-range-ii)[:cn:](https://leetcode-cn.com/problems/smallest-range-ii)||Medium|
-||909|Snakes and Ladders|[:us:](https://leetcode.com/problems/snakes-and-ladders)[:cn:](https://leetcode-cn.com/problems/snakes-and-ladders)||Medium|
-||907|Sum of Subarray Minimums|[:us:](https://leetcode.com/problems/sum-of-subarray-minimums)[:cn:](https://leetcode-cn.com/problems/sum-of-subarray-minimums)||Medium|
-||906|Super Palindromes|[:us:](https://leetcode.com/problems/super-palindromes)[:cn:](https://leetcode-cn.com/problems/super-palindromes)||Hard|
-||903|Valid Permutations for DI Sequence|[:us:](https://leetcode.com/problems/valid-permutations-for-di-sequence)[:cn:](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence)||Hard|
-|:question:|891|Sum of Subsequence Widths|[:us:](https://leetcode.com/problems/sum-of-subsequence-widths)[:cn:](https://leetcode-cn.com/problems/sum-of-subsequence-widths)||Hard|
-||887|Super Egg Drop|[:us:](https://leetcode.com/problems/super-egg-drop)[:cn:](https://leetcode-cn.com/problems/super-egg-drop)||Hard|
-||879|Profitable Schemes|[:us:](https://leetcode.com/problems/profitable-schemes)[:cn:](https://leetcode-cn.com/problems/profitable-schemes)||Hard|
-||875|Koko Eating Bananas|[:us:](https://leetcode.com/problems/koko-eating-bananas)[:cn:](https://leetcode-cn.com/problems/koko-eating-bananas)||Medium|
-||871|Minimum Number of Refueling Stops|[:us:](https://leetcode.com/problems/minimum-number-of-refueling-stops)[:cn:](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)||Hard|
-||870|Advantage Shuffle|[:us:](https://leetcode.com/problems/advantage-shuffle)[:cn:](https://leetcode-cn.com/problems/advantage-shuffle)||Medium|
-||869|Reordered Power of 2|[:us:](https://leetcode.com/problems/reordered-power-of-2)[:cn:](https://leetcode-cn.com/problems/reordered-power-of-2)||Medium|
-||866|Prime Palindrome|[:us:](https://leetcode.com/problems/prime-palindrome)[:cn:](https://leetcode-cn.com/problems/prime-palindrome)||Medium|
-||865|Smallest Subtree with all the Deepest Nodes|[:us:](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)[:cn:](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes)||Medium|
-||864|Shortest Path to Get All Keys|[:us:](https://leetcode.com/problems/shortest-path-to-get-all-keys)[:cn:](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)||Hard|
-||856|Score of Parentheses|[:us:](https://leetcode.com/problems/score-of-parentheses)[:cn:](https://leetcode-cn.com/problems/score-of-parentheses)||Medium|
-||855|Exam Room|[:us:](https://leetcode.com/problems/exam-room)[:cn:](https://leetcode-cn.com/problems/exam-room)||Medium|
-||850|Rectangle Area II|[:us:](https://leetcode.com/problems/rectangle-area-ii)[:cn:](https://leetcode-cn.com/problems/rectangle-area-ii)||Hard|
-||847|Shortest Path Visiting All Nodes|[:us:](https://leetcode.com/problems/shortest-path-visiting-all-nodes)[:cn:](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)||Hard|
-||843|Guess the Word|[:us:](https://leetcode.com/problems/guess-the-word)[:cn:](https://leetcode-cn.com/problems/guess-the-word)||Hard|
-||841|Keys and Rooms|[:us:](https://leetcode.com/problems/keys-and-rooms)[:cn:](https://leetcode-cn.com/problems/keys-and-rooms)||Medium|
-||840|Magic Squares In Grid|[:us:](https://leetcode.com/problems/magic-squares-in-grid)[:cn:](https://leetcode-cn.com/problems/magic-squares-in-grid)||Medium|
-||837|New 21 Game|[:us:](https://leetcode.com/problems/new-21-game)[:cn:](https://leetcode-cn.com/problems/new-21-game)||Medium|
-||833|Find And Replace in String|[:us:](https://leetcode.com/problems/find-and-replace-in-string)[:cn:](https://leetcode-cn.com/problems/find-and-replace-in-string)||Medium|
-||831|Masking Personal Information|[:us:](https://leetcode.com/problems/masking-personal-information)[:cn:](https://leetcode-cn.com/problems/masking-personal-information)||Medium|
-||830|Positions of Large Groups|[:us:](https://leetcode.com/problems/positions-of-large-groups)[:cn:](https://leetcode-cn.com/problems/positions-of-large-groups)||Easy|
-||827|Making A Large Island|[:us:](https://leetcode.com/problems/making-a-large-island)[:cn:](https://leetcode-cn.com/problems/making-a-large-island)||Hard|
-||826|Most Profit Assigning Work|[:us:](https://leetcode.com/problems/most-profit-assigning-work)[:cn:](https://leetcode-cn.com/problems/most-profit-assigning-work)||Medium|
-||825|Friends Of Appropriate Ages|[:us:](https://leetcode.com/problems/friends-of-appropriate-ages)[:cn:](https://leetcode-cn.com/problems/friends-of-appropriate-ages)||Medium|
-||823|Binary Trees With Factors|[:us:](https://leetcode.com/problems/binary-trees-with-factors)[:cn:](https://leetcode-cn.com/problems/binary-trees-with-factors)||Medium|
-||820|Short Encoding of Words|[:us:](https://leetcode.com/problems/short-encoding-of-words)[:cn:](https://leetcode-cn.com/problems/short-encoding-of-words)||Medium|
-||819|Most Common Word|[:us:](https://leetcode.com/problems/most-common-word)[:cn:](https://leetcode-cn.com/problems/most-common-word)||Easy|
-||818|Race Car|[:us:](https://leetcode.com/problems/race-car)[:cn:](https://leetcode-cn.com/problems/race-car)||Hard|
-||817|Linked List Components|[:us:](https://leetcode.com/problems/linked-list-components)[:cn:](https://leetcode-cn.com/problems/linked-list-components)||Medium|
-||816|Ambiguous Coordinates|[:us:](https://leetcode.com/problems/ambiguous-coordinates)[:cn:](https://leetcode-cn.com/problems/ambiguous-coordinates)||Medium|
-||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning)[:cn:](https://leetcode-cn.com/problems/binary-tree-pruning)||Medium|
-||812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area)[:cn:](https://leetcode-cn.com/problems/largest-triangle-area)||Easy|
-||810|Chalkboard XOR Game|[:us:](https://leetcode.com/problems/chalkboard-xor-game)[:cn:](https://leetcode-cn.com/problems/chalkboard-xor-game)||Hard|
-||808|Soup Servings|[:us:](https://leetcode.com/problems/soup-servings)[:cn:](https://leetcode-cn.com/problems/soup-servings)||Medium|
-||802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states)[:cn:](https://leetcode-cn.com/problems/find-eventual-safe-states)||Medium|
-||801|Minimum Swaps To Make Sequences Increasing|[:us:](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)[:cn:](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)||Medium|
-||798|Smallest Rotation with Highest Score|[:us:](https://leetcode.com/problems/smallest-rotation-with-highest-score)[:cn:](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)||Hard|
-||796|Rotate String|[:us:](https://leetcode.com/problems/rotate-string)[:cn:](https://leetcode-cn.com/problems/rotate-string)||Easy|
-||795|Number of Subarrays with Bounded Maximum|[:us:](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)[:cn:](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum)||Medium|
-||793|Preimage Size of Factorial Zeroes Function|[:us:](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function)[:cn:](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)||Hard|
-||786|K-th Smallest Prime Fraction|[:us:](https://leetcode.com/problems/k-th-smallest-prime-fraction)[:cn:](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction)||Hard|
-||784|Letter Case Permutation|[:us:](https://leetcode.com/problems/letter-case-permutation)[:cn:](https://leetcode-cn.com/problems/letter-case-permutation)||Medium|
-||783|Minimum Distance Between BST Nodes|[:us:](https://leetcode.com/problems/minimum-distance-between-bst-nodes)[:cn:](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)||Easy|
-||781|Rabbits in Forest|[:us:](https://leetcode.com/problems/rabbits-in-forest)[:cn:](https://leetcode-cn.com/problems/rabbits-in-forest)||Medium|
-||780|Reaching Points|[:us:](https://leetcode.com/problems/reaching-points)[:cn:](https://leetcode-cn.com/problems/reaching-points)||Hard|
-||779|K-th Symbol in Grammar|[:us:](https://leetcode.com/problems/k-th-symbol-in-grammar)[:cn:](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)||Medium|
-||778|Swim in Rising Water|[:us:](https://leetcode.com/problems/swim-in-rising-water)[:cn:](https://leetcode-cn.com/problems/swim-in-rising-water)||Hard|
-||777|Swap Adjacent in LR String|[:us:](https://leetcode.com/problems/swap-adjacent-in-lr-string)[:cn:](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)||Medium|
-||775|Global and Local Inversions|[:us:](https://leetcode.com/problems/global-and-local-inversions)[:cn:](https://leetcode-cn.com/problems/global-and-local-inversions)||Medium|
-||770|Basic Calculator IV|[:us:](https://leetcode.com/problems/basic-calculator-iv)[:cn:](https://leetcode-cn.com/problems/basic-calculator-iv)||Hard|
-||766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix)[:cn:](https://leetcode-cn.com/problems/toeplitz-matrix)||Easy|
-||765|Couples Holding Hands|[:us:](https://leetcode.com/problems/couples-holding-hands)[:cn:](https://leetcode-cn.com/problems/couples-holding-hands)||Hard|
-||762|Prime Number of Set Bits in Binary Representation|[:us:](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)[:cn:](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)||Easy|
-||757|Set Intersection Size At Least Two|[:us:](https://leetcode.com/problems/set-intersection-size-at-least-two)[:cn:](https://leetcode-cn.com/problems/set-intersection-size-at-least-two)||Hard|
-||754|Reach a Number|[:us:](https://leetcode.com/problems/reach-a-number)[:cn:](https://leetcode-cn.com/problems/reach-a-number)||Medium|
-||753|Cracking the Safe|[:us:](https://leetcode.com/problems/cracking-the-safe)[:cn:](https://leetcode-cn.com/problems/cracking-the-safe)||Hard|
-||749|Contain Virus|[:us:](https://leetcode.com/problems/contain-virus)[:cn:](https://leetcode-cn.com/problems/contain-virus)||Hard|
-||748|Shortest Completing Word|[:us:](https://leetcode.com/problems/shortest-completing-word)[:cn:](https://leetcode-cn.com/problems/shortest-completing-word)||Easy|
-||745|Prefix and Suffix Search|[:us:](https://leetcode.com/problems/prefix-and-suffix-search)[:cn:](https://leetcode-cn.com/problems/prefix-and-suffix-search)||Hard|
-||744|Find Smallest Letter Greater Than Target|[:us:](https://leetcode.com/problems/find-smallest-letter-greater-than-target)[:cn:](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target)||Easy|
-||739|Daily Temperatures|[:us:](https://leetcode.com/problems/daily-temperatures)[:cn:](https://leetcode-cn.com/problems/daily-temperatures)||Medium|
-||736|Parse Lisp Expression|[:us:](https://leetcode.com/problems/parse-lisp-expression)[:cn:](https://leetcode-cn.com/problems/parse-lisp-expression)||Hard|
-||732|My Calendar III|[:us:](https://leetcode.com/problems/my-calendar-iii)[:cn:](https://leetcode-cn.com/problems/my-calendar-iii)||Hard|
-||730|Count Different Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-different-palindromic-subsequences)[:cn:](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)||Hard|
-||725|Split Linked List in Parts|[:us:](https://leetcode.com/problems/split-linked-list-in-parts)[:cn:](https://leetcode-cn.com/problems/split-linked-list-in-parts)||Medium|
-||724|Find Pivot Index|[:us:](https://leetcode.com/problems/find-pivot-index)[:cn:](https://leetcode-cn.com/problems/find-pivot-index)||Easy|
-||721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge)[:cn:](https://leetcode-cn.com/problems/accounts-merge)||Medium|
-||720|Longest Word in Dictionary|[:us:](https://leetcode.com/problems/longest-word-in-dictionary)[:cn:](https://leetcode-cn.com/problems/longest-word-in-dictionary)||Easy|
-||719|Find K-th Smallest Pair Distance|[:us:](https://leetcode.com/problems/find-k-th-smallest-pair-distance)[:cn:](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)||Hard|
-||718|Maximum Length of Repeated Subarray|[:us:](https://leetcode.com/problems/maximum-length-of-repeated-subarray)[:cn:](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)||Medium|
-||717|1-bit and 2-bit Characters|[:us:](https://leetcode.com/problems/1-bit-and-2-bit-characters)[:cn:](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)||Easy|
-||715|Range Module|[:us:](https://leetcode.com/problems/range-module)[:cn:](https://leetcode-cn.com/problems/range-module)||Hard|
-||712|Minimum ASCII Delete Sum for Two Strings|[:us:](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)[:cn:](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)||Medium|
-||709|To Lower Case|[:us:](https://leetcode.com/problems/to-lower-case)[:cn:](https://leetcode-cn.com/problems/to-lower-case)||Easy|
-||707|Design Linked List|[:us:](https://leetcode.com/problems/design-linked-list)[:cn:](https://leetcode-cn.com/problems/design-linked-list)||Medium|
-||706|Design HashMap|[:us:](https://leetcode.com/problems/design-hashmap)[:cn:](https://leetcode-cn.com/problems/design-hashmap)||Easy|
-||703|Kth Largest Element in a Stream|[:us:](https://leetcode.com/problems/kth-largest-element-in-a-stream)[:cn:](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)||Easy|
-||699|Falling Squares|[:us:](https://leetcode.com/problems/falling-squares)[:cn:](https://leetcode-cn.com/problems/falling-squares)||Hard|
-||693|Binary Number with Alternating Bits|[:us:](https://leetcode.com/problems/binary-number-with-alternating-bits)[:cn:](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)||Easy|
-||692|Top K Frequent Words|[:us:](https://leetcode.com/problems/top-k-frequent-words)[:cn:](https://leetcode-cn.com/problems/top-k-frequent-words)||Medium|
-||691|Stickers to Spell Word|[:us:](https://leetcode.com/problems/stickers-to-spell-word)[:cn:](https://leetcode-cn.com/problems/stickers-to-spell-word)||Hard|
-||686|Repeated String Match|[:us:](https://leetcode.com/problems/repeated-string-match)[:cn:](https://leetcode-cn.com/problems/repeated-string-match)||Medium|
-||685|Redundant Connection II|[:us:](https://leetcode.com/problems/redundant-connection-ii)[:cn:](https://leetcode-cn.com/problems/redundant-connection-ii)||Hard|
-||682|Baseball Game|[:us:](https://leetcode.com/problems/baseball-game)[:cn:](https://leetcode-cn.com/problems/baseball-game)||Easy|
-||679|24 Game|[:us:](https://leetcode.com/problems/24-game)[:cn:](https://leetcode-cn.com/problems/24-game)||Hard|
-||676|Implement Magic Dictionary|[:us:](https://leetcode.com/problems/implement-magic-dictionary)[:cn:](https://leetcode-cn.com/problems/implement-magic-dictionary)||Medium|
-||675|Cut Off Trees for Golf Event|[:us:](https://leetcode.com/problems/cut-off-trees-for-golf-event)[:cn:](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)||Hard|
-||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii)[:cn:](https://leetcode-cn.com/problems/bulb-switcher-ii)||Medium|
-||670|Maximum Swap|[:us:](https://leetcode.com/problems/maximum-swap)[:cn:](https://leetcode-cn.com/problems/maximum-swap)||Medium|
-||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)[:cn:](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
-||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer)[:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
-||661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother)[:cn:](https://leetcode-cn.com/problems/image-smoother)||Easy|
-||658|Find K Closest Elements|[:us:](https://leetcode.com/problems/find-k-closest-elements)[:cn:](https://leetcode-cn.com/problems/find-k-closest-elements)||Medium|
-||650|2 Keys Keyboard|[:us:](https://leetcode.com/problems/2-keys-keyboard)[:cn:](https://leetcode-cn.com/problems/2-keys-keyboard)||Medium|
-||648|Replace Words|[:us:](https://leetcode.com/problems/replace-words)[:cn:](https://leetcode-cn.com/problems/replace-words)||Medium|
-||647|Palindromic Substrings|[:us:](https://leetcode.com/problems/palindromic-substrings)[:cn:](https://leetcode-cn.com/problems/palindromic-substrings)||Medium|
-||646|Maximum Length of Pair Chain|[:us:](https://leetcode.com/problems/maximum-length-of-pair-chain)[:cn:](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)||Medium|
-||643|Maximum Average Subarray I|[:us:](https://leetcode.com/problems/maximum-average-subarray-i)[:cn:](https://leetcode-cn.com/problems/maximum-average-subarray-i)||Easy|
-||641|Design Circular Deque|[:us:](https://leetcode.com/problems/design-circular-deque)[:cn:](https://leetcode-cn.com/problems/design-circular-deque)||Medium|
-||640|Solve the Equation|[:us:](https://leetcode.com/problems/solve-the-equation)[:cn:](https://leetcode-cn.com/problems/solve-the-equation)||Medium|
-||639|Decode Ways II|[:us:](https://leetcode.com/problems/decode-ways-ii)[:cn:](https://leetcode-cn.com/problems/decode-ways-ii)||Hard|
-||638|Shopping Offers|[:us:](https://leetcode.com/problems/shopping-offers)[:cn:](https://leetcode-cn.com/problems/shopping-offers)||Medium|
-||637|Average of Levels in Binary Tree|[:us:](https://leetcode.com/problems/average-of-levels-in-binary-tree)[:cn:](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)||Easy|
-||636|Exclusive Time of Functions|[:us:](https://leetcode.com/problems/exclusive-time-of-functions)[:cn:](https://leetcode-cn.com/problems/exclusive-time-of-functions)||Medium|
-||633|Sum of Square Numbers|[:us:](https://leetcode.com/problems/sum-of-square-numbers)[:cn:](https://leetcode-cn.com/problems/sum-of-square-numbers)||Medium|
-||630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii)[:cn:](https://leetcode-cn.com/problems/course-schedule-iii)||Hard|
-||628|Maximum Product of Three Numbers|[:us:](https://leetcode.com/problems/maximum-product-of-three-numbers)[:cn:](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)||Easy|
-||627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary)[:cn:](https://leetcode-cn.com/problems/swap-salary)||Easy|
-||626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats)[:cn:](https://leetcode-cn.com/problems/exchange-seats)||Medium|
-||620|Not Boring Movies|[:us:](https://leetcode.com/problems/not-boring-movies)[:cn:](https://leetcode-cn.com/problems/not-boring-movies)||Easy|
-||611|Valid Triangle Number|[:us:](https://leetcode.com/problems/valid-triangle-number)[:cn:](https://leetcode-cn.com/problems/valid-triangle-number)||Medium|
-||609|Find Duplicate File in System|[:us:](https://leetcode.com/problems/find-duplicate-file-in-system)[:cn:](https://leetcode-cn.com/problems/find-duplicate-file-in-system)||Medium|
-||606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree)[:cn:](https://leetcode-cn.com/problems/construct-string-from-binary-tree)||Easy|
-||601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium)[:cn:](https://leetcode-cn.com/problems/human-traffic-of-stadium)||Hard|
-||600|Non-negative Integers without Consecutive Ones|[:us:](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)[:cn:](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)||Hard|
-||599|Minimum Index Sum of Two Lists|[:us:](https://leetcode.com/problems/minimum-index-sum-of-two-lists)[:cn:](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)||Easy|
-||596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students)[:cn:](https://leetcode-cn.com/problems/classes-more-than-5-students)||Easy|
-||594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence)[:cn:](https://leetcode-cn.com/problems/longest-harmonious-subsequence)||Easy|
-||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction)[:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
-||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator)[:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
-||587|Erect the Fence|[:us:](https://leetcode.com/problems/erect-the-fence)[:cn:](https://leetcode-cn.com/problems/erect-the-fence)||Hard|
-||575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies)[:cn:](https://leetcode-cn.com/problems/distribute-candies)||Easy|
-||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree)[:cn:](https://leetcode-cn.com/problems/subtree-of-another-tree)||Easy|
-||565|Array Nesting|[:us:](https://leetcode.com/problems/array-nesting)[:cn:](https://leetcode-cn.com/problems/array-nesting)||Medium|
-||558|Logical OR of Two Binary Grids Represented as Quad-Trees|[:us:](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)[:cn:](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)||Medium|
-||554|Brick Wall|[:us:](https://leetcode.com/problems/brick-wall)[:cn:](https://leetcode-cn.com/problems/brick-wall)||Medium|
-||552|Student Attendance Record II|[:us:](https://leetcode.com/problems/student-attendance-record-ii)[:cn:](https://leetcode-cn.com/problems/student-attendance-record-ii)||Hard|
-||551|Student Attendance Record I|[:us:](https://leetcode.com/problems/student-attendance-record-i)[:cn:](https://leetcode-cn.com/problems/student-attendance-record-i)||Easy|
-||546|Remove Boxes|[:us:](https://leetcode.com/problems/remove-boxes)[:cn:](https://leetcode-cn.com/problems/remove-boxes)||Hard|
-||541|Reverse String II|[:us:](https://leetcode.com/problems/reverse-string-ii)[:cn:](https://leetcode-cn.com/problems/reverse-string-ii)||Easy|
-||539|Minimum Time Difference|[:us:](https://leetcode.com/problems/minimum-time-difference)[:cn:](https://leetcode-cn.com/problems/minimum-time-difference)||Medium|
-||537|Complex Number Multiplication|[:us:](https://leetcode.com/problems/complex-number-multiplication)[:cn:](https://leetcode-cn.com/problems/complex-number-multiplication)||Medium|
-||530|Minimum Absolute Difference in BST|[:us:](https://leetcode.com/problems/minimum-absolute-difference-in-bst)[:cn:](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst)||Easy|
-||529|Minesweeper|[:us:](https://leetcode.com/problems/minesweeper)[:cn:](https://leetcode-cn.com/problems/minesweeper)||Medium|
-||526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement)[:cn:](https://leetcode-cn.com/problems/beautiful-arrangement)||Medium|
-||523|Continuous Subarray Sum|[:us:](https://leetcode.com/problems/continuous-subarray-sum)[:cn:](https://leetcode-cn.com/problems/continuous-subarray-sum)||Medium|
-||522|Longest Uncommon Subsequence II|[:us:](https://leetcode.com/problems/longest-uncommon-subsequence-ii)[:cn:](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)||Medium|
-||519|Random Flip Matrix|[:us:](https://leetcode.com/problems/random-flip-matrix)[:cn:](https://leetcode-cn.com/problems/random-flip-matrix)||Medium|
-||517|Super Washing Machines|[:us:](https://leetcode.com/problems/super-washing-machines)[:cn:](https://leetcode-cn.com/problems/super-washing-machines)||Hard|
-||516|Longest Palindromic Subsequence|[:us:](https://leetcode.com/problems/longest-palindromic-subsequence)[:cn:](https://leetcode-cn.com/problems/longest-palindromic-subsequence)||Medium|
-||515|Find Largest Value in Each Tree Row|[:us:](https://leetcode.com/problems/find-largest-value-in-each-tree-row)[:cn:](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)||Medium|
-||514|Freedom Trail|[:us:](https://leetcode.com/problems/freedom-trail)[:cn:](https://leetcode-cn.com/problems/freedom-trail)||Hard|
-||513|Find Bottom Left Tree Value|[:us:](https://leetcode.com/problems/find-bottom-left-tree-value)[:cn:](https://leetcode-cn.com/problems/find-bottom-left-tree-value)||Medium|
-||509|Fibonacci Number|[:us:](https://leetcode.com/problems/fibonacci-number)[:cn:](https://leetcode-cn.com/problems/fibonacci-number)||Easy|
-||504|Base 7|[:us:](https://leetcode.com/problems/base-7)[:cn:](https://leetcode-cn.com/problems/base-7)||Easy|
-||501|Find Mode in Binary Search Tree|[:us:](https://leetcode.com/problems/find-mode-in-binary-search-tree)[:cn:](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)||Easy|
-||493|Reverse Pairs|[:us:](https://leetcode.com/problems/reverse-pairs)[:cn:](https://leetcode-cn.com/problems/reverse-pairs)||Hard|
-||492|Construct the Rectangle|[:us:](https://leetcode.com/problems/construct-the-rectangle)[:cn:](https://leetcode-cn.com/problems/construct-the-rectangle)||Easy|
-||491|Increasing Subsequences|[:us:](https://leetcode.com/problems/increasing-subsequences)[:cn:](https://leetcode-cn.com/problems/increasing-subsequences)||Medium|
-||483|Smallest Good Base|[:us:](https://leetcode.com/problems/smallest-good-base)[:cn:](https://leetcode-cn.com/problems/smallest-good-base)||Hard|
-||481|Magical String|[:us:](https://leetcode.com/problems/magical-string)[:cn:](https://leetcode-cn.com/problems/magical-string)||Medium|
-||480|Sliding Window Median|[:us:](https://leetcode.com/problems/sliding-window-median)[:cn:](https://leetcode-cn.com/problems/sliding-window-median)||Hard|
-||479|Largest Palindrome Product|[:us:](https://leetcode.com/problems/largest-palindrome-product)[:cn:](https://leetcode-cn.com/problems/largest-palindrome-product)||Hard|
-||478|Generate Random Point in a Circle|[:us:](https://leetcode.com/problems/generate-random-point-in-a-circle)[:cn:](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)||Medium|
-||475|Heaters|[:us:](https://leetcode.com/problems/heaters)[:cn:](https://leetcode-cn.com/problems/heaters)||Medium|
-||474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes)[:cn:](https://leetcode-cn.com/problems/ones-and-zeroes)||Medium|
-||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square)[:cn:](https://leetcode-cn.com/problems/matchsticks-to-square)||Medium|
-||467|Unique Substrings in Wraparound String|[:us:](https://leetcode.com/problems/unique-substrings-in-wraparound-string)[:cn:](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)||Medium|
-||466|Count The Repetitions|[:us:](https://leetcode.com/problems/count-the-repetitions)[:cn:](https://leetcode-cn.com/problems/count-the-repetitions)||Hard|
-||464|Can I Win|[:us:](https://leetcode.com/problems/can-i-win)[:cn:](https://leetcode-cn.com/problems/can-i-win)||Medium|
-||460|LFU Cache|[:us:](https://leetcode.com/problems/lfu-cache)[:cn:](https://leetcode-cn.com/problems/lfu-cache)||Hard|
-||454|4Sum II|[:us:](https://leetcode.com/problems/4sum-ii)[:cn:](https://leetcode-cn.com/problems/4sum-ii)||Medium|
-||448|Find All Numbers Disappeared in an Array|[:us:](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)[:cn:](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)||Easy|
-||446|Arithmetic Slices II - Subsequence|[:us:](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)[:cn:](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence)||Hard|
-||443|String Compression|[:us:](https://leetcode.com/problems/string-compression)[:cn:](https://leetcode-cn.com/problems/string-compression)||Medium|
-||440|K-th Smallest in Lexicographical Order|[:us:](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)[:cn:](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)||Hard|
-||434|Number of Segments in a String|[:us:](https://leetcode.com/problems/number-of-segments-in-a-string)[:cn:](https://leetcode-cn.com/problems/number-of-segments-in-a-string)||Easy|
-||429|N-ary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-level-order-traversal)[:cn:](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)||Medium|
-||427|Construct Quad Tree|[:us:](https://leetcode.com/problems/construct-quad-tree)[:cn:](https://leetcode-cn.com/problems/construct-quad-tree)||Medium|
-||424|Longest Repeating Character Replacement|[:us:](https://leetcode.com/problems/longest-repeating-character-replacement)[:cn:](https://leetcode-cn.com/problems/longest-repeating-character-replacement)||Medium|
-||423|Reconstruct Original Digits from English|[:us:](https://leetcode.com/problems/reconstruct-original-digits-from-english)[:cn:](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english)||Medium|
-||420|Strong Password Checker|[:us:](https://leetcode.com/problems/strong-password-checker)[:cn:](https://leetcode-cn.com/problems/strong-password-checker)||Hard|
-||413|Arithmetic Slices|[:us:](https://leetcode.com/problems/arithmetic-slices)[:cn:](https://leetcode-cn.com/problems/arithmetic-slices)||Medium|
-||407|Trapping Rain Water II|[:us:](https://leetcode.com/problems/trapping-rain-water-ii)[:cn:](https://leetcode-cn.com/problems/trapping-rain-water-ii)||Hard|
-||400|Nth Digit|[:us:](https://leetcode.com/problems/nth-digit)[:cn:](https://leetcode-cn.com/problems/nth-digit)||Medium|
-||391|Perfect Rectangle|[:us:](https://leetcode.com/problems/perfect-rectangle)[:cn:](https://leetcode-cn.com/problems/perfect-rectangle)||Hard|
-||385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser)[:cn:](https://leetcode-cn.com/problems/mini-parser)||Medium|
-||382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node)[:cn:](https://leetcode-cn.com/problems/linked-list-random-node)||Medium|
-||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow)[:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
-||371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers)[:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)||Easy|
-||365|Water and Jug Problem|[:us:](https://leetcode.com/problems/water-and-jug-problem)[:cn:](https://leetcode-cn.com/problems/water-and-jug-problem)||Medium|
-||363|Max Sum of Rectangle No Larger Than K|[:us:](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)[:cn:](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k)||Hard|
-||357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits)[:cn:](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)||Medium|
-||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter)[:cn:](https://leetcode-cn.com/problems/design-twitter)||Medium|
-||352|Data Stream as Disjoint Intervals|[:us:](https://leetcode.com/problems/data-stream-as-disjoint-intervals)[:cn:](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)||Hard|
-||336|Palindrome Pairs|[:us:](https://leetcode.com/problems/palindrome-pairs)[:cn:](https://leetcode-cn.com/problems/palindrome-pairs)||Hard|
-||335|Self Crossing|[:us:](https://leetcode.com/problems/self-crossing)[:cn:](https://leetcode-cn.com/problems/self-crossing)||Hard|
-||327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum)[:cn:](https://leetcode-cn.com/problems/count-of-range-sum)||Hard|
-||306|Additive Number|[:us:](https://leetcode.com/problems/additive-number)[:cn:](https://leetcode-cn.com/problems/additive-number)||Medium|
-||301|Remove Invalid Parentheses|[:us:](https://leetcode.com/problems/remove-invalid-parentheses)[:cn:](https://leetcode-cn.com/problems/remove-invalid-parentheses)||Hard|
-||297|Serialize and Deserialize Binary Tree|[:us:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)[:cn:](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)||Hard|
-||295|Find Median from Data Stream|[:us:](https://leetcode.com/problems/find-median-from-data-stream)[:cn:](https://leetcode-cn.com/problems/find-median-from-data-stream)||Hard|
-||282|Expression Add Operators|[:us:](https://leetcode.com/problems/expression-add-operators)[:cn:](https://leetcode-cn.com/problems/expression-add-operators)||Hard|
-||262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users)[:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
-||214|Shortest Palindrome|[:us:](https://leetcode.com/problems/shortest-palindrome)[:cn:](https://leetcode-cn.com/problems/shortest-palindrome)||Hard|
-||197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature)[:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|
-||196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails)[:cn:](https://leetcode-cn.com/problems/delete-duplicate-emails)||Easy|
-||185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries)[:cn:](https://leetcode-cn.com/problems/department-top-three-salaries)||Hard|
-||184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary)[:cn:](https://leetcode-cn.com/problems/department-highest-salary)||Medium|
-||180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers)[:cn:](https://leetcode-cn.com/problems/consecutive-numbers)||Medium|
-||178|Rank Scores|[:us:](https://leetcode.com/problems/rank-scores)[:cn:](https://leetcode-cn.com/problems/rank-scores)||Medium|
-||177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary)[:cn:](https://leetcode-cn.com/problems/nth-highest-salary)||Medium|
-||176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary)[:cn:](https://leetcode-cn.com/problems/second-highest-salary)||Easy|
-||149|Max Points on a Line|[:us:](https://leetcode.com/problems/max-points-on-a-line)[:cn:](https://leetcode-cn.com/problems/max-points-on-a-line)||Hard|
-||144|Binary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-preorder-traversal)[:cn:](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)||Medium|
-||142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii)[:cn:](https://leetcode-cn.com/problems/linked-list-cycle-ii)||Medium|
-||132|Palindrome Partitioning II|[:us:](https://leetcode.com/problems/palindrome-partitioning-ii)[:cn:](https://leetcode-cn.com/problems/palindrome-partitioning-ii)||Hard|
-||131|Palindrome Partitioning|[:us:](https://leetcode.com/problems/palindrome-partitioning)[:cn:](https://leetcode-cn.com/problems/palindrome-partitioning)||Medium|
-||115|Distinct Subsequences|[:us:](https://leetcode.com/problems/distinct-subsequences)[:cn:](https://leetcode-cn.com/problems/distinct-subsequences)||Hard|
-||99|Recover Binary Search Tree|[:us:](https://leetcode.com/problems/recover-binary-search-tree)[:cn:](https://leetcode-cn.com/problems/recover-binary-search-tree)||Hard|
-||97|Interleaving String|[:us:](https://leetcode.com/problems/interleaving-string)[:cn:](https://leetcode-cn.com/problems/interleaving-string)||Hard|
-||93|Restore IP Addresses|[:us:](https://leetcode.com/problems/restore-ip-addresses)[:cn:](https://leetcode-cn.com/problems/restore-ip-addresses)||Medium|
-||87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string)[:cn:](https://leetcode-cn.com/problems/scramble-string)||Hard|
-||29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers)[:cn:](https://leetcode-cn.com/problems/divide-two-integers)||Medium|
+||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones) [:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
+|:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers) [:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|
+|:question:|1397|Find All Good Strings|[:us:](https://leetcode.com/problems/find-all-good-strings) [:cn:](https://leetcode-cn.com/problems/find-all-good-strings)||Hard|
+||1206|Design Skiplist|[:us:](https://leetcode.com/problems/design-skiplist) [:cn:](https://leetcode-cn.com/problems/design-skiplist)||Hard|
+||1203|Sort Items by Groups Respecting Dependencies|[:us:](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) [:cn:](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)||Hard|
+||1179|Reformat Department Table|[:us:](https://leetcode.com/problems/reformat-department-table) [:cn:](https://leetcode-cn.com/problems/reformat-department-table)||Easy|
+||1157|Online Majority Element In Subarray|[:us:](https://leetcode.com/problems/online-majority-element-in-subarray) [:cn:](https://leetcode-cn.com/problems/online-majority-element-in-subarray)||Hard|
+||1125|Smallest Sufficient Team|[:us:](https://leetcode.com/problems/smallest-sufficient-team) [:cn:](https://leetcode-cn.com/problems/smallest-sufficient-team)||Hard|
+||1074|Number of Submatrices That Sum to Target|[:us:](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) [:cn:](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target)||Hard|
+||1012|Numbers With Repeated Digits|[:us:](https://leetcode.com/problems/numbers-with-repeated-digits) [:cn:](https://leetcode-cn.com/problems/numbers-with-repeated-digits)||Hard|
+||991|Broken Calculator|[:us:](https://leetcode.com/problems/broken-calculator) [:cn:](https://leetcode-cn.com/problems/broken-calculator)||Medium|
+||975|Odd Even Jump|[:us:](https://leetcode.com/problems/odd-even-jump) [:cn:](https://leetcode-cn.com/problems/odd-even-jump)||Hard|
+||972|Equal Rational Numbers|[:us:](https://leetcode.com/problems/equal-rational-numbers) [:cn:](https://leetcode-cn.com/problems/equal-rational-numbers)||Hard|
+|:question:|964|Least Operators to Express Number|[:us:](https://leetcode.com/problems/least-operators-to-express-number) [:cn:](https://leetcode-cn.com/problems/least-operators-to-express-number)||Hard|
+||959|Regions Cut By Slashes|[:us:](https://leetcode.com/problems/regions-cut-by-slashes) [:cn:](https://leetcode-cn.com/problems/regions-cut-by-slashes)||Medium|
+||946|Validate Stack Sequences|[:us:](https://leetcode.com/problems/validate-stack-sequences) [:cn:](https://leetcode-cn.com/problems/validate-stack-sequences)||Medium|
+||945|Minimum Increment to Make Array Unique|[:us:](https://leetcode.com/problems/minimum-increment-to-make-array-unique) [:cn:](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique)||Medium|
+||943|Find the Shortest Superstring|[:us:](https://leetcode.com/problems/find-the-shortest-superstring) [:cn:](https://leetcode-cn.com/problems/find-the-shortest-superstring)||Hard|
+||940|Distinct Subsequences II|[:us:](https://leetcode.com/problems/distinct-subsequences-ii) [:cn:](https://leetcode-cn.com/problems/distinct-subsequences-ii)||Hard|
+||936|Stamping The Sequence|[:us:](https://leetcode.com/problems/stamping-the-sequence) [:cn:](https://leetcode-cn.com/problems/stamping-the-sequence)||Hard|
+||935|Knight Dialer|[:us:](https://leetcode.com/problems/knight-dialer) [:cn:](https://leetcode-cn.com/problems/knight-dialer)||Medium|
+||932|Beautiful Array|[:us:](https://leetcode.com/problems/beautiful-array) [:cn:](https://leetcode-cn.com/problems/beautiful-array)||Medium|
+||930|Binary Subarrays With Sum|[:us:](https://leetcode.com/problems/binary-subarrays-with-sum) [:cn:](https://leetcode-cn.com/problems/binary-subarrays-with-sum)||Medium|
+||928|Minimize Malware Spread II|[:us:](https://leetcode.com/problems/minimize-malware-spread-ii) [:cn:](https://leetcode-cn.com/problems/minimize-malware-spread-ii)||Hard|
+||920|Number of Music Playlists|[:us:](https://leetcode.com/problems/number-of-music-playlists) [:cn:](https://leetcode-cn.com/problems/number-of-music-playlists)||Hard|
+||915|Partition Array into Disjoint Intervals|[:us:](https://leetcode.com/problems/partition-array-into-disjoint-intervals) [:cn:](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals)||Medium|
+||910|Smallest Range II|[:us:](https://leetcode.com/problems/smallest-range-ii) [:cn:](https://leetcode-cn.com/problems/smallest-range-ii)||Medium|
+||909|Snakes and Ladders|[:us:](https://leetcode.com/problems/snakes-and-ladders) [:cn:](https://leetcode-cn.com/problems/snakes-and-ladders)||Medium|
+||907|Sum of Subarray Minimums|[:us:](https://leetcode.com/problems/sum-of-subarray-minimums) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-minimums)||Medium|
+||906|Super Palindromes|[:us:](https://leetcode.com/problems/super-palindromes) [:cn:](https://leetcode-cn.com/problems/super-palindromes)||Hard|
+||903|Valid Permutations for DI Sequence|[:us:](https://leetcode.com/problems/valid-permutations-for-di-sequence) [:cn:](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence)||Hard|
+|:question:|891|Sum of Subsequence Widths|[:us:](https://leetcode.com/problems/sum-of-subsequence-widths) [:cn:](https://leetcode-cn.com/problems/sum-of-subsequence-widths)||Hard|
+||887|Super Egg Drop|[:us:](https://leetcode.com/problems/super-egg-drop) [:cn:](https://leetcode-cn.com/problems/super-egg-drop)||Hard|
+||879|Profitable Schemes|[:us:](https://leetcode.com/problems/profitable-schemes) [:cn:](https://leetcode-cn.com/problems/profitable-schemes)||Hard|
+||875|Koko Eating Bananas|[:us:](https://leetcode.com/problems/koko-eating-bananas) [:cn:](https://leetcode-cn.com/problems/koko-eating-bananas)||Medium|
+||871|Minimum Number of Refueling Stops|[:us:](https://leetcode.com/problems/minimum-number-of-refueling-stops) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)||Hard|
+||870|Advantage Shuffle|[:us:](https://leetcode.com/problems/advantage-shuffle) [:cn:](https://leetcode-cn.com/problems/advantage-shuffle)||Medium|
+||869|Reordered Power of 2|[:us:](https://leetcode.com/problems/reordered-power-of-2) [:cn:](https://leetcode-cn.com/problems/reordered-power-of-2)||Medium|
+||866|Prime Palindrome|[:us:](https://leetcode.com/problems/prime-palindrome) [:cn:](https://leetcode-cn.com/problems/prime-palindrome)||Medium|
+||865|Smallest Subtree with all the Deepest Nodes|[:us:](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) [:cn:](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes)||Medium|
+||864|Shortest Path to Get All Keys|[:us:](https://leetcode.com/problems/shortest-path-to-get-all-keys) [:cn:](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)||Hard|
+||856|Score of Parentheses|[:us:](https://leetcode.com/problems/score-of-parentheses) [:cn:](https://leetcode-cn.com/problems/score-of-parentheses)||Medium|
+||855|Exam Room|[:us:](https://leetcode.com/problems/exam-room) [:cn:](https://leetcode-cn.com/problems/exam-room)||Medium|
+||850|Rectangle Area II|[:us:](https://leetcode.com/problems/rectangle-area-ii) [:cn:](https://leetcode-cn.com/problems/rectangle-area-ii)||Hard|
+||847|Shortest Path Visiting All Nodes|[:us:](https://leetcode.com/problems/shortest-path-visiting-all-nodes) [:cn:](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)||Hard|
+||843|Guess the Word|[:us:](https://leetcode.com/problems/guess-the-word) [:cn:](https://leetcode-cn.com/problems/guess-the-word)||Hard|
+||841|Keys and Rooms|[:us:](https://leetcode.com/problems/keys-and-rooms) [:cn:](https://leetcode-cn.com/problems/keys-and-rooms)||Medium|
+||840|Magic Squares In Grid|[:us:](https://leetcode.com/problems/magic-squares-in-grid) [:cn:](https://leetcode-cn.com/problems/magic-squares-in-grid)||Medium|
+||837|New 21 Game|[:us:](https://leetcode.com/problems/new-21-game) [:cn:](https://leetcode-cn.com/problems/new-21-game)||Medium|
+||833|Find And Replace in String|[:us:](https://leetcode.com/problems/find-and-replace-in-string) [:cn:](https://leetcode-cn.com/problems/find-and-replace-in-string)||Medium|
+||831|Masking Personal Information|[:us:](https://leetcode.com/problems/masking-personal-information) [:cn:](https://leetcode-cn.com/problems/masking-personal-information)||Medium|
+||830|Positions of Large Groups|[:us:](https://leetcode.com/problems/positions-of-large-groups) [:cn:](https://leetcode-cn.com/problems/positions-of-large-groups)||Easy|
+||827|Making A Large Island|[:us:](https://leetcode.com/problems/making-a-large-island) [:cn:](https://leetcode-cn.com/problems/making-a-large-island)||Hard|
+||826|Most Profit Assigning Work|[:us:](https://leetcode.com/problems/most-profit-assigning-work) [:cn:](https://leetcode-cn.com/problems/most-profit-assigning-work)||Medium|
+||825|Friends Of Appropriate Ages|[:us:](https://leetcode.com/problems/friends-of-appropriate-ages) [:cn:](https://leetcode-cn.com/problems/friends-of-appropriate-ages)||Medium|
+||823|Binary Trees With Factors|[:us:](https://leetcode.com/problems/binary-trees-with-factors) [:cn:](https://leetcode-cn.com/problems/binary-trees-with-factors)||Medium|
+||820|Short Encoding of Words|[:us:](https://leetcode.com/problems/short-encoding-of-words) [:cn:](https://leetcode-cn.com/problems/short-encoding-of-words)||Medium|
+||819|Most Common Word|[:us:](https://leetcode.com/problems/most-common-word) [:cn:](https://leetcode-cn.com/problems/most-common-word)||Easy|
+||818|Race Car|[:us:](https://leetcode.com/problems/race-car) [:cn:](https://leetcode-cn.com/problems/race-car)||Hard|
+||817|Linked List Components|[:us:](https://leetcode.com/problems/linked-list-components) [:cn:](https://leetcode-cn.com/problems/linked-list-components)||Medium|
+||816|Ambiguous Coordinates|[:us:](https://leetcode.com/problems/ambiguous-coordinates) [:cn:](https://leetcode-cn.com/problems/ambiguous-coordinates)||Medium|
+||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning) [:cn:](https://leetcode-cn.com/problems/binary-tree-pruning)||Medium|
+||812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area) [:cn:](https://leetcode-cn.com/problems/largest-triangle-area)||Easy|
+||810|Chalkboard XOR Game|[:us:](https://leetcode.com/problems/chalkboard-xor-game) [:cn:](https://leetcode-cn.com/problems/chalkboard-xor-game)||Hard|
+||808|Soup Servings|[:us:](https://leetcode.com/problems/soup-servings) [:cn:](https://leetcode-cn.com/problems/soup-servings)||Medium|
+||802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states) [:cn:](https://leetcode-cn.com/problems/find-eventual-safe-states)||Medium|
+||801|Minimum Swaps To Make Sequences Increasing|[:us:](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)||Medium|
+||798|Smallest Rotation with Highest Score|[:us:](https://leetcode.com/problems/smallest-rotation-with-highest-score) [:cn:](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)||Hard|
+||796|Rotate String|[:us:](https://leetcode.com/problems/rotate-string) [:cn:](https://leetcode-cn.com/problems/rotate-string)||Easy|
+||795|Number of Subarrays with Bounded Maximum|[:us:](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum) [:cn:](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum)||Medium|
+||793|Preimage Size of Factorial Zeroes Function|[:us:](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) [:cn:](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)||Hard|
+||786|K-th Smallest Prime Fraction|[:us:](https://leetcode.com/problems/k-th-smallest-prime-fraction) [:cn:](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction)||Hard|
+||784|Letter Case Permutation|[:us:](https://leetcode.com/problems/letter-case-permutation) [:cn:](https://leetcode-cn.com/problems/letter-case-permutation)||Medium|
+||783|Minimum Distance Between BST Nodes|[:us:](https://leetcode.com/problems/minimum-distance-between-bst-nodes) [:cn:](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)||Easy|
+||781|Rabbits in Forest|[:us:](https://leetcode.com/problems/rabbits-in-forest) [:cn:](https://leetcode-cn.com/problems/rabbits-in-forest)||Medium|
+||780|Reaching Points|[:us:](https://leetcode.com/problems/reaching-points) [:cn:](https://leetcode-cn.com/problems/reaching-points)||Hard|
+||779|K-th Symbol in Grammar|[:us:](https://leetcode.com/problems/k-th-symbol-in-grammar) [:cn:](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)||Medium|
+||778|Swim in Rising Water|[:us:](https://leetcode.com/problems/swim-in-rising-water) [:cn:](https://leetcode-cn.com/problems/swim-in-rising-water)||Hard|
+||777|Swap Adjacent in LR String|[:us:](https://leetcode.com/problems/swap-adjacent-in-lr-string) [:cn:](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)||Medium|
+||775|Global and Local Inversions|[:us:](https://leetcode.com/problems/global-and-local-inversions) [:cn:](https://leetcode-cn.com/problems/global-and-local-inversions)||Medium|
+||770|Basic Calculator IV|[:us:](https://leetcode.com/problems/basic-calculator-iv) [:cn:](https://leetcode-cn.com/problems/basic-calculator-iv)||Hard|
+||766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix) [:cn:](https://leetcode-cn.com/problems/toeplitz-matrix)||Easy|
+||765|Couples Holding Hands|[:us:](https://leetcode.com/problems/couples-holding-hands) [:cn:](https://leetcode-cn.com/problems/couples-holding-hands)||Hard|
+||762|Prime Number of Set Bits in Binary Representation|[:us:](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) [:cn:](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)||Easy|
+||757|Set Intersection Size At Least Two|[:us:](https://leetcode.com/problems/set-intersection-size-at-least-two) [:cn:](https://leetcode-cn.com/problems/set-intersection-size-at-least-two)||Hard|
+||754|Reach a Number|[:us:](https://leetcode.com/problems/reach-a-number) [:cn:](https://leetcode-cn.com/problems/reach-a-number)||Medium|
+||753|Cracking the Safe|[:us:](https://leetcode.com/problems/cracking-the-safe) [:cn:](https://leetcode-cn.com/problems/cracking-the-safe)||Hard|
+||749|Contain Virus|[:us:](https://leetcode.com/problems/contain-virus) [:cn:](https://leetcode-cn.com/problems/contain-virus)||Hard|
+||748|Shortest Completing Word|[:us:](https://leetcode.com/problems/shortest-completing-word) [:cn:](https://leetcode-cn.com/problems/shortest-completing-word)||Easy|
+||745|Prefix and Suffix Search|[:us:](https://leetcode.com/problems/prefix-and-suffix-search) [:cn:](https://leetcode-cn.com/problems/prefix-and-suffix-search)||Hard|
+||744|Find Smallest Letter Greater Than Target|[:us:](https://leetcode.com/problems/find-smallest-letter-greater-than-target) [:cn:](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target)||Easy|
+||739|Daily Temperatures|[:us:](https://leetcode.com/problems/daily-temperatures) [:cn:](https://leetcode-cn.com/problems/daily-temperatures)||Medium|
+||736|Parse Lisp Expression|[:us:](https://leetcode.com/problems/parse-lisp-expression) [:cn:](https://leetcode-cn.com/problems/parse-lisp-expression)||Hard|
+||732|My Calendar III|[:us:](https://leetcode.com/problems/my-calendar-iii) [:cn:](https://leetcode-cn.com/problems/my-calendar-iii)||Hard|
+||730|Count Different Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-different-palindromic-subsequences) [:cn:](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)||Hard|
+||725|Split Linked List in Parts|[:us:](https://leetcode.com/problems/split-linked-list-in-parts) [:cn:](https://leetcode-cn.com/problems/split-linked-list-in-parts)||Medium|
+||724|Find Pivot Index|[:us:](https://leetcode.com/problems/find-pivot-index) [:cn:](https://leetcode-cn.com/problems/find-pivot-index)||Easy|
+||721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge) [:cn:](https://leetcode-cn.com/problems/accounts-merge)||Medium|
+||720|Longest Word in Dictionary|[:us:](https://leetcode.com/problems/longest-word-in-dictionary) [:cn:](https://leetcode-cn.com/problems/longest-word-in-dictionary)||Easy|
+||719|Find K-th Smallest Pair Distance|[:us:](https://leetcode.com/problems/find-k-th-smallest-pair-distance) [:cn:](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)||Hard|
+||718|Maximum Length of Repeated Subarray|[:us:](https://leetcode.com/problems/maximum-length-of-repeated-subarray) [:cn:](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)||Medium|
+||717|1-bit and 2-bit Characters|[:us:](https://leetcode.com/problems/1-bit-and-2-bit-characters) [:cn:](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)||Easy|
+||715|Range Module|[:us:](https://leetcode.com/problems/range-module) [:cn:](https://leetcode-cn.com/problems/range-module)||Hard|
+||712|Minimum ASCII Delete Sum for Two Strings|[:us:](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) [:cn:](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)||Medium|
+||709|To Lower Case|[:us:](https://leetcode.com/problems/to-lower-case) [:cn:](https://leetcode-cn.com/problems/to-lower-case)||Easy|
+||707|Design Linked List|[:us:](https://leetcode.com/problems/design-linked-list) [:cn:](https://leetcode-cn.com/problems/design-linked-list)||Medium|
+||706|Design HashMap|[:us:](https://leetcode.com/problems/design-hashmap) [:cn:](https://leetcode-cn.com/problems/design-hashmap)||Easy|
+||703|Kth Largest Element in a Stream|[:us:](https://leetcode.com/problems/kth-largest-element-in-a-stream) [:cn:](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)||Easy|
+||699|Falling Squares|[:us:](https://leetcode.com/problems/falling-squares) [:cn:](https://leetcode-cn.com/problems/falling-squares)||Hard|
+||693|Binary Number with Alternating Bits|[:us:](https://leetcode.com/problems/binary-number-with-alternating-bits) [:cn:](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)||Easy|
+||692|Top K Frequent Words|[:us:](https://leetcode.com/problems/top-k-frequent-words) [:cn:](https://leetcode-cn.com/problems/top-k-frequent-words)||Medium|
+||691|Stickers to Spell Word|[:us:](https://leetcode.com/problems/stickers-to-spell-word) [:cn:](https://leetcode-cn.com/problems/stickers-to-spell-word)||Hard|
+||686|Repeated String Match|[:us:](https://leetcode.com/problems/repeated-string-match) [:cn:](https://leetcode-cn.com/problems/repeated-string-match)||Medium|
+||685|Redundant Connection II|[:us:](https://leetcode.com/problems/redundant-connection-ii) [:cn:](https://leetcode-cn.com/problems/redundant-connection-ii)||Hard|
+||682|Baseball Game|[:us:](https://leetcode.com/problems/baseball-game) [:cn:](https://leetcode-cn.com/problems/baseball-game)||Easy|
+||679|24 Game|[:us:](https://leetcode.com/problems/24-game) [:cn:](https://leetcode-cn.com/problems/24-game)||Hard|
+||676|Implement Magic Dictionary|[:us:](https://leetcode.com/problems/implement-magic-dictionary) [:cn:](https://leetcode-cn.com/problems/implement-magic-dictionary)||Medium|
+||675|Cut Off Trees for Golf Event|[:us:](https://leetcode.com/problems/cut-off-trees-for-golf-event) [:cn:](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)||Hard|
+||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii) [:cn:](https://leetcode-cn.com/problems/bulb-switcher-ii)||Medium|
+||670|Maximum Swap|[:us:](https://leetcode.com/problems/maximum-swap) [:cn:](https://leetcode-cn.com/problems/maximum-swap)||Medium|
+||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) [:cn:](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
+||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer) [:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
+||661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother) [:cn:](https://leetcode-cn.com/problems/image-smoother)||Easy|
+||658|Find K Closest Elements|[:us:](https://leetcode.com/problems/find-k-closest-elements) [:cn:](https://leetcode-cn.com/problems/find-k-closest-elements)||Medium|
+||650|2 Keys Keyboard|[:us:](https://leetcode.com/problems/2-keys-keyboard) [:cn:](https://leetcode-cn.com/problems/2-keys-keyboard)||Medium|
+||648|Replace Words|[:us:](https://leetcode.com/problems/replace-words) [:cn:](https://leetcode-cn.com/problems/replace-words)||Medium|
+||647|Palindromic Substrings|[:us:](https://leetcode.com/problems/palindromic-substrings) [:cn:](https://leetcode-cn.com/problems/palindromic-substrings)||Medium|
+||646|Maximum Length of Pair Chain|[:us:](https://leetcode.com/problems/maximum-length-of-pair-chain) [:cn:](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)||Medium|
+||643|Maximum Average Subarray I|[:us:](https://leetcode.com/problems/maximum-average-subarray-i) [:cn:](https://leetcode-cn.com/problems/maximum-average-subarray-i)||Easy|
+||641|Design Circular Deque|[:us:](https://leetcode.com/problems/design-circular-deque) [:cn:](https://leetcode-cn.com/problems/design-circular-deque)||Medium|
+||640|Solve the Equation|[:us:](https://leetcode.com/problems/solve-the-equation) [:cn:](https://leetcode-cn.com/problems/solve-the-equation)||Medium|
+||639|Decode Ways II|[:us:](https://leetcode.com/problems/decode-ways-ii) [:cn:](https://leetcode-cn.com/problems/decode-ways-ii)||Hard|
+||638|Shopping Offers|[:us:](https://leetcode.com/problems/shopping-offers) [:cn:](https://leetcode-cn.com/problems/shopping-offers)||Medium|
+||637|Average of Levels in Binary Tree|[:us:](https://leetcode.com/problems/average-of-levels-in-binary-tree) [:cn:](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)||Easy|
+||636|Exclusive Time of Functions|[:us:](https://leetcode.com/problems/exclusive-time-of-functions) [:cn:](https://leetcode-cn.com/problems/exclusive-time-of-functions)||Medium|
+||633|Sum of Square Numbers|[:us:](https://leetcode.com/problems/sum-of-square-numbers) [:cn:](https://leetcode-cn.com/problems/sum-of-square-numbers)||Medium|
+||630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii) [:cn:](https://leetcode-cn.com/problems/course-schedule-iii)||Hard|
+||628|Maximum Product of Three Numbers|[:us:](https://leetcode.com/problems/maximum-product-of-three-numbers) [:cn:](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)||Easy|
+||627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode-cn.com/problems/swap-salary)||Easy|
+||626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats) [:cn:](https://leetcode-cn.com/problems/exchange-seats)||Medium|
+||620|Not Boring Movies|[:us:](https://leetcode.com/problems/not-boring-movies) [:cn:](https://leetcode-cn.com/problems/not-boring-movies)||Easy|
+||611|Valid Triangle Number|[:us:](https://leetcode.com/problems/valid-triangle-number) [:cn:](https://leetcode-cn.com/problems/valid-triangle-number)||Medium|
+||609|Find Duplicate File in System|[:us:](https://leetcode.com/problems/find-duplicate-file-in-system) [:cn:](https://leetcode-cn.com/problems/find-duplicate-file-in-system)||Medium|
+||606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree) [:cn:](https://leetcode-cn.com/problems/construct-string-from-binary-tree)||Easy|
+||601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium) [:cn:](https://leetcode-cn.com/problems/human-traffic-of-stadium)||Hard|
+||600|Non-negative Integers without Consecutive Ones|[:us:](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) [:cn:](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)||Hard|
+||599|Minimum Index Sum of Two Lists|[:us:](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [:cn:](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)||Easy|
+||596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode-cn.com/problems/classes-more-than-5-students)||Easy|
+||594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-harmonious-subsequence)||Easy|
+||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
+||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
+||587|Erect the Fence|[:us:](https://leetcode.com/problems/erect-the-fence) [:cn:](https://leetcode-cn.com/problems/erect-the-fence)||Hard|
+||575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies) [:cn:](https://leetcode-cn.com/problems/distribute-candies)||Easy|
+||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree) [:cn:](https://leetcode-cn.com/problems/subtree-of-another-tree)||Easy|
+||565|Array Nesting|[:us:](https://leetcode.com/problems/array-nesting) [:cn:](https://leetcode-cn.com/problems/array-nesting)||Medium|
+||558|Logical OR of Two Binary Grids Represented as Quad-Trees|[:us:](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) [:cn:](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)||Medium|
+||554|Brick Wall|[:us:](https://leetcode.com/problems/brick-wall) [:cn:](https://leetcode-cn.com/problems/brick-wall)||Medium|
+||552|Student Attendance Record II|[:us:](https://leetcode.com/problems/student-attendance-record-ii) [:cn:](https://leetcode-cn.com/problems/student-attendance-record-ii)||Hard|
+||551|Student Attendance Record I|[:us:](https://leetcode.com/problems/student-attendance-record-i) [:cn:](https://leetcode-cn.com/problems/student-attendance-record-i)||Easy|
+||546|Remove Boxes|[:us:](https://leetcode.com/problems/remove-boxes) [:cn:](https://leetcode-cn.com/problems/remove-boxes)||Hard|
+||541|Reverse String II|[:us:](https://leetcode.com/problems/reverse-string-ii) [:cn:](https://leetcode-cn.com/problems/reverse-string-ii)||Easy|
+||539|Minimum Time Difference|[:us:](https://leetcode.com/problems/minimum-time-difference) [:cn:](https://leetcode-cn.com/problems/minimum-time-difference)||Medium|
+||537|Complex Number Multiplication|[:us:](https://leetcode.com/problems/complex-number-multiplication) [:cn:](https://leetcode-cn.com/problems/complex-number-multiplication)||Medium|
+||530|Minimum Absolute Difference in BST|[:us:](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst)||Easy|
+||529|Minesweeper|[:us:](https://leetcode.com/problems/minesweeper) [:cn:](https://leetcode-cn.com/problems/minesweeper)||Medium|
+||526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement) [:cn:](https://leetcode-cn.com/problems/beautiful-arrangement)||Medium|
+||523|Continuous Subarray Sum|[:us:](https://leetcode.com/problems/continuous-subarray-sum) [:cn:](https://leetcode-cn.com/problems/continuous-subarray-sum)||Medium|
+||522|Longest Uncommon Subsequence II|[:us:](https://leetcode.com/problems/longest-uncommon-subsequence-ii) [:cn:](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)||Medium|
+||519|Random Flip Matrix|[:us:](https://leetcode.com/problems/random-flip-matrix) [:cn:](https://leetcode-cn.com/problems/random-flip-matrix)||Medium|
+||517|Super Washing Machines|[:us:](https://leetcode.com/problems/super-washing-machines) [:cn:](https://leetcode-cn.com/problems/super-washing-machines)||Hard|
+||516|Longest Palindromic Subsequence|[:us:](https://leetcode.com/problems/longest-palindromic-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-palindromic-subsequence)||Medium|
+||515|Find Largest Value in Each Tree Row|[:us:](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [:cn:](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)||Medium|
+||514|Freedom Trail|[:us:](https://leetcode.com/problems/freedom-trail) [:cn:](https://leetcode-cn.com/problems/freedom-trail)||Hard|
+||513|Find Bottom Left Tree Value|[:us:](https://leetcode.com/problems/find-bottom-left-tree-value) [:cn:](https://leetcode-cn.com/problems/find-bottom-left-tree-value)||Medium|
+||509|Fibonacci Number|[:us:](https://leetcode.com/problems/fibonacci-number) [:cn:](https://leetcode-cn.com/problems/fibonacci-number)||Easy|
+||504|Base 7|[:us:](https://leetcode.com/problems/base-7) [:cn:](https://leetcode-cn.com/problems/base-7)||Easy|
+||501|Find Mode in Binary Search Tree|[:us:](https://leetcode.com/problems/find-mode-in-binary-search-tree) [:cn:](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)||Easy|
+||493|Reverse Pairs|[:us:](https://leetcode.com/problems/reverse-pairs) [:cn:](https://leetcode-cn.com/problems/reverse-pairs)||Hard|
+||492|Construct the Rectangle|[:us:](https://leetcode.com/problems/construct-the-rectangle) [:cn:](https://leetcode-cn.com/problems/construct-the-rectangle)||Easy|
+||491|Increasing Subsequences|[:us:](https://leetcode.com/problems/increasing-subsequences) [:cn:](https://leetcode-cn.com/problems/increasing-subsequences)||Medium|
+||483|Smallest Good Base|[:us:](https://leetcode.com/problems/smallest-good-base) [:cn:](https://leetcode-cn.com/problems/smallest-good-base)||Hard|
+||481|Magical String|[:us:](https://leetcode.com/problems/magical-string) [:cn:](https://leetcode-cn.com/problems/magical-string)||Medium|
+||480|Sliding Window Median|[:us:](https://leetcode.com/problems/sliding-window-median) [:cn:](https://leetcode-cn.com/problems/sliding-window-median)||Hard|
+||479|Largest Palindrome Product|[:us:](https://leetcode.com/problems/largest-palindrome-product) [:cn:](https://leetcode-cn.com/problems/largest-palindrome-product)||Hard|
+||478|Generate Random Point in a Circle|[:us:](https://leetcode.com/problems/generate-random-point-in-a-circle) [:cn:](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)||Medium|
+||475|Heaters|[:us:](https://leetcode.com/problems/heaters) [:cn:](https://leetcode-cn.com/problems/heaters)||Medium|
+||474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode-cn.com/problems/ones-and-zeroes)||Medium|
+||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square) [:cn:](https://leetcode-cn.com/problems/matchsticks-to-square)||Medium|
+||467|Unique Substrings in Wraparound String|[:us:](https://leetcode.com/problems/unique-substrings-in-wraparound-string) [:cn:](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)||Medium|
+||466|Count The Repetitions|[:us:](https://leetcode.com/problems/count-the-repetitions) [:cn:](https://leetcode-cn.com/problems/count-the-repetitions)||Hard|
+||464|Can I Win|[:us:](https://leetcode.com/problems/can-i-win) [:cn:](https://leetcode-cn.com/problems/can-i-win)||Medium|
+||460|LFU Cache|[:us:](https://leetcode.com/problems/lfu-cache) [:cn:](https://leetcode-cn.com/problems/lfu-cache)||Hard|
+||454|4Sum II|[:us:](https://leetcode.com/problems/4sum-ii) [:cn:](https://leetcode-cn.com/problems/4sum-ii)||Medium|
+||448|Find All Numbers Disappeared in an Array|[:us:](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) [:cn:](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)||Easy|
+||446|Arithmetic Slices II - Subsequence|[:us:](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) [:cn:](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence)||Hard|
+||443|String Compression|[:us:](https://leetcode.com/problems/string-compression) [:cn:](https://leetcode-cn.com/problems/string-compression)||Medium|
+||440|K-th Smallest in Lexicographical Order|[:us:](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) [:cn:](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)||Hard|
+||434|Number of Segments in a String|[:us:](https://leetcode.com/problems/number-of-segments-in-a-string) [:cn:](https://leetcode-cn.com/problems/number-of-segments-in-a-string)||Easy|
+||429|N-ary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-level-order-traversal) [:cn:](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)||Medium|
+||427|Construct Quad Tree|[:us:](https://leetcode.com/problems/construct-quad-tree) [:cn:](https://leetcode-cn.com/problems/construct-quad-tree)||Medium|
+||424|Longest Repeating Character Replacement|[:us:](https://leetcode.com/problems/longest-repeating-character-replacement) [:cn:](https://leetcode-cn.com/problems/longest-repeating-character-replacement)||Medium|
+||423|Reconstruct Original Digits from English|[:us:](https://leetcode.com/problems/reconstruct-original-digits-from-english) [:cn:](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english)||Medium|
+||420|Strong Password Checker|[:us:](https://leetcode.com/problems/strong-password-checker) [:cn:](https://leetcode-cn.com/problems/strong-password-checker)||Hard|
+||413|Arithmetic Slices|[:us:](https://leetcode.com/problems/arithmetic-slices) [:cn:](https://leetcode-cn.com/problems/arithmetic-slices)||Medium|
+||407|Trapping Rain Water II|[:us:](https://leetcode.com/problems/trapping-rain-water-ii) [:cn:](https://leetcode-cn.com/problems/trapping-rain-water-ii)||Hard|
+||400|Nth Digit|[:us:](https://leetcode.com/problems/nth-digit) [:cn:](https://leetcode-cn.com/problems/nth-digit)||Medium|
+||391|Perfect Rectangle|[:us:](https://leetcode.com/problems/perfect-rectangle) [:cn:](https://leetcode-cn.com/problems/perfect-rectangle)||Hard|
+||385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode-cn.com/problems/mini-parser)||Medium|
+||382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node) [:cn:](https://leetcode-cn.com/problems/linked-list-random-node)||Medium|
+||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
+||371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)||Easy|
+||365|Water and Jug Problem|[:us:](https://leetcode.com/problems/water-and-jug-problem) [:cn:](https://leetcode-cn.com/problems/water-and-jug-problem)||Medium|
+||363|Max Sum of Rectangle No Larger Than K|[:us:](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) [:cn:](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k)||Hard|
+||357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits) [:cn:](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)||Medium|
+||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter) [:cn:](https://leetcode-cn.com/problems/design-twitter)||Medium|
+||352|Data Stream as Disjoint Intervals|[:us:](https://leetcode.com/problems/data-stream-as-disjoint-intervals) [:cn:](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)||Hard|
+||336|Palindrome Pairs|[:us:](https://leetcode.com/problems/palindrome-pairs) [:cn:](https://leetcode-cn.com/problems/palindrome-pairs)||Hard|
+||335|Self Crossing|[:us:](https://leetcode.com/problems/self-crossing) [:cn:](https://leetcode-cn.com/problems/self-crossing)||Hard|
+||327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode-cn.com/problems/count-of-range-sum)||Hard|
+||306|Additive Number|[:us:](https://leetcode.com/problems/additive-number) [:cn:](https://leetcode-cn.com/problems/additive-number)||Medium|
+||301|Remove Invalid Parentheses|[:us:](https://leetcode.com/problems/remove-invalid-parentheses) [:cn:](https://leetcode-cn.com/problems/remove-invalid-parentheses)||Hard|
+||297|Serialize and Deserialize Binary Tree|[:us:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) [:cn:](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)||Hard|
+||295|Find Median from Data Stream|[:us:](https://leetcode.com/problems/find-median-from-data-stream) [:cn:](https://leetcode-cn.com/problems/find-median-from-data-stream)||Hard|
+||282|Expression Add Operators|[:us:](https://leetcode.com/problems/expression-add-operators) [:cn:](https://leetcode-cn.com/problems/expression-add-operators)||Hard|
+||262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
+||214|Shortest Palindrome|[:us:](https://leetcode.com/problems/shortest-palindrome) [:cn:](https://leetcode-cn.com/problems/shortest-palindrome)||Hard|
+||197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|
+||196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-emails)||Easy|
+||185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries) [:cn:](https://leetcode-cn.com/problems/department-top-three-salaries)||Hard|
+||184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary) [:cn:](https://leetcode-cn.com/problems/department-highest-salary)||Medium|
+||180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers) [:cn:](https://leetcode-cn.com/problems/consecutive-numbers)||Medium|
+||178|Rank Scores|[:us:](https://leetcode.com/problems/rank-scores) [:cn:](https://leetcode-cn.com/problems/rank-scores)||Medium|
+||177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary) [:cn:](https://leetcode-cn.com/problems/nth-highest-salary)||Medium|
+||176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary) [:cn:](https://leetcode-cn.com/problems/second-highest-salary)||Easy|
+||149|Max Points on a Line|[:us:](https://leetcode.com/problems/max-points-on-a-line) [:cn:](https://leetcode-cn.com/problems/max-points-on-a-line)||Hard|
+||144|Binary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-preorder-traversal) [:cn:](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)||Medium|
+||142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii) [:cn:](https://leetcode-cn.com/problems/linked-list-cycle-ii)||Medium|
+||132|Palindrome Partitioning II|[:us:](https://leetcode.com/problems/palindrome-partitioning-ii) [:cn:](https://leetcode-cn.com/problems/palindrome-partitioning-ii)||Hard|
+||131|Palindrome Partitioning|[:us:](https://leetcode.com/problems/palindrome-partitioning) [:cn:](https://leetcode-cn.com/problems/palindrome-partitioning)||Medium|
+||115|Distinct Subsequences|[:us:](https://leetcode.com/problems/distinct-subsequences) [:cn:](https://leetcode-cn.com/problems/distinct-subsequences)||Hard|
+||99|Recover Binary Search Tree|[:us:](https://leetcode.com/problems/recover-binary-search-tree) [:cn:](https://leetcode-cn.com/problems/recover-binary-search-tree)||Hard|
+||97|Interleaving String|[:us:](https://leetcode.com/problems/interleaving-string) [:cn:](https://leetcode-cn.com/problems/interleaving-string)||Hard|
+||93|Restore IP Addresses|[:us:](https://leetcode.com/problems/restore-ip-addresses) [:cn:](https://leetcode-cn.com/problems/restore-ip-addresses)||Medium|
+||87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string) [:cn:](https://leetcode-cn.com/problems/scramble-string)||Hard|
+||29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode-cn.com/problems/divide-two-integers)||Medium|
 ||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|Coin Bonus|[:cn:](https://leetcode-cn.com/problems/coin-bonus)||Hard|

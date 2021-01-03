@@ -620,7 +620,7 @@ def gen_markdown(questions, solutions, title):
             get_status(question),
             question.id(),
             question.title(),
-            get_us_question_link(question) + get_cn_question_link(question),
+            " ".join(item for item in [get_us_question_link(question), get_cn_question_link(question)] if item),
             get_solution_links(question),
             question.difficulty(),
             ""
