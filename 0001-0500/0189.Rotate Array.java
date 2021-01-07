@@ -12,7 +12,6 @@ public class Solution {
         if(nums==null || nums.length<=1 || k==0)
             return;
         k = nums.length-(k%nums.length);
-        System.out.println(k);
         int g = gcd(nums.length,k);
         for(int i=0;i<g;i++){
             int tmp = nums[i];
