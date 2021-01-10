@@ -218,7 +218,9 @@ class Solution:
             else:
                 raise ValueError(msg)
         if self._title is None:
-            # tring to fill the title from online source
+            if question is None:
+                raise ValueError("Unable to correct Solution name %s. Wait for contest to end." % self._basename)
+            # trying to fill the title from online source
             print("[WARN] Solution %s name defaults to %s" %
                   (self.id(), question.title()))
             self._title = question.title()
