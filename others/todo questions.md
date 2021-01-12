@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|447|0|5|248|5|
+|446|0|5|247|5|
 
 
 
@@ -24,7 +24,6 @@
 |:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers) [:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|
 |:question:|1397|Find All Good Strings|[:us:](https://leetcode.com/problems/find-all-good-strings) [:cn:](https://leetcode-cn.com/problems/find-all-good-strings)||Hard|
 ||1206|Design Skiplist|[:us:](https://leetcode.com/problems/design-skiplist) [:cn:](https://leetcode-cn.com/problems/design-skiplist)||Hard|
-||1203|Sort Items by Groups Respecting Dependencies|[:us:](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) [:cn:](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)||Hard|
 ||1179|Reformat Department Table|[:us:](https://leetcode.com/problems/reformat-department-table) [:cn:](https://leetcode-cn.com/problems/reformat-department-table)||Easy|
 ||1157|Online Majority Element In Subarray|[:us:](https://leetcode.com/problems/online-majority-element-in-subarray) [:cn:](https://leetcode-cn.com/problems/online-majority-element-in-subarray)||Hard|
 ||1125|Smallest Sufficient Team|[:us:](https://leetcode.com/problems/smallest-sufficient-team) [:cn:](https://leetcode-cn.com/problems/smallest-sufficient-team)||Hard|
