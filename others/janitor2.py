@@ -141,7 +141,8 @@ class Solution:
     KNOWN_CN_GROUPS = [
         re.compile("^LCP \d{2}$"),
         re.compile("^剑指 Offer \d{2}(- I{1,3})?$"),
-        re.compile("^面试题 \d{2}\.\d{2}$")
+        re.compile("^面试题 \d{2}\.\d{2}$"),
+        re.compile("^DD-\d{7}")
     ]
     ROOT_PATH = None
     moved_cnt = 0
@@ -243,7 +244,7 @@ class Solution:
             end = start + Solution.FOLDER_SIZE - 1
             return "{:04d}-{:04d}".format(start, end)
         elif any(matcher.match(self._id) for matcher in Solution.KNOWN_CN_GROUPS):
-            folders = ["LCP", "剑指 Offer", "面试题"]
+            folders = ["LCP", "剑指 Offer", "面试题", "DD"]
             for folder in folders:
                 if self._id.startswith(folder):
                     return folder
@@ -715,7 +716,7 @@ def load_resources():
         return obj
 
     def list_code_folders():
-        folder_patterns = ["\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题"]
+        folder_patterns = ["\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", "DD"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
@@ -729,7 +730,7 @@ def load_resources():
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", ".git", ".gitignore", "others", README_FILENAME]
+            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", "DD", ".git", ".gitignore", "others", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)

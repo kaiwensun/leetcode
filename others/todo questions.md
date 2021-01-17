@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|445|0|5|245|5|
+|444|0|5|245|5|
 
 
 
@@ -260,7 +260,6 @@
 ||93|Restore IP Addresses|[:us:](https://leetcode.com/problems/restore-ip-addresses) [:cn:](https://leetcode-cn.com/problems/restore-ip-addresses)||Medium|
 ||87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string) [:cn:](https://leetcode-cn.com/problems/scramble-string)||Hard|
 ||29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode-cn.com/problems/divide-two-integers)||Medium|
-||DD-2020006|简单游戏|[:cn:](https://leetcode-cn.com/problems/1zD30O)||Easy|
 ||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|Coin Bonus|[:cn:](https://leetcode-cn.com/problems/coin-bonus)||Hard|
