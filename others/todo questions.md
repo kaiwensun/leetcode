@@ -9,14 +9,13 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|443|0|5|244|5|
+|442|0|5|243|5|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||1719|Number Of Ways To Reconstruct A Tree|[:us:](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)||Hard|
-||1717|Maximum Score From Removing Substrings|[:us:](https://leetcode.com/problems/maximum-score-from-removing-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings)||Medium|
 ||1714|Sum Of Special Evenly-Spaced Elements In Array|[:us:](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array) [:cn:](https://leetcode-cn.com/problems/sum-of-special-evenly-spaced-elements-in-array)||Hard|
 ||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones) [:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
 |:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers) [:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|

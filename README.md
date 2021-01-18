@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1941|1156|5|244|5|
+|1941|1157|5|243|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.4%|14.5%|10.6%|4.9%|3.8%|0.6%|0.3%|
+|65.4%|14.5%|10.6%|4.9%|3.7%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -31,7 +31,7 @@
 |:heavy_check_mark:|1720|Decode XORed Array|[:us:](https://leetcode.com/problems/decode-xored-array) [:cn:](https://leetcode-cn.com/problems/decode-xored-array)|[py](1501-2000/1720.Decode%20XORed%20Array.py)|Easy|
 ||1719|Number Of Ways To Reconstruct A Tree|[:us:](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)||Hard|
 |:heavy_check_mark:|1718|Construct the Lexicographically Largest Valid Sequence|[:us:](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) [:cn:](https://leetcode-cn.com/problems/construct-the-lexicographically-largest-valid-sequence)|[py](1501-2000/1718.Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence.py)|Medium|
-||1717|Maximum Score From Removing Substrings|[:us:](https://leetcode.com/problems/maximum-score-from-removing-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings)||Medium|
+|:heavy_check_mark:|1717|Maximum Score From Removing Substrings|[:us:](https://leetcode.com/problems/maximum-score-from-removing-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings)|[py](1501-2000/1717.Maximum%20Score%20From%20Removing%20Substrings.py)|Medium|
 |:heavy_check_mark:|1716|Calculate Money in Leetcode Bank|[:us:](https://leetcode.com/problems/calculate-money-in-leetcode-bank) [:cn:](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|[php](1501-2000/1716.Calculate%20Money%20in%20Leetcode%20Bank.php)|Easy|
 |:lock:|1715|Count Apples and Oranges|[:us:](https://leetcode.com/problems/count-apples-and-oranges) [:cn:](https://leetcode-cn.com/problems/count-apples-and-oranges)||Medium|
 ||1714|Sum Of Special Evenly-Spaced Elements In Array|[:us:](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array) [:cn:](https://leetcode-cn.com/problems/sum-of-special-evenly-spaced-elements-in-array)||Hard|
