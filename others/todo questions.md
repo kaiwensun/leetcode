@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|444|0|5|245|5|
+|443|0|5|244|5|
 
 
 
@@ -113,7 +113,6 @@
 ||730|Count Different Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-different-palindromic-subsequences) [:cn:](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)||Hard|
 ||725|Split Linked List in Parts|[:us:](https://leetcode.com/problems/split-linked-list-in-parts) [:cn:](https://leetcode-cn.com/problems/split-linked-list-in-parts)||Medium|
 ||724|Find Pivot Index|[:us:](https://leetcode.com/problems/find-pivot-index) [:cn:](https://leetcode-cn.com/problems/find-pivot-index)||Easy|
-||721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge) [:cn:](https://leetcode-cn.com/problems/accounts-merge)||Medium|
 ||720|Longest Word in Dictionary|[:us:](https://leetcode.com/problems/longest-word-in-dictionary) [:cn:](https://leetcode-cn.com/problems/longest-word-in-dictionary)||Easy|
 ||719|Find K-th Smallest Pair Distance|[:us:](https://leetcode.com/problems/find-k-th-smallest-pair-distance) [:cn:](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)||Hard|
 ||718|Maximum Length of Repeated Subarray|[:us:](https://leetcode.com/problems/maximum-length-of-repeated-subarray) [:cn:](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)||Medium|

@@ -9,16 +9,17 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1940|1155|5|245|5|
+|1941|1156|5|244|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|14.5%|10.6%|4.9%|3.8%|0.6%|0.3%|
+|65.4%|14.5%|10.6%|4.9%|3.8%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|1729|Find Followers Count|[:us:](https://leetcode.com/problems/find-followers-count) [:cn:](https://leetcode-cn.com/problems/find-followers-count)||Easy|
 |:heavy_check_mark:|1728|Cat and Mouse II|[:us:](https://leetcode.com/problems/cat-and-mouse-ii) [:cn:](https://leetcode-cn.com/problems/cat-and-mouse-ii)|[py](1501-2000/1728.Cat%20and%20Mouse%20II.py)|Hard|
 |:heavy_check_mark:|1727|Largest Submatrix With Rearrangements|[:us:](https://leetcode.com/problems/largest-submatrix-with-rearrangements) [:cn:](https://leetcode-cn.com/problems/largest-submatrix-with-rearrangements)|[py](1501-2000/1727.Largest%20Submatrix%20With%20Rearrangements.py)|Medium|
 |:heavy_check_mark:|1726|Tuple with Same Product|[:us:](https://leetcode.com/problems/tuple-with-same-product) [:cn:](https://leetcode-cn.com/problems/tuple-with-same-product)|[py](1501-2000/1726.Tuple%20with%20Same%20Product.py)|Medium|
@@ -1026,7 +1027,7 @@
 ||724|Find Pivot Index|[:us:](https://leetcode.com/problems/find-pivot-index) [:cn:](https://leetcode-cn.com/problems/find-pivot-index)||Easy|
 |:lock:|723|Candy Crush|[:us:](https://leetcode.com/problems/candy-crush) [:cn:](https://leetcode-cn.com/problems/candy-crush)||Medium|
 |:heavy_check_mark:|722|Remove Comments|[:us:](https://leetcode.com/problems/remove-comments) [:cn:](https://leetcode-cn.com/problems/remove-comments)|[py](0501-1000/0722.Remove%20Comments.py)|Medium|
-||721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge) [:cn:](https://leetcode-cn.com/problems/accounts-merge)||Medium|
+|:heavy_check_mark:|721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge) [:cn:](https://leetcode-cn.com/problems/accounts-merge)|[py](0501-1000/0721.Accounts%20Merge.py)|Medium|
 ||720|Longest Word in Dictionary|[:us:](https://leetcode.com/problems/longest-word-in-dictionary) [:cn:](https://leetcode-cn.com/problems/longest-word-in-dictionary)||Easy|
 ||719|Find K-th Smallest Pair Distance|[:us:](https://leetcode.com/problems/find-k-th-smallest-pair-distance) [:cn:](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)||Hard|
 ||718|Maximum Length of Repeated Subarray|[:us:](https://leetcode.com/problems/maximum-length-of-repeated-subarray) [:cn:](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)||Medium|
