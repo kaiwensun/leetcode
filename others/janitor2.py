@@ -220,7 +220,8 @@ class Solution:
                 raise ValueError(msg)
         if self._title is None:
             if question is None:
-                raise ValueError("Unable to correct Solution name %s. Wait for contest to end." % self._basename)
+                raise ValueError(
+                    "Unable to correct Solution name %s. Wait for contest to end." % self._basename)
             # trying to fill the title from online source
             print("[WARN] Solution %s name defaults to %s" %
                   (self.id(), question.title()))
@@ -623,7 +624,8 @@ def gen_markdown(questions, solutions, title):
             get_status(question),
             question.id(),
             question.title(),
-            " ".join(item for item in [get_us_question_link(question), get_cn_question_link(question)] if item),
+            " ".join(item for item in [get_us_question_link(
+                question), get_cn_question_link(question)] if item),
             get_solution_links(question),
             question.difficulty(),
             ""
@@ -710,6 +712,13 @@ def load_resources():
 
     def get_online_problems():
         obj = requests.get("https://leetcode-cn.com/api/problems/all/").json()
+        # LeetCode removed one question
+        if not any(q['stat']['question__title_slug'] == '1zD30O' for q in obj["stat_status_pairs"]):
+            obj["stat_status_pairs"].append({'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
+                                                      'question__hide': False, 'frontend_question_id': 'DD-2020006'},
+                                             'difficulty': {'level': 1},
+                                             'paid_only': False})
+
         root_path = get_root_path()
         abs_file_path = os.path.join(root_path, "others", "api-cn.backup.json")
         save_online_resource(obj, abs_file_path)
