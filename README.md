@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1947|1162|5|247|5|
+|1951|1162|5|247|5|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1739|Building Boxes|[:us:](https://leetcode.com/problems/building-boxes) [:cn:](https://leetcode-cn.com/problems/building-boxes)|[py](1501-2000/1739.Building%20Boxes.py)|Hard|
+|:heavy_check_mark:|1738|Find Kth Largest XOR Coordinate Value|[:us:](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value) [:cn:](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value)|[py](1501-2000/1738.Find%20Kth%20Largest%20XOR%20Coordinate%20Value.py)|Medium|
+|:heavy_check_mark:|1737|Change Minimum Characters to Satisfy One of Three Conditions|[:us:](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions) [:cn:](https://leetcode-cn.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)|[py](1501-2000/1737.Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions.py)|Medium|
+|:heavy_check_mark:|1736|Latest Time by Replacing Hidden Digits|[:us:](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits) [:cn:](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits)|[py](1501-2000/1736.Latest%20Time%20by%20Replacing%20Hidden%20Digits.py)|Easy|
 ||1735|Count Ways to Make Array With Product|[:us:](https://leetcode.com/problems/count-ways-to-make-array-with-product) [:cn:](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product)||Hard|
 ||1734|Decode XORed Permutation|[:us:](https://leetcode.com/problems/decode-xored-permutation) [:cn:](https://leetcode-cn.com/problems/decode-xored-permutation)||Medium|
 ||1733|Minimum Number of People to Teach|[:us:](https://leetcode.com/problems/minimum-number-of-people-to-teach) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-people-to-teach)||Medium|
