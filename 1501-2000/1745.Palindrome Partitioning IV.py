@@ -16,7 +16,6 @@ class Solution(object):
                 extend_to[l].add(r + 1)
                 l -= 1
                 r += 1
-        print(extend_to)
         for i1 in extend_to[0]:
             for i2 in extend_to[i1]:
                 if len(s) in extend_to[i2]:

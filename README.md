@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1953|1172|5|241|5|
+|1957|1172|5|241|5|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1745|Palindrome Partitioning IV|[:us:](https://leetcode.com/problems/palindrome-partitioning-iv) [:cn:](https://leetcode-cn.com/problems/palindrome-partitioning-iv)|[py](1501-2000/1745.Palindrome%20Partitioning%20IV.py)|Hard|
+|:heavy_check_mark:|1744|Can You Eat Your Favorite Candy on Your Favorite Day?|[:us:](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) [:cn:](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day)|[py](1501-2000/1744.Can%20You%20Eat%20Your%20Favorite%20Candy%20on%20Your%20Favorite%20Day%3F.py)|Medium|
+|:heavy_check_mark:|1743|Restore the Array From Adjacent Pairs|[:us:](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs) [:cn:](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs)|[py](1501-2000/1743.Restore%20the%20Array%20From%20Adjacent%20Pairs.py)|Medium|
+|:heavy_check_mark:|1742|Maximum Number of Balls in a Box|[:us:](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box)|[py](1501-2000/1742.Maximum%20Number%20of%20Balls%20in%20a%20Box.py)|Easy|
 |:lock:|1741|Find Total Time Spent by Each Employee|[:us:](https://leetcode.com/problems/find-total-time-spent-by-each-employee) [:cn:](https://leetcode-cn.com/problems/find-total-time-spent-by-each-employee)||Easy|
 |:lock:|1740|Find Distance in a Binary Tree|[:us:](https://leetcode.com/problems/find-distance-in-a-binary-tree) [:cn:](https://leetcode-cn.com/problems/find-distance-in-a-binary-tree)||Medium|
 |:heavy_check_mark:|1739|Building Boxes|[:us:](https://leetcode.com/problems/building-boxes) [:cn:](https://leetcode-cn.com/problems/building-boxes)|[py](1501-2000/1739.Building%20Boxes.py)|Hard|
