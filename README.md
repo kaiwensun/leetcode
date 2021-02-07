@@ -14,7 +14,7 @@
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.9%|14.2%|10.4%|4.8%|3.7%|0.6%|0.3%|
+|66.0%|14.2%|10.4%|4.8%|3.7%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
