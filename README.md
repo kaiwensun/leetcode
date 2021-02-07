@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1963|1179|5|240|5|
+|1967|1179|5|240|5|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1755|Closest Subsequence Sum|[:us:](https://leetcode.com/problems/closest-subsequence-sum) [:cn:](https://leetcode-cn.com/problems/closest-subsequence-sum)|[py](1501-2000/1755.Closest%20Subsequence%20Sum.py)|Hard|
+|:heavy_check_mark:|1754|Largest Merge Of Two Strings|[:us:](https://leetcode.com/problems/largest-merge-of-two-strings) [:cn:](https://leetcode-cn.com/problems/largest-merge-of-two-strings)|[py](1501-2000/1754.Largest%20Merge%20Of%20Two%20Strings.py)|Medium|
+|:heavy_check_mark:|1753|Maximum Score From Removing Stones|[:us:](https://leetcode.com/problems/maximum-score-from-removing-stones) [:cn:](https://leetcode-cn.com/problems/maximum-score-from-removing-stones)|[py](1501-2000/1753.Maximum%20Score%20From%20Removing%20Stones.py), [py](1501-2000/1753.Maximum%20Score%20From%20Removing%20Stones.%28faster%29.py)|Medium|
+|:heavy_check_mark:|1752|Check if Array Is Sorted and Rotated|[:us:](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) [:cn:](https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated)|[py](1501-2000/1752.Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)|Easy|
 ||1751|Maximum Number of Events That Can Be Attended II|[:us:](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii)||Hard|
 ||1750|Minimum Length of String After Deleting Similar Ends|[:us:](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) [:cn:](https://leetcode-cn.com/problems/minimum-length-of-string-after-deleting-similar-ends)||Medium|
 ||1749|Maximum Absolute Sum of Any Subarray|[:us:](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) [:cn:](https://leetcode-cn.com/problems/maximum-absolute-sum-of-any-subarray)||Medium|
