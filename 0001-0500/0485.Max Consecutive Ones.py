@@ -4,5 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        return max(map(lambda str : len(str), "".join(map(lambda c : str(c), nums)).split("0")))
+        return max(map(len, "".join(map(str, nums)).split("0")))
 
