@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|435|0|5|236|5|
+|434|0|5|235|5|
 
 
 
@@ -30,7 +30,6 @@
 ||1125|Smallest Sufficient Team|[:us:](https://leetcode.com/problems/smallest-sufficient-team) [:cn:](https://leetcode-cn.com/problems/smallest-sufficient-team)||Hard|
 ||1074|Number of Submatrices That Sum to Target|[:us:](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) [:cn:](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target)||Hard|
 ||1012|Numbers With Repeated Digits|[:us:](https://leetcode.com/problems/numbers-with-repeated-digits) [:cn:](https://leetcode-cn.com/problems/numbers-with-repeated-digits)||Hard|
-||991|Broken Calculator|[:us:](https://leetcode.com/problems/broken-calculator) [:cn:](https://leetcode-cn.com/problems/broken-calculator)||Medium|
 ||975|Odd Even Jump|[:us:](https://leetcode.com/problems/odd-even-jump) [:cn:](https://leetcode-cn.com/problems/odd-even-jump)||Hard|
 ||972|Equal Rational Numbers|[:us:](https://leetcode.com/problems/equal-rational-numbers) [:cn:](https://leetcode-cn.com/problems/equal-rational-numbers)||Hard|
 |:question:|964|Least Operators to Express Number|[:us:](https://leetcode.com/problems/least-operators-to-express-number) [:cn:](https://leetcode-cn.com/problems/least-operators-to-express-number)||Hard|

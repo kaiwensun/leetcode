@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1983|1195|5|236|5|
+|1983|1196|5|235|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.2%|14.1%|10.3%|4.8%|3.6%|0.6%|0.3%|
+|66.2%|14.2%|10.3%|4.8%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -799,7 +799,7 @@
 |:heavy_check_mark:|994|Rotting Oranges|[:us:](https://leetcode.com/problems/rotting-oranges) [:cn:](https://leetcode-cn.com/problems/rotting-oranges)|[py](0501-1000/0994.Rotting%20Oranges.py), [py](0501-1000/0994.Rotting%20Oranges.2.py)|Medium|
 |:heavy_check_mark:|993|Cousins in Binary Tree|[:us:](https://leetcode.com/problems/cousins-in-binary-tree) [:cn:](https://leetcode-cn.com/problems/cousins-in-binary-tree)|[rb](0501-1000/0993.Cousins%20in%20Binary%20Tree.rb)|Easy|
 |:heavy_check_mark:|992|Subarrays with K Different Integers|[:us:](https://leetcode.com/problems/subarrays-with-k-different-integers) [:cn:](https://leetcode-cn.com/problems/subarrays-with-k-different-integers)|[py](0501-1000/0992.Subarrays%20with%20K%20Different%20Integers.py)|Hard|
-||991|Broken Calculator|[:us:](https://leetcode.com/problems/broken-calculator) [:cn:](https://leetcode-cn.com/problems/broken-calculator)||Medium|
+|:heavy_check_mark:|991|Broken Calculator|[:us:](https://leetcode.com/problems/broken-calculator) [:cn:](https://leetcode-cn.com/problems/broken-calculator)|[java](0501-1000/0991.Broken%20Calculator.java)|Medium|
 |:heavy_check_mark:|990|Satisfiability of Equality Equations|[:us:](https://leetcode.com/problems/satisfiability-of-equality-equations) [:cn:](https://leetcode-cn.com/problems/satisfiability-of-equality-equations)|[py](0501-1000/0990.Satisfiability%20of%20Equality%20Equations.py)|Medium|
 |:heavy_check_mark:|989|Add to Array-Form of Integer|[:us:](https://leetcode.com/problems/add-to-array-form-of-integer) [:cn:](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|[py](0501-1000/0989.Add%20to%20Array-Form%20of%20Integer.py)|Easy|
 |:heavy_check_mark:|988|Smallest String Starting From Leaf|[:us:](https://leetcode.com/problems/smallest-string-starting-from-leaf) [:cn:](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf)|[py](0501-1000/0988.Smallest%20String%20Starting%20From%20Leaf.py)|Medium|
