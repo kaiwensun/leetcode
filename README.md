@@ -14,7 +14,7 @@
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.2%|14.2%|10.3%|4.8%|3.6%|0.6%|0.3%|
+|66.1%|14.3%|10.3%|4.8%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1024,7 +1024,7 @@
 |:heavy_check_mark:|769|Max Chunks To Make Sorted|[:us:](https://leetcode.com/problems/max-chunks-to-make-sorted) [:cn:](https://leetcode-cn.com/problems/max-chunks-to-make-sorted)|[py](0501-1000/0769.Max%20Chunks%20To%20Make%20Sorted.py)|Medium|
 |:heavy_check_mark:|768|Max Chunks To Make Sorted II|[:us:](https://leetcode.com/problems/max-chunks-to-make-sorted-ii) [:cn:](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii)|[py](0501-1000/0768.Max%20Chunks%20To%20Make%20Sorted%20II.py)|Hard|
 |:heavy_check_mark:|767|Reorganize String|[:us:](https://leetcode.com/problems/reorganize-string) [:cn:](https://leetcode-cn.com/problems/reorganize-string)|[py](0501-1000/0767.Reorganize%20String.py)|Medium|
-|:heavy_check_mark:|766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix) [:cn:](https://leetcode-cn.com/problems/toeplitz-matrix)|[java](0501-1000/0766.Toeplitz%20Matrix.java)|Easy|
+|:heavy_check_mark:|766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix) [:cn:](https://leetcode-cn.com/problems/toeplitz-matrix)|[java](0501-1000/0766.Toeplitz%20Matrix.java), [java](0501-1000/0766.Toeplitz%20Matrix.2.java)|Easy|
 |:heavy_check_mark:|765|Couples Holding Hands|[:us:](https://leetcode.com/problems/couples-holding-hands) [:cn:](https://leetcode-cn.com/problems/couples-holding-hands)|[py](0501-1000/0765.Couples%20Holding%20Hands.py)|Hard|
 |:heavy_check_mark:|764|Largest Plus Sign|[:us:](https://leetcode.com/problems/largest-plus-sign) [:cn:](https://leetcode-cn.com/problems/largest-plus-sign)|[java](0501-1000/0764.Largest%20Plus%20Sign.java)|Medium|
 |:heavy_check_mark:|763|Partition Labels|[:us:](https://leetcode.com/problems/partition-labels) [:cn:](https://leetcode-cn.com/problems/partition-labels)|[py](0501-1000/0763.Partition%20Labels.py)|Medium|
