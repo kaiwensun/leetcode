@@ -677,7 +677,7 @@ def gen_markdown(questions, solutions, title):
         def gen_support():
             if not is_main:
                 return ""
-            methods = ["WeChat Pay", "PayPal"]
+            methods = ["WeChat Pay", "PayPal", "Venmo"]
             line = ["* :gift_heart: Buy me a coffee: "]
             
             for method in methods:
