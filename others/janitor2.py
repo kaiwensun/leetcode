@@ -677,15 +677,7 @@ def gen_markdown(questions, solutions, title):
         def gen_support():
             if not is_main:
                 return ""
-            methods = ["WeChat Pay"]
-            line = ["* :gift_heart: Buy me a coffee: "]
-            
-            for method in methods:
-                if len(line) != 1:
-                    line.append(", ")
-                path = os.path.join("others", "support", urllib.parse.quote(f"{method}.md"))
-                line.append(f"[{method}]({path})")
-            return "".join(line)
+            return f"* :gift_heart: [Buy me a coffee](others/support/README.md)"
 
         res = ["# " + title,
                gen_markdown_site_links(),
