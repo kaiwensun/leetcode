@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1984|1200|5|235|5|
+|1988|1200|5|235|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.2%|14.2%|10.3%|4.8%|3.6%|0.6%|0.3%|
+|66.3%|14.2%|10.3%|4.8%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1776|Car Fleet II|[:us:](https://leetcode.com/problems/car-fleet-ii) [:cn:](https://leetcode-cn.com/problems/car-fleet-ii)|[py](1501-2000/1776.Car%20Fleet%20II.py)|Hard|
+|:heavy_check_mark:|1775|Equal Sum Arrays With Minimum Number of Operations|[:us:](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) [:cn:](https://leetcode-cn.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|[py](1501-2000/1775.Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations.py), [py](1501-2000/1775.Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations.2.py)|Medium|
+|:heavy_check_mark:|1774|Closest Dessert Cost|[:us:](https://leetcode.com/problems/closest-dessert-cost) [:cn:](https://leetcode-cn.com/problems/closest-dessert-cost)|[py](1501-2000/1774.Closest%20Dessert%20Cost.py)|Medium|
+|:heavy_check_mark:|1773|Count Items Matching a Rule|[:us:](https://leetcode.com/problems/count-items-matching-a-rule) [:cn:](https://leetcode-cn.com/problems/count-items-matching-a-rule)|[py](1501-2000/1773.Count%20Items%20Matching%20a%20Rule.py)|Easy|
 |:lock:|1772|Sort Features by Popularity|[:us:](https://leetcode.com/problems/sort-features-by-popularity) [:cn:](https://leetcode-cn.com/problems/sort-features-by-popularity)||Medium|
 |:heavy_check_mark:|1771|Maximize Palindrome Length From Subsequences|[:us:](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences) [:cn:](https://leetcode-cn.com/problems/maximize-palindrome-length-from-subsequences)|[py](1501-2000/1771.Maximize%20Palindrome%20Length%20From%20Subsequences.py)|Hard|
 |:heavy_check_mark:|1770|Maximum Score from Performing Multiplication Operations|[:us:](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) [:cn:](https://leetcode-cn.com/problems/maximum-score-from-performing-multiplication-operations)|[py](1501-2000/1770.Maximum%20Score%20from%20Performing%20Multiplication%20Operations.py)|Medium|
