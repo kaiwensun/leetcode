@@ -569,6 +569,7 @@ def gen_markdown(questions, solutions, title):
     LOCK = ":lock:"
     CHECK_MARK = ":heavy_check_mark:"
     QUESTION_MARK = ":question:"
+    is_main = title == "My LeetCode solutions"
 
     def gen_markdown_questions(questions):
         header = """
@@ -673,10 +674,24 @@ def gen_markdown(questions, solutions, title):
         def gen_markdown_today():
             return "* Last updat: " + datetime.date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
 
+        def gen_support():
+            if not is_main:
+                return ""
+            methods = ["WeChat Pay"]
+            line = ["* :gift_heart: Buy me a coffee: "]
+            
+            for method in methods:
+                if len(line) != 1:
+                    line.append(", ")
+                path = os.path.join("others", "support", urllib.parse.quote(f"{method}.md"))
+                line.append(f"[{method}]({path})")
+            return "".join(line)
+
         res = ["# " + title,
                gen_markdown_site_links(),
                gen_markdown_self_link(),
-               gen_markdown_today()]
+               gen_markdown_today(),
+               gen_support()]
         return "\n".join(res)
 
     def gen_markdown_language_stats(solutions):
