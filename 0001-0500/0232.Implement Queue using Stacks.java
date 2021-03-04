@@ -20,10 +20,11 @@ class MyQueue {
     }
 
     // Removes the element from in front of queue.
-    public void pop() {
+    public int pop() {
         dump(stack,backup);
-        backup.pop();
+        int res = backup.pop();
         dump(backup,stack);
+        return res;
     }
 
     // Get the front element.
