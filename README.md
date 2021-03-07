@@ -10,21 +10,21 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1995|1201|5|239|5|
+|1995|1205|5|235|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.3%|14.2%|10.3%|4.8%|3.6%|0.6%|0.3%|
+|66.3%|14.2%|10.3%|4.7%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:lock:|1783|Grand Slam Titles|[:us:](https://leetcode.com/problems/grand-slam-titles) [:cn:](https://leetcode-cn.com/problems/grand-slam-titles)||Medium|
-||1782|Count Pairs Of Nodes|[:us:](https://leetcode.com/problems/count-pairs-of-nodes) [:cn:](https://leetcode-cn.com/problems/count-pairs-of-nodes)||Hard|
-||1781|Sum of Beauty of All Substrings|[:us:](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings)||Medium|
-||1780|Check if Number is a Sum of Powers of Three|[:us:](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) [:cn:](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three)||Medium|
-||1779|Find Nearest Point That Has the Same X or Y Coordinate|[:us:](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) [:cn:](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)||Easy|
+|:heavy_check_mark:|1782|Count Pairs Of Nodes|[:us:](https://leetcode.com/problems/count-pairs-of-nodes) [:cn:](https://leetcode-cn.com/problems/count-pairs-of-nodes)|[py](1501-2000/1782.Count%20Pairs%20Of%20Nodes.py)|Hard|
+|:heavy_check_mark:|1781|Sum of Beauty of All Substrings|[:us:](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings)|[py](1501-2000/1781.Sum%20of%20Beauty%20of%20All%20Substrings.py)|Medium|
+|:heavy_check_mark:|1780|Check if Number is a Sum of Powers of Three|[:us:](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) [:cn:](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three)|[py](1501-2000/1780.Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.py)|Medium|
+|:heavy_check_mark:|1779|Find Nearest Point That Has the Same X or Y Coordinate|[:us:](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) [:cn:](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)|[java](1501-2000/1779.Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.java)|Easy|
 |:lock:|1778|Shortest Path in a Hidden Grid|[:us:](https://leetcode.com/problems/shortest-path-in-a-hidden-grid) [:cn:](https://leetcode-cn.com/problems/shortest-path-in-a-hidden-grid)||Medium|
 ||1777|Product's Price for Each Store|[:us:](https://leetcode.com/problems/products-price-for-each-store) [:cn:](https://leetcode-cn.com/problems/products-price-for-each-store)||Easy|
 |:heavy_check_mark:|1776|Car Fleet II|[:us:](https://leetcode.com/problems/car-fleet-ii) [:cn:](https://leetcode-cn.com/problems/car-fleet-ii)|[py](1501-2000/1776.Car%20Fleet%20II.py)|Hard|

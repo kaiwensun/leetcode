@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|438|0|5|239|5|
+|434|0|5|235|5|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1782|Count Pairs Of Nodes|[:us:](https://leetcode.com/problems/count-pairs-of-nodes) [:cn:](https://leetcode-cn.com/problems/count-pairs-of-nodes)||Hard|
-||1781|Sum of Beauty of All Substrings|[:us:](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings)||Medium|
-||1780|Check if Number is a Sum of Powers of Three|[:us:](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) [:cn:](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three)||Medium|
-||1779|Find Nearest Point That Has the Same X or Y Coordinate|[:us:](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) [:cn:](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)||Easy|
 ||1777|Product's Price for Each Store|[:us:](https://leetcode.com/problems/products-price-for-each-store) [:cn:](https://leetcode-cn.com/problems/products-price-for-each-store)||Easy|
 ||1766|Tree of Coprimes|[:us:](https://leetcode.com/problems/tree-of-coprimes) [:cn:](https://leetcode-cn.com/problems/tree-of-coprimes)||Hard|
 ||1765|Map of Highest Peak|[:us:](https://leetcode.com/problems/map-of-highest-peak) [:cn:](https://leetcode-cn.com/problems/map-of-highest-peak)||Medium|
