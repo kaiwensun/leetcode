@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1995|1205|5|235|5|
+|1999|1209|5|235|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.3%|14.2%|10.3%|4.7%|3.6%|0.6%|0.3%|
+|66.4%|14.2%|10.2%|4.7%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1787|Make the XOR of All Segments Equal to Zero|[:us:](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero) [:cn:](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero)|[py](1501-2000/1787.Make%20the%20XOR%20of%20All%20Segments%20Equal%20to%20Zero.py)|Hard|
+|:heavy_check_mark:|1786|Number of Restricted Paths From First to Last Node|[:us:](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node) [:cn:](https://leetcode-cn.com/problems/number-of-restricted-paths-from-first-to-last-node)|[py](1501-2000/1786.Number%20of%20Restricted%20Paths%20From%20First%20to%20Last%20Node.py)|Medium|
+|:heavy_check_mark:|1785|Minimum Elements to Add to Form a Given Sum|[:us:](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum) [:cn:](https://leetcode-cn.com/problems/minimum-elements-to-add-to-form-a-given-sum)|[py](1501-2000/1785.Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.py)|Medium|
+|:heavy_check_mark:|1784|Check if Binary String Has at Most One Segment of Ones|[:us:](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) [:cn:](https://leetcode-cn.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|[py](1501-2000/1784.Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)|Easy|
 |:lock:|1783|Grand Slam Titles|[:us:](https://leetcode.com/problems/grand-slam-titles) [:cn:](https://leetcode-cn.com/problems/grand-slam-titles)||Medium|
 |:heavy_check_mark:|1782|Count Pairs Of Nodes|[:us:](https://leetcode.com/problems/count-pairs-of-nodes) [:cn:](https://leetcode-cn.com/problems/count-pairs-of-nodes)|[py](1501-2000/1782.Count%20Pairs%20Of%20Nodes.py)|Hard|
 |:heavy_check_mark:|1781|Sum of Beauty of All Substrings|[:us:](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings)|[py](1501-2000/1781.Sum%20of%20Beauty%20of%20All%20Substrings.py)|Medium|
