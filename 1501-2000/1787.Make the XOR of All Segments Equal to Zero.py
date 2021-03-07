@@ -24,7 +24,6 @@ class Solution:
             counters[i % k][num] += 1
 
         def count_column_size(i):
-            last_line_size = len(nums) % k
             return len(nums) // k + int(i % k + 1 <= len(nums) % k)
 
         @lru_cache(None)
