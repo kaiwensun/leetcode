@@ -9,7 +9,7 @@ Convert the line [1,2,4,1,2,5,1,2,6, 8] into matrix:
         [1,2,4],
         [1,2,5],
         [1,2,6],
-        [b]
+        [8]
     ]
 There are two strategies:
 1. Each column can be all changed to a number EXISTING in this column
