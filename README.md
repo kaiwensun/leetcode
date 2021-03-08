@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|1999|1210|5|234|5|
+|1999|1214|5|230|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.5%|14.2%|10.2%|4.7%|3.6%|0.6%|0.3%|
+|66.5%|14.1%|10.2%|4.7%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -41,10 +41,10 @@
 |:heavy_check_mark:|1769|Minimum Number of Operations to Move All Balls to Each Box|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|[py](1501-2000/1769.Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py)|Medium|
 |:heavy_check_mark:|1768|Merge Strings Alternately|[:us:](https://leetcode.com/problems/merge-strings-alternately) [:cn:](https://leetcode-cn.com/problems/merge-strings-alternately)|[py](1501-2000/1768.Merge%20Strings%20Alternately.py)|Easy|
 |:lock:|1767|Find the Subtasks That Did Not Execute|[:us:](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute) [:cn:](https://leetcode-cn.com/problems/find-the-subtasks-that-did-not-execute)||Hard|
-||1766|Tree of Coprimes|[:us:](https://leetcode.com/problems/tree-of-coprimes) [:cn:](https://leetcode-cn.com/problems/tree-of-coprimes)||Hard|
-||1765|Map of Highest Peak|[:us:](https://leetcode.com/problems/map-of-highest-peak) [:cn:](https://leetcode-cn.com/problems/map-of-highest-peak)||Medium|
-||1764|Form Array by Concatenating Subarrays of Another Array|[:us:](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array) [:cn:](https://leetcode-cn.com/problems/form-array-by-concatenating-subarrays-of-another-array)||Medium|
-||1763|Longest Nice Substring|[:us:](https://leetcode.com/problems/longest-nice-substring) [:cn:](https://leetcode-cn.com/problems/longest-nice-substring)||Easy|
+|:heavy_check_mark:|1766|Tree of Coprimes|[:us:](https://leetcode.com/problems/tree-of-coprimes) [:cn:](https://leetcode-cn.com/problems/tree-of-coprimes)|[py](1501-2000/1766.Tree%20of%20Coprimes.py)|Hard|
+|:heavy_check_mark:|1765|Map of Highest Peak|[:us:](https://leetcode.com/problems/map-of-highest-peak) [:cn:](https://leetcode-cn.com/problems/map-of-highest-peak)|[py](1501-2000/1765.Map%20of%20Highest%20Peak.py)|Medium|
+|:heavy_check_mark:|1764|Form Array by Concatenating Subarrays of Another Array|[:us:](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array) [:cn:](https://leetcode-cn.com/problems/form-array-by-concatenating-subarrays-of-another-array)|[py](1501-2000/1764.Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array.py)|Medium|
+|:heavy_check_mark:|1763|Longest Nice Substring|[:us:](https://leetcode.com/problems/longest-nice-substring) [:cn:](https://leetcode-cn.com/problems/longest-nice-substring)|[py](1501-2000/1763.Longest%20Nice%20Substring.py)|Easy|
 |:lock:|1762|Buildings With an Ocean View|[:us:](https://leetcode.com/problems/buildings-with-an-ocean-view) [:cn:](https://leetcode-cn.com/problems/buildings-with-an-ocean-view)||Medium|
 |:heavy_check_mark:|1761|Minimum Degree of a Connected Trio in a Graph|[:us:](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph) [:cn:](https://leetcode-cn.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)|[py](1501-2000/1761.Minimum%20Degree%20of%20a%20Connected%20Trio%20in%20a%20Graph.py)|Hard|
 |:heavy_check_mark:|1760|Minimum Limit of Balls in a Bag|[:us:](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) [:cn:](https://leetcode-cn.com/problems/minimum-limit-of-balls-in-a-bag)|[py](1501-2000/1760.Minimum%20Limit%20of%20Balls%20in%20a%20Bag.py)|Medium|

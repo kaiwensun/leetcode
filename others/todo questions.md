@@ -10,17 +10,13 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|433|0|5|234|5|
+|429|0|5|230|5|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||1777|Product's Price for Each Store|[:us:](https://leetcode.com/problems/products-price-for-each-store) [:cn:](https://leetcode-cn.com/problems/products-price-for-each-store)||Easy|
-||1766|Tree of Coprimes|[:us:](https://leetcode.com/problems/tree-of-coprimes) [:cn:](https://leetcode-cn.com/problems/tree-of-coprimes)||Hard|
-||1765|Map of Highest Peak|[:us:](https://leetcode.com/problems/map-of-highest-peak) [:cn:](https://leetcode-cn.com/problems/map-of-highest-peak)||Medium|
-||1764|Form Array by Concatenating Subarrays of Another Array|[:us:](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array) [:cn:](https://leetcode-cn.com/problems/form-array-by-concatenating-subarrays-of-another-array)||Medium|
-||1763|Longest Nice Substring|[:us:](https://leetcode.com/problems/longest-nice-substring) [:cn:](https://leetcode-cn.com/problems/longest-nice-substring)||Easy|
 ||1735|Count Ways to Make Array With Product|[:us:](https://leetcode.com/problems/count-ways-to-make-array-with-product) [:cn:](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product)||Hard|
 ||1719|Number Of Ways To Reconstruct A Tree|[:us:](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)||Hard|
 ||1703|Minimum Adjacent Swaps for K Consecutive Ones|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones) [:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)||Hard|
