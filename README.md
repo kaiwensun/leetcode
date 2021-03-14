@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2001|1215|5|229|5|
+|2005|1219|5|229|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.5%|14.2%|10.2%|4.7%|3.6%|0.6%|0.3%|
+|66.6%|14.1%|10.1%|4.7%|3.6%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1793|Maximum Score of a Good Subarray|[:us:](https://leetcode.com/problems/maximum-score-of-a-good-subarray) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray)|[py](1501-2000/1793.Maximum%20Score%20of%20a%20Good%20Subarray.py)|Hard|
+|:heavy_check_mark:|1792|Maximum Average Pass Ratio|[:us:](https://leetcode.com/problems/maximum-average-pass-ratio) [:cn:](https://leetcode-cn.com/problems/maximum-average-pass-ratio)|[py](1501-2000/1792.Maximum%20Average%20Pass%20Ratio.py)|Medium|
+|:heavy_check_mark:|1791|Find Center of Star Graph|[:us:](https://leetcode.com/problems/find-center-of-star-graph) [:cn:](https://leetcode-cn.com/problems/find-center-of-star-graph)|[py](1501-2000/1791.Find%20Center%20of%20Star%20Graph.py), [py](1501-2000/1791.Find%20Center%20of%20Star%20Graph.2.py)|Medium|
+|:heavy_check_mark:|1790|Check if One String Swap Can Make Strings Equal|[:us:](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) [:cn:](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal)|[py](1501-2000/1790.Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)|Easy|
 |:lock:|1789|Primary Department for Each Employee|[:us:](https://leetcode.com/problems/primary-department-for-each-employee) [:cn:](https://leetcode-cn.com/problems/primary-department-for-each-employee)||Easy|
 |:lock:|1788|Maximize the Beauty of the Garden|[:us:](https://leetcode.com/problems/maximize-the-beauty-of-the-garden) [:cn:](https://leetcode-cn.com/problems/maximize-the-beauty-of-the-garden)||Hard|
 |:heavy_check_mark:|1787|Make the XOR of All Segments Equal to Zero|[:us:](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero) [:cn:](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero)|[py](1501-2000/1787.Make%20the%20XOR%20of%20All%20Segments%20Equal%20to%20Zero.py)|Hard|
