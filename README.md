@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2020|1233|5|227|5|
+|2020|1234|5|226|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.7%|14.2%|10.0%|4.6%|3.5%|0.6%|0.3%|
+|66.8%|14.2%|10.0%|4.6%|3.5%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1741,7 +1741,7 @@
 |:heavy_check_mark:|90|Subsets II|[:us:](https://leetcode.com/problems/subsets-ii) [:cn:](https://leetcode-cn.com/problems/subsets-ii)|[py](0001-0500/0090.Subsets%20II.py), [rb](0001-0500/0090.Subsets%20II.rb)|Medium|
 |:heavy_check_mark:|89|Gray Code|[:us:](https://leetcode.com/problems/gray-code) [:cn:](https://leetcode-cn.com/problems/gray-code)|[java](0001-0500/0089.Gray%20Code.java), [py](0001-0500/0089.Gray%20Code.py), [py](0001-0500/0089.Gray%20Code.2.py), [py](0001-0500/0089.Gray%20Code.3.py)|Medium|
 |:heavy_check_mark:|88|Merge Sorted Array|[:us:](https://leetcode.com/problems/merge-sorted-array) [:cn:](https://leetcode-cn.com/problems/merge-sorted-array)|[c](0001-0500/0088.Merge%20Sorted%20Array.c), [py](0001-0500/0088.Merge%20Sorted%20Array.py)|Easy|
-||87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string) [:cn:](https://leetcode-cn.com/problems/scramble-string)||Hard|
+|:heavy_check_mark:|87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string) [:cn:](https://leetcode-cn.com/problems/scramble-string)|[py](0001-0500/0087.Scramble%20String.py)|Hard|
 |:heavy_check_mark:|86|Partition List|[:us:](https://leetcode.com/problems/partition-list) [:cn:](https://leetcode-cn.com/problems/partition-list)|[java](0001-0500/0086.Partition%20List.java)|Medium|
 |:heavy_check_mark:|85|Maximal Rectangle|[:us:](https://leetcode.com/problems/maximal-rectangle) [:cn:](https://leetcode-cn.com/problems/maximal-rectangle)|[py](0001-0500/0085.Maximal%20Rectangle.py), [py](0001-0500/0085.Maximal%20Rectangle.2.py)|Hard|
 |:heavy_check_mark:|84|Largest Rectangle in Histogram|[:us:](https://leetcode.com/problems/largest-rectangle-in-histogram) [:cn:](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)|[java](0001-0500/0084.Largest%20Rectangle%20in%20Histogram.java), [py](0001-0500/0084.Largest%20Rectangle%20in%20Histogram.py)|Hard|
