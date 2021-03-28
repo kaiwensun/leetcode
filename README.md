@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2020|1232|5|228|5|
+|2020|1233|5|227|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.8%|14.1%|10.1%|4.6%|3.5%|0.6%|0.3%|
+|66.7%|14.2%|10.0%|4.6%|3.5%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1799,7 +1799,7 @@
 |:heavy_check_mark:|32|Longest Valid Parentheses|[:us:](https://leetcode.com/problems/longest-valid-parentheses) [:cn:](https://leetcode-cn.com/problems/longest-valid-parentheses)|[py](0001-0500/0032.Longest%20Valid%20Parentheses.py)|Hard|
 |:heavy_check_mark:|31|Next Permutation|[:us:](https://leetcode.com/problems/next-permutation) [:cn:](https://leetcode-cn.com/problems/next-permutation)|[py](0001-0500/0031.Next%20Permutation.py)|Medium|
 |:heavy_check_mark:|30|Substring with Concatenation of All Words|[:us:](https://leetcode.com/problems/substring-with-concatenation-of-all-words) [:cn:](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)|[py](0001-0500/0030.Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|
-||29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode-cn.com/problems/divide-two-integers)||Medium|
+|:heavy_check_mark:|29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode-cn.com/problems/divide-two-integers)|[java](0001-0500/0029.Divide%20Two%20Integers.java)|Medium|
 |:heavy_check_mark:|28|Implement strStr()|[:us:](https://leetcode.com/problems/implement-strstr) [:cn:](https://leetcode-cn.com/problems/implement-strstr)|[py](0001-0500/0028.Implement%20strStr%28%29.%28KMP%29.py)|Easy|
 |:heavy_check_mark:|27|Remove Element|[:us:](https://leetcode.com/problems/remove-element) [:cn:](https://leetcode-cn.com/problems/remove-element)|[py](0001-0500/0027.Remove%20Element.py), [py](0001-0500/0027.Remove%20Element.2.py)|Easy|
 |:heavy_check_mark:|26|Remove Duplicates from Sorted Array|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-array) [:cn:](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[java](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.java), [py](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.1.py), [py](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.2.py)|Easy|
