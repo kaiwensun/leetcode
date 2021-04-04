@@ -10,20 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2031|1238|5|233|5|
+|2031|1242|5|229|5|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.6%|14.4%|10.0%|4.6%|3.5%|0.6%|0.3%|
+|66.7%|14.3%|10.0%|4.6%|3.5%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1819|Number of Different Subsequences GCDs|[:us:](https://leetcode.com/problems/number-of-different-subsequences-gcds) [:cn:](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)||Hard|
-||1818|Minimum Absolute Sum Difference|[:us:](https://leetcode.com/problems/minimum-absolute-sum-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)||Medium|
-||1817|Finding the Users Active Minutes|[:us:](https://leetcode.com/problems/finding-the-users-active-minutes) [:cn:](https://leetcode-cn.com/problems/finding-the-users-active-minutes)||Medium|
-||1816|Truncate Sentence|[:us:](https://leetcode.com/problems/truncate-sentence) [:cn:](https://leetcode-cn.com/problems/truncate-sentence)||Easy|
+|:heavy_check_mark:|1819|Number of Different Subsequences GCDs|[:us:](https://leetcode.com/problems/number-of-different-subsequences-gcds) [:cn:](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)|[py](1501-2000/1819.Number%20of%20Different%20Subsequences%20GCDs.py)|Hard|
+|:heavy_check_mark:|1818|Minimum Absolute Sum Difference|[:us:](https://leetcode.com/problems/minimum-absolute-sum-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)|[py](1501-2000/1818.Minimum%20Absolute%20Sum%20Difference.py)|Medium|
+|:heavy_check_mark:|1817|Finding the Users Active Minutes|[:us:](https://leetcode.com/problems/finding-the-users-active-minutes) [:cn:](https://leetcode-cn.com/problems/finding-the-users-active-minutes)|[py](1501-2000/1817.Finding%20the%20Users%20Active%20Minutes.py)|Medium|
+|:heavy_check_mark:|1816|Truncate Sentence|[:us:](https://leetcode.com/problems/truncate-sentence) [:cn:](https://leetcode-cn.com/problems/truncate-sentence)|[py](1501-2000/1816.Truncate%20Sentence.py)|Easy|
 ||1815|Maximum Number of Groups Getting Fresh Donuts|[:us:](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts)||Hard|
 ||1814|Count Nice Pairs in an Array|[:us:](https://leetcode.com/problems/count-nice-pairs-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-nice-pairs-in-an-array)||Medium|
 ||1813|Sentence Similarity III|[:us:](https://leetcode.com/problems/sentence-similarity-iii) [:cn:](https://leetcode-cn.com/problems/sentence-similarity-iii)||Medium|

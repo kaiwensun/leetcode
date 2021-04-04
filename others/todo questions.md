@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|431|0|5|233|5|
+|427|0|5|229|5|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1819|Number of Different Subsequences GCDs|[:us:](https://leetcode.com/problems/number-of-different-subsequences-gcds) [:cn:](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)||Hard|
-||1818|Minimum Absolute Sum Difference|[:us:](https://leetcode.com/problems/minimum-absolute-sum-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)||Medium|
-||1817|Finding the Users Active Minutes|[:us:](https://leetcode.com/problems/finding-the-users-active-minutes) [:cn:](https://leetcode-cn.com/problems/finding-the-users-active-minutes)||Medium|
-||1816|Truncate Sentence|[:us:](https://leetcode.com/problems/truncate-sentence) [:cn:](https://leetcode-cn.com/problems/truncate-sentence)||Easy|
 ||1815|Maximum Number of Groups Getting Fresh Donuts|[:us:](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts)||Hard|
 ||1814|Count Nice Pairs in an Array|[:us:](https://leetcode.com/problems/count-nice-pairs-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-nice-pairs-in-an-array)||Medium|
 ||1813|Sentence Similarity III|[:us:](https://leetcode.com/problems/sentence-similarity-iii) [:cn:](https://leetcode-cn.com/problems/sentence-similarity-iii)||Medium|
