@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2031|1242|5|229|5|
+|2031|1242|5|229|6|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -20,7 +20,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|1819|Number of Different Subsequences GCDs|[:us:](https://leetcode.com/problems/number-of-different-subsequences-gcds) [:cn:](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)|[py](1501-2000/1819.Number%20of%20Different%20Subsequences%20GCDs.py)|Hard|
+|:heavy_check_mark::star:|1819|Number of Different Subsequences GCDs|[:us:](https://leetcode.com/problems/number-of-different-subsequences-gcds) [:cn:](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)|[py](1501-2000/1819.Number%20of%20Different%20Subsequences%20GCDs.py)|Hard|
 |:heavy_check_mark:|1818|Minimum Absolute Sum Difference|[:us:](https://leetcode.com/problems/minimum-absolute-sum-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)|[py](1501-2000/1818.Minimum%20Absolute%20Sum%20Difference.py)|Medium|
 |:heavy_check_mark:|1817|Finding the Users Active Minutes|[:us:](https://leetcode.com/problems/finding-the-users-active-minutes) [:cn:](https://leetcode-cn.com/problems/finding-the-users-active-minutes)|[py](1501-2000/1817.Finding%20the%20Users%20Active%20Minutes.py)|Medium|
 |:heavy_check_mark:|1816|Truncate Sentence|[:us:](https://leetcode.com/problems/truncate-sentence) [:cn:](https://leetcode-cn.com/problems/truncate-sentence)|[py](1501-2000/1816.Truncate%20Sentence.py)|Easy|
