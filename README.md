@@ -15,12 +15,12 @@
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.8%|14.3%|9.9%|4.6%|3.5%|0.5%|0.3%|
+|66.9%|14.3%|9.9%|4.6%|3.5%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|1825|Finding MK Average|[:us:](https://leetcode.com/problems/finding-mk-average) [:cn:](https://leetcode-cn.com/problems/finding-mk-average)|[py](1501-2000/1825.Finding%20MK%20Average.py)|Hard|
+|:heavy_check_mark:|1825|Finding MK Average|[:us:](https://leetcode.com/problems/finding-mk-average) [:cn:](https://leetcode-cn.com/problems/finding-mk-average)|[py](1501-2000/1825.Finding%20MK%20Average.py), [py](1501-2000/1825.Finding%20MK%20Average.2.py)|Hard|
 |:heavy_check_mark:|1824|Minimum Sideway Jumps|[:us:](https://leetcode.com/problems/minimum-sideway-jumps) [:cn:](https://leetcode-cn.com/problems/minimum-sideway-jumps)|[py](1501-2000/1824.Minimum%20Sideway%20Jumps.py)|Medium|
 |:heavy_check_mark:|1823|Find the Winner of the Circular Game|[:us:](https://leetcode.com/problems/find-the-winner-of-the-circular-game) [:cn:](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game)|[py](1501-2000/1823.Find%20the%20Winner%20of%20the%20Circular%20Game.2.py), [py](1501-2000/1823.Find%20the%20Winner%20of%20the%20Circular%20Game.1.py)|Medium|
 |:heavy_check_mark:|1822|Sign of the Product of an Array|[:us:](https://leetcode.com/problems/sign-of-the-product-of-an-array) [:cn:](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array)|[py](1501-2000/1822.Sign%20of%20the%20Product%20of%20an%20Array.py)|Easy|
