@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2057|1255|5|225|6|
+|2057|1259|5|221|6|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.0%|14.2%|9.9%|4.6%|3.5%|0.5%|0.3%|
+|67.1%|14.2%|9.9%|4.6%|3.5%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,10 @@
 |:heavy_check_mark:|1834|Single-Threaded CPU|[:us:](https://leetcode.com/problems/single-threaded-cpu) [:cn:](https://leetcode-cn.com/problems/single-threaded-cpu)|[py](1501-2000/1834.Single-Threaded%20CPU.py)|Medium|
 |:heavy_check_mark:|1833|Maximum Ice Cream Bars|[:us:](https://leetcode.com/problems/maximum-ice-cream-bars) [:cn:](https://leetcode-cn.com/problems/maximum-ice-cream-bars)|[py](1501-2000/1833.Maximum%20Ice%20Cream%20Bars.py)|Medium|
 |:heavy_check_mark:|1832|Check if the Sentence Is Pangram|[:us:](https://leetcode.com/problems/check-if-the-sentence-is-pangram) [:cn:](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram)|[py](1501-2000/1832.Check%20if%20the%20Sentence%20Is%20Pangram.py)|Easy|
-||1830|Minimum Number of Operations to Make String Sorted|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-string-sorted)||Hard|
-||1829|Maximum XOR for Each Query|[:us:](https://leetcode.com/problems/maximum-xor-for-each-query) [:cn:](https://leetcode-cn.com/problems/maximum-xor-for-each-query)||Medium|
-||1828|Queries on Number of Points Inside a Circle|[:us:](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle)||Medium|
-||1827|Minimum Operations to Make the Array Increasing|[:us:](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing)||Easy|
+|:heavy_check_mark:|1830|Minimum Number of Operations to Make String Sorted|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-string-sorted)|[py](1501-2000/1830.Minimum%20Number%20of%20Operations%20to%20Make%20String%20Sorted.py)|Hard|
+|:heavy_check_mark:|1829|Maximum XOR for Each Query|[:us:](https://leetcode.com/problems/maximum-xor-for-each-query) [:cn:](https://leetcode-cn.com/problems/maximum-xor-for-each-query)|[py](1501-2000/1829.Maximum%20XOR%20for%20Each%20Query.py)|Medium|
+|:heavy_check_mark:|1828|Queries on Number of Points Inside a Circle|[:us:](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle)|[py](1501-2000/1828.Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py)|Medium|
+|:heavy_check_mark:|1827|Minimum Operations to Make the Array Increasing|[:us:](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing)|[py](1501-2000/1827.Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.py)|Easy|
 |:lock:|1826|Faulty Sensor|[:us:](https://leetcode.com/problems/faulty-sensor) [:cn:](https://leetcode-cn.com/problems/faulty-sensor)||Easy|
 |:heavy_check_mark:|1825|Finding MK Average|[:us:](https://leetcode.com/problems/finding-mk-average) [:cn:](https://leetcode-cn.com/problems/finding-mk-average)|[py](1501-2000/1825.Finding%20MK%20Average.2.py), [py](1501-2000/1825.Finding%20MK%20Average.py)|Hard|
 |:heavy_check_mark:|1824|Minimum Sideway Jumps|[:us:](https://leetcode.com/problems/minimum-sideway-jumps) [:cn:](https://leetcode-cn.com/problems/minimum-sideway-jumps)|[py](1501-2000/1824.Minimum%20Sideway%20Jumps.py)|Medium|
