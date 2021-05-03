@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|435|0|5|226|6|
+|431|0|5|222|6|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1847|Closest Room|[:us:](https://leetcode.com/problems/closest-room) [:cn:](https://leetcode-cn.com/problems/closest-room)||Hard|
-||1846|Maximum Element After Decreasing and Rearranging|[:us:](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) [:cn:](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging)||Medium|
-||1845|Seat Reservation Manager|[:us:](https://leetcode.com/problems/seat-reservation-manager) [:cn:](https://leetcode-cn.com/problems/seat-reservation-manager)||Medium|
-||1844|Replace All Digits with Characters|[:us:](https://leetcode.com/problems/replace-all-digits-with-characters) [:cn:](https://leetcode-cn.com/problems/replace-all-digits-with-characters)||Easy|
 ||1843|Suspicious Bank Accounts|[:us:](https://leetcode.com/problems/suspicious-bank-accounts) [:cn:](https://leetcode-cn.com/problems/suspicious-bank-accounts)||Medium|
 ||1842|Next Palindrome Using Same Digits|[:us:](https://leetcode.com/problems/next-palindrome-using-same-digits) [:cn:](https://leetcode-cn.com/problems/next-palindrome-using-same-digits)||Hard|
 ||1841|League Statistics|[:us:](https://leetcode.com/problems/league-statistics) [:cn:](https://leetcode-cn.com/problems/league-statistics)||Medium|

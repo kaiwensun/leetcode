@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2074|1270|5|226|6|
+|2074|1274|5|222|6|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.3%|14.1%|9.8%|4.5%|3.4%|0.5%|0.3%|
+|67.4%|14.1%|9.8%|4.6%|3.4%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,10 @@
 |:heavy_check_mark:|1850|Minimum Adjacent Swaps to Reach the Kth Smallest Number|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) [:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)|[py](1501-2000/1850.Minimum%20Adjacent%20Swaps%20to%20Reach%20the%20Kth%20Smallest%20Number.py)|Medium|
 |:heavy_check_mark:|1849|Splitting a String Into Descending Consecutive Values|[:us:](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values) [:cn:](https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values)|[py](1501-2000/1849.Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values.py)|Medium|
 |:heavy_check_mark:|1848|Minimum Distance to the Target Element|[:us:](https://leetcode.com/problems/minimum-distance-to-the-target-element) [:cn:](https://leetcode-cn.com/problems/minimum-distance-to-the-target-element)|[py](1501-2000/1848.Minimum%20Distance%20to%20the%20Target%20Element.py)|Easy|
-||1847|Closest Room|[:us:](https://leetcode.com/problems/closest-room) [:cn:](https://leetcode-cn.com/problems/closest-room)||Hard|
-||1846|Maximum Element After Decreasing and Rearranging|[:us:](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) [:cn:](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging)||Medium|
-||1845|Seat Reservation Manager|[:us:](https://leetcode.com/problems/seat-reservation-manager) [:cn:](https://leetcode-cn.com/problems/seat-reservation-manager)||Medium|
-||1844|Replace All Digits with Characters|[:us:](https://leetcode.com/problems/replace-all-digits-with-characters) [:cn:](https://leetcode-cn.com/problems/replace-all-digits-with-characters)||Easy|
+|:heavy_check_mark:|1847|Closest Room|[:us:](https://leetcode.com/problems/closest-room) [:cn:](https://leetcode-cn.com/problems/closest-room)|[py](1501-2000/1847.Closest%20Room.py)|Hard|
+|:heavy_check_mark:|1846|Maximum Element After Decreasing and Rearranging|[:us:](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) [:cn:](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging)|[py](1501-2000/1846.Maximum%20Element%20After%20Decreasing%20and%20Rearranging.py)|Medium|
+|:heavy_check_mark:|1845|Seat Reservation Manager|[:us:](https://leetcode.com/problems/seat-reservation-manager) [:cn:](https://leetcode-cn.com/problems/seat-reservation-manager)|[py](1501-2000/1845.Seat%20Reservation%20Manager.py)|Medium|
+|:heavy_check_mark:|1844|Replace All Digits with Characters|[:us:](https://leetcode.com/problems/replace-all-digits-with-characters) [:cn:](https://leetcode-cn.com/problems/replace-all-digits-with-characters)|[c](1501-2000/1844.Replace%20All%20Digits%20with%20Characters.c)|Easy|
 ||1843|Suspicious Bank Accounts|[:us:](https://leetcode.com/problems/suspicious-bank-accounts) [:cn:](https://leetcode-cn.com/problems/suspicious-bank-accounts)||Medium|
 ||1842|Next Palindrome Using Same Digits|[:us:](https://leetcode.com/problems/next-palindrome-using-same-digits) [:cn:](https://leetcode-cn.com/problems/next-palindrome-using-same-digits)||Hard|
 ||1841|League Statistics|[:us:](https://leetcode.com/problems/league-statistics) [:cn:](https://leetcode-cn.com/problems/league-statistics)||Medium|
