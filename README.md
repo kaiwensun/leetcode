@@ -15,7 +15,7 @@
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.4%|14.0%|9.7%|4.6%|3.4%|0.5%|0.3%|
+|67.5%|14.0%|9.7%|4.6%|3.4%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -23,7 +23,7 @@
 |:heavy_check_mark:|1857|Largest Color Value in a Directed Graph|[:us:](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) [:cn:](https://leetcode-cn.com/problems/largest-color-value-in-a-directed-graph)|[py](1501-2000/1857.Largest%20Color%20Value%20in%20a%20Directed%20Graph.py)|Hard|
 |:heavy_check_mark:|1856|Maximum Subarray Min-Product|[:us:](https://leetcode.com/problems/maximum-subarray-min-product) [:cn:](https://leetcode-cn.com/problems/maximum-subarray-min-product)|[py](1501-2000/1856.Maximum%20Subarray%20Min-Product.py)|Medium|
 |:heavy_check_mark:|1855|Maximum Distance Between a Pair of Values|[:us:](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values) [:cn:](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values)|[py](1501-2000/1855.Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py)|Medium|
-|:heavy_check_mark:|1854|Maximum Population Year|[:us:](https://leetcode.com/problems/maximum-population-year) [:cn:](https://leetcode-cn.com/problems/maximum-population-year)|[py](1501-2000/1854.Maximum%20Population%20Year.py)|Easy|
+|:heavy_check_mark:|1854|Maximum Population Year|[:us:](https://leetcode.com/problems/maximum-population-year) [:cn:](https://leetcode-cn.com/problems/maximum-population-year)|[py](1501-2000/1854.Maximum%20Population%20Year.py), [py](1501-2000/1854.Maximum%20Population%20Year.2.py)|Easy|
 ||1853|Convert Date Format|[:us:](https://leetcode.com/problems/convert-date-format) [:cn:](https://leetcode-cn.com/problems/convert-date-format)||Easy|
 ||1852|Distinct Numbers in Each Subarray|[:us:](https://leetcode.com/problems/distinct-numbers-in-each-subarray) [:cn:](https://leetcode-cn.com/problems/distinct-numbers-in-each-subarray)||Medium|
 |:heavy_check_mark:|1851|Minimum Interval to Include Each Query|[:us:](https://leetcode.com/problems/minimum-interval-to-include-each-query) [:cn:](https://leetcode-cn.com/problems/minimum-interval-to-include-each-query)|[py](1501-2000/1851.Minimum%20Interval%20to%20Include%20Each%20Query.py)|Hard|
