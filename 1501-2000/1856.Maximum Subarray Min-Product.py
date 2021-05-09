@@ -1,24 +1,21 @@
-import heapq
 from sortedcontainers import SortedList
 
 MOD = 10 ** 9 + 7
-
 class Solution:
     def maxSumMinProduct(self, nums: List[int]) -> int:
-        
+
         def get_range_sum(start, end):
             return prefix_sum[end] - prefix_sum[start]
-        
+
         prefix_sum = [0] * (len(nums) + 1)
         for i in range(len(nums)):
             prefix_sum[i + 1] = prefix_sum[i] + nums[i]
-        
-        heap = [tuple(reversed(pair)) for pair in enumerate(nums)]
-        heapq.heapify(heap)
+
+        sorted_nums = [tuple(reversed(pair)) for pair in enumerate(nums)]
+        sorted_nums.sort()
         intervals = SortedList([(0, len(nums))])
         res = 0
-        while heap:
-            mn_num, mn_num_index = heapq.heappop(heap)
+        for mn_num, mn_num_index in sorted_nums:
             interval_index = intervals.bisect_right((mn_num_index, float("inf"))) - 1
             start, end = intervals[interval_index]
             res = max(res, get_range_sum(start, end) * mn_num)
