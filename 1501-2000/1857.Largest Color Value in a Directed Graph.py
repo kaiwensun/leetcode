@@ -21,9 +21,10 @@ class Solution:
             visited.remove(u)
             return False
         
-        reversed_graph = collections.defaultdict(list)
-        for u, v in edges:
-            reversed_graph[v].append(u)
+        # detect cycle
+        for node in range(node_cnt):
+            if has_cycle(node):
+                return -1
 
         def color2index(color):
             return ord(color) - ord('a')
@@ -48,16 +49,18 @@ class Solution:
                     mx_res[i] = max(mx_res[i], res[i])
             mx_res[color2index(colors[v])] += 1
             return mx_res
-        
-        res = -1
+
+        # build reversed graph
+        reversed_graph = collections.defaultdict(list)
+        for u, v in edges:
+            reversed_graph[v].append(u)
+
+        # combine cnt from graph & reversed_graph
+        res = 0
         for node in range(node_cnt):
-            if has_cycle(node):
-                break
-        else:
-            for node in range(node_cnt):
-                cnt1 = dfs_graph(node)
-                cnt2 = dfs_reversed_graph(node)
-                for i in range(len(cnt1)):
-                    res = max(res, cnt1[i] + cnt2[i] - (1 if color2index(colors[node]) == i else 0))
+            cnt1 = dfs_graph(node)
+            cnt2 = dfs_reversed_graph(node)
+            for i in range(len(cnt1)):
+                res = max(res, cnt1[i] + cnt2[i] - (1 if color2index(colors[node]) == i else 0))
         return res
 
