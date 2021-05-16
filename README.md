@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2085|1282|5|223|6|
+|2089|1286|5|223|6|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.6%|14.0%|9.7%|4.5%|3.4%|0.5%|0.3%|
+|67.7%|13.9%|9.7%|4.5%|3.4%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1866|Number of Ways to Rearrange Sticks With K Sticks Visible|[:us:](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)|[py](1501-2000/1866.Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible.py)|Hard|
+|:heavy_check_mark:|1865|Finding Pairs With a Certain Sum|[:us:](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) [:cn:](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum)|[py](1501-2000/1865.Finding%20Pairs%20With%20a%20Certain%20Sum.py)|Medium|
+|:heavy_check_mark:|1864|Minimum Number of Swaps to Make the Binary String Alternating|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating)|[py](1501-2000/1864.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20Binary%20String%20Alternating.py)|Medium|
+|:heavy_check_mark:|1863|Sum of All Subset XOR Totals|[:us:](https://leetcode.com/problems/sum-of-all-subset-xor-totals) [:cn:](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals)|[py](1501-2000/1863.Sum%20of%20All%20Subset%20XOR%20Totals.py)|Easy|
 |:heavy_check_mark:|1862|Sum of Floored Pairs|[:us:](https://leetcode.com/problems/sum-of-floored-pairs) [:cn:](https://leetcode-cn.com/problems/sum-of-floored-pairs)|[py](1501-2000/1862.Sum%20of%20Floored%20Pairs.py)|Hard|
 |:heavy_check_mark:|1861|Rotating the Box|[:us:](https://leetcode.com/problems/rotating-the-box) [:cn:](https://leetcode-cn.com/problems/rotating-the-box)|[py](1501-2000/1861.Rotating%20the%20Box.py)|Medium|
 |:heavy_check_mark:|1860|Incremental Memory Leak|[:us:](https://leetcode.com/problems/incremental-memory-leak) [:cn:](https://leetcode-cn.com/problems/incremental-memory-leak)|[py](1501-2000/1860.Incremental%20Memory%20Leak.py)|Medium|
