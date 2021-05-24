@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|426|0|5|217|6|
+|425|0|5|216|6|
 
 
 
@@ -126,7 +126,6 @@
 ||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii) [:cn:](https://leetcode-cn.com/problems/bulb-switcher-ii)||Medium|
 ||670|Maximum Swap|[:us:](https://leetcode.com/problems/maximum-swap) [:cn:](https://leetcode-cn.com/problems/maximum-swap)||Medium|
 ||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) [:cn:](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)||Hard|
-||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer) [:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
 ||661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother) [:cn:](https://leetcode-cn.com/problems/image-smoother)||Easy|
 ||658|Find K Closest Elements|[:us:](https://leetcode.com/problems/find-k-closest-elements) [:cn:](https://leetcode-cn.com/problems/find-k-closest-elements)||Medium|
 ||650|2 Keys Keyboard|[:us:](https://leetcode.com/problems/2-keys-keyboard) [:cn:](https://leetcode-cn.com/problems/2-keys-keyboard)||Medium|

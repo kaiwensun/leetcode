@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2095|1292|5|217|6|
+|2095|1293|5|216|6|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|13.9%|9.6%|4.6%|3.4%|0.5%|0.3%|
+|67.8%|13.9%|9.6%|4.6%|3.4%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1228,7 +1228,7 @@
 |:heavy_check_mark:|667|Beautiful Arrangement II|[:us:](https://leetcode.com/problems/beautiful-arrangement-ii) [:cn:](https://leetcode-cn.com/problems/beautiful-arrangement-ii)|[py](0501-1000/0667.Beautiful%20Arrangement%20II.py)|Medium|
 |:lock:|666|Path Sum IV|[:us:](https://leetcode.com/problems/path-sum-iv) [:cn:](https://leetcode-cn.com/problems/path-sum-iv)||Medium|
 |:heavy_check_mark:|665|Non-decreasing Array|[:us:](https://leetcode.com/problems/non-decreasing-array) [:cn:](https://leetcode-cn.com/problems/non-decreasing-array)|[c](0501-1000/0665.Non-decreasing%20Array.c)|Easy|
-||664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer) [:cn:](https://leetcode-cn.com/problems/strange-printer)||Hard|
+|:heavy_check_mark:|664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer) [:cn:](https://leetcode-cn.com/problems/strange-printer)|[py](0501-1000/0664.Strange%20Printer.py)|Hard|
 |:lock:|663|Equal Tree Partition|[:us:](https://leetcode.com/problems/equal-tree-partition) [:cn:](https://leetcode-cn.com/problems/equal-tree-partition)||Medium|
 |:heavy_check_mark:|662|Maximum Width of Binary Tree|[:us:](https://leetcode.com/problems/maximum-width-of-binary-tree) [:cn:](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)|[rb](0501-1000/0662.Maximum%20Width%20of%20Binary%20Tree.rb)|Medium|
 ||661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother) [:cn:](https://leetcode-cn.com/problems/image-smoother)||Easy|
