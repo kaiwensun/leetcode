@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|424|0|5|215|6|
+|423|0|5|214|6|
 
 
 
@@ -182,7 +182,6 @@
 ||479|Largest Palindrome Product|[:us:](https://leetcode.com/problems/largest-palindrome-product) [:cn:](https://leetcode-cn.com/problems/largest-palindrome-product)||Hard|
 ||478|Generate Random Point in a Circle|[:us:](https://leetcode.com/problems/generate-random-point-in-a-circle) [:cn:](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)||Medium|
 ||475|Heaters|[:us:](https://leetcode.com/problems/heaters) [:cn:](https://leetcode-cn.com/problems/heaters)||Medium|
-||474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode-cn.com/problems/ones-and-zeroes)||Medium|
 ||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square) [:cn:](https://leetcode-cn.com/problems/matchsticks-to-square)||Medium|
 ||467|Unique Substrings in Wraparound String|[:us:](https://leetcode.com/problems/unique-substrings-in-wraparound-string) [:cn:](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string)||Medium|
 ||466|Count The Repetitions|[:us:](https://leetcode.com/problems/count-the-repetitions) [:cn:](https://leetcode-cn.com/problems/count-the-repetitions)||Hard|

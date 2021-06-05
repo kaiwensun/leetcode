@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2107|1304|5|215|6|
+|2107|1305|5|214|6|
 
 
 |py|java|rb|c|cpp|js|php|
@@ -20,7 +20,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|1884|Egg Drop With 2 Eggs and N Floors|[:us:](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) [:cn:](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors)|[c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.2.c), [c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.c)|Medium|
+|:heavy_check_mark:|1884|Egg Drop With 2 Eggs and N Floors|[:us:](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) [:cn:](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors)|[c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.c), [c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.2.c)|Medium|
 |:heavy_check_mark:|1883|Minimum Skips to Arrive at Meeting On Time|[:us:](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time) [:cn:](https://leetcode-cn.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|[py](1501-2000/1883.Minimum%20Skips%20to%20Arrive%20at%20Meeting%20On%20Time.py)|Hard|
 |:heavy_check_mark:|1882|Process Tasks Using Servers|[:us:](https://leetcode.com/problems/process-tasks-using-servers) [:cn:](https://leetcode-cn.com/problems/process-tasks-using-servers)|[py](1501-2000/1882.Process%20Tasks%20Using%20Servers.py)|Medium|
 |:heavy_check_mark:|1881|Maximum Value after Insertion|[:us:](https://leetcode.com/problems/maximum-value-after-insertion) [:cn:](https://leetcode-cn.com/problems/maximum-value-after-insertion)|[py](1501-2000/1881.Maximum%20Value%20after%20Insertion.py)|Medium|
@@ -1430,7 +1430,7 @@
 |:heavy_check_mark:|477|Total Hamming Distance|[:us:](https://leetcode.com/problems/total-hamming-distance) [:cn:](https://leetcode-cn.com/problems/total-hamming-distance)|[cpp](0001-0500/0477.Total%20Hamming%20Distance.cpp), [py](0001-0500/0477.Total%20Hamming%20Distance.py)|Medium|
 |:heavy_check_mark:|476|Number Complement|[:us:](https://leetcode.com/problems/number-complement) [:cn:](https://leetcode-cn.com/problems/number-complement)|[rb](0001-0500/0476.Number%20Complement.rb)|Easy|
 ||475|Heaters|[:us:](https://leetcode.com/problems/heaters) [:cn:](https://leetcode-cn.com/problems/heaters)||Medium|
-||474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode-cn.com/problems/ones-and-zeroes)||Medium|
+|:heavy_check_mark:|474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode-cn.com/problems/ones-and-zeroes)|[py](0001-0500/0474.Ones%20and%20Zeroes.py)|Medium|
 ||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square) [:cn:](https://leetcode-cn.com/problems/matchsticks-to-square)||Medium|
 |:heavy_check_mark:|472|Concatenated Words|[:us:](https://leetcode.com/problems/concatenated-words) [:cn:](https://leetcode-cn.com/problems/concatenated-words)|[py](0001-0500/0472.Concatenated%20Words.py), [py](0001-0500/0472.Concatenated%20Words.2.py)|Hard|
 |:lock:|471|Encode String with Shortest Length|[:us:](https://leetcode.com/problems/encode-string-with-shortest-length) [:cn:](https://leetcode-cn.com/problems/encode-string-with-shortest-length)||Hard|
