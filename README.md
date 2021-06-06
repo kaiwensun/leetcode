@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2107|1305|5|214|6|
+|2111|1309|5|214|6|
 
 
 |py|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|13.9%|9.5%|4.7%|3.4%|0.5%|0.3%|
+|67.8%|13.8%|9.5%|4.7%|3.3%|0.5%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1889|Minimum Space Wasted From Packaging|[:us:](https://leetcode.com/problems/minimum-space-wasted-from-packaging) [:cn:](https://leetcode-cn.com/problems/minimum-space-wasted-from-packaging)|[py](1501-2000/1889.Minimum%20Space%20Wasted%20From%20Packaging.py)|Hard|
+|:heavy_check_mark:|1888|Minimum Number of Flips to Make the Binary String Alternating|[:us:](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)|[py](1501-2000/1888.Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.py)|Medium|
+|:heavy_check_mark:|1887|Reduction Operations to Make the Array Elements Equal|[:us:](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal) [:cn:](https://leetcode-cn.com/problems/reduction-operations-to-make-the-array-elements-equal)|[py](1501-2000/1887.Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.py)|Medium|
+|:heavy_check_mark:|1886|Determine Whether Matrix Can Be Obtained By Rotation|[:us:](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) [:cn:](https://leetcode-cn.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)|[py](1501-2000/1886.Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py)|Easy|
 |:heavy_check_mark:|1884|Egg Drop With 2 Eggs and N Floors|[:us:](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) [:cn:](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors)|[c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.c), [c](1501-2000/1884.Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors.2.c)|Medium|
 |:heavy_check_mark:|1883|Minimum Skips to Arrive at Meeting On Time|[:us:](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time) [:cn:](https://leetcode-cn.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|[py](1501-2000/1883.Minimum%20Skips%20to%20Arrive%20at%20Meeting%20On%20Time.py)|Hard|
 |:heavy_check_mark:|1882|Process Tasks Using Servers|[:us:](https://leetcode.com/problems/process-tasks-using-servers) [:cn:](https://leetcode-cn.com/problems/process-tasks-using-servers)|[py](1501-2000/1882.Process%20Tasks%20Using%20Servers.py)|Medium|
