@@ -19,7 +19,7 @@ class Solution(object):
             last_packed_index = 0
             wasted = 0
             for box in sorted(boxes):
-                index = bisect.bisect_right(packages, box)
+                index = bisect.bisect_right(packages, box, lo=last_packed_index)
                 wasted += box * (index - last_packed_index) - (prefix[index] - prefix[last_packed_index])
                 last_packed_index = index
                 if last_packed_index == len(packages):
