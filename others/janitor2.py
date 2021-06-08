@@ -136,7 +136,7 @@ class Solution:
     """
 
     FOLDER_SIZE = 500
-    KNOWN_TYPES = {"c", "cpp", "java", "py",
+    KNOWN_TYPES = {"c", "cpp", "java", "py", "ts",
                    "rb", "sh", "js", "sql", "php", "txt", "md"}
     KNOWN_CN_GROUPS = [
         re.compile("^LCP \d{2}$"),

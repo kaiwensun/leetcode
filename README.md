@@ -13,9 +13,9 @@
 |2112|1310|5|214|6|
 
 
-|py|java|rb|c|cpp|js|php|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|13.8%|9.5%|4.7%|3.3%|0.5%|0.3%|
+|py|java|rb|c|cpp|js|php|ts|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|67.8%|13.8%|9.5%|4.7%|3.3%|0.5%|0.3%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -2121,7 +2121,7 @@
 ||面试题 17.13|Re-Space LCCI|[:cn:](https://leetcode-cn.com/problems/re-space-lcci)||Medium|
 ||面试题 17.14|Smallest K LCCI|[:cn:](https://leetcode-cn.com/problems/smallest-k-lcci)||Medium|
 ||面试题 17.15|Longest Word LCCI|[:cn:](https://leetcode-cn.com/problems/longest-word-lcci)||Medium|
-|:heavy_check_mark:|面试题 17.16|The Masseuse LCCI|[:cn:](https://leetcode-cn.com/problems/the-masseuse-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.py)|Easy|
+|:heavy_check_mark:|面试题 17.16|The Masseuse LCCI|[:cn:](https://leetcode-cn.com/problems/the-masseuse-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.py), [ts](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.ts)|Easy|
 ||面试题 17.17|Multi Search LCCI|[:cn:](https://leetcode-cn.com/problems/multi-search-lcci)||Medium|
 ||面试题 17.18|Shortest Supersequence LCCI|[:cn:](https://leetcode-cn.com/problems/shortest-supersequence-lcci)||Medium|
 ||面试题 17.19|Missing Two LCCI|[:cn:](https://leetcode-cn.com/problems/missing-two-lcci)||Hard|
