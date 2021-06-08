@@ -746,7 +746,7 @@ def load_resources():
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", "DD", ".git", ".gitignore", "others", README_FILENAME]
+            "\d{4}-\d{4}", "LCP", "剑指 Offer", "面试题", "DD", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)
