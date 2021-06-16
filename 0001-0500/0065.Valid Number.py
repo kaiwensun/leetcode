@@ -27,7 +27,7 @@ class Solution:
                 return s[1:]
             return s
 
-        s = s.strip()
+        s = s.replace("E", "e").strip()
         cnt = Counter(s)
         if cnt["e"] == 0:
             s = removeSign(s)
