@@ -183,7 +183,7 @@ class Solution:
             raise ValueError("Unable to parse basename %s" % self._basename)
         for i in range(len(splited)):
             splited[i] = splited[i].strip()
-            if not splited[i]:
+            if not splited[i] and not self.is_contest():
                 raise ValueError("Empty piece in file %s" % self._basename)
         self._typ = splited[-1]
         if self._typ not in Solution.KNOWN_TYPES:
@@ -221,12 +221,16 @@ class Solution:
                 raise ValueError(msg)
         if self._title is None:
             if question is None:
-                raise ValueError(
-                    "Unable to correct Solution name %s. Wait for contest to end." % self._basename)
-            # trying to fill the title from online source
-            print("[WARN] Solution %s name defaults to %s" %
-                  (self.id(), question.title()))
-            self._title = question.title()
+                if self.is_contest():
+                    self._title = ""
+                else:
+                    raise ValueError(
+                        "Unable to correct Solution name %s. Wait for contest to end." % self._basename)
+            else:
+                # trying to fill the title from online source
+                print("[WARN] Solution %s name defaults to %s" %
+                    (self.id(), question.title()))
+                self._title = question.title()
         else:
             if question and self._title != question.title():
                 raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
@@ -275,6 +279,9 @@ class Solution:
     def desired_basename(self):
         res = ["{:04d}".format(int(self._id)) if self.is_us() else self._id,
                self._title]
+        if self.is_contest() and not self._title:
+            # during contest, not easy to determine the title. this is to avoid double dots in file names
+            res.pop()
         if self._version is not None:
             res.append(self._version)
         if self._hint is not None:
@@ -733,7 +740,8 @@ def load_resources():
         return obj
 
     def list_code_folders():
-        folder_patterns = ["\d{4}-\d{4}", "LCS", "LCP", "剑指 Offer", "面试题", "DD"]
+        folder_patterns = ["\d{4}-\d{4}", "LCS",
+                           "LCP", "剑指 Offer", "面试题", "DD"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()

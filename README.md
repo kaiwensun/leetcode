@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2128|1325|5|209|6|
+|2128|1329|5|209|6|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|13.7%|9.4%|4.7%|3.3%|0.5%|0.3%|0.3%|
+|67.8%|13.6%|9.4%|4.7%|3.3%|0.5%|0.4%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
