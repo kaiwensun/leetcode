@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2128|1329|5|209|6|
+|2132|1329|5|209|6|
 
 
 |py|java|rb|c|cpp|js|ts|php|
@@ -20,6 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1906|Minimum Absolute Difference Queries|[:us:](https://leetcode.com/problems/minimum-absolute-difference-queries) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-difference-queries)|[py](1501-2000/1906.Minimum%20Absolute%20Difference%20Queries.py)|Medium|
+|:heavy_check_mark:|1905|Count Sub Islands|[:us:](https://leetcode.com/problems/count-sub-islands) [:cn:](https://leetcode-cn.com/problems/count-sub-islands)|[py](1501-2000/1905.Count%20Sub%20Islands.py)|Medium|
+|:heavy_check_mark:|1904|The Number of Full Rounds You Have Played|[:us:](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) [:cn:](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played)|[py](1501-2000/1904.The%20Number%20of%20Full%20Rounds%20You%20Have%20Played.py), [ts](1501-2000/1904.The%20Number%20of%20Full%20Rounds%20You%20Have%20Played.ts)|Medium|
+|:heavy_check_mark:|1903|Largest Odd Number in String|[:us:](https://leetcode.com/problems/largest-odd-number-in-string) [:cn:](https://leetcode-cn.com/problems/largest-odd-number-in-string)|[py](1501-2000/1903.Largest%20Odd%20Number%20in%20String.py)|Easy|
 |:lock:|1902|Depth of BST Given Insertion Order|[:us:](https://leetcode.com/problems/depth-of-bst-given-insertion-order) [:cn:](https://leetcode-cn.com/problems/depth-of-bst-given-insertion-order)||Medium|
 |:heavy_check_mark:|1901|Find a Peak Element II|[:us:](https://leetcode.com/problems/find-a-peak-element-ii) [:cn:](https://leetcode-cn.com/problems/find-a-peak-element-ii)|[py](1501-2000/1901.Find%20a%20Peak%20Element%20II.py)|Medium|
 |:heavy_check_mark:|1900|The Earliest and Latest Rounds Where Players Compete|[:us:](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete) [:cn:](https://leetcode-cn.com/problems/the-earliest-and-latest-rounds-where-players-compete)|[py](1501-2000/1900.The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.py)|Hard|
