@@ -8,6 +8,6 @@ function numberOfRounds(startTime: string, finishTime: string): number {
         if (startRound === endRound + 1 && start <= end) {
             return 0;
         }
-        return (Math.floor(end / ROUND) - Math.ceil(start / ROUND) + 24 * 4) % (24 * 4);
+        return (endRound - startRound + 24 * 4) % (24 * 4);
 };
 
