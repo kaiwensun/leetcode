@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|416|0|5|209|6|
+|415|0|5|209|6|
 
 
 
@@ -268,7 +268,6 @@
 ||剑指 Offer 12|矩阵中的路径 LCOF|[:cn:](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)||Medium|
 ||剑指 Offer 13|机器人的运动范围 LCOF|[:cn:](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)||Medium|
 ||剑指 Offer 14- II|剪绳子 II LCOF|[:cn:](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)||Medium|
-||剑指 Offer 15|二进制中1的个数 LCOF|[:cn:](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)||Easy|
 ||剑指 Offer 16|数值的整数次方 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)||Medium|
 ||剑指 Offer 17|打印从1到最大的n位数 LCOF|[:cn:](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)||Easy|
 ||剑指 Offer 18|删除链表的节点 LCOF|[:cn:](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)||Easy|

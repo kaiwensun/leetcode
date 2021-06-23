@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2132|1330|5|209|6|
+|2132|1331|5|209|6|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|13.6%|9.4%|4.7%|3.3%|0.5%|0.4%|0.3%|
+|67.8%|13.6%|9.4%|4.7%|3.3%|0.6%|0.4%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1981,7 +1981,7 @@
 ||剑指 Offer 13|机器人的运动范围 LCOF|[:cn:](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)||Medium|
 |:heavy_check_mark:|剑指 Offer 14- I|剪绳子 LCOF|[:cn:](https://leetcode-cn.com/problems/jian-sheng-zi-lcof)|[py](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%E5%89%AA%E7%BB%B3%E5%AD%90%20LCOF.py)|Medium|
 ||剑指 Offer 14- II|剪绳子 II LCOF|[:cn:](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)||Medium|
-||剑指 Offer 15|二进制中1的个数 LCOF|[:cn:](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)||Easy|
+|:heavy_check_mark:|剑指 Offer 15|二进制中1的个数 LCOF|[:cn:](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)|[js](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2015.%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20LCOF.js)|Easy|
 ||剑指 Offer 16|数值的整数次方 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)||Medium|
 ||剑指 Offer 17|打印从1到最大的n位数 LCOF|[:cn:](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)||Easy|
 ||剑指 Offer 18|删除链表的节点 LCOF|[:cn:](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)||Easy|
