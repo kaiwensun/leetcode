@@ -15,7 +15,7 @@
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|13.6%|9.4%|4.7%|3.3%|0.6%|0.4%|0.3%|
+|67.8%|13.6%|9.3%|4.7%|3.3%|0.6%|0.4%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1120,7 +1120,7 @@
 ||818|Race Car|[:us:](https://leetcode.com/problems/race-car) [:cn:](https://leetcode-cn.com/problems/race-car)||Hard|
 ||817|Linked List Components|[:us:](https://leetcode.com/problems/linked-list-components) [:cn:](https://leetcode-cn.com/problems/linked-list-components)||Medium|
 ||816|Ambiguous Coordinates|[:us:](https://leetcode.com/problems/ambiguous-coordinates) [:cn:](https://leetcode-cn.com/problems/ambiguous-coordinates)||Medium|
-|:heavy_check_mark:|815|Bus Routes|[:us:](https://leetcode.com/problems/bus-routes) [:cn:](https://leetcode-cn.com/problems/bus-routes)|[py](0501-1000/0815.Bus%20Routes.py)|Hard|
+|:heavy_check_mark:|815|Bus Routes|[:us:](https://leetcode.com/problems/bus-routes) [:cn:](https://leetcode-cn.com/problems/bus-routes)|[js](0501-1000/0815.Bus%20Routes.js), [py](0501-1000/0815.Bus%20Routes.py)|Hard|
 ||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning) [:cn:](https://leetcode-cn.com/problems/binary-tree-pruning)||Medium|
 |:heavy_check_mark:|813|Largest Sum of Averages|[:us:](https://leetcode.com/problems/largest-sum-of-averages) [:cn:](https://leetcode-cn.com/problems/largest-sum-of-averages)|[py](0501-1000/0813.Largest%20Sum%20of%20Averages.py)|Medium|
 ||812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area) [:cn:](https://leetcode-cn.com/problems/largest-triangle-area)||Easy|
