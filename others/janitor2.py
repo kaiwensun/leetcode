@@ -612,8 +612,11 @@ def gen_markdown(questions, solutions, title):
         def get_solution_links(question):
             res = []
             for sol in sorted(LOCAL_MAP[question.id()], key=lambda sol: sol.type()):
-                relative_link = "/".join([urllib.parse.quote(sol.desired_folder()),
-                                          urllib.parse.quote(sol.desired_basename())])
+                if sol.is_us() and int(sol.id()) > 5000:
+                    relative_link = urllib.parse.quote(sol.desired_basename())
+                else:
+                    relative_link = "/".join([urllib.parse.quote(sol.desired_folder()),
+                                                   urllib.parse.quote(sol.desired_basename())])
                 res.append("[%s](%s)" % (sol.type(), relative_link))
             if not res and question.id() in NOT_BACKFILLED:
                 return "(not uploaded yet)"
