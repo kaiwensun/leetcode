@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|418|0|5|214|7|
+|417|0|5|213|7|
 
 
 
@@ -19,7 +19,6 @@
 ||5820|Minimum Time For K Viruses to Spread|[:us:](https://leetcode.com/problems/minimum-time-for-k-viruses-to-spread) [:cn:](https://leetcode-cn.com/problems/minimum-time-for-k-viruses-to-spread)||Hard|
 ||1928|Minimum Cost to Reach Destination in Time|[:us:](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-reach-destination-in-time)||Hard|
 ||1927|Sum Game|[:us:](https://leetcode.com/problems/sum-game) [:cn:](https://leetcode-cn.com/problems/sum-game)||Medium|
-||1926|Nearest Exit from Entrance in Maze|[:us:](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) [:cn:](https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze)||Medium|
 ||1919|Leetcodify Similar Friends|[:us:](https://leetcode.com/problems/leetcodify-similar-friends) [:cn:](https://leetcode-cn.com/problems/leetcodify-similar-friends)||Hard|
 ||1916|Count Ways to Build Rooms in an Ant Colony|[:us:](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) [:cn:](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)||Hard|
 ||1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)||Medium|

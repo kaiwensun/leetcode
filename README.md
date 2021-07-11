@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2162|1353|5|214|7|
+|2162|1354|5|213|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|13.4%|9.2%|4.6%|3.2%|1.0%|0.6%|0.3%|
+|67.6%|13.4%|9.2%|4.6%|3.2%|1.0%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -30,7 +30,7 @@
 |:heavy_check_mark:|1929|Concatenation of Array|[:us:](https://leetcode.com/problems/concatenation-of-array) [:cn:](https://leetcode-cn.com/problems/concatenation-of-array)|[py](1501-2000/1929.Concatenation%20of%20Array.py)|Easy|
 ||1928|Minimum Cost to Reach Destination in Time|[:us:](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-reach-destination-in-time)||Hard|
 ||1927|Sum Game|[:us:](https://leetcode.com/problems/sum-game) [:cn:](https://leetcode-cn.com/problems/sum-game)||Medium|
-||1926|Nearest Exit from Entrance in Maze|[:us:](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) [:cn:](https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze)||Medium|
+|:heavy_check_mark:|1926|Nearest Exit from Entrance in Maze|[:us:](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) [:cn:](https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze)|[ts](1501-2000/1926.Nearest%20Exit%20from%20Entrance%20in%20Maze.ts)|Medium|
 |:heavy_check_mark:|1925|Count Square Sum Triples|[:us:](https://leetcode.com/problems/count-square-sum-triples) [:cn:](https://leetcode-cn.com/problems/count-square-sum-triples)|[ts](1501-2000/1925.Count%20Square%20Sum%20Triples.ts)|Easy|
 |:lock:|1924|Erect the Fence II|[:us:](https://leetcode.com/problems/erect-the-fence-ii) [:cn:](https://leetcode-cn.com/problems/erect-the-fence-ii)||Hard|
 |:heavy_check_mark::star:|1923|Longest Common Subpath|[:us:](https://leetcode.com/problems/longest-common-subpath) [:cn:](https://leetcode-cn.com/problems/longest-common-subpath)|[py](1501-2000/1923.Longest%20Common%20Subpath.py)|Hard|
