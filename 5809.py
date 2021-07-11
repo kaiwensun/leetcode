@@ -5,14 +5,11 @@ class Solution:
         l = Counter()
         r = Counter(s)
         seen = defaultdict(set)
-        res = 0
         for mid in s:
             r[mid] -= 1
             if r[mid] == 0:
                 del r[mid]
-            additional = (set(l.keys()) & set(r.keys())) - seen[mid]
-            res += len(additional)
-            seen[mid] |= additional
+            seen[mid] |= (set(l.keys()) & set(r.keys()))
             l[mid] += 1
-        return res
+        return sum(map(len, seen.values()))
 
