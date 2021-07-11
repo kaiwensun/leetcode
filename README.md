@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2158|1352|5|215|7|
+|2162|1353|5|214|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|13.4%|9.2%|4.6%|3.2%|1.0%|0.5%|0.3%|
+|67.7%|13.4%|9.2%|4.6%|3.2%|1.0%|0.6%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,14 @@
 |:heavy_check_mark:|5819|Maximum of Minimum Values in All Subarrays|[:us:](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays) [:cn:](https://leetcode-cn.com/problems/maximum-of-minimum-values-in-all-subarrays)|[py](5819.Maximum%20of%20Minimum%20Values%20in%20All%20Subarrays.py)|Medium|
 |:heavy_check_mark:|5818|Longest Common Subsequence Between Sorted Arrays|[:us:](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/longest-common-subsequence-between-sorted-arrays)|[py](5818.Longest%20Common%20Subsequence%20Between%20Sorted%20Arrays.py)|Medium|
 |:heavy_check_mark:|5817|Check If a String is Decomposble to Value-Equal Substrings|[:us:](https://leetcode.com/problems/check-if-a-string-is-decomposble-to-value-equal-substrings) [:cn:](https://leetcode-cn.com/problems/check-if-a-string-is-decomposble-to-value-equal-substrings)|[js](5817.Check%20If%20a%20String%20is%20Decomposble%20to%20Value-Equal%20Substrings.js)|Easy|
+|:heavy_check_mark:|1932|Merge BSTs to Create Single BST|[:us:](https://leetcode.com/problems/merge-bsts-to-create-single-bst) [:cn:](https://leetcode-cn.com/problems/merge-bsts-to-create-single-bst)|[py](1501-2000/1932.Merge%20BSTs%20to%20Create%20Single%20BST.py)|Hard|
+|:heavy_check_mark:|1931|Painting a Grid With Three Different Colors|[:us:](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) [:cn:](https://leetcode-cn.com/problems/painting-a-grid-with-three-different-colors)|[py](1501-2000/1931.Painting%20a%20Grid%20With%20Three%20Different%20Colors.py)|Hard|
+|:heavy_check_mark:|1930|Unique Length-3 Palindromic Subsequences|[:us:](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) [:cn:](https://leetcode-cn.com/problems/unique-length-3-palindromic-subsequences)|[py](1501-2000/1930.Unique%20Length-3%20Palindromic%20Subsequences.py)|Medium|
+|:heavy_check_mark:|1929|Concatenation of Array|[:us:](https://leetcode.com/problems/concatenation-of-array) [:cn:](https://leetcode-cn.com/problems/concatenation-of-array)|[py](1501-2000/1929.Concatenation%20of%20Array.py)|Easy|
 ||1928|Minimum Cost to Reach Destination in Time|[:us:](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-reach-destination-in-time)||Hard|
 ||1927|Sum Game|[:us:](https://leetcode.com/problems/sum-game) [:cn:](https://leetcode-cn.com/problems/sum-game)||Medium|
 ||1926|Nearest Exit from Entrance in Maze|[:us:](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) [:cn:](https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze)||Medium|
-||1925|Count Square Sum Triples|[:us:](https://leetcode.com/problems/count-square-sum-triples) [:cn:](https://leetcode-cn.com/problems/count-square-sum-triples)||Easy|
+|:heavy_check_mark:|1925|Count Square Sum Triples|[:us:](https://leetcode.com/problems/count-square-sum-triples) [:cn:](https://leetcode-cn.com/problems/count-square-sum-triples)|[ts](1501-2000/1925.Count%20Square%20Sum%20Triples.ts)|Easy|
 |:lock:|1924|Erect the Fence II|[:us:](https://leetcode.com/problems/erect-the-fence-ii) [:cn:](https://leetcode-cn.com/problems/erect-the-fence-ii)||Hard|
 |:heavy_check_mark::star:|1923|Longest Common Subpath|[:us:](https://leetcode.com/problems/longest-common-subpath) [:cn:](https://leetcode-cn.com/problems/longest-common-subpath)|[py](1501-2000/1923.Longest%20Common%20Subpath.py)|Hard|
 |:heavy_check_mark:|1922|Count Good Numbers|[:us:](https://leetcode.com/problems/count-good-numbers) [:cn:](https://leetcode-cn.com/problems/count-good-numbers)|[py](1501-2000/1922.Count%20Good%20Numbers.py)|Medium|
