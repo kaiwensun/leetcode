@@ -41,7 +41,7 @@ class Point implements Comparable{
 }
 public class Solution {
     
-    public List<int[]> getSkyline(int[][] buildings) {
+    public List<List<Integer>> getSkyline(int[][] buildings) {
         List<Point> pts = sortPoints(buildings);
         PriorityQueue<Integer> pq = new PriorityQueue<>(buildings.length+1,new Comparator<Integer>(){
             @Override
@@ -50,7 +50,7 @@ public class Solution {
             }
         });
         pq.offer(0);
-        List<int[]> res = new LinkedList<>();
+        List<List<Integer>> res = new LinkedList<>();
         int height = -1;
         for(Point pt : pts){
             if(pt.start){
@@ -60,7 +60,7 @@ public class Solution {
             }
             if(pq.peek()!=height){
                 height = pq.peek();
-                res.add(new int[]{pt.x,height});
+                res.add(Arrays.asList(pt.x,height));
             }
         }
         return res;
@@ -75,3 +75,4 @@ public class Solution {
         return pts;
     }
 }
+
