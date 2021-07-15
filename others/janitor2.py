@@ -141,7 +141,7 @@ class Solution:
     KNOWN_CN_GROUPS = [
         re.compile("^LCS \d{2}$"),
         re.compile("^LCP \d{2}$"),
-        re.compile("^剑指 Offer \d{2}(- I{1,3})?$"),
+        re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
         re.compile("^面试题 \d{2}\.\d{2}$"),
         re.compile("^DD-\d{7}")
     ]
