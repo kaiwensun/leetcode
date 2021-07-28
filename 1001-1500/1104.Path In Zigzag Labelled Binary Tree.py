@@ -31,4 +31,5 @@ class Solution(object):
             row -= 1
             index //= 2
             res.append(get_num(row, index))
-        return reversed(res)
+        return list(reversed(res))
+
