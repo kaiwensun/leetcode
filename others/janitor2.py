@@ -65,13 +65,6 @@ class Question:
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
 
-        # '剑指 Offer 03' seems to be incorrectly categorized
-        if self._id == '面试题3':
-            self._id = '剑指 Offer 03'
-            print("[WARN] correcting the id of 剑指 Offer 03")
-        elif self._id == '剑指 Offer 03':
-            print("LeetCode has fixed the problem of 面试题3")
-
         self._contest_temp_id = None
         self._title = dic["stat"]["question__title"].strip()
         if self._id in ["1560", "1092"]:  # malformatted title from api
