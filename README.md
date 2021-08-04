@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2300|1365|5|221|7|
+|2300|1366|5|220|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.6%|13.3%|9.2%|4.7%|3.2%|0.9%|0.8%|0.3%|
+|67.6%|13.3%|9.1%|4.7%|3.2%|0.9%|0.8%|0.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1164,7 +1164,7 @@
 ||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning) [:cn:](https://leetcode-cn.com/problems/binary-tree-pruning)||Medium|
 |:heavy_check_mark:|813|Largest Sum of Averages|[:us:](https://leetcode.com/problems/largest-sum-of-averages) [:cn:](https://leetcode-cn.com/problems/largest-sum-of-averages)|[py](0501-1000/0813.Largest%20Sum%20of%20Averages.py)|Medium|
 ||812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area) [:cn:](https://leetcode-cn.com/problems/largest-triangle-area)||Easy|
-|:heavy_check_mark:|811|Subdomain Visit Count|[:us:](https://leetcode.com/problems/subdomain-visit-count) [:cn:](https://leetcode-cn.com/problems/subdomain-visit-count)|[py](0501-1000/0811.Subdomain%20Visit%20Count.2.py), [py](0501-1000/0811.Subdomain%20Visit%20Count.py)|Easy|
+|:heavy_check_mark:|811|Subdomain Visit Count|[:us:](https://leetcode.com/problems/subdomain-visit-count) [:cn:](https://leetcode-cn.com/problems/subdomain-visit-count)|[py](0501-1000/0811.Subdomain%20Visit%20Count.2.py), [py](0501-1000/0811.Subdomain%20Visit%20Count.py)|Medium|
 |:heavy_check_mark:|810|Chalkboard XOR Game|[:us:](https://leetcode.com/problems/chalkboard-xor-game) [:cn:](https://leetcode-cn.com/problems/chalkboard-xor-game)|[c](0501-1000/0810.Chalkboard%20XOR%20Game.c)|Hard|
 |:heavy_check_mark:|809|Expressive Words|[:us:](https://leetcode.com/problems/expressive-words) [:cn:](https://leetcode-cn.com/problems/expressive-words)|[py](0501-1000/0809.Expressive%20Words.py)|Medium|
 ||808|Soup Servings|[:us:](https://leetcode.com/problems/soup-servings) [:cn:](https://leetcode-cn.com/problems/soup-servings)||Medium|
@@ -1173,7 +1173,7 @@
 |:heavy_check_mark::star:|805|Split Array With Same Average|[:us:](https://leetcode.com/problems/split-array-with-same-average) [:cn:](https://leetcode-cn.com/problems/split-array-with-same-average)|[rb](0501-1000/0805.Split%20Array%20With%20Same%20Average.rb)|Hard|
 |:heavy_check_mark:|804|Unique Morse Code Words|[:us:](https://leetcode.com/problems/unique-morse-code-words) [:cn:](https://leetcode-cn.com/problems/unique-morse-code-words)|[py](0501-1000/0804.Unique%20Morse%20Code%20Words.py)|Easy|
 |:heavy_check_mark:|803|Bricks Falling When Hit|[:us:](https://leetcode.com/problems/bricks-falling-when-hit) [:cn:](https://leetcode-cn.com/problems/bricks-falling-when-hit)|[py](0501-1000/0803.Bricks%20Falling%20When%20Hit.py)|Hard|
-||802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states) [:cn:](https://leetcode-cn.com/problems/find-eventual-safe-states)||Medium|
+|:heavy_check_mark:|802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states) [:cn:](https://leetcode-cn.com/problems/find-eventual-safe-states)|[py](0501-1000/0802.Find%20Eventual%20Safe%20States.py)|Medium|
 ||801|Minimum Swaps To Make Sequences Increasing|[:us:](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)||Hard|
 |:lock:|800|Similar RGB Color|[:us:](https://leetcode.com/problems/similar-rgb-color) [:cn:](https://leetcode-cn.com/problems/similar-rgb-color)||Easy|
 |:heavy_check_mark:|799|Champagne Tower|[:us:](https://leetcode.com/problems/champagne-tower) [:cn:](https://leetcode-cn.com/problems/champagne-tower)|[py](0501-1000/0799.Champagne%20Tower.py)|Medium|

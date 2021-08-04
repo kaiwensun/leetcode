@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|540|0|5|221|7|
+|539|0|5|220|7|
 
 
 
@@ -91,7 +91,6 @@
 ||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning) [:cn:](https://leetcode-cn.com/problems/binary-tree-pruning)||Medium|
 ||812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area) [:cn:](https://leetcode-cn.com/problems/largest-triangle-area)||Easy|
 ||808|Soup Servings|[:us:](https://leetcode.com/problems/soup-servings) [:cn:](https://leetcode-cn.com/problems/soup-servings)||Medium|
-||802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states) [:cn:](https://leetcode-cn.com/problems/find-eventual-safe-states)||Medium|
 ||801|Minimum Swaps To Make Sequences Increasing|[:us:](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)||Hard|
 ||798|Smallest Rotation with Highest Score|[:us:](https://leetcode.com/problems/smallest-rotation-with-highest-score) [:cn:](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)||Hard|
 ||796|Rotate String|[:us:](https://leetcode.com/problems/rotate-string) [:cn:](https://leetcode-cn.com/problems/rotate-string)||Easy|
