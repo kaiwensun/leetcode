@@ -67,8 +67,8 @@ class Question:
 
         self._contest_temp_id = None
         self._title = dic["stat"]["question__title"].strip()
-        if self._id in ["1560", "1092"]:  # malformatted title from api
-            self._title = " ".join(self._title.split())
+        # malformatted title from api
+        self._title = " ".join(self._title.split())
 
         self._lock = dic["paid_only"]
         self._difficulty = dic["difficulty"]["level"]
