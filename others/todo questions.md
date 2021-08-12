@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|536|0|5|217|7|
+|534|0|5|215|7|
 
 
 
@@ -25,11 +25,9 @@
 ||1944|Number of Visible People in a Queue|[:us:](https://leetcode.com/problems/number-of-visible-people-in-a-queue) [:cn:](https://leetcode-cn.com/problems/number-of-visible-people-in-a-queue)||Hard|
 ||1943|Describe the Painting|[:us:](https://leetcode.com/problems/describe-the-painting) [:cn:](https://leetcode-cn.com/problems/describe-the-painting)||Medium|
 ||1942|The Number of the Smallest Unoccupied Chair|[:us:](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) [:cn:](https://leetcode-cn.com/problems/the-number-of-the-smallest-unoccupied-chair)||Medium|
-||1941|Check if All Characters Have Equal Number of Occurrences|[:us:](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) [:cn:](https://leetcode-cn.com/problems/check-if-all-characters-have-equal-number-of-occurrences)||Easy|
 ||1938|Maximum Genetic Difference Query|[:us:](https://leetcode.com/problems/maximum-genetic-difference-query) [:cn:](https://leetcode-cn.com/problems/maximum-genetic-difference-query)||Hard|
 ||1937|Maximum Number of Points with Cost|[:us:](https://leetcode.com/problems/maximum-number-of-points-with-cost) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-points-with-cost)||Medium|
 ||1936|Add Minimum Number of Rungs|[:us:](https://leetcode.com/problems/add-minimum-number-of-rungs) [:cn:](https://leetcode-cn.com/problems/add-minimum-number-of-rungs)||Medium|
-||1935|Maximum Number of Words You Can Type|[:us:](https://leetcode.com/problems/maximum-number-of-words-you-can-type) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type)||Easy|
 ||1916|Count Ways to Build Rooms in an Ant Colony|[:us:](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) [:cn:](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)||Hard|
 ||1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)||Medium|
 ||1914|Cyclically Rotating a Grid|[:us:](https://leetcode.com/problems/cyclically-rotating-a-grid) [:cn:](https://leetcode-cn.com/problems/cyclically-rotating-a-grid)||Medium|
