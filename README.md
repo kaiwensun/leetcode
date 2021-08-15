@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2310|1382|5|215|7|
+|2314|1383|5|214|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
@@ -20,6 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1970|Last Day Where You Can Still Cross|[:us:](https://leetcode.com/problems/last-day-where-you-can-still-cross) [:cn:](https://leetcode-cn.com/problems/last-day-where-you-can-still-cross)|[py](1501-2000/1970.Last%20Day%20Where%20You%20Can%20Still%20Cross.py)|Hard|
+|:heavy_check_mark:|1969|Minimum Non-Zero Product of the Array Elements|[:us:](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements) [:cn:](https://leetcode-cn.com/problems/minimum-non-zero-product-of-the-array-elements)|[py](1501-2000/1969.Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements.py)|Medium|
+|:heavy_check_mark:|1968|Array With Elements Not Equal to Average of Neighbors|[:us:](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) [:cn:](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|[py](1501-2000/1968.Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors.py)|Medium|
+|:heavy_check_mark:|1967|Number of Strings That Appear as Substrings in Word|[:us:](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) [:cn:](https://leetcode-cn.com/problems/number-of-strings-that-appear-as-substrings-in-word)|[py](1501-2000/1967.Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|Easy|
 |:lock:|1965|Employees With Missing Information|[:us:](https://leetcode.com/problems/employees-with-missing-information) [:cn:](https://leetcode-cn.com/problems/employees-with-missing-information)||Easy|
 |:heavy_check_mark:|1964|Find the Longest Valid Obstacle Course at Each Position|[:us:](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position) [:cn:](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|[py](1501-2000/1964.Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.py)|Hard|
 |:heavy_check_mark:|1963|Minimum Number of Swaps to Make the String Balanced|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|[py](1501-2000/1963.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)|Medium|
@@ -71,7 +75,7 @@
 |:lock:|1917|Leetcodify Friends Recommendations|[:us:](https://leetcode.com/problems/leetcodify-friends-recommendations) [:cn:](https://leetcode-cn.com/problems/leetcodify-friends-recommendations)||Hard|
 ||1916|Count Ways to Build Rooms in an Ant Colony|[:us:](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) [:cn:](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)||Hard|
 ||1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)||Medium|
-||1914|Cyclically Rotating a Grid|[:us:](https://leetcode.com/problems/cyclically-rotating-a-grid) [:cn:](https://leetcode-cn.com/problems/cyclically-rotating-a-grid)||Medium|
+|:heavy_check_mark:|1914|Cyclically Rotating a Grid|[:us:](https://leetcode.com/problems/cyclically-rotating-a-grid) [:cn:](https://leetcode-cn.com/problems/cyclically-rotating-a-grid)|[py](1501-2000/1914.Cyclically%20Rotating%20a%20Grid.py)|Medium|
 |:heavy_check_mark:|1913|Maximum Product Difference Between Two Pairs|[:us:](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) [:cn:](https://leetcode-cn.com/problems/maximum-product-difference-between-two-pairs)|[py](1501-2000/1913.Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|Easy|
 |:heavy_check_mark:|1912|Design Movie Rental System|[:us:](https://leetcode.com/problems/design-movie-rental-system) [:cn:](https://leetcode-cn.com/problems/design-movie-rental-system)|[py](1501-2000/1912.Design%20Movie%20Rental%20System.py)|Hard|
 |:heavy_check_mark:|1911|Maximum Alternating Subsequence Sum|[:us:](https://leetcode.com/problems/maximum-alternating-subsequence-sum) [:cn:](https://leetcode-cn.com/problems/maximum-alternating-subsequence-sum)|[js](1501-2000/1911.Maximum%20Alternating%20Subsequence%20Sum.js)|Medium|
