@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|533|0|5|214|7|
+|532|0|5|213|7|
 
 
 
@@ -29,7 +29,6 @@
 ||1937|Maximum Number of Points with Cost|[:us:](https://leetcode.com/problems/maximum-number-of-points-with-cost) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-points-with-cost)||Medium|
 ||1936|Add Minimum Number of Rungs|[:us:](https://leetcode.com/problems/add-minimum-number-of-rungs) [:cn:](https://leetcode-cn.com/problems/add-minimum-number-of-rungs)||Medium|
 ||1916|Count Ways to Build Rooms in an Ant Colony|[:us:](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) [:cn:](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)||Hard|
-||1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)||Medium|
 ||1815|Maximum Number of Groups Getting Fresh Donuts|[:us:](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts)||Hard|
 ||1735|Count Ways to Make Array With Product|[:us:](https://leetcode.com/problems/count-ways-to-make-array-with-product) [:cn:](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product)||Hard|
 ||1719|Number Of Ways To Reconstruct A Tree|[:us:](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)||Hard|

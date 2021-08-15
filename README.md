@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2314|1383|5|214|7|
+|2314|1384|5|213|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.9%|13.2%|9.1%|4.6%|3.2%|0.9%|0.9%|0.2%|
+|67.9%|13.2%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -74,7 +74,7 @@
 |:lock:|1918|Kth Smallest Subarray Sum|[:us:](https://leetcode.com/problems/kth-smallest-subarray-sum) [:cn:](https://leetcode-cn.com/problems/kth-smallest-subarray-sum)||Medium|
 |:lock:|1917|Leetcodify Friends Recommendations|[:us:](https://leetcode.com/problems/leetcodify-friends-recommendations) [:cn:](https://leetcode-cn.com/problems/leetcodify-friends-recommendations)||Hard|
 ||1916|Count Ways to Build Rooms in an Ant Colony|[:us:](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) [:cn:](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)||Hard|
-||1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)||Medium|
+|:heavy_check_mark:|1915|Number of Wonderful Substrings|[:us:](https://leetcode.com/problems/number-of-wonderful-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-wonderful-substrings)|[py](1501-2000/1915.Number%20of%20Wonderful%20Substrings.py)|Medium|
 |:heavy_check_mark:|1914|Cyclically Rotating a Grid|[:us:](https://leetcode.com/problems/cyclically-rotating-a-grid) [:cn:](https://leetcode-cn.com/problems/cyclically-rotating-a-grid)|[py](1501-2000/1914.Cyclically%20Rotating%20a%20Grid.py)|Medium|
 |:heavy_check_mark:|1913|Maximum Product Difference Between Two Pairs|[:us:](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) [:cn:](https://leetcode-cn.com/problems/maximum-product-difference-between-two-pairs)|[py](1501-2000/1913.Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|Easy|
 |:heavy_check_mark:|1912|Design Movie Rental System|[:us:](https://leetcode.com/problems/design-movie-rental-system) [:cn:](https://leetcode-cn.com/problems/design-movie-rental-system)|[py](1501-2000/1912.Design%20Movie%20Rental%20System.py)|Hard|
