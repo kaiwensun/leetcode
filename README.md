@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2314|1385|5|212|7|
+|2314|1386|5|211|7|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.0%|13.2%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
+|68.0%|13.1%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1463,7 +1463,7 @@
 ||529|Minesweeper|[:us:](https://leetcode.com/problems/minesweeper) [:cn:](https://leetcode-cn.com/problems/minesweeper)||Medium|
 |:heavy_check_mark:|528|Random Pick with Weight|[:us:](https://leetcode.com/problems/random-pick-with-weight) [:cn:](https://leetcode-cn.com/problems/random-pick-with-weight)|[rb](0501-1000/0528.Random%20Pick%20with%20Weight.rb)|Medium|
 |:lock:|527|Word Abbreviation|[:us:](https://leetcode.com/problems/word-abbreviation) [:cn:](https://leetcode-cn.com/problems/word-abbreviation)||Hard|
-||526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement) [:cn:](https://leetcode-cn.com/problems/beautiful-arrangement)||Medium|
+|:heavy_check_mark:|526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement) [:cn:](https://leetcode-cn.com/problems/beautiful-arrangement)|[py](0501-1000/0526.Beautiful%20Arrangement.py)|Medium|
 |:heavy_check_mark:|525|Contiguous Array|[:us:](https://leetcode.com/problems/contiguous-array) [:cn:](https://leetcode-cn.com/problems/contiguous-array)|[py](0501-1000/0525.Contiguous%20Array.py), [rb](0501-1000/0525.Contiguous%20Array.rb), [rb](0501-1000/0525.Contiguous%20Array.2.rb), [rb](0501-1000/0525.Contiguous%20Array.3.rb)|Medium|
 |:heavy_check_mark:|524|Longest Word in Dictionary through Deleting|[:us:](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) [:cn:](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting)|[py](0501-1000/0524.Longest%20Word%20in%20Dictionary%20through%20Deleting.py)|Medium|
 |:heavy_check_mark:|523|Continuous Subarray Sum|[:us:](https://leetcode.com/problems/continuous-subarray-sum) [:cn:](https://leetcode-cn.com/problems/continuous-subarray-sum)|[java](0501-1000/0523.Continuous%20Subarray%20Sum.java)|Medium|

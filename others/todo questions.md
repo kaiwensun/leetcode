@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|531|0|5|212|7|
+|530|0|5|211|7|
 
 
 
@@ -168,7 +168,6 @@
 ||539|Minimum Time Difference|[:us:](https://leetcode.com/problems/minimum-time-difference) [:cn:](https://leetcode-cn.com/problems/minimum-time-difference)||Medium|
 ||537|Complex Number Multiplication|[:us:](https://leetcode.com/problems/complex-number-multiplication) [:cn:](https://leetcode-cn.com/problems/complex-number-multiplication)||Medium|
 ||529|Minesweeper|[:us:](https://leetcode.com/problems/minesweeper) [:cn:](https://leetcode-cn.com/problems/minesweeper)||Medium|
-||526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement) [:cn:](https://leetcode-cn.com/problems/beautiful-arrangement)||Medium|
 ||522|Longest Uncommon Subsequence II|[:us:](https://leetcode.com/problems/longest-uncommon-subsequence-ii) [:cn:](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)||Medium|
 ||519|Random Flip Matrix|[:us:](https://leetcode.com/problems/random-flip-matrix) [:cn:](https://leetcode-cn.com/problems/random-flip-matrix)||Medium|
 ||517|Super Washing Machines|[:us:](https://leetcode.com/problems/super-washing-machines) [:cn:](https://leetcode-cn.com/problems/super-washing-machines)||Hard|
