@@ -1,3 +1,10 @@
+/*
+ The Manacher's algorithm is an improvement based on center-expansion.
+ The key is to maintain `maxRight`, the `center` (of maxRight)`. Then when expending from `i`, find its mirror `j` in respect to `center`.
+ Since `i` and `j` are symmetry to `center`, the substring expanding from `i` must have something commen as the substring expanding from `j`.
+ https://www.cxyxiaowu.com/2665.html
+*/
+
 function longestPalindrome(s: string): string {
     s = '#' + s.split('').join('#') + '#';
     const p:number[] = [];
