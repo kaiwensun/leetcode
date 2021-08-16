@@ -10,13 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|529|0|5|210|7|
+|528|0|5|209|7|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1971|Find if Path Exists in Graph|[:us:](https://leetcode.com/problems/find-if-path-exists-in-graph) [:cn:](https://leetcode-cn.com/problems/find-if-path-exists-in-graph)||Easy|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|
 ||1948|Delete Duplicate Folders in System|[:us:](https://leetcode.com/problems/delete-duplicate-folders-in-system) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-folders-in-system)||Hard|
 ||1947|Maximum Compatibility Score Sum|[:us:](https://leetcode.com/problems/maximum-compatibility-score-sum) [:cn:](https://leetcode-cn.com/problems/maximum-compatibility-score-sum)||Medium|

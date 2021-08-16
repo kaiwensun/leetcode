@@ -10,17 +10,17 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2315|1388|5|210|7|
+|2315|1389|5|209|7|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|13.1%|9.0%|4.6%|3.2%|1.1%|0.9%|0.2%|
+|67.9%|13.1%|9.0%|4.6%|3.2%|1.1%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1971|Find if Path Exists in Graph|[:us:](https://leetcode.com/problems/find-if-path-exists-in-graph) [:cn:](https://leetcode-cn.com/problems/find-if-path-exists-in-graph)||Easy|
+|:heavy_check_mark:|1971|Find if Path Exists in Graph|[:us:](https://leetcode.com/problems/find-if-path-exists-in-graph) [:cn:](https://leetcode-cn.com/problems/find-if-path-exists-in-graph)|[py](1501-2000/1971.Find%20if%20Path%20Exists%20in%20Graph.py)|Easy|
 |:heavy_check_mark:|1970|Last Day Where You Can Still Cross|[:us:](https://leetcode.com/problems/last-day-where-you-can-still-cross) [:cn:](https://leetcode-cn.com/problems/last-day-where-you-can-still-cross)|[py](1501-2000/1970.Last%20Day%20Where%20You%20Can%20Still%20Cross.py)|Hard|
 |:heavy_check_mark:|1969|Minimum Non-Zero Product of the Array Elements|[:us:](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements) [:cn:](https://leetcode-cn.com/problems/minimum-non-zero-product-of-the-array-elements)|[py](1501-2000/1969.Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements.py)|Medium|
 |:heavy_check_mark:|1968|Array With Elements Not Equal to Average of Neighbors|[:us:](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) [:cn:](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|[py](1501-2000/1968.Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors.py)|Medium|
