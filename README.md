@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2314|1386|5|211|7|
+|2314|1387|5|210|7|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.9%|13.1%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
+|67.9%|13.1%|9.0%|4.6%|3.2%|1.0%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -29,7 +29,7 @@
 |:heavy_check_mark:|1963|Minimum Number of Swaps to Make the String Balanced|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|[py](1501-2000/1963.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)|Medium|
 |:heavy_check_mark:|1962|Remove Stones to Minimize the Total|[:us:](https://leetcode.com/problems/remove-stones-to-minimize-the-total) [:cn:](https://leetcode-cn.com/problems/remove-stones-to-minimize-the-total)|[py](1501-2000/1962.Remove%20Stones%20to%20Minimize%20the%20Total.py)|Medium|
 |:heavy_check_mark:|1961|Check If String Is a Prefix of Array|[:us:](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) [:cn:](https://leetcode-cn.com/problems/check-if-string-is-a-prefix-of-array)|[py](1501-2000/1961.Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py)|Easy|
-||1960|Maximum Product of the Length of Two Palindromic Substrings|[:us:](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)||Hard|
+|:heavy_check_mark:|1960|Maximum Product of the Length of Two Palindromic Substrings|[:us:](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)|[ts](1501-2000/1960.Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Substrings.ts)|Hard|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|
 |:heavy_check_mark:|1958|Check if Move is Legal|[:us:](https://leetcode.com/problems/check-if-move-is-legal) [:cn:](https://leetcode-cn.com/problems/check-if-move-is-legal)|[py](1501-2000/1958.Check%20if%20Move%20is%20Legal.py)|Medium|
 |:heavy_check_mark:|1957|Delete Characters to Make Fancy String|[:us:](https://leetcode.com/problems/delete-characters-to-make-fancy-string) [:cn:](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string)|[py](1501-2000/1957.Delete%20Characters%20to%20Make%20Fancy%20String.py)|Easy|

@@ -10,13 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|530|0|5|211|7|
+|529|0|5|210|7|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||1960|Maximum Product of the Length of Two Palindromic Substrings|[:us:](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings) [:cn:](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)||Hard|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|
 ||1948|Delete Duplicate Folders in System|[:us:](https://leetcode.com/problems/delete-duplicate-folders-in-system) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-folders-in-system)||Hard|
 ||1947|Maximum Compatibility Score Sum|[:us:](https://leetcode.com/problems/maximum-compatibility-score-sum) [:cn:](https://leetcode-cn.com/problems/maximum-compatibility-score-sum)||Medium|
