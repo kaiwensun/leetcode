@@ -13,9 +13,9 @@
 |2314|1386|5|211|7|
 
 
-|py|java|rb|c|cpp|js|ts|php|
+|py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.0%|13.1%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
+|67.9%|13.1%|9.0%|4.6%|3.2%|0.9%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1984,7 +1984,7 @@
 |:heavy_check_mark:|8|String to Integer (atoi)|[:us:](https://leetcode.com/problems/string-to-integer-atoi) [:cn:](https://leetcode-cn.com/problems/string-to-integer-atoi)|[java](0001-0500/0008.String%20to%20Integer%20%28atoi%29.java)|Medium|
 |:heavy_check_mark:|7|Reverse Integer|[:us:](https://leetcode.com/problems/reverse-integer) [:cn:](https://leetcode-cn.com/problems/reverse-integer)|[c](0001-0500/0007.Reverse%20Integer.c)|Easy|
 |:heavy_check_mark:|6|ZigZag Conversion|[:us:](https://leetcode.com/problems/zigzag-conversion) [:cn:](https://leetcode-cn.com/problems/zigzag-conversion)|[c](0001-0500/0006.ZigZag%20Conversion.c)|Medium|
-|:heavy_check_mark:|5|Longest Palindromic Substring|[:us:](https://leetcode.com/problems/longest-palindromic-substring) [:cn:](https://leetcode-cn.com/problems/longest-palindromic-substring)|[c](0001-0500/0005.Longest%20Palindromic%20Substring.c), [java](0001-0500/0005.Longest%20Palindromic%20Substring.java), [py](0001-0500/0005.Longest%20Palindromic%20Substring.py)|Medium|
+|:heavy_check_mark:|5|Longest Palindromic Substring|[:us:](https://leetcode.com/problems/longest-palindromic-substring) [:cn:](https://leetcode-cn.com/problems/longest-palindromic-substring)|[c](0001-0500/0005.Longest%20Palindromic%20Substring.c), [java](0001-0500/0005.Longest%20Palindromic%20Substring.java), [py](0001-0500/0005.Longest%20Palindromic%20Substring.py), [ts](0001-0500/0005.Longest%20Palindromic%20Substring.ts)|Medium|
 |:heavy_check_mark:|4|Median of Two Sorted Arrays|[:us:](https://leetcode.com/problems/median-of-two-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|[c](0001-0500/0004.Median%20of%20Two%20Sorted%20Arrays.c)|Hard|
 |:heavy_check_mark:|3|Longest Substring Without Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-without-repeating-characters) [:cn:](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[c](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.c), [c](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.c), [py](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.py), [py](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.py)|Medium|
 |:heavy_check_mark:|2|Add Two Numbers|[:us:](https://leetcode.com/problems/add-two-numbers) [:cn:](https://leetcode-cn.com/problems/add-two-numbers)|[c](0001-0500/0002.Add%20Two%20Numbers.c), [py](0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
