@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|528|0|5|209|7|
+|527|0|5|208|7|
 
 
 
@@ -18,7 +18,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||1977|Number of Ways to Separate Numbers|[:us:](https://leetcode.com/problems/number-of-ways-to-separate-numbers) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)||Hard|
 ||1972|First and Last Call On the Same Day|[:us:](https://leetcode.com/problems/first-and-last-call-on-the-same-day) [:cn:](https://leetcode-cn.com/problems/first-and-last-call-on-the-same-day)||Hard|
-||1966|Binary Searchable Numbers in an Unsorted Array|[:us:](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array) [:cn:](https://leetcode-cn.com/problems/binary-searchable-numbers-in-an-unsorted-array)||Medium|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|
 ||1948|Delete Duplicate Folders in System|[:us:](https://leetcode.com/problems/delete-duplicate-folders-in-system) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-folders-in-system)||Hard|
 ||1947|Maximum Compatibility Score Sum|[:us:](https://leetcode.com/problems/maximum-compatibility-score-sum) [:cn:](https://leetcode-cn.com/problems/maximum-compatibility-score-sum)||Medium|

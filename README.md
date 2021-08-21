@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2322|1395|5|209|7|
+|2322|1398|5|208|7|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|13.1%|9.0%|4.7%|3.2%|1.1%|0.9%|0.2%|
+|67.9%|13.1%|9.0%|4.7%|3.2%|1.1%|0.9%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,14 +24,14 @@
 |:heavy_check_mark:|1976|Number of Ways to Arrive at Destination|[:us:](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-arrive-at-destination)|[py](1501-2000/1976.Number%20of%20Ways%20to%20Arrive%20at%20Destination.py)|Medium|
 |:heavy_check_mark:|1975|Maximum Matrix Sum|[:us:](https://leetcode.com/problems/maximum-matrix-sum) [:cn:](https://leetcode-cn.com/problems/maximum-matrix-sum)|[java](1501-2000/1975.Maximum%20Matrix%20Sum.java)|Medium|
 |:heavy_check_mark:|1974|Minimum Time to Type Word Using Special Typewriter|[:us:](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-type-word-using-special-typewriter)|[c](1501-2000/1974.Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.c)|Easy|
-|:lock:|1973|Count Nodes Equal to Sum of Descendants|[:us:](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants) [:cn:](https://leetcode-cn.com/problems/count-nodes-equal-to-sum-of-descendants)||Medium|
+|:heavy_check_mark::lock:|1973|Count Nodes Equal to Sum of Descendants|[:us:](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants) [:cn:](https://leetcode-cn.com/problems/count-nodes-equal-to-sum-of-descendants)|[py](1501-2000/1973.Count%20Nodes%20Equal%20to%20Sum%20of%20Descendants.py)|Medium|
 ||1972|First and Last Call On the Same Day|[:us:](https://leetcode.com/problems/first-and-last-call-on-the-same-day) [:cn:](https://leetcode-cn.com/problems/first-and-last-call-on-the-same-day)||Hard|
 |:heavy_check_mark:|1971|Find if Path Exists in Graph|[:us:](https://leetcode.com/problems/find-if-path-exists-in-graph) [:cn:](https://leetcode-cn.com/problems/find-if-path-exists-in-graph)|[py](1501-2000/1971.Find%20if%20Path%20Exists%20in%20Graph.py)|Easy|
 |:heavy_check_mark:|1970|Last Day Where You Can Still Cross|[:us:](https://leetcode.com/problems/last-day-where-you-can-still-cross) [:cn:](https://leetcode-cn.com/problems/last-day-where-you-can-still-cross)|[py](1501-2000/1970.Last%20Day%20Where%20You%20Can%20Still%20Cross.py)|Hard|
 |:heavy_check_mark:|1969|Minimum Non-Zero Product of the Array Elements|[:us:](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements) [:cn:](https://leetcode-cn.com/problems/minimum-non-zero-product-of-the-array-elements)|[py](1501-2000/1969.Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements.py)|Medium|
 |:heavy_check_mark:|1968|Array With Elements Not Equal to Average of Neighbors|[:us:](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) [:cn:](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|[py](1501-2000/1968.Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors.py)|Medium|
 |:heavy_check_mark:|1967|Number of Strings That Appear as Substrings in Word|[:us:](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) [:cn:](https://leetcode-cn.com/problems/number-of-strings-that-appear-as-substrings-in-word)|[py](1501-2000/1967.Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|Easy|
-||1966|Binary Searchable Numbers in an Unsorted Array|[:us:](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array) [:cn:](https://leetcode-cn.com/problems/binary-searchable-numbers-in-an-unsorted-array)||Medium|
+|:heavy_check_mark:|1966|Binary Searchable Numbers in an Unsorted Array|[:us:](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array) [:cn:](https://leetcode-cn.com/problems/binary-searchable-numbers-in-an-unsorted-array)|[py](1501-2000/1966.Binary%20Searchable%20Numbers%20in%20an%20Unsorted%20Array.py)|Medium|
 |:lock:|1965|Employees With Missing Information|[:us:](https://leetcode.com/problems/employees-with-missing-information) [:cn:](https://leetcode-cn.com/problems/employees-with-missing-information)||Easy|
 |:heavy_check_mark:|1964|Find the Longest Valid Obstacle Course at Each Position|[:us:](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position) [:cn:](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|[py](1501-2000/1964.Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.py)|Hard|
 |:heavy_check_mark:|1963|Minimum Number of Swaps to Make the String Balanced|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|[py](1501-2000/1963.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)|Medium|
@@ -798,7 +798,7 @@
 |:heavy_check_mark:|1202|Smallest String With Swaps|[:us:](https://leetcode.com/problems/smallest-string-with-swaps) [:cn:](https://leetcode-cn.com/problems/smallest-string-with-swaps)|[py](1001-1500/1202.Smallest%20String%20With%20Swaps.py)|Medium|
 |:heavy_check_mark:|1201|Ugly Number III|[:us:](https://leetcode.com/problems/ugly-number-iii) [:cn:](https://leetcode-cn.com/problems/ugly-number-iii)|[py](1001-1500/1201.Ugly%20Number%20III.py)|Medium|
 |:heavy_check_mark:|1200|Minimum Absolute Difference|[:us:](https://leetcode.com/problems/minimum-absolute-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-difference)|[py](1001-1500/1200.Minimum%20Absolute%20Difference.py)|Easy|
-|:question::lock:|1199|Minimum Time to Build Blocks|[:us:](https://leetcode.com/problems/minimum-time-to-build-blocks) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-build-blocks)||Hard|
+|:heavy_check_mark::question::lock:|1199|Minimum Time to Build Blocks|[:us:](https://leetcode.com/problems/minimum-time-to-build-blocks) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-build-blocks)|[py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.py), [py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.2.py)|Hard|
 |:heavy_check_mark::lock:|1198|Find Smallest Common Element in All Rows|[:us:](https://leetcode.com/problems/find-smallest-common-element-in-all-rows) [:cn:](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows)|[py](1001-1500/1198.Find%20Smallest%20Common%20Element%20in%20All%20Rows.py)|Medium|
 |:heavy_check_mark::lock:|1197|Minimum Knight Moves|[:us:](https://leetcode.com/problems/minimum-knight-moves) [:cn:](https://leetcode-cn.com/problems/minimum-knight-moves)|[py](1001-1500/1197.Minimum%20Knight%20Moves.py)|Medium|
 |:heavy_check_mark::lock:|1196|How Many Apples Can You Put into the Basket|[:us:](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket) [:cn:](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket)|[py](1001-1500/1196.How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py)|Easy|
