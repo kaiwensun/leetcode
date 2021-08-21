@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|527|0|5|208|7|
+|527|0|4|208|8|
 
 
 

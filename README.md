@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2322|1398|5|208|7|
+|2322|1398|4|208|8|
 
 
 |py|java|rb|c|cpp|ts|js|php|
@@ -798,7 +798,7 @@
 |:heavy_check_mark:|1202|Smallest String With Swaps|[:us:](https://leetcode.com/problems/smallest-string-with-swaps) [:cn:](https://leetcode-cn.com/problems/smallest-string-with-swaps)|[py](1001-1500/1202.Smallest%20String%20With%20Swaps.py)|Medium|
 |:heavy_check_mark:|1201|Ugly Number III|[:us:](https://leetcode.com/problems/ugly-number-iii) [:cn:](https://leetcode-cn.com/problems/ugly-number-iii)|[py](1001-1500/1201.Ugly%20Number%20III.py)|Medium|
 |:heavy_check_mark:|1200|Minimum Absolute Difference|[:us:](https://leetcode.com/problems/minimum-absolute-difference) [:cn:](https://leetcode-cn.com/problems/minimum-absolute-difference)|[py](1001-1500/1200.Minimum%20Absolute%20Difference.py)|Easy|
-|:heavy_check_mark::question::lock:|1199|Minimum Time to Build Blocks|[:us:](https://leetcode.com/problems/minimum-time-to-build-blocks) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-build-blocks)|[py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.py), [py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.2.py)|Hard|
+|:heavy_check_mark::lock::star:|1199|Minimum Time to Build Blocks|[:us:](https://leetcode.com/problems/minimum-time-to-build-blocks) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-build-blocks)|[py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.2.py), [py](1001-1500/1199.Minimum%20Time%20to%20Build%20Blocks.py)|Hard|
 |:heavy_check_mark::lock:|1198|Find Smallest Common Element in All Rows|[:us:](https://leetcode.com/problems/find-smallest-common-element-in-all-rows) [:cn:](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows)|[py](1001-1500/1198.Find%20Smallest%20Common%20Element%20in%20All%20Rows.py)|Medium|
 |:heavy_check_mark::lock:|1197|Minimum Knight Moves|[:us:](https://leetcode.com/problems/minimum-knight-moves) [:cn:](https://leetcode-cn.com/problems/minimum-knight-moves)|[py](1001-1500/1197.Minimum%20Knight%20Moves.py)|Medium|
 |:heavy_check_mark::lock:|1196|How Many Apples Can You Put into the Basket|[:us:](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket) [:cn:](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket)|[py](1001-1500/1196.How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py)|Easy|
