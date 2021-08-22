@@ -10,6 +10,8 @@ import urllib
 import sys
 import json
 import time
+from requests_html import HTMLSession
+import pyppeteer
 
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
@@ -25,6 +27,25 @@ STARRED = set(map(str, STARRED))
 
 def get_root_path():
     return os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+
+
+class Client:
+    def __init__(self):
+        self.session = HTMLSession()
+
+    def getJson(self, url):
+        ex = None
+        res = self.session.get(url)
+        for _ in range(3):
+            try:
+                res.html.render()
+                break
+            except pyppeteer.errors.NetworkError as e:
+                ex = e
+        else:
+            raise ex
+        text = res.html.find("html")[0].text
+        return json.loads(text)
 
 # ======== Modeling ========
 
@@ -723,14 +744,14 @@ def gen_markdown(questions, solutions, title):
 
 # ======== load resources ========
 
-def load_resources():
+def load_resources(client):
 
     def save_online_resource(json_dict, abs_path):
         with open(abs_path, "w") as out:
             json.dump(json_dict, out, indent=2)
 
     def get_online_problems():
-        obj = requests.get("https://leetcode-cn.com/api/problems/all/").json()
+        obj = client.getJson("https://leetcode-cn.com/api/problems/all/")
         # LeetCode removed one question
         if not any(q['stat']['question__title_slug'] == '1zD30O' for q in obj["stat_status_pairs"]):
             obj["stat_status_pairs"].append({'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
@@ -827,7 +848,8 @@ def filter_questions_and_solutions(questions, solutions, selector):
 # ======== main ========
 
 def main():
-    questions, solutions = load_resources()
+    client = Client()
+    questions, solutions = load_resources(client)
     if len(sys.argv) == 1:
         correct_local_files(questions, solutions)
         markdown = gen_markdown(questions, solutions, "My LeetCode solutions")
