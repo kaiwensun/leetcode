@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|530|0|4|213|8|
+|529|0|4|212|8|
 
 
 
@@ -19,7 +19,6 @@
 ||1994|The Number of Good Subsets|[:us:](https://leetcode.com/problems/the-number-of-good-subsets) [:cn:](https://leetcode-cn.com/problems/the-number-of-good-subsets)||Hard|
 ||1993|Operations on Tree|[:us:](https://leetcode.com/problems/operations-on-tree) [:cn:](https://leetcode-cn.com/problems/operations-on-tree)||Medium|
 ||1992|Find All Groups of Farmland|[:us:](https://leetcode.com/problems/find-all-groups-of-farmland) [:cn:](https://leetcode-cn.com/problems/find-all-groups-of-farmland)||Medium|
-||1991|Find the Middle Index in Array|[:us:](https://leetcode.com/problems/find-the-middle-index-in-array) [:cn:](https://leetcode-cn.com/problems/find-the-middle-index-in-array)||Easy|
 ||1988|Find Cutoff Score for Each School|[:us:](https://leetcode.com/problems/find-cutoff-score-for-each-school) [:cn:](https://leetcode-cn.com/problems/find-cutoff-score-for-each-school)||Medium|
 ||1983|Widest Pair of Indices With Equal Range Sum|[:us:](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum) [:cn:](https://leetcode-cn.com/problems/widest-pair-of-indices-with-equal-range-sum)||Medium|
 ||1978|Employees Whose Manager Left the Company|[:us:](https://leetcode.com/problems/employees-whose-manager-left-the-company) [:cn:](https://leetcode-cn.com/problems/employees-whose-manager-left-the-company)||Easy|

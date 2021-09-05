@@ -10,20 +10,24 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2339|1414|4|213|8|
+|2343|1415|4|212|8|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.0%|13.0%|8.9%|4.6%|3.1%|1.1%|1.0%|0.2%|
+|68.0%|13.0%|8.9%|4.6%|3.1%|1.1%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|1998|GCD Sort of an Array|[:us:](https://leetcode.com/problems/gcd-sort-of-an-array) [:cn:](https://leetcode-cn.com/problems/gcd-sort-of-an-array)|[py](1501-2000/1998.GCD%20Sort%20of%20an%20Array.py)|Hard|
+|:heavy_check_mark:|1997|First Day Where You Have Been in All the Rooms|[:us:](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms) [:cn:](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|[py](1501-2000/1997.First%20Day%20Where%20You%20Have%20Been%20in%20All%20the%20Rooms.py)|Medium|
+|:heavy_check_mark:|1996|The Number of Weak Characters in the Game|[:us:](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game) [:cn:](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game)|[py](1501-2000/1996.The%20Number%20of%20Weak%20Characters%20in%20the%20Game.py)|Medium|
+|:heavy_check_mark:|1995|Count Special Quadruplets|[:us:](https://leetcode.com/problems/count-special-quadruplets) [:cn:](https://leetcode-cn.com/problems/count-special-quadruplets)|[py](1501-2000/1995.Count%20Special%20Quadruplets.py)|Easy|
 ||1994|The Number of Good Subsets|[:us:](https://leetcode.com/problems/the-number-of-good-subsets) [:cn:](https://leetcode-cn.com/problems/the-number-of-good-subsets)||Hard|
 ||1993|Operations on Tree|[:us:](https://leetcode.com/problems/operations-on-tree) [:cn:](https://leetcode-cn.com/problems/operations-on-tree)||Medium|
 ||1992|Find All Groups of Farmland|[:us:](https://leetcode.com/problems/find-all-groups-of-farmland) [:cn:](https://leetcode-cn.com/problems/find-all-groups-of-farmland)||Medium|
-||1991|Find the Middle Index in Array|[:us:](https://leetcode.com/problems/find-the-middle-index-in-array) [:cn:](https://leetcode-cn.com/problems/find-the-middle-index-in-array)||Easy|
+|:heavy_check_mark:|1991|Find the Middle Index in Array|[:us:](https://leetcode.com/problems/find-the-middle-index-in-array) [:cn:](https://leetcode-cn.com/problems/find-the-middle-index-in-array)|[js](1501-2000/1991.Find%20the%20Middle%20Index%20in%20Array.js)|Easy|
 |:lock:|1990|Count the Number of Experiments|[:us:](https://leetcode.com/problems/count-the-number-of-experiments) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-experiments)||Easy|
 |:lock:|1989|Maximum Number of People That Can Be Caught in Tag|[:us:](https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-people-that-can-be-caught-in-tag)||Medium|
 ||1988|Find Cutoff Score for Each School|[:us:](https://leetcode.com/problems/find-cutoff-score-for-each-school) [:cn:](https://leetcode-cn.com/problems/find-cutoff-score-for-each-school)||Medium|
