@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|525|0|4|208|8|
+|524|0|4|207|8|
 
 
 
@@ -223,7 +223,6 @@
 ||177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary) [:cn:](https://leetcode-cn.com/problems/nth-highest-salary)||Medium|
 ||176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary) [:cn:](https://leetcode-cn.com/problems/second-highest-salary)||Easy|
 ||144|Binary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-preorder-traversal) [:cn:](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)||Easy|
-||142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii) [:cn:](https://leetcode-cn.com/problems/linked-list-cycle-ii)||Medium|
 ||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|Coin Bonus|[:cn:](https://leetcode-cn.com/problems/coin-bonus)||Hard|

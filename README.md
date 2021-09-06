@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2343|1419|4|208|8|
+|2343|1420|4|207|8|
 
 
-|py|java|rb|c|cpp|ts|js|php|
+|py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.1%|12.9%|8.8%|4.6%|3.1%|1.1%|1.1%|0.2%|
+|68.0%|12.9%|8.8%|4.6%|3.1%|1.2%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1876,7 +1876,7 @@
 |:heavy_check_mark:|145|Binary Tree Postorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-postorder-traversal) [:cn:](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[java](0001-0500/0145.Binary%20Tree%20Postorder%20Traversal.java)|Easy|
 ||144|Binary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-preorder-traversal) [:cn:](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)||Easy|
 |:heavy_check_mark:|143|Reorder List|[:us:](https://leetcode.com/problems/reorder-list) [:cn:](https://leetcode-cn.com/problems/reorder-list)|[py](0001-0500/0143.Reorder%20List.py)|Medium|
-||142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii) [:cn:](https://leetcode-cn.com/problems/linked-list-cycle-ii)||Medium|
+|:heavy_check_mark:|142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii) [:cn:](https://leetcode-cn.com/problems/linked-list-cycle-ii)|[js](0001-0500/0142.Linked%20List%20Cycle%20II.js)|Medium|
 |:heavy_check_mark:|141|Linked List Cycle|[:us:](https://leetcode.com/problems/linked-list-cycle) [:cn:](https://leetcode-cn.com/problems/linked-list-cycle)|[cpp](0001-0500/0141.Linked%20List%20Cycle.cpp), [java](0001-0500/0141.Linked%20List%20Cycle.java)|Easy|
 |:heavy_check_mark:|140|Word Break II|[:us:](https://leetcode.com/problems/word-break-ii) [:cn:](https://leetcode-cn.com/problems/word-break-ii)|[java](0001-0500/0140.Word%20Break%20II.2.%28check%20by%20word%20size%29.java), [java](0001-0500/0140.Word%20Break%20II.java)|Hard|
 |:heavy_check_mark:|139|Word Break|[:us:](https://leetcode.com/problems/word-break) [:cn:](https://leetcode-cn.com/problems/word-break)|[cpp](0001-0500/0139.Word%20Break.cpp)|Medium|
