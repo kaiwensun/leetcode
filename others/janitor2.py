@@ -38,6 +38,7 @@ class Client:
         res = self.session.get(url)
         for _ in range(3):
             try:
+                time.sleep(1)
                 res.html.render()
                 break
             except pyppeteer.errors.NetworkError as e:
@@ -291,6 +292,9 @@ class Solution:
         return self._abs_path != self.desired_abs_path()
 
     def correct_location(self):
+        if not os.path.exists(self.desired_folder()):
+            print("creating", self.desired_folder())
+            os.mkdir(self.desired_folder())
         if os.path.exists(self.desired_abs_path()):
             raise Exception("Destination already exists: %s -> %s" %
                             (self._abs_path, self.desired_abs_path()))
