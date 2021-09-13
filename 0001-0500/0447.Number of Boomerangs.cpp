@@ -7,7 +7,7 @@
  */
 class Solution {
 public:
-	int numberOfBoomerangs(vector<pair<int, int>>& points) {
+    int numberOfBoomerangs(vector<vector<int>>& points) {
 		int res = 0;
 		for (int i = 0; i < points.size(); i++){
 			unordered_map<int, int> hashMap;	//<key,value> = <sqrd_distance, count>
@@ -25,12 +25,13 @@ public:
 		return res;
 	}
 private:
-	int getDist(pair<int, int> point1, pair<int, int> point2){
-		return (point1.first - point2.first)*(point1.first - point2.first)
-			+ (point1.second - point2.second)*(point1.second - point2.second);
+	int getDist(vector<int> point1, vector<int> point2){
+		return (point1[0] - point2[0])*(point1[0] - point2[0])
+			+ (point1[1] - point2[1])*(point1[1] - point2[1]);
 	}
 	
 	inline int cntChooseTwo(int n){
 		return (n*(n - 1));
 	}
 };
+
