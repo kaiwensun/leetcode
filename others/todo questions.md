@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|528|0|4|206|8|
+|526|0|4|204|8|
 
 
 
@@ -18,8 +18,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2014|Longest Subsequence Repeated k Times|[:us:](https://leetcode.com/problems/longest-subsequence-repeated-k-times) [:cn:](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)||Hard|
 ||2013|Detect Squares|[:us:](https://leetcode.com/problems/detect-squares) [:cn:](https://leetcode-cn.com/problems/detect-squares)||Medium|
-||2012|Sum of Beauty in the Array|[:us:](https://leetcode.com/problems/sum-of-beauty-in-the-array) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)||Medium|
-||2011|Final Value of Variable After Performing Operations|[:us:](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) [:cn:](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)||Easy|
 ||2003|Smallest Missing Genetic Value in Each Subtree|[:us:](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree) [:cn:](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)||Hard|
 ||1977|Number of Ways to Separate Numbers|[:us:](https://leetcode.com/problems/number-of-ways-to-separate-numbers) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)||Hard|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|

@@ -10,20 +10,20 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2364|1429|4|206|8|
+|2364|1431|4|204|8|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.1%|12.8%|8.8%|4.7%|3.1%|1.2%|1.1%|0.2%|
+|68.0%|12.8%|8.8%|4.8%|3.1%|1.1%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2014|Longest Subsequence Repeated k Times|[:us:](https://leetcode.com/problems/longest-subsequence-repeated-k-times) [:cn:](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)||Hard|
 ||2013|Detect Squares|[:us:](https://leetcode.com/problems/detect-squares) [:cn:](https://leetcode-cn.com/problems/detect-squares)||Medium|
-||2012|Sum of Beauty in the Array|[:us:](https://leetcode.com/problems/sum-of-beauty-in-the-array) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)||Medium|
-||2011|Final Value of Variable After Performing Operations|[:us:](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) [:cn:](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)||Easy|
+|:heavy_check_mark:|2012|Sum of Beauty in the Array|[:us:](https://leetcode.com/problems/sum-of-beauty-in-the-array) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|[c](2001-2500/2012.Sum%20of%20Beauty%20in%20the%20Array.c)|Medium|
+|:heavy_check_mark:|2011|Final Value of Variable After Performing Operations|[:us:](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) [:cn:](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|[c](2001-2500/2011.Final%20Value%20of%20Variable%20After%20Performing%20Operations.c)|Easy|
 |:lock:|2010|The Number of Seniors and Juniors to Join the Company II|[:us:](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii) [:cn:](https://leetcode-cn.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii)||Hard|
 |:heavy_check_mark:|2009|Minimum Number of Operations to Make Array Continuous|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|[c](2001-2500/2009.Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.c)|Hard|
 |:heavy_check_mark:|2008|Maximum Earnings From Taxi|[:us:](https://leetcode.com/problems/maximum-earnings-from-taxi) [:cn:](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|[c](2001-2500/2008.Maximum%20Earnings%20From%20Taxi.c)|Medium|
