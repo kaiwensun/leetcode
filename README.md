@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2364|1425|4|210|8|
+|2364|1429|4|206|8|
 
 
 |py|java|rb|c|cpp|js|ts|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68.1%|12.9%|8.8%|4.6%|3.1%|1.2%|1.1%|0.2%|
+|68.1%|12.8%|8.8%|4.7%|3.1%|1.2%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -25,10 +25,10 @@
 ||2012|Sum of Beauty in the Array|[:us:](https://leetcode.com/problems/sum-of-beauty-in-the-array) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)||Medium|
 ||2011|Final Value of Variable After Performing Operations|[:us:](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) [:cn:](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)||Easy|
 |:lock:|2010|The Number of Seniors and Juniors to Join the Company II|[:us:](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii) [:cn:](https://leetcode-cn.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii)||Hard|
-||2009|Minimum Number of Operations to Make Array Continuous|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)||Hard|
-||2008|Maximum Earnings From Taxi|[:us:](https://leetcode.com/problems/maximum-earnings-from-taxi) [:cn:](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)||Medium|
-||2007|Find Original Array From Doubled Array|[:us:](https://leetcode.com/problems/find-original-array-from-doubled-array) [:cn:](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)||Medium|
-||2006|Count Number of Pairs With Absolute Difference K|[:us:](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) [:cn:](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)||Easy|
+|:heavy_check_mark:|2009|Minimum Number of Operations to Make Array Continuous|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|[c](2001-2500/2009.Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.c)|Hard|
+|:heavy_check_mark:|2008|Maximum Earnings From Taxi|[:us:](https://leetcode.com/problems/maximum-earnings-from-taxi) [:cn:](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|[c](2001-2500/2008.Maximum%20Earnings%20From%20Taxi.c)|Medium|
+|:heavy_check_mark:|2007|Find Original Array From Doubled Array|[:us:](https://leetcode.com/problems/find-original-array-from-doubled-array) [:cn:](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)|[py](2001-2500/2007.Find%20Original%20Array%20From%20Doubled%20Array.py)|Medium|
+|:heavy_check_mark:|2006|Count Number of Pairs With Absolute Difference K|[:us:](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) [:cn:](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)|[py](2001-2500/2006.Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|Easy|
 |:lock:|2005|Subtree Removal Game with Fibonacci Tree|[:us:](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree) [:cn:](https://leetcode-cn.com/problems/subtree-removal-game-with-fibonacci-tree)||Hard|
 |:lock:|2004|The Number of Seniors and Juniors to Join the Company|[:us:](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company) [:cn:](https://leetcode-cn.com/problems/the-number-of-seniors-and-juniors-to-join-the-company)||Hard|
 ||2003|Smallest Missing Genetic Value in Each Subtree|[:us:](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree) [:cn:](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)||Hard|

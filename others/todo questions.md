@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|532|0|4|210|8|
+|528|0|4|206|8|
 
 
 
@@ -20,10 +20,6 @@
 ||2013|Detect Squares|[:us:](https://leetcode.com/problems/detect-squares) [:cn:](https://leetcode-cn.com/problems/detect-squares)||Medium|
 ||2012|Sum of Beauty in the Array|[:us:](https://leetcode.com/problems/sum-of-beauty-in-the-array) [:cn:](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)||Medium|
 ||2011|Final Value of Variable After Performing Operations|[:us:](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) [:cn:](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)||Easy|
-||2009|Minimum Number of Operations to Make Array Continuous|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)||Hard|
-||2008|Maximum Earnings From Taxi|[:us:](https://leetcode.com/problems/maximum-earnings-from-taxi) [:cn:](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)||Medium|
-||2007|Find Original Array From Doubled Array|[:us:](https://leetcode.com/problems/find-original-array-from-doubled-array) [:cn:](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)||Medium|
-||2006|Count Number of Pairs With Absolute Difference K|[:us:](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) [:cn:](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)||Easy|
 ||2003|Smallest Missing Genetic Value in Each Subtree|[:us:](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree) [:cn:](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)||Hard|
 ||1977|Number of Ways to Separate Numbers|[:us:](https://leetcode.com/problems/number-of-ways-to-separate-numbers) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)||Hard|
 ||1959|Minimum Total Space Wasted With K Resizing Operations|[:us:](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) [:cn:](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)||Medium|
