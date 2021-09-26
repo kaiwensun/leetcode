@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2371|1438|4|201|8|
+|2375|1438|4|201|8|
 
 
 |py|java|rb|c|cpp|js|ts|php|
@@ -20,6 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2019|The Score of Students Solving Math Expression|[:us:](https://leetcode.com/problems/the-score-of-students-solving-math-expression) [:cn:](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|[py](2001-2500/2019.The%20Score%20of%20Students%20Solving%20Math%20Expression.py)|Hard|
+|:heavy_check_mark:|2018|Check if Word Can Be Placed In Crossword|[:us:](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword) [:cn:](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword)|[py](2001-2500/2018.Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword.py)|Medium|
+|:heavy_check_mark:|2017|Grid Game|[:us:](https://leetcode.com/problems/grid-game) [:cn:](https://leetcode-cn.com/problems/grid-game)|[py](2001-2500/2017.Grid%20Game.py)|Medium|
+|:heavy_check_mark:|2016|Maximum Difference Between Increasing Elements|[:us:](https://leetcode.com/problems/maximum-difference-between-increasing-elements) [:cn:](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements)|[py](2001-2500/2016.Maximum%20Difference%20Between%20Increasing%20Elements.py)|Easy|
 |:lock:|2015|Average Height of Buildings in Each Segment|[:us:](https://leetcode.com/problems/average-height-of-buildings-in-each-segment) [:cn:](https://leetcode-cn.com/problems/average-height-of-buildings-in-each-segment)||Medium|
 ||2014|Longest Subsequence Repeated k Times|[:us:](https://leetcode.com/problems/longest-subsequence-repeated-k-times) [:cn:](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)||Hard|
 |:heavy_check_mark:|2013|Detect Squares|[:us:](https://leetcode.com/problems/detect-squares) [:cn:](https://leetcode-cn.com/problems/detect-squares)|[java](2001-2500/2013.Detect%20Squares.java)|Medium|
