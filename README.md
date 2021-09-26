@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved without lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2371|1437|4|202|8|
+|2371|1438|4|201|8|
 
 
 |py|java|rb|c|cpp|js|ts|php|
@@ -1664,7 +1664,7 @@
 |:heavy_check_mark:|374|Guess Number Higher or Lower|[:us:](https://leetcode.com/problems/guess-number-higher-or-lower) [:cn:](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|[cpp](0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.cpp), [py](0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.py)|Easy|
 |:heavy_check_mark:|373|Find K Pairs with Smallest Sums|[:us:](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) [:cn:](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|[java](0001-0500/0373.Find%20K%20Pairs%20with%20Smallest%20Sums.java)|Medium|
 ||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
-||371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)||Medium|
+|:heavy_check_mark:|371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)|[c](0001-0500/0371.Sum%20of%20Two%20Integers.c)|Medium|
 |:lock:|370|Range Addition|[:us:](https://leetcode.com/problems/range-addition) [:cn:](https://leetcode-cn.com/problems/range-addition)||Medium|
 |:lock:|369|Plus One Linked List|[:us:](https://leetcode.com/problems/plus-one-linked-list) [:cn:](https://leetcode-cn.com/problems/plus-one-linked-list)||Medium|
 |:heavy_check_mark:|368|Largest Divisible Subset|[:us:](https://leetcode.com/problems/largest-divisible-subset) [:cn:](https://leetcode-cn.com/problems/largest-divisible-subset)|[py](0001-0500/0368.Largest%20Divisible%20Subset.py), [rb](0001-0500/0368.Largest%20Divisible%20Subset.rb)|Medium|
