@@ -678,7 +678,7 @@ def gen_markdown(questions, solutions, title):
             q.is_us() and not q.lock() and q.id() not in NOT_BACKFILLED and not LOCAL_MAP[q.id()])])
         unsynced = len(NOT_BACKFILLED)
         starred = len(STARRED)
-        line1 = "|Total|Solved|Attempted|US site unsolved without lock|"
+        line1 = "|Total|Solved|Attempted|US site unsolved w/o lock|"
         line2 = "|:---:|:---:|:---:|:---:|"
         line3 = "|%s|%s|%s|%s|"
         args = [total, solved, attempted, unsolved_without_lock]
