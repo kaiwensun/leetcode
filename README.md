@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2387|1445|4|205|8|
+|2387|1447|4|203|8|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.8%|12.8%|8.7%|4.9%|3.1%|1.4%|1.1%|0.2%|
+|67.7%|12.8%|8.7%|4.9%|3.1%|1.5%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -23,8 +23,8 @@
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
-||2028|Find Missing Observations|[:us:](https://leetcode.com/problems/find-missing-observations) [:cn:](https://leetcode-cn.com/problems/find-missing-observations)||Medium|
-||2027|Minimum Moves to Convert String|[:us:](https://leetcode.com/problems/minimum-moves-to-convert-string) [:cn:](https://leetcode-cn.com/problems/minimum-moves-to-convert-string)||Easy|
+|:heavy_check_mark:|2028|Find Missing Observations|[:us:](https://leetcode.com/problems/find-missing-observations) [:cn:](https://leetcode-cn.com/problems/find-missing-observations)|[ts](2001-2500/2028.Find%20Missing%20Observations.ts)|Medium|
+|:heavy_check_mark:|2027|Minimum Moves to Convert String|[:us:](https://leetcode.com/problems/minimum-moves-to-convert-string) [:cn:](https://leetcode-cn.com/problems/minimum-moves-to-convert-string)|[ts](2001-2500/2027.Minimum%20Moves%20to%20Convert%20String.ts)|Easy|
 ||2026|Low-Quality Problems|[:us:](https://leetcode.com/problems/low-quality-problems) [:cn:](https://leetcode-cn.com/problems/low-quality-problems)||Easy|
 ||2025|Maximum Number of Ways to Partition an Array|[:us:](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array)||Hard|
 |:heavy_check_mark:|2024|Maximize the Confusion of an Exam|[:us:](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) [:cn:](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam)|[ts](2001-2500/2024.Maximize%20the%20Confusion%20of%20an%20Exam.ts)|Medium|

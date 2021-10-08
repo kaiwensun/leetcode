@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|533|0|4|205|8|
+|531|0|4|203|8|
 
 
 
@@ -19,8 +19,6 @@
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
-||2028|Find Missing Observations|[:us:](https://leetcode.com/problems/find-missing-observations) [:cn:](https://leetcode-cn.com/problems/find-missing-observations)||Medium|
-||2027|Minimum Moves to Convert String|[:us:](https://leetcode.com/problems/minimum-moves-to-convert-string) [:cn:](https://leetcode-cn.com/problems/minimum-moves-to-convert-string)||Easy|
 ||2026|Low-Quality Problems|[:us:](https://leetcode.com/problems/low-quality-problems) [:cn:](https://leetcode-cn.com/problems/low-quality-problems)||Easy|
 ||2025|Maximum Number of Ways to Partition an Array|[:us:](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array)||Hard|
 ||2021|Brightest Position on Street|[:us:](https://leetcode.com/problems/brightest-position-on-street) [:cn:](https://leetcode-cn.com/problems/brightest-position-on-street)||Medium|
