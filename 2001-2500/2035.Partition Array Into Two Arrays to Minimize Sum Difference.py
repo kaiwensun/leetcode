@@ -18,22 +18,14 @@ class Solution:
         rsumsets = sumset(n, len(nums))
         rsumsets = {key: sorted(value) for key, value in rsumsets.items()}
         res = float("inf")
-        lhalf = sum(nums[:n])
-        rhalf = sum(nums[n:])
-        rh_minus_lh = rhalf - lhalf
-        half_of_rh_minus_lh = rh_minus_lh / 2
+        sm = sum(nums)
         for lsize, lsumset in lsumsets.items():
-            rsumset = rsumsets[lsize]
+            rsumset = rsumsets[n - lsize]
             for lsum in lsumset:
-                # Define: ~ means "wants to be as close as possible to"
-                # sum of selected n values   ~    sum of unselected n values
-                # lsum + (rhalf - value)   ~   rsum + (lhalf - lsum)
-                # so, rsum   ~   lsum + (rhalf - lhalf) / 2
-                # so, binary selecting rsum from rsumset
-                i = bisect.bisect(rsumset, lsum + half_of_rh_minus_lh)
+                i = bisect.bisect(rsumset, sm / 2 - lsum)
                 if i != len(rsumset):
-                    res = min(res, abs((lsum - rsumset[i]) * 2 + rh_minus_lh))
+                    res = min(res, abs(sm - lsum - rsumset[i] - lsum - rsumset[i]))
                 if i != 0:
-                    res = min(res, abs((lsum - rsumset[i - 1]) * 2 + rh_minus_lh))
+                    res = min(res, abs(sm - lsum - rsumset[i - 1] - lsum - rsumset[i - 1]))
         return res
 

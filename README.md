@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2387|1451|4|203|8|
+|2391|1451|4|203|8|
 
 
 |py|java|rb|c|cpp|ts|js|php|
@@ -20,6 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2035|Partition Array Into Two Arrays to Minimize Sum Difference|[:us:](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) [:cn:](https://leetcode-cn.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|[py](2001-2500/2035.Partition%20Array%20Into%20Two%20Arrays%20to%20Minimize%20Sum%20Difference.py)|Hard|
+|:heavy_check_mark:|2034|Stock Price Fluctuation|[:us:](https://leetcode.com/problems/stock-price-fluctuation) [:cn:](https://leetcode-cn.com/problems/stock-price-fluctuation)|[py](2001-2500/2034.Stock%20Price%20Fluctuation.py)|Medium|
+|:heavy_check_mark:|2033|Minimum Operations to Make a Uni-Value Grid|[:us:](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid)|[py](2001-2500/2033.Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid.py), [py](2001-2500/2033.Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid.2.py)|Medium|
+|:heavy_check_mark:|2032|Two Out of Three|[:us:](https://leetcode.com/problems/two-out-of-three) [:cn:](https://leetcode-cn.com/problems/two-out-of-three)|[py](2001-2500/2032.Two%20Out%20of%20Three.2.py), [py](2001-2500/2032.Two%20Out%20of%20Three.py)|Easy|
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
