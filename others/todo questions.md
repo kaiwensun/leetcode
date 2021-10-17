@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|532|0|4|205|8|
+|531|0|4|204|8|
 
 
 
@@ -19,7 +19,6 @@
 ||2040|Kth Smallest Product of Two Sorted Arrays|[:us:](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/kth-smallest-product-of-two-sorted-arrays)||Hard|
 ||2039|The Time When the Network Becomes Idle|[:us:](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) [:cn:](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle)||Medium|
 ||2038|Remove Colored Pieces if Both Neighbors are the Same Color|[:us:](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) [:cn:](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)||Medium|
-||2037|Minimum Number of Moves to Seat Everyone|[:us:](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-moves-to-seat-everyone)||Easy|
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
