@@ -762,8 +762,10 @@ def gen_markdown(questions, solutions, title, markdown_type):
             return "* Last updat: " + datetime.date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
 
         def gen_support():
-            if markdown_type in [MarkdownType.MAIN_README, MarkdownType.FULL_TABLE]:
-                return f"* :gift_heart: [Buy me a coffee](others/support/README.md)"
+            if markdown_type == MarkdownType.MAIN_README:
+                return "* :gift_heart: [Buy me a coffee](others/support/README.md)"
+            elif markdown_type == MarkdownType.FULL_TABLE:
+                return "* :gift_heart: [Buy me a coffee](support/README.md)"
             return ""
 
         res = ["# " + title,
