@@ -13,6 +13,7 @@ import time
 from requests_html import HTMLSession
 import pyppeteer
 
+UNRECOGNIZED_CONTEST_SOLUTIONS = {}
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
 LOCAL_MAP = collections.defaultdict(list)
@@ -95,7 +96,11 @@ class Question:
         self._lock = dic["paid_only"]
         self._difficulty = dic["difficulty"]["level"]
         self._slug = dic["stat"]["question__title_slug"]
+        self._is_mock_dic = dic.get("_is_mock_dic", False)
         self._correct_new_weekly_contest_question()
+
+    def is_mock(self):
+        return self._is_mock_dic
 
     def difficulty(self):
         return Question.DIFFICULTIES[self._difficulty - 1]
@@ -122,7 +127,7 @@ class Question:
         return self.is_us() and int(self.id()) > Question.QID_SPLIT
 
     def _correct_new_weekly_contest_question(self):
-        if self.is_contest():
+        if self.is_contest() and not self._is_mock_dic:
             qd = QuestionDetails(self._slug)
             light = qd.query_light()
             if light:
@@ -253,12 +258,26 @@ class Solution:
             else:
                 # trying to fill the title from online source
                 print("[WARN] Solution %s name defaults to %s" %
-                    (self.id(), question.title()))
+                      (self.id(), question.title()))
                 self._title = question.title()
         else:
             if question and self._title != question.title():
                 raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
                     question.title(), self._title, self._basename))
+
+    def mock_question_for_unrecognized_contest_solution(self):
+        return Question({
+            "_is_mock_dic": True,
+            "stat": {
+                "frontend_question_id": self.id(),
+                "question__title": self._title or f"contest question {self.id()}",
+                "question__title_slug": None
+            },
+            "paid_only": False,
+            "difficulty": {
+                "level": None
+            }
+        })
 
     def is_us(self):
         return self._id.isdigit()
@@ -329,6 +348,7 @@ class Solution:
                 if self.is_contest():
                     print(
                         "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
+                    UNRECOGNIZED_CONTEST_SOLUTIONS[self.id()] = self
                 else:
                     raise ValueError(
                         "Unable to auto-detect title from online source, for the basename %s", self._basename)
@@ -638,24 +658,29 @@ def gen_markdown(questions, solutions, title):
 
         def get_solution_links(question):
             res = []
+            # for sol in sorted(LOCAL_MAP[question.id()], key=lambda sol: [sol.type(), sol.desired_basename()]):
             for sol in sorted(LOCAL_MAP[question.id()], key=lambda sol: sol.type()):
                 if sol.is_us() and int(sol.id()) > 5000:
                     relative_link = urllib.parse.quote(sol.desired_basename())
                 else:
                     relative_link = "/".join([urllib.parse.quote(sol.desired_folder()),
-                                                   urllib.parse.quote(sol.desired_basename())])
+                                              urllib.parse.quote(sol.desired_basename())])
                 res.append("[%s](%s)" % (sol.type(), relative_link))
             if not res and question.id() in NOT_BACKFILLED:
                 return "(not uploaded yet)"
             return ", ".join(res)
 
         def get_us_question_link(question):
+            if question.is_mock():
+                return ""  # mock does not have url and slug
             if question.is_us():
                 return "[%s](%s)" % (US_FLAG, question.us_url())
             else:
                 return ""
 
         def get_cn_question_link(question):
+            if question.is_mock():
+                return ""  # mock does not have url and slug
             return "[%s](%s)" % (CN_FLAG, question.cn_url())
 
         row = [
@@ -666,7 +691,7 @@ def gen_markdown(questions, solutions, title):
             " ".join(item for item in [get_us_question_link(
                 question), get_cn_question_link(question)] if item),
             get_solution_links(question),
-            question.difficulty(),
+            "" if question.is_mock() else question.difficulty(),
             ""
         ]
         return "|".join(row)
@@ -850,6 +875,8 @@ def filter_questions_and_solutions(questions, solutions, selector):
     return rtn_questions, rtn_solutions
 
 
+
+
 # ======== main ========
 
 def main():
@@ -857,7 +884,7 @@ def main():
     questions, solutions = load_resources(client)
     if len(sys.argv) == 1:
         correct_local_files(questions, solutions)
-        markdown = gen_markdown(questions, solutions, "My LeetCode solutions")
+        markdown = gen_markdown(sorted([sol.mock_question_for_unrecognized_contest_solution() for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions, solutions, "My LeetCode solutions")
         update_file(README_FILENAME, markdown)
 
         todo_que, todo_sol = filter_questions_and_solutions(
