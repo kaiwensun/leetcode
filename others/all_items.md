@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |67.6%|12.7%|8.7%|4.9%|3.0%|1.7%|1.1%|0.2%|
 
-This table contains only the latest 2000 items.For a full list, check [all_items.md](/Users/kaiwens/leetcode/others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
+
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2045|Second Minimum Time to Reach Destination|[:us:](https://leetcode.com/problems/second-minimum-time-to-reach-destination) [:cn:](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|[py](2001-2500/2045.Second%20Minimum%20Time%20to%20Reach%20Destination.py)|Hard|
@@ -2020,3 +2020,404 @@ This table contains only the latest 2000 items.For a full list, check [all_items
 |:heavy_check_mark:|48|Rotate Image|[:us:](https://leetcode.com/problems/rotate-image) [:cn:](https://leetcode-cn.com/problems/rotate-image)|[c](0001-0500/0048.Rotate%20Image.c), [py](0001-0500/0048.Rotate%20Image.py)|Medium|
 |:heavy_check_mark:|47|Permutations II|[:us:](https://leetcode.com/problems/permutations-ii) [:cn:](https://leetcode-cn.com/problems/permutations-ii)|[py](0001-0500/0047.Permutations%20II.py)|Medium|
 |:heavy_check_mark:|46|Permutations|[:us:](https://leetcode.com/problems/permutations) [:cn:](https://leetcode-cn.com/problems/permutations)|[py](0001-0500/0046.Permutations.py)|Medium|
+|:heavy_check_mark:|45|Jump Game II|[:us:](https://leetcode.com/problems/jump-game-ii) [:cn:](https://leetcode-cn.com/problems/jump-game-ii)|[java](0001-0500/0045.Jump%20Game%20II.java), [py](0001-0500/0045.Jump%20Game%20II.py)|Medium|
+|:heavy_check_mark:|44|Wildcard Matching|[:us:](https://leetcode.com/problems/wildcard-matching) [:cn:](https://leetcode-cn.com/problems/wildcard-matching)|[py](0001-0500/0044.Wildcard%20Matching.2.py), [py](0001-0500/0044.Wildcard%20Matching.py)|Hard|
+|:heavy_check_mark:|43|Multiply Strings|[:us:](https://leetcode.com/problems/multiply-strings) [:cn:](https://leetcode-cn.com/problems/multiply-strings)|[py](0001-0500/0043.Multiply%20Strings.py)|Medium|
+|:heavy_check_mark:|42|Trapping Rain Water|[:us:](https://leetcode.com/problems/trapping-rain-water) [:cn:](https://leetcode-cn.com/problems/trapping-rain-water)|[py](0001-0500/0042.Trapping%20Rain%20Water.2.py), [py](0001-0500/0042.Trapping%20Rain%20Water.py)|Hard|
+|:heavy_check_mark:|41|First Missing Positive|[:us:](https://leetcode.com/problems/first-missing-positive) [:cn:](https://leetcode-cn.com/problems/first-missing-positive)|[py](0001-0500/0041.First%20Missing%20Positive.py), [rb](0001-0500/0041.First%20Missing%20Positive.rb)|Hard|
+|:heavy_check_mark:|40|Combination Sum II|[:us:](https://leetcode.com/problems/combination-sum-ii) [:cn:](https://leetcode-cn.com/problems/combination-sum-ii)|[py](0001-0500/0040.Combination%20Sum%20II.py)|Medium|
+|:heavy_check_mark:|39|Combination Sum|[:us:](https://leetcode.com/problems/combination-sum) [:cn:](https://leetcode-cn.com/problems/combination-sum)|[py](0001-0500/0039.Combination%20Sum.%28dynamic%20programming%29.py), [py](0001-0500/0039.Combination%20Sum.py)|Medium|
+|:heavy_check_mark:|38|Count and Say|[:us:](https://leetcode.com/problems/count-and-say) [:cn:](https://leetcode-cn.com/problems/count-and-say)|[java](0001-0500/0038.Count%20and%20Say.java), [py](0001-0500/0038.Count%20and%20Say.py)|Medium|
+|:heavy_check_mark:|37|Sudoku Solver|[:us:](https://leetcode.com/problems/sudoku-solver) [:cn:](https://leetcode-cn.com/problems/sudoku-solver)|[java](0001-0500/0037.Sudoku%20Solver.2.%28bitwise%20and%20prune%29.java), [java](0001-0500/0037.Sudoku%20Solver.java), [py](0001-0500/0037.Sudoku%20Solver.py)|Hard|
+|:heavy_check_mark:|36|Valid Sudoku|[:us:](https://leetcode.com/problems/valid-sudoku) [:cn:](https://leetcode-cn.com/problems/valid-sudoku)|[py](0001-0500/0036.Valid%20Sudoku.py)|Medium|
+|:heavy_check_mark:|35|Search Insert Position|[:us:](https://leetcode.com/problems/search-insert-position) [:cn:](https://leetcode-cn.com/problems/search-insert-position)|[cpp](0001-0500/0035.Search%20Insert%20Position.cpp), [rb](0001-0500/0035.Search%20Insert%20Position.rb)|Easy|
+|:heavy_check_mark:|34|Find First and Last Position of Element in Sorted Array|[:us:](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) [:cn:](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[java](0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java), [py](0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
+|:heavy_check_mark:|33|Search in Rotated Sorted Array|[:us:](https://leetcode.com/problems/search-in-rotated-sorted-array) [:cn:](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[java](0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.java), [rb](0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.rb)|Medium|
+|:heavy_check_mark:|32|Longest Valid Parentheses|[:us:](https://leetcode.com/problems/longest-valid-parentheses) [:cn:](https://leetcode-cn.com/problems/longest-valid-parentheses)|[py](0001-0500/0032.Longest%20Valid%20Parentheses.py)|Hard|
+|:heavy_check_mark:|31|Next Permutation|[:us:](https://leetcode.com/problems/next-permutation) [:cn:](https://leetcode-cn.com/problems/next-permutation)|[py](0001-0500/0031.Next%20Permutation.py)|Medium|
+|:heavy_check_mark:|30|Substring with Concatenation of All Words|[:us:](https://leetcode.com/problems/substring-with-concatenation-of-all-words) [:cn:](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)|[py](0001-0500/0030.Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|
+|:heavy_check_mark:|29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode-cn.com/problems/divide-two-integers)|[java](0001-0500/0029.Divide%20Two%20Integers.java)|Medium|
+|:heavy_check_mark:|28|Implement strStr()|[:us:](https://leetcode.com/problems/implement-strstr) [:cn:](https://leetcode-cn.com/problems/implement-strstr)|[py](0001-0500/0028.Implement%20strStr%28%29.%28KMP%29.py)|Easy|
+|:heavy_check_mark:|27|Remove Element|[:us:](https://leetcode.com/problems/remove-element) [:cn:](https://leetcode-cn.com/problems/remove-element)|[py](0001-0500/0027.Remove%20Element.2.py), [py](0001-0500/0027.Remove%20Element.py)|Easy|
+|:heavy_check_mark:|26|Remove Duplicates from Sorted Array|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-array) [:cn:](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[java](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.java), [py](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.1.py), [py](0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.2.py)|Easy|
+|:heavy_check_mark:|25|Reverse Nodes in k-Group|[:us:](https://leetcode.com/problems/reverse-nodes-in-k-group) [:cn:](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|[java](0001-0500/0025.Reverse%20Nodes%20in%20k-Group.java)|Hard|
+|:heavy_check_mark:|24|Swap Nodes in Pairs|[:us:](https://leetcode.com/problems/swap-nodes-in-pairs) [:cn:](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|[c](0001-0500/0024.Swap%20Nodes%20in%20Pairs.c)|Medium|
+|:heavy_check_mark:|23|Merge k Sorted Lists|[:us:](https://leetcode.com/problems/merge-k-sorted-lists) [:cn:](https://leetcode-cn.com/problems/merge-k-sorted-lists)|[c](0001-0500/0023.Merge%20k%20Sorted%20Lists.c), [py](0001-0500/0023.Merge%20k%20Sorted%20Lists.py)|Hard|
+|:heavy_check_mark:|22|Generate Parentheses|[:us:](https://leetcode.com/problems/generate-parentheses) [:cn:](https://leetcode-cn.com/problems/generate-parentheses)|[py](0001-0500/0022.Generate%20Parentheses.py)|Medium|
+|:heavy_check_mark:|21|Merge Two Sorted Lists|[:us:](https://leetcode.com/problems/merge-two-sorted-lists) [:cn:](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[py](0001-0500/0021.Merge%20Two%20Sorted%20Lists.py)|Easy|
+|:heavy_check_mark:|20|Valid Parentheses|[:us:](https://leetcode.com/problems/valid-parentheses) [:cn:](https://leetcode-cn.com/problems/valid-parentheses)|[cpp](0001-0500/0020.Valid%20Parentheses.cpp)|Easy|
+|:heavy_check_mark:|19|Remove Nth Node From End of List|[:us:](https://leetcode.com/problems/remove-nth-node-from-end-of-list) [:cn:](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|[c](0001-0500/0019.Remove%20Nth%20Node%20From%20End%20of%20List.2.c), [c](0001-0500/0019.Remove%20Nth%20Node%20From%20End%20of%20List.c)|Medium|
+|:heavy_check_mark:|18|4Sum|[:us:](https://leetcode.com/problems/4sum) [:cn:](https://leetcode-cn.com/problems/4sum)|[py](0001-0500/0018.4Sum.py)|Medium|
+|:heavy_check_mark:|17|Letter Combinations of a Phone Number|[:us:](https://leetcode.com/problems/letter-combinations-of-a-phone-number) [:cn:](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|[py](0001-0500/0017.Letter%20Combinations%20of%20a%20Phone%20Number.py)|Medium|
+|:heavy_check_mark:|16|3Sum Closest|[:us:](https://leetcode.com/problems/3sum-closest) [:cn:](https://leetcode-cn.com/problems/3sum-closest)|[py](0001-0500/0016.3Sum%20Closest.py)|Medium|
+|:heavy_check_mark:|15|3Sum|[:us:](https://leetcode.com/problems/3sum) [:cn:](https://leetcode-cn.com/problems/3sum)|[py](0001-0500/0015.3Sum.2.py), [py](0001-0500/0015.3Sum.py)|Medium|
+|:heavy_check_mark:|14|Longest Common Prefix|[:us:](https://leetcode.com/problems/longest-common-prefix) [:cn:](https://leetcode-cn.com/problems/longest-common-prefix)|[py](0001-0500/0014.Longest%20Common%20Prefix.py)|Easy|
+|:heavy_check_mark:|13|Roman to Integer|[:us:](https://leetcode.com/problems/roman-to-integer) [:cn:](https://leetcode-cn.com/problems/roman-to-integer)|[cpp](0001-0500/0013.Roman%20to%20Integer.cpp)|Easy|
+|:heavy_check_mark:|12|Integer to Roman|[:us:](https://leetcode.com/problems/integer-to-roman) [:cn:](https://leetcode-cn.com/problems/integer-to-roman)|[java](0001-0500/0012.Integer%20to%20Roman.java)|Medium|
+|:heavy_check_mark:|11|Container With Most Water|[:us:](https://leetcode.com/problems/container-with-most-water) [:cn:](https://leetcode-cn.com/problems/container-with-most-water)|[py](0001-0500/0011.Container%20With%20Most%20Water.py)|Medium|
+|:heavy_check_mark:|10|Regular Expression Matching|[:us:](https://leetcode.com/problems/regular-expression-matching) [:cn:](https://leetcode-cn.com/problems/regular-expression-matching)|[java](0001-0500/0010.Regular%20Expression%20Matching.java)|Hard|
+|:heavy_check_mark:|9|Palindrome Number|[:us:](https://leetcode.com/problems/palindrome-number) [:cn:](https://leetcode-cn.com/problems/palindrome-number)|[c](0001-0500/0009.Palindrome%20Number.2.c), [c](0001-0500/0009.Palindrome%20Number.c)|Easy|
+|:heavy_check_mark:|8|String to Integer (atoi)|[:us:](https://leetcode.com/problems/string-to-integer-atoi) [:cn:](https://leetcode-cn.com/problems/string-to-integer-atoi)|[java](0001-0500/0008.String%20to%20Integer%20%28atoi%29.java)|Medium|
+|:heavy_check_mark:|7|Reverse Integer|[:us:](https://leetcode.com/problems/reverse-integer) [:cn:](https://leetcode-cn.com/problems/reverse-integer)|[c](0001-0500/0007.Reverse%20Integer.c)|Easy|
+|:heavy_check_mark:|6|ZigZag Conversion|[:us:](https://leetcode.com/problems/zigzag-conversion) [:cn:](https://leetcode-cn.com/problems/zigzag-conversion)|[c](0001-0500/0006.ZigZag%20Conversion.c)|Medium|
+|:heavy_check_mark:|5|Longest Palindromic Substring|[:us:](https://leetcode.com/problems/longest-palindromic-substring) [:cn:](https://leetcode-cn.com/problems/longest-palindromic-substring)|[c](0001-0500/0005.Longest%20Palindromic%20Substring.c), [java](0001-0500/0005.Longest%20Palindromic%20Substring.java), [py](0001-0500/0005.Longest%20Palindromic%20Substring.py), [ts](0001-0500/0005.Longest%20Palindromic%20Substring.ts)|Medium|
+|:heavy_check_mark:|4|Median of Two Sorted Arrays|[:us:](https://leetcode.com/problems/median-of-two-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|[c](0001-0500/0004.Median%20of%20Two%20Sorted%20Arrays.c)|Hard|
+|:heavy_check_mark:|3|Longest Substring Without Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-without-repeating-characters) [:cn:](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[c](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.c), [c](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.c), [py](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.py), [py](0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
+|:heavy_check_mark:|2|Add Two Numbers|[:us:](https://leetcode.com/problems/add-two-numbers) [:cn:](https://leetcode-cn.com/problems/add-two-numbers)|[c](0001-0500/0002.Add%20Two%20Numbers.c), [py](0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
+|:heavy_check_mark:|1|Two Sum|[:us:](https://leetcode.com/problems/two-sum) [:cn:](https://leetcode-cn.com/problems/two-sum)|[c](0001-0500/0001.Two%20Sum.c), [java](0001-0500/0001.Two%20Sum.java), [py](0001-0500/0001.Two%20Sum.py)|Easy|
+|:heavy_check_mark:|DD-2020006|简单游戏|[:cn:](https://leetcode-cn.com/problems/1zD30O)|[py](DD/DD-2020006.%E7%AE%80%E5%8D%95%E6%B8%B8%E6%88%8F.py)|Easy|
+|:heavy_check_mark:|LCP 01|Guess Numbers|[:cn:](https://leetcode-cn.com/problems/guess-numbers)|[py](LCP/LCP%2001.Guess%20Numbers.py)|Easy|
+|:heavy_check_mark:|LCP 02|Deep Dark Fraction|[:cn:](https://leetcode-cn.com/problems/deep-dark-fraction)|[java](LCP/LCP%2002.Deep%20Dark%20Fraction.java)|Easy|
+||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
+||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
+||LCP 05|Coin Bonus|[:cn:](https://leetcode-cn.com/problems/coin-bonus)||Hard|
+|:heavy_check_mark:|LCP 06|拿硬币|[:cn:](https://leetcode-cn.com/problems/na-ying-bi)|[py](LCP/LCP%2006.%E6%8B%BF%E7%A1%AC%E5%B8%81.py)|Easy|
+|:heavy_check_mark:|LCP 07|传递信息|[:cn:](https://leetcode-cn.com/problems/chuan-di-xin-xi)|[py](LCP/LCP%2007.%E4%BC%A0%E9%80%92%E4%BF%A1%E6%81%AF.py)|Easy|
+||LCP 08|剧情触发时间|[:cn:](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)||Medium|
+||LCP 09|最小跳跃次数|[:cn:](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu)||Hard|
+||LCP 10|二叉树任务调度|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du)||Hard|
+||LCP 11|期望个数统计|[:cn:](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji)||Easy|
+||LCP 12|小张刷题计划|[:cn:](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua)||Medium|
+||LCP 13|寻宝|[:cn:](https://leetcode-cn.com/problems/xun-bao)||Hard|
+||LCP 14|切分数组|[:cn:](https://leetcode-cn.com/problems/qie-fen-shu-zu)||Hard|
+||LCP 15|游乐园的迷宫|[:cn:](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong)||Hard|
+||LCP 16|游乐园的游览计划|[:cn:](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua)||Hard|
+||LCP 17|速算机器人|[:cn:](https://leetcode-cn.com/problems/nGK0Fy)||Easy|
+|:heavy_check_mark:|LCP 18|早餐组合|[:cn:](https://leetcode-cn.com/problems/2vYnGI)|[py](LCP/LCP%2018.%E6%97%A9%E9%A4%90%E7%BB%84%E5%90%88.py)|Easy|
+||LCP 19|秋叶收藏集|[:cn:](https://leetcode-cn.com/problems/UlBDOe)||Medium|
+||LCP 20|快速公交|[:cn:](https://leetcode-cn.com/problems/meChtZ)||Hard|
+||LCP 21|追逐游戏|[:cn:](https://leetcode-cn.com/problems/Za25hA)||Hard|
+||LCP 22|黑白方格画|[:cn:](https://leetcode-cn.com/problems/ccw6C7)||Easy|
+||LCP 23|魔术排列|[:cn:](https://leetcode-cn.com/problems/er94lq)||Medium|
+||LCP 24|数字游戏|[:cn:](https://leetcode-cn.com/problems/5TxKeK)||Hard|
+||LCP 25|古董键盘|[:cn:](https://leetcode-cn.com/problems/Uh984O)||Hard|
+||LCP 26|导航装置|[:cn:](https://leetcode-cn.com/problems/hSRGyL)||Hard|
+||LCP 27|黑盒光线反射|[:cn:](https://leetcode-cn.com/problems/IQvJ9i)||Hard|
+||LCP 28|采购方案|[:cn:](https://leetcode-cn.com/problems/4xy4Wx)||Easy|
+||LCP 29|乐团站位|[:cn:](https://leetcode-cn.com/problems/SNJvJP)||Easy|
+||LCP 30|魔塔游戏|[:cn:](https://leetcode-cn.com/problems/p0NxJO)||Medium|
+||LCP 31|变换的迷宫|[:cn:](https://leetcode-cn.com/problems/Db3wC1)||Hard|
+||LCP 32|批量处理任务|[:cn:](https://leetcode-cn.com/problems/t3fKg1)||Hard|
+||LCP 33|蓄水|[:cn:](https://leetcode-cn.com/problems/o8SXZn)||Easy|
+||LCP 34|二叉树染色|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-ran-se-UGC)||Medium|
+||LCP 35|电动车游城市|[:cn:](https://leetcode-cn.com/problems/DFPeFJ)||Hard|
+||LCP 36|最多牌组数|[:cn:](https://leetcode-cn.com/problems/Up5XYM)||Hard|
+||LCP 37|最小矩形面积|[:cn:](https://leetcode-cn.com/problems/zui-xiao-ju-xing-mian-ji)||Hard|
+||LCP 38|守卫城堡|[:cn:](https://leetcode-cn.com/problems/7rLGCR)||Hard|
+||LCP 39|无人机方阵|[:cn:](https://leetcode-cn.com/problems/0jQkd0)||Easy|
+||LCP 40|心算挑战|[:cn:](https://leetcode-cn.com/problems/uOAnQW)||Easy|
+||LCP 41|黑白翻转棋|[:cn:](https://leetcode-cn.com/problems/fHi6rV)||Medium|
+||LCP 42|玩具套圈|[:cn:](https://leetcode-cn.com/problems/vFjcfV)||Hard|
+||LCP 43|十字路口的交通|[:cn:](https://leetcode-cn.com/problems/Y1VbOX)||Hard|
+||LCP 44|开幕式焰火|[:cn:](https://leetcode-cn.com/problems/sZ59z6)||Easy|
+||LCP 45|自行车炫技赛场|[:cn:](https://leetcode-cn.com/problems/kplEvH)||Medium|
+||LCP 46|志愿者调配|[:cn:](https://leetcode-cn.com/problems/05ZEDJ)||Medium|
+||LCP 47|入场安检|[:cn:](https://leetcode-cn.com/problems/oPs9Bm)||Hard|
+||LCP 48|无限棋局|[:cn:](https://leetcode-cn.com/problems/fsa7oZ)||Hard|
+||LCP 49|环形闯关游戏|[:cn:](https://leetcode-cn.com/problems/K8GULz)||Hard|
+|:heavy_check_mark:|LCS 01|下载插件|[:cn:](https://leetcode-cn.com/problems/Ju9Xwi)|[c](LCS/LCS%2001.%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B6.c)|Easy|
+|:heavy_check_mark:|LCS 02|完成一半题目|[:cn:](https://leetcode-cn.com/problems/WqXACV)|[py](LCS/LCS%2002.%E5%AE%8C%E6%88%90%E4%B8%80%E5%8D%8A%E9%A2%98%E7%9B%AE.py)|Easy|
+|:heavy_check_mark:|LCS 03|主题空间|[:cn:](https://leetcode-cn.com/problems/YesdPw)|[py](LCS/LCS%2003.%E4%B8%BB%E9%A2%98%E7%A9%BA%E9%97%B4.py)|Medium|
+|:heavy_check_mark:|剑指 Offer 03|数组中重复的数字 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|[py](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2003.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%20LCOF.py)|Easy|
+||剑指 Offer 04|二维数组中的查找 LCOF|[:cn:](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)||Medium|
+||剑指 Offer 05|替换空格 LCOF|[:cn:](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)||Easy|
+||剑指 Offer 06|从尾到头打印链表 LCOF|[:cn:](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|
+||剑指 Offer 07|重建二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)||Medium|
+||剑指 Offer 09|用两个栈实现队列 LCOF|[:cn:](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)||Easy|
+|:heavy_check_mark:|剑指 Offer 10- I|斐波那契数列 LCOF|[:cn:](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)|[rb](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2010-%20I.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%20LCOF.rb)|Easy|
+||剑指 Offer 10- II|青蛙跳台阶问题 LCOF|[:cn:](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)||Easy|
+||剑指 Offer 11|旋转数组的最小数字 LCOF|[:cn:](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)||Easy|
+||剑指 Offer 12|矩阵中的路径 LCOF|[:cn:](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)||Medium|
+||剑指 Offer 13|机器人的运动范围 LCOF|[:cn:](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 14- I|剪绳子 LCOF|[:cn:](https://leetcode-cn.com/problems/jian-sheng-zi-lcof)|[py](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%E5%89%AA%E7%BB%B3%E5%AD%90%20LCOF.py)|Medium|
+||剑指 Offer 14- II|剪绳子 II LCOF|[:cn:](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 15|二进制中1的个数 LCOF|[:cn:](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)|[js](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2015.%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20LCOF.js)|Easy|
+||剑指 Offer 16|数值的整数次方 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)||Medium|
+||剑指 Offer 17|打印从1到最大的n位数 LCOF|[:cn:](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)||Easy|
+||剑指 Offer 18|删除链表的节点 LCOF|[:cn:](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)||Easy|
+||剑指 Offer 19|正则表达式匹配 LCOF|[:cn:](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof)||Hard|
+||剑指 Offer 20|表示数值的字符串 LCOF|[:cn:](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 21|调整数组顺序使奇数位于偶数前面 LCOF|[:cn:](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)||Easy|
+|:heavy_check_mark:|剑指 Offer 22|链表中倒数第k个节点 LCOF|[:cn:](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)|[js](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2022.%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9%20LCOF.js)|Easy|
+||剑指 Offer 24|反转链表 LCOF|[:cn:](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)||Easy|
+||剑指 Offer 25|合并两个排序的链表 LCOF|[:cn:](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof)||Easy|
+||剑指 Offer 26|树的子结构 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)||Medium|
+||剑指 Offer 27|二叉树的镜像 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)||Easy|
+||剑指 Offer 28|对称的二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof)||Easy|
+||剑指 Offer 29|顺时针打印矩阵 LCOF|[:cn:](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)||Easy|
+||剑指 Offer 30|包含min函数的栈 LCOF|[:cn:](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof)||Easy|
+||剑指 Offer 31|栈的压入、弹出序列 LCOF|[:cn:](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof)||Medium|
+||剑指 Offer 32 - I|从上到下打印二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)||Medium|
+||剑指 Offer 32 - II|从上到下打印二叉树 II LCOF|[:cn:](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)||Easy|
+||剑指 Offer 32 - III|从上到下打印二叉树 III LCOF|[:cn:](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)||Medium|
+||剑指 Offer 33|二叉搜索树的后序遍历序列 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)||Medium|
+||剑指 Offer 34|二叉树中和为某一值的路径 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)||Medium|
+||剑指 Offer 35|复杂链表的复制 LCOF|[:cn:](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)||Medium|
+||剑指 Offer 36|二叉搜索树与双向链表 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 37|序列化二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof)|[js](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2037.%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91%20LCOF.js)|Hard|
+|:heavy_check_mark:|剑指 Offer 38|字符串的排列 LCOF|[:cn:](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof)|[py](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2038.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97%20LCOF.py)|Medium|
+||剑指 Offer 39|数组中出现次数超过一半的数字 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof)||Easy|
+||剑指 Offer 40|最小的k个数 LCOF|[:cn:](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof)||Easy|
+||剑指 Offer 41|数据流中的中位数 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof)||Hard|
+|:heavy_check_mark:|剑指 Offer 42|连续子数组的最大和 LCOF|[:cn:](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)|[ts](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2042.%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C%20LCOF.ts)|Easy|
+||剑指 Offer 43|1～n整数中1出现的次数 LCOF|[:cn:](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof)||Hard|
+||剑指 Offer 44|数字序列中某一位的数字 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof)||Medium|
+||剑指 Offer 45|把数组排成最小的数 LCOF|[:cn:](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof)||Medium|
+||剑指 Offer 46|把数字翻译成字符串 LCOF|[:cn:](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 47|礼物的最大价值 LCOF|[:cn:](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof)||Medium|
+||剑指 Offer 48|最长不含重复字符的子字符串 LCOF|[:cn:](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 49|丑数 LCOF|[:cn:](https://leetcode-cn.com/problems/chou-shu-lcof)||Medium|
+||剑指 Offer 50|第一个只出现一次的字符 LCOF|[:cn:](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)||Easy|
+||剑指 Offer 51|数组中的逆序对 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof)||Hard|
+|:heavy_check_mark:|剑指 Offer 52|两个链表的第一个公共节点 LCOF|[:cn:](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)|[c](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2052.%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9%20LCOF.c)|Easy|
+|:heavy_check_mark:|剑指 Offer 53 - I|在排序数组中查找数字 LCOF|[:cn:](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof)|[ts](%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20LCOF.ts)|Easy|
+||剑指 Offer 53 - II|缺失的数字 LCOF|[:cn:](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof)||Easy|
+||剑指 Offer 54|二叉搜索树的第k大节点 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)||Easy|
+||剑指 Offer 55 - I|二叉树的深度 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)||Easy|
+||剑指 Offer 55 - II|平衡二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof)||Easy|
+||剑指 Offer 56 - I|数组中数字出现的次数 LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)||Medium|
+||剑指 Offer 56 - II|数组中数字出现的次数 II LCOF|[:cn:](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)||Medium|
+||剑指 Offer 57|和为s的两个数字 LCOF|[:cn:](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof)||Easy|
+||剑指 Offer 57 - II|和为s的连续正数序列 LCOF|[:cn:](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)||Easy|
+||剑指 Offer 58 - I|翻转单词顺序 LCOF|[:cn:](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof)||Easy|
+||剑指 Offer 58 - II|左旋转字符串 LCOF|[:cn:](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)||Easy|
+||剑指 Offer 59 - I|滑动窗口的最大值 LCOF|[:cn:](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof)||Hard|
+||剑指 Offer 59 - II|队列的最大值 LCOF|[:cn:](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof)||Medium|
+||剑指 Offer 60|n个骰子的点数 LCOF|[:cn:](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof)||Medium|
+||剑指 Offer 61|扑克牌中的顺子 LCOF|[:cn:](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof)||Easy|
+||剑指 Offer 62|圆圈中最后剩下的数字 LCOF|[:cn:](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)||Easy|
+||剑指 Offer 63|股票的最大利润 LCOF|[:cn:](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof)||Medium|
+||剑指 Offer 64|求1+2+…+n LCOF|[:cn:](https://leetcode-cn.com/problems/qiu-12n-lcof)||Medium|
+||剑指 Offer 65|不用加减乘除做加法 LCOF|[:cn:](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof)||Easy|
+||剑指 Offer 66|构建乘积数组 LCOF|[:cn:](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof)||Medium|
+||剑指 Offer 67|把字符串转换成整数 LCOF|[:cn:](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||Medium|
+||剑指 Offer 68 - I|二叉搜索树的最近公共祖先 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
+||剑指 Offer 68 - II|二叉树的最近公共祖先 LCOF|[:cn:](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
+||剑指 Offer II 001|整数除法|[:cn:](https://leetcode-cn.com/problems/xoh6Oh)||Easy|
+||剑指 Offer II 002|二进制加法|[:cn:](https://leetcode-cn.com/problems/JFETK5)||Easy|
+||剑指 Offer II 003|前 n 个数字二进制中 1 的个数|[:cn:](https://leetcode-cn.com/problems/w3tCBm)||Easy|
+||剑指 Offer II 004|只出现一次的数字|[:cn:](https://leetcode-cn.com/problems/WGki4K)||Medium|
+||剑指 Offer II 005|单词长度的最大乘积|[:cn:](https://leetcode-cn.com/problems/aseY1I)||Medium|
+||剑指 Offer II 006|排序数组中两个数字之和|[:cn:](https://leetcode-cn.com/problems/kLl5u1)||Easy|
+||剑指 Offer II 007|数组中和为 0 的三个数|[:cn:](https://leetcode-cn.com/problems/1fGaJU)||Medium|
+||剑指 Offer II 008|和大于等于 target 的最短子数组|[:cn:](https://leetcode-cn.com/problems/2VG8Kg)||Medium|
+||剑指 Offer II 009|乘积小于 K 的子数组|[:cn:](https://leetcode-cn.com/problems/ZVAVXX)||Medium|
+||剑指 Offer II 010|和为 k 的子数组|[:cn:](https://leetcode-cn.com/problems/QTMn0o)||Medium|
+||剑指 Offer II 011|0 和 1 个数相同的子数组|[:cn:](https://leetcode-cn.com/problems/A1NYOS)||Medium|
+||剑指 Offer II 012|左右两边子数组的和相等|[:cn:](https://leetcode-cn.com/problems/tvdfij)||Easy|
+||剑指 Offer II 013|二维子矩阵的和|[:cn:](https://leetcode-cn.com/problems/O4NDxx)||Medium|
+||剑指 Offer II 014|字符串中的变位词|[:cn:](https://leetcode-cn.com/problems/MPnaiL)||Medium|
+||剑指 Offer II 015|字符串中的所有变位词|[:cn:](https://leetcode-cn.com/problems/VabMRr)||Medium|
+||剑指 Offer II 016|不含重复字符的最长子字符串|[:cn:](https://leetcode-cn.com/problems/wtcaE1)||Medium|
+||剑指 Offer II 017|含有所有字符的最短字符串|[:cn:](https://leetcode-cn.com/problems/M1oyTv)||Hard|
+||剑指 Offer II 018|有效的回文|[:cn:](https://leetcode-cn.com/problems/XltzEq)||Easy|
+||剑指 Offer II 019|最多删除一个字符得到回文|[:cn:](https://leetcode-cn.com/problems/RQku0D)||Easy|
+||剑指 Offer II 020|回文子字符串的个数|[:cn:](https://leetcode-cn.com/problems/a7VOhD)||Medium|
+||剑指 Offer II 021|删除链表的倒数第 n 个结点|[:cn:](https://leetcode-cn.com/problems/SLwz0R)||Medium|
+||剑指 Offer II 022|链表中环的入口节点|[:cn:](https://leetcode-cn.com/problems/c32eOV)||Medium|
+||剑指 Offer II 023|两个链表的第一个重合节点|[:cn:](https://leetcode-cn.com/problems/3u1WK4)||Easy|
+||剑指 Offer II 024|反转链表|[:cn:](https://leetcode-cn.com/problems/UHnkqh)||Easy|
+||剑指 Offer II 025|链表中的两数相加|[:cn:](https://leetcode-cn.com/problems/lMSNwu)||Medium|
+||剑指 Offer II 026|重排链表|[:cn:](https://leetcode-cn.com/problems/LGjMqU)||Medium|
+||剑指 Offer II 027|回文链表|[:cn:](https://leetcode-cn.com/problems/aMhZSa)||Easy|
+||剑指 Offer II 028|展平多级双向链表|[:cn:](https://leetcode-cn.com/problems/Qv1Da2)||Medium|
+||剑指 Offer II 029|排序的循环链表|[:cn:](https://leetcode-cn.com/problems/4ueAj6)||Medium|
+||剑指 Offer II 030|插入、删除和随机访问都是 O(1) 的容器|[:cn:](https://leetcode-cn.com/problems/FortPu)||Medium|
+||剑指 Offer II 031|最近最少使用缓存|[:cn:](https://leetcode-cn.com/problems/OrIXps)||Medium|
+||剑指 Offer II 032|有效的变位词|[:cn:](https://leetcode-cn.com/problems/dKk3P7)||Easy|
+||剑指 Offer II 033|变位词组|[:cn:](https://leetcode-cn.com/problems/sfvd7V)||Medium|
+||剑指 Offer II 034|外星语言是否排序|[:cn:](https://leetcode-cn.com/problems/lwyVBB)||Easy|
+||剑指 Offer II 035|最小时间差|[:cn:](https://leetcode-cn.com/problems/569nqc)||Medium|
+||剑指 Offer II 036|后缀表达式|[:cn:](https://leetcode-cn.com/problems/8Zf90G)||Medium|
+||剑指 Offer II 037|小行星碰撞|[:cn:](https://leetcode-cn.com/problems/XagZNi)||Medium|
+||剑指 Offer II 038|每日温度|[:cn:](https://leetcode-cn.com/problems/iIQa4I)||Medium|
+||剑指 Offer II 039|直方图最大矩形面积|[:cn:](https://leetcode-cn.com/problems/0ynMMM)||Hard|
+||剑指 Offer II 040|矩阵中最大的矩形|[:cn:](https://leetcode-cn.com/problems/PLYXKQ)||Hard|
+||剑指 Offer II 041|滑动窗口的平均值|[:cn:](https://leetcode-cn.com/problems/qIsx9U)||Easy|
+||剑指 Offer II 042|最近请求次数|[:cn:](https://leetcode-cn.com/problems/H8086Q)||Easy|
+||剑指 Offer II 043|往完全二叉树添加节点|[:cn:](https://leetcode-cn.com/problems/NaqhDT)||Medium|
+||剑指 Offer II 044|二叉树每层的最大值|[:cn:](https://leetcode-cn.com/problems/hPov7L)||Medium|
+||剑指 Offer II 045|二叉树最底层最左边的值|[:cn:](https://leetcode-cn.com/problems/LwUNpT)||Medium|
+||剑指 Offer II 046|二叉树的右侧视图|[:cn:](https://leetcode-cn.com/problems/WNC0Lk)||Medium|
+||剑指 Offer II 047|二叉树剪枝|[:cn:](https://leetcode-cn.com/problems/pOCWxh)||Medium|
+||剑指 Offer II 048|序列化与反序列化二叉树|[:cn:](https://leetcode-cn.com/problems/h54YBf)||Hard|
+||剑指 Offer II 049|从根节点到叶节点的路径数字之和|[:cn:](https://leetcode-cn.com/problems/3Etpl5)||Medium|
+||剑指 Offer II 050|向下的路径节点之和|[:cn:](https://leetcode-cn.com/problems/6eUYwP)||Medium|
+||剑指 Offer II 051|节点之和最大的路径|[:cn:](https://leetcode-cn.com/problems/jC7MId)||Hard|
+||剑指 Offer II 052|展平二叉搜索树|[:cn:](https://leetcode-cn.com/problems/NYBBNL)||Easy|
+||剑指 Offer II 053|二叉搜索树中的中序后继|[:cn:](https://leetcode-cn.com/problems/P5rCT8)||Medium|
+||剑指 Offer II 054|所有大于等于节点的值之和|[:cn:](https://leetcode-cn.com/problems/w6cpku)||Medium|
+||剑指 Offer II 055|二叉搜索树迭代器|[:cn:](https://leetcode-cn.com/problems/kTOapQ)||Medium|
+||剑指 Offer II 056|二叉搜索树中两个节点之和|[:cn:](https://leetcode-cn.com/problems/opLdQZ)||Easy|
+||剑指 Offer II 057|值和下标之差都在给定的范围内|[:cn:](https://leetcode-cn.com/problems/7WqeDu)||Medium|
+||剑指 Offer II 058|日程表|[:cn:](https://leetcode-cn.com/problems/fi9suh)||Medium|
+||剑指 Offer II 059|数据流的第 K 大数值|[:cn:](https://leetcode-cn.com/problems/jBjn9C)||Easy|
+||剑指 Offer II 060|出现频率最高的 k 个数字|[:cn:](https://leetcode-cn.com/problems/g5c51o)||Medium|
+||剑指 Offer II 061|和最小的 k 个数对|[:cn:](https://leetcode-cn.com/problems/qn8gGX)||Medium|
+||剑指 Offer II 062|实现前缀树|[:cn:](https://leetcode-cn.com/problems/QC3q1f)||Medium|
+||剑指 Offer II 063|替换单词|[:cn:](https://leetcode-cn.com/problems/UhWRSj)||Medium|
+||剑指 Offer II 064|神奇的字典|[:cn:](https://leetcode-cn.com/problems/US1pGT)||Medium|
+||剑指 Offer II 065|最短的单词编码|[:cn:](https://leetcode-cn.com/problems/iSwD2y)||Medium|
+||剑指 Offer II 066|单词之和|[:cn:](https://leetcode-cn.com/problems/z1R5dt)||Medium|
+||剑指 Offer II 067|最大的异或|[:cn:](https://leetcode-cn.com/problems/ms70jA)||Medium|
+||剑指 Offer II 068|查找插入位置|[:cn:](https://leetcode-cn.com/problems/N6YdxV)||Easy|
+|:heavy_check_mark:|剑指 Offer II 069|山峰数组的顶部|[:cn:](https://leetcode-cn.com/problems/B1IidL)|[ts](%E5%89%91%E6%8C%87%20Offer%20II/%E5%89%91%E6%8C%87%20Offer%20II%20069.%E5%B1%B1%E5%B3%B0%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E9%83%A8.ts)|Easy|
+||剑指 Offer II 070|排序数组中只出现一次的数字|[:cn:](https://leetcode-cn.com/problems/skFtm2)||Medium|
+||剑指 Offer II 071|按权重生成随机数|[:cn:](https://leetcode-cn.com/problems/cuyjEf)||Medium|
+||剑指 Offer II 072|求平方根|[:cn:](https://leetcode-cn.com/problems/jJ0w9p)||Easy|
+||剑指 Offer II 073|狒狒吃香蕉|[:cn:](https://leetcode-cn.com/problems/nZZqjQ)||Medium|
+||剑指 Offer II 074|合并区间|[:cn:](https://leetcode-cn.com/problems/SsGoHC)||Medium|
+||剑指 Offer II 075|数组相对排序|[:cn:](https://leetcode-cn.com/problems/0H97ZC)||Easy|
+||剑指 Offer II 076|数组中的第 k 大的数字|[:cn:](https://leetcode-cn.com/problems/xx4gT2)||Medium|
+||剑指 Offer II 077|链表排序|[:cn:](https://leetcode-cn.com/problems/7WHec2)||Medium|
+||剑指 Offer II 078|合并排序链表|[:cn:](https://leetcode-cn.com/problems/vvXgSW)||Hard|
+||剑指 Offer II 079|所有子集|[:cn:](https://leetcode-cn.com/problems/TVdhkn)||Medium|
+||剑指 Offer II 080|含有 k 个元素的组合|[:cn:](https://leetcode-cn.com/problems/uUsW3B)||Medium|
+||剑指 Offer II 081|允许重复选择元素的组合|[:cn:](https://leetcode-cn.com/problems/Ygoe9J)||Medium|
+||剑指 Offer II 082|含有重复元素集合的组合|[:cn:](https://leetcode-cn.com/problems/4sjJUc)||Medium|
+||剑指 Offer II 083|没有重复元素集合的全排列|[:cn:](https://leetcode-cn.com/problems/VvJkup)||Medium|
+||剑指 Offer II 084|含有重复元素集合的全排列|[:cn:](https://leetcode-cn.com/problems/7p8L0Z)||Medium|
+||剑指 Offer II 085|生成匹配的括号|[:cn:](https://leetcode-cn.com/problems/IDBivT)||Medium|
+||剑指 Offer II 086|分割回文子字符串|[:cn:](https://leetcode-cn.com/problems/M99OJA)||Medium|
+||剑指 Offer II 087|复原 IP|[:cn:](https://leetcode-cn.com/problems/0on3uN)||Medium|
+||剑指 Offer II 088|爬楼梯的最少成本|[:cn:](https://leetcode-cn.com/problems/GzCJIP)||Easy|
+||剑指 Offer II 089|房屋偷盗|[:cn:](https://leetcode-cn.com/problems/Gu0c2T)||Medium|
+||剑指 Offer II 090|环形房屋偷盗|[:cn:](https://leetcode-cn.com/problems/PzWKhm)||Medium|
+||剑指 Offer II 091|粉刷房子|[:cn:](https://leetcode-cn.com/problems/JEj789)||Medium|
+||剑指 Offer II 092|翻转字符|[:cn:](https://leetcode-cn.com/problems/cyJERH)||Medium|
+||剑指 Offer II 093|最长斐波那契数列|[:cn:](https://leetcode-cn.com/problems/Q91FMA)||Medium|
+||剑指 Offer II 094|最少回文分割|[:cn:](https://leetcode-cn.com/problems/omKAoA)||Hard|
+||剑指 Offer II 095|最长公共子序列|[:cn:](https://leetcode-cn.com/problems/qJnOS7)||Medium|
+||剑指 Offer II 096|字符串交织|[:cn:](https://leetcode-cn.com/problems/IY6buf)||Medium|
+||剑指 Offer II 097|子序列的数目|[:cn:](https://leetcode-cn.com/problems/21dk04)||Hard|
+||剑指 Offer II 098|路径的数目|[:cn:](https://leetcode-cn.com/problems/2AoeFn)||Medium|
+||剑指 Offer II 099|最小路径之和|[:cn:](https://leetcode-cn.com/problems/0i0mDW)||Medium|
+||剑指 Offer II 100|三角形中最小路径之和|[:cn:](https://leetcode-cn.com/problems/IlPe0q)||Medium|
+||剑指 Offer II 101|分割等和子集|[:cn:](https://leetcode-cn.com/problems/NUPfPr)||Easy|
+||剑指 Offer II 102|加减的目标值|[:cn:](https://leetcode-cn.com/problems/YaVDxD)||Medium|
+||剑指 Offer II 103|最少的硬币数目|[:cn:](https://leetcode-cn.com/problems/gaM7Ch)||Medium|
+||剑指 Offer II 104|排列的数目|[:cn:](https://leetcode-cn.com/problems/D0F0SV)||Medium|
+||剑指 Offer II 105|岛屿的最大面积|[:cn:](https://leetcode-cn.com/problems/ZL6zAn)||Medium|
+||剑指 Offer II 106|二分图|[:cn:](https://leetcode-cn.com/problems/vEAB3K)||Medium|
+||剑指 Offer II 107|矩阵中的距离|[:cn:](https://leetcode-cn.com/problems/2bCMpM)||Medium|
+||剑指 Offer II 108|单词演变|[:cn:](https://leetcode-cn.com/problems/om3reC)||Hard|
+||剑指 Offer II 109|开密码锁|[:cn:](https://leetcode-cn.com/problems/zlDJc7)||Medium|
+||剑指 Offer II 110|所有路径|[:cn:](https://leetcode-cn.com/problems/bP4bmD)||Medium|
+||剑指 Offer II 111|计算除法|[:cn:](https://leetcode-cn.com/problems/vlzXQL)||Medium|
+||剑指 Offer II 112|最长递增路径|[:cn:](https://leetcode-cn.com/problems/fpTFWP)||Hard|
+||剑指 Offer II 113|课程顺序|[:cn:](https://leetcode-cn.com/problems/QA2IGt)||Medium|
+||剑指 Offer II 114|外星文字典|[:cn:](https://leetcode-cn.com/problems/Jf1JuT)||Hard|
+||剑指 Offer II 115|重建序列|[:cn:](https://leetcode-cn.com/problems/ur2n8P)||Medium|
+||剑指 Offer II 116|省份数量|[:cn:](https://leetcode-cn.com/problems/bLyHh0)||Medium|
+||剑指 Offer II 117|相似的字符串|[:cn:](https://leetcode-cn.com/problems/H6lPxb)||Hard|
+||剑指 Offer II 118|多余的边|[:cn:](https://leetcode-cn.com/problems/7LpjUW)||Medium|
+||剑指 Offer II 119|最长连续序列|[:cn:](https://leetcode-cn.com/problems/WhsWhI)||Medium|
+|:heavy_check_mark:|面试题 01.01|Is Unique LCCI|[:cn:](https://leetcode-cn.com/problems/is-unique-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.01.Is%20Unique%20LCCI.py)|Easy|
+||面试题 01.02|Check Permutation LCCI|[:cn:](https://leetcode-cn.com/problems/check-permutation-lcci)||Easy|
+||面试题 01.03|String to URL LCCI|[:cn:](https://leetcode-cn.com/problems/string-to-url-lcci)||Easy|
+||面试题 01.04|Palindrome Permutation LCCI|[:cn:](https://leetcode-cn.com/problems/palindrome-permutation-lcci)||Easy|
+||面试题 01.05|One Away LCCI|[:cn:](https://leetcode-cn.com/problems/one-away-lcci)||Medium|
+||面试题 01.06|Compress String LCCI|[:cn:](https://leetcode-cn.com/problems/compress-string-lcci)||Easy|
+||面试题 01.07|Rotate Matrix LCCI|[:cn:](https://leetcode-cn.com/problems/rotate-matrix-lcci)||Medium|
+||面试题 01.08|Zero Matrix LCCI|[:cn:](https://leetcode-cn.com/problems/zero-matrix-lcci)||Medium|
+||面试题 01.09|String Rotation LCCI|[:cn:](https://leetcode-cn.com/problems/string-rotation-lcci)||Easy|
+||面试题 02.01|Remove Duplicate Node LCCI|[:cn:](https://leetcode-cn.com/problems/remove-duplicate-node-lcci)||Easy|
+||面试题 02.02|Kth Node From End of List LCCI|[:cn:](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci)||Easy|
+||面试题 02.03|Delete Middle Node LCCI|[:cn:](https://leetcode-cn.com/problems/delete-middle-node-lcci)||Easy|
+||面试题 02.04|Partition List LCCI|[:cn:](https://leetcode-cn.com/problems/partition-list-lcci)||Medium|
+||面试题 02.05|Sum Lists LCCI|[:cn:](https://leetcode-cn.com/problems/sum-lists-lcci)||Medium|
+||面试题 02.06|Palindrome Linked List LCCI|[:cn:](https://leetcode-cn.com/problems/palindrome-linked-list-lcci)||Easy|
+||面试题 02.07|Intersection of Two Linked Lists LCCI|[:cn:](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci)||Easy|
+||面试题 02.08|Linked List Cycle LCCI|[:cn:](https://leetcode-cn.com/problems/linked-list-cycle-lcci)||Medium|
+||面试题 03.01|Three in One LCCI|[:cn:](https://leetcode-cn.com/problems/three-in-one-lcci)||Easy|
+||面试题 03.02|Min Stack LCCI|[:cn:](https://leetcode-cn.com/problems/min-stack-lcci)||Easy|
+||面试题 03.03|Stack of Plates LCCI|[:cn:](https://leetcode-cn.com/problems/stack-of-plates-lcci)||Medium|
+||面试题 03.04|Implement Queue using Stacks LCCI|[:cn:](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci)||Easy|
+||面试题 03.05|Sort of Stacks LCCI|[:cn:](https://leetcode-cn.com/problems/sort-of-stacks-lcci)||Medium|
+||面试题 03.06|Animal Shelter LCCI|[:cn:](https://leetcode-cn.com/problems/animal-shelter-lcci)||Easy|
+||面试题 04.01|Route Between Nodes LCCI|[:cn:](https://leetcode-cn.com/problems/route-between-nodes-lcci)||Medium|
+||面试题 04.02|Minimum Height Tree LCCI|[:cn:](https://leetcode-cn.com/problems/minimum-height-tree-lcci)||Easy|
+||面试题 04.03|List of Depth LCCI|[:cn:](https://leetcode-cn.com/problems/list-of-depth-lcci)||Medium|
+||面试题 04.04|Check Balance LCCI|[:cn:](https://leetcode-cn.com/problems/check-balance-lcci)||Easy|
+||面试题 04.05|Legal Binary Search Tree LCCI|[:cn:](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci)||Medium|
+||面试题 04.06|Successor LCCI|[:cn:](https://leetcode-cn.com/problems/successor-lcci)||Medium|
+||面试题 04.08|First Common Ancestor LCCI|[:cn:](https://leetcode-cn.com/problems/first-common-ancestor-lcci)||Medium|
+||面试题 04.09|BST Sequences LCCI|[:cn:](https://leetcode-cn.com/problems/bst-sequences-lcci)||Hard|
+||面试题 04.10|Check SubTree LCCI|[:cn:](https://leetcode-cn.com/problems/check-subtree-lcci)||Medium|
+||面试题 04.12|Paths with Sum LCCI|[:cn:](https://leetcode-cn.com/problems/paths-with-sum-lcci)||Medium|
+||面试题 05.01|Insert Into Bits LCCI|[:cn:](https://leetcode-cn.com/problems/insert-into-bits-lcci)||Easy|
+||面试题 05.02|Bianry Number to String LCCI|[:cn:](https://leetcode-cn.com/problems/bianry-number-to-string-lcci)||Medium|
+||面试题 05.03|Reverse Bits LCCI|[:cn:](https://leetcode-cn.com/problems/reverse-bits-lcci)||Easy|
+||面试题 05.04|Closed Number LCCI|[:cn:](https://leetcode-cn.com/problems/closed-number-lcci)||Medium|
+||面试题 05.06|Convert Integer LCCI|[:cn:](https://leetcode-cn.com/problems/convert-integer-lcci)||Easy|
+||面试题 05.07|Exchange LCCI|[:cn:](https://leetcode-cn.com/problems/exchange-lcci)||Easy|
+||面试题 05.08|Draw Line LCCI|[:cn:](https://leetcode-cn.com/problems/draw-line-lcci)||Medium|
+||面试题 08.01|Three Steps Problem LCCI|[:cn:](https://leetcode-cn.com/problems/three-steps-problem-lcci)||Easy|
+||面试题 08.02|Robot in a Grid LCCI|[:cn:](https://leetcode-cn.com/problems/robot-in-a-grid-lcci)||Medium|
+||面试题 08.03|Magic Index LCCI|[:cn:](https://leetcode-cn.com/problems/magic-index-lcci)||Easy|
+||面试题 08.04|Power Set LCCI|[:cn:](https://leetcode-cn.com/problems/power-set-lcci)||Medium|
+||面试题 08.05|Recursive Mulitply LCCI|[:cn:](https://leetcode-cn.com/problems/recursive-mulitply-lcci)||Medium|
+||面试题 08.06|Hanota LCCI|[:cn:](https://leetcode-cn.com/problems/hanota-lcci)||Easy|
+||面试题 08.07|Permutation I LCCI|[:cn:](https://leetcode-cn.com/problems/permutation-i-lcci)||Medium|
+||面试题 08.08|Permutation II LCCI|[:cn:](https://leetcode-cn.com/problems/permutation-ii-lcci)||Medium|
+||面试题 08.09|Bracket LCCI|[:cn:](https://leetcode-cn.com/problems/bracket-lcci)||Medium|
+||面试题 08.10|Color Fill LCCI|[:cn:](https://leetcode-cn.com/problems/color-fill-lcci)||Easy|
+||面试题 08.11|Coin LCCI|[:cn:](https://leetcode-cn.com/problems/coin-lcci)||Medium|
+||面试题 08.12|Eight Queens LCCI|[:cn:](https://leetcode-cn.com/problems/eight-queens-lcci)||Hard|
+||面试题 08.13|Pile Box LCCI|[:cn:](https://leetcode-cn.com/problems/pile-box-lcci)||Hard|
+||面试题 08.14|Boolean Evaluation LCCI|[:cn:](https://leetcode-cn.com/problems/boolean-evaluation-lcci)||Medium|
+||面试题 10.01|Sorted Merge LCCI|[:cn:](https://leetcode-cn.com/problems/sorted-merge-lcci)||Easy|
+|:heavy_check_mark:|面试题 10.02|Group Anagrams LCCI|[:cn:](https://leetcode-cn.com/problems/group-anagrams-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.02.Group%20Anagrams%20LCCI.py)|Medium|
+||面试题 10.03|Search Rotate Array LCCI|[:cn:](https://leetcode-cn.com/problems/search-rotate-array-lcci)||Medium|
+||面试题 10.05|Sparse Array Search LCCI|[:cn:](https://leetcode-cn.com/problems/sparse-array-search-lcci)||Easy|
+||面试题 10.09|Sorted Matrix Search LCCI|[:cn:](https://leetcode-cn.com/problems/sorted-matrix-search-lcci)||Medium|
+||面试题 10.10|Rank from Stream LCCI|[:cn:](https://leetcode-cn.com/problems/rank-from-stream-lcci)||Medium|
+||面试题 10.11|Peaks and Valleys LCCI|[:cn:](https://leetcode-cn.com/problems/peaks-and-valleys-lcci)||Medium|
+||面试题 16.01|Swap Numbers LCCI|[:cn:](https://leetcode-cn.com/problems/swap-numbers-lcci)||Medium|
+||面试题 16.02|Words Frequency LCCI|[:cn:](https://leetcode-cn.com/problems/words-frequency-lcci)||Medium|
+||面试题 16.03|Intersection LCCI|[:cn:](https://leetcode-cn.com/problems/intersection-lcci)||Hard|
+||面试题 16.04|Tic-Tac-Toe LCCI|[:cn:](https://leetcode-cn.com/problems/tic-tac-toe-lcci)||Medium|
+||面试题 16.05|Factorial Zeros LCCI|[:cn:](https://leetcode-cn.com/problems/factorial-zeros-lcci)||Easy|
+||面试题 16.06|Smallest Difference LCCI|[:cn:](https://leetcode-cn.com/problems/smallest-difference-lcci)||Medium|
+||面试题 16.07|Maximum LCCI|[:cn:](https://leetcode-cn.com/problems/maximum-lcci)||Easy|
+||面试题 16.08|English Int LCCI|[:cn:](https://leetcode-cn.com/problems/english-int-lcci)||Hard|
+||面试题 16.09|Operations LCCI|[:cn:](https://leetcode-cn.com/problems/operations-lcci)||Medium|
+||面试题 16.10|Living People LCCI|[:cn:](https://leetcode-cn.com/problems/living-people-lcci)||Medium|
+||面试题 16.11|Diving Board LCCI|[:cn:](https://leetcode-cn.com/problems/diving-board-lcci)||Easy|
+||面试题 16.13|Bisect Squares LCCI|[:cn:](https://leetcode-cn.com/problems/bisect-squares-lcci)||Medium|
+||面试题 16.14|Best Line LCCI|[:cn:](https://leetcode-cn.com/problems/best-line-lcci)||Medium|
+||面试题 16.15|Master Mind LCCI|[:cn:](https://leetcode-cn.com/problems/master-mind-lcci)||Easy|
+||面试题 16.16|Sub Sort LCCI|[:cn:](https://leetcode-cn.com/problems/sub-sort-lcci)||Medium|
+||面试题 16.17|Contiguous Sequence LCCI|[:cn:](https://leetcode-cn.com/problems/contiguous-sequence-lcci)||Easy|
+||面试题 16.18|Pattern Matching LCCI|[:cn:](https://leetcode-cn.com/problems/pattern-matching-lcci)||Medium|
+||面试题 16.19|Pond Sizes LCCI|[:cn:](https://leetcode-cn.com/problems/pond-sizes-lcci)||Medium|
+||面试题 16.20|T9 LCCI|[:cn:](https://leetcode-cn.com/problems/t9-lcci)||Medium|
+||面试题 16.21|Sum Swap LCCI|[:cn:](https://leetcode-cn.com/problems/sum-swap-lcci)||Medium|
+||面试题 16.22|Langtons Ant LCCI|[:cn:](https://leetcode-cn.com/problems/langtons-ant-lcci)||Medium|
+||面试题 16.24|Pairs With Sum LCCI|[:cn:](https://leetcode-cn.com/problems/pairs-with-sum-lcci)||Medium|
+||面试题 16.25|LRU Cache LCCI|[:cn:](https://leetcode-cn.com/problems/lru-cache-lcci)||Medium|
+||面试题 16.26|Calculator LCCI|[:cn:](https://leetcode-cn.com/problems/calculator-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.01|Add Without Plus LCCI|[:cn:](https://leetcode-cn.com/problems/add-without-plus-lcci)|[c](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.01.Add%20Without%20Plus%20LCCI.c)|Easy|
+|:heavy_check_mark:|面试题 17.04|Missing Number LCCI|[:cn:](https://leetcode-cn.com/problems/missing-number-lcci)|[ts](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.Missing%20Number%20LCCI.ts)|Easy|
+||面试题 17.05|Find Longest Subarray LCCI|[:cn:](https://leetcode-cn.com/problems/find-longest-subarray-lcci)||Medium|
+||面试题 17.06|Number Of 2s In Range LCCI|[:cn:](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci)||Hard|
+||面试题 17.07|Baby Names LCCI|[:cn:](https://leetcode-cn.com/problems/baby-names-lcci)||Medium|
+||面试题 17.08|Circus Tower LCCI|[:cn:](https://leetcode-cn.com/problems/circus-tower-lcci)||Medium|
+||面试题 17.09|Get Kth Magic Number LCCI|[:cn:](https://leetcode-cn.com/problems/get-kth-magic-number-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.10|Find Majority Element LCCI|[:cn:](https://leetcode-cn.com/problems/find-majority-element-lcci)|[ts](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.10.Find%20Majority%20Element%20LCCI.ts)|Easy|
+||面试题 17.11|Find Closest LCCI|[:cn:](https://leetcode-cn.com/problems/find-closest-lcci)||Medium|
+||面试题 17.12|BiNode LCCI|[:cn:](https://leetcode-cn.com/problems/binode-lcci)||Easy|
+||面试题 17.13|Re-Space LCCI|[:cn:](https://leetcode-cn.com/problems/re-space-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.14|Smallest K LCCI|[:cn:](https://leetcode-cn.com/problems/smallest-k-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.Smallest%20K%20LCCI.py)|Medium|
+||面试题 17.15|Longest Word LCCI|[:cn:](https://leetcode-cn.com/problems/longest-word-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.16|The Masseuse LCCI|[:cn:](https://leetcode-cn.com/problems/the-masseuse-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.py), [ts](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.ts)|Easy|
+||面试题 17.17|Multi Search LCCI|[:cn:](https://leetcode-cn.com/problems/multi-search-lcci)||Medium|
+||面试题 17.18|Shortest Supersequence LCCI|[:cn:](https://leetcode-cn.com/problems/shortest-supersequence-lcci)||Medium|
+||面试题 17.19|Missing Two LCCI|[:cn:](https://leetcode-cn.com/problems/missing-two-lcci)||Hard|
+||面试题 17.20|Continuous Median LCCI|[:cn:](https://leetcode-cn.com/problems/continuous-median-lcci)||Hard|
+|:heavy_check_mark:|面试题 17.21|Volume of Histogram LCCI|[:cn:](https://leetcode-cn.com/problems/volume-of-histogram-lcci)|[java](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.21.Volume%20of%20Histogram%20LCCI.java)|Hard|
+||面试题 17.22|Word Transformer LCCI|[:cn:](https://leetcode-cn.com/problems/word-transformer-lcci)||Medium|
+||面试题 17.23|Max Black Square LCCI|[:cn:](https://leetcode-cn.com/problems/max-black-square-lcci)||Medium|
+||面试题 17.24|Max Submatrix LCCI|[:cn:](https://leetcode-cn.com/problems/max-submatrix-lcci)||Hard|
+||面试题 17.25|Word Rectangle LCCI|[:cn:](https://leetcode-cn.com/problems/word-rectangle-lcci)||Hard|
+|:heavy_check_mark:|面试题 17.26|Sparse Similarity LCCI|[:cn:](https://leetcode-cn.com/problems/sparse-similarity-lcci)|[py](%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.26.Sparse%20Similarity%20LCCI.py)|Hard|
