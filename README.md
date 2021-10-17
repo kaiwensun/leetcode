@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |67.6%|12.7%|8.7%|4.9%|3.0%|1.7%|1.1%|0.2%|
 
-This table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
+The following table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2045|Second Minimum Time to Reach Destination|[:us:](https://leetcode.com/problems/second-minimum-time-to-reach-destination) [:cn:](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|[py](2001-2500/2045.Second%20Minimum%20Time%20to%20Reach%20Destination.py)|Hard|
