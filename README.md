@@ -10,16 +10,21 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2392|1454|4|201|8|
+|2397|1458|4|205|8|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.7%|12.7%|8.6%|4.9%|3.0%|1.6%|1.1%|0.2%|
+|67.7%|12.7%|8.7%|4.9%|3.0%|1.7%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2041|Accepted Candidates From the Interviews|[:us:](https://leetcode.com/problems/accepted-candidates-from-the-interviews) [:cn:](https://leetcode-cn.com/problems/accepted-candidates-from-the-interviews)||Medium|
+||2040|Kth Smallest Product of Two Sorted Arrays|[:us:](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/kth-smallest-product-of-two-sorted-arrays)||Hard|
+||2039|The Time When the Network Becomes Idle|[:us:](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) [:cn:](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle)||Medium|
+||2038|Remove Colored Pieces if Both Neighbors are the Same Color|[:us:](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) [:cn:](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)||Medium|
+||2037|Minimum Number of Moves to Seat Everyone|[:us:](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-moves-to-seat-everyone)||Easy|
 |:lock:|2036|Maximum Alternating Subarray Sum|[:us:](https://leetcode.com/problems/maximum-alternating-subarray-sum) [:cn:](https://leetcode-cn.com/problems/maximum-alternating-subarray-sum)||Medium|
 |:heavy_check_mark:|2035|Partition Array Into Two Arrays to Minimize Sum Difference|[:us:](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) [:cn:](https://leetcode-cn.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|[py](2001-2500/2035.Partition%20Array%20Into%20Two%20Arrays%20to%20Minimize%20Sum%20Difference.py)|Hard|
 |:heavy_check_mark:|2034|Stock Price Fluctuation|[:us:](https://leetcode.com/problems/stock-price-fluctuation) [:cn:](https://leetcode-cn.com/problems/stock-price-fluctuation)|[py](2001-2500/2034.Stock%20Price%20Fluctuation.py)|Medium|
