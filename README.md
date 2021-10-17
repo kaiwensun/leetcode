@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5905|contest question 5905||[py](5905.py)||
-|:heavy_check_mark:|5904|contest question 5904||[ts](5904.ts)||
-|:heavy_check_mark:|5903|contest question 5903||[java](5903.java)||
-|:heavy_check_mark:|5902|contest question 5902||[py](5902.py), [rb](5902.Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.rb)||
+|:heavy_check_mark:|2045|Second Minimum Time to Reach Destination|[:us:](https://leetcode.com/problems/second-minimum-time-to-reach-destination) [:cn:](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|[py](2001-2500/2045.Second%20Minimum%20Time%20to%20Reach%20Destination.py)|Hard|
+|:heavy_check_mark:|2044|Count Number of Maximum Bitwise-OR Subsets|[:us:](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) [:cn:](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets)|[ts](2001-2500/2044.Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.ts)|Medium|
+|:heavy_check_mark:|2043|Simple Bank System|[:us:](https://leetcode.com/problems/simple-bank-system) [:cn:](https://leetcode-cn.com/problems/simple-bank-system)|[java](2001-2500/2043.Simple%20Bank%20System.java)|Medium|
+|:heavy_check_mark:|2042|Check if Numbers Are Ascending in a Sentence|[:us:](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) [:cn:](https://leetcode-cn.com/problems/check-if-numbers-are-ascending-in-a-sentence)|[py](2001-2500/2042.Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py), [rb](2001-2500/2042.Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.rb)|Easy|
 |:lock:|2041|Accepted Candidates From the Interviews|[:us:](https://leetcode.com/problems/accepted-candidates-from-the-interviews) [:cn:](https://leetcode-cn.com/problems/accepted-candidates-from-the-interviews)||Medium|
 ||2040|Kth Smallest Product of Two Sorted Arrays|[:us:](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) [:cn:](https://leetcode-cn.com/problems/kth-smallest-product-of-two-sorted-arrays)||Hard|
 ||2039|The Time When the Network Becomes Idle|[:us:](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) [:cn:](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle)||Medium|
