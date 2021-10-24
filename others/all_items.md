@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5909|contest question 5909||[py](5909.py)||
-|:heavy_check_mark:|5908|contest question 5908||[py](5908.py)||
-|:heavy_check_mark:|5907|contest question 5907||[py](5907.py)||
-|:heavy_check_mark:|5906|contest question 5906||[py](5906.py), [ts](5906.ts)||
+|:heavy_check_mark:|2050|Parallel Courses III|[:us:](https://leetcode.com/problems/parallel-courses-iii) [:cn:](https://leetcode-cn.com/problems/parallel-courses-iii)|[py](2001-2500/2050.Parallel%20Courses%20III.py)|Hard|
+|:heavy_check_mark:|2049|Count Nodes With the Highest Score|[:us:](https://leetcode.com/problems/count-nodes-with-the-highest-score) [:cn:](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score)|[py](2001-2500/2049.Count%20Nodes%20With%20the%20Highest%20Score.py)|Medium|
+|:heavy_check_mark:|2048|Next Greater Numerically Balanced Number|[:us:](https://leetcode.com/problems/next-greater-numerically-balanced-number) [:cn:](https://leetcode-cn.com/problems/next-greater-numerically-balanced-number)|[py](2001-2500/2048.Next%20Greater%20Numerically%20Balanced%20Number.py)|Medium|
+|:heavy_check_mark:|2047|Number of Valid Words in a Sentence|[:us:](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) [:cn:](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence)|[py](2001-2500/2047.Number%20of%20Valid%20Words%20in%20a%20Sentence.py), [ts](2001-2500/2047.Number%20of%20Valid%20Words%20in%20a%20Sentence.ts)|Easy|
 |:lock:|2046|Sort Linked List Already Sorted Using Absolute Values|[:us:](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values) [:cn:](https://leetcode-cn.com/problems/sort-linked-list-already-sorted-using-absolute-values)||Medium|
 |:heavy_check_mark:|2045|Second Minimum Time to Reach Destination|[:us:](https://leetcode.com/problems/second-minimum-time-to-reach-destination) [:cn:](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|[py](2001-2500/2045.Second%20Minimum%20Time%20to%20Reach%20Destination.py)|Hard|
 |:heavy_check_mark:|2044|Count Number of Maximum Bitwise-OR Subsets|[:us:](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) [:cn:](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets)|[ts](2001-2500/2044.Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.ts)|Medium|
