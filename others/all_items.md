@@ -1812,7 +1812,7 @@
 |:heavy_check_mark:|263|Ugly Number|[:us:](https://leetcode.com/problems/ugly-number) [:cn:](https://leetcode-cn.com/problems/ugly-number)|[c](0001-0500/0263.Ugly%20Number.c), [py](0001-0500/0263.Ugly%20Number.py)|Easy|
 ||262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
 |:lock:|261|Graph Valid Tree|[:us:](https://leetcode.com/problems/graph-valid-tree) [:cn:](https://leetcode-cn.com/problems/graph-valid-tree)||Medium|
-|:heavy_check_mark:|260|Single Number III|[:us:](https://leetcode.com/problems/single-number-iii) [:cn:](https://leetcode-cn.com/problems/single-number-iii)|[py](0001-0500/0260.Single%20Number%20III.py)|Medium|
+|:heavy_check_mark:|260|Single Number III|[:us:](https://leetcode.com/problems/single-number-iii) [:cn:](https://leetcode-cn.com/problems/single-number-iii)|[py](0001-0500/0260.Single%20Number%20III.py), [ts](0001-0500/0260.Single%20Number%20III.ts)|Medium|
 |:lock:|259|3Sum Smaller|[:us:](https://leetcode.com/problems/3sum-smaller) [:cn:](https://leetcode-cn.com/problems/3sum-smaller)||Medium|
 |:heavy_check_mark:|258|Add Digits|[:us:](https://leetcode.com/problems/add-digits) [:cn:](https://leetcode-cn.com/problems/add-digits)|[py](0001-0500/0258.Add%20Digits.py)|Easy|
 |:heavy_check_mark:|257|Binary Tree Paths|[:us:](https://leetcode.com/problems/binary-tree-paths) [:cn:](https://leetcode-cn.com/problems/binary-tree-paths)|[py](0001-0500/0257.Binary%20Tree%20Paths.py)|Easy|
