@@ -15,7 +15,7 @@
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.5%|12.7%|8.7%|4.8%|3.0%|2.0%|1.1%|0.2%|
+|67.4%|12.7%|8.7%|4.8%|3.0%|2.1%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1203,7 +1203,7 @@
 |:heavy_check_mark:|872|Leaf-Similar Trees|[:us:](https://leetcode.com/problems/leaf-similar-trees) [:cn:](https://leetcode-cn.com/problems/leaf-similar-trees)|[py](0501-1000/0872.Leaf-Similar%20Trees.py)|Easy|
 ||871|Minimum Number of Refueling Stops|[:us:](https://leetcode.com/problems/minimum-number-of-refueling-stops) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)||Hard|
 ||870|Advantage Shuffle|[:us:](https://leetcode.com/problems/advantage-shuffle) [:cn:](https://leetcode-cn.com/problems/advantage-shuffle)||Medium|
-|:heavy_check_mark:|869|Reordered Power of 2|[:us:](https://leetcode.com/problems/reordered-power-of-2) [:cn:](https://leetcode-cn.com/problems/reordered-power-of-2)|[ts](0501-1000/0869.Reordered%20Power%20of%202.ts)|Medium|
+|:heavy_check_mark:|869|Reordered Power of 2|[:us:](https://leetcode.com/problems/reordered-power-of-2) [:cn:](https://leetcode-cn.com/problems/reordered-power-of-2)|[ts](0501-1000/0869.Reordered%20Power%20of%202.2.ts), [ts](0501-1000/0869.Reordered%20Power%20of%202.ts)|Medium|
 |:heavy_check_mark:|868|Binary Gap|[:us:](https://leetcode.com/problems/binary-gap) [:cn:](https://leetcode-cn.com/problems/binary-gap)|[py](0501-1000/0868.Binary%20Gap.py)|Easy|
 |:heavy_check_mark:|867|Transpose Matrix|[:us:](https://leetcode.com/problems/transpose-matrix) [:cn:](https://leetcode-cn.com/problems/transpose-matrix)|[rb](0501-1000/0867.Transpose%20Matrix.rb)|Easy|
 ||866|Prime Palindrome|[:us:](https://leetcode.com/problems/prime-palindrome) [:cn:](https://leetcode-cn.com/problems/prime-palindrome)||Medium|
@@ -1905,7 +1905,7 @@
 |:lock:|170|Two Sum III - Data structure design|[:us:](https://leetcode.com/problems/two-sum-iii-data-structure-design) [:cn:](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design)||Easy|
 |:heavy_check_mark:|169|Majority Element|[:us:](https://leetcode.com/problems/majority-element) [:cn:](https://leetcode-cn.com/problems/majority-element)|[c](0001-0500/0169.Majority%20Element.c), [rb](0001-0500/0169.Majority%20Element.rb)|Easy|
 |:heavy_check_mark:|168|Excel Sheet Column Title|[:us:](https://leetcode.com/problems/excel-sheet-column-title) [:cn:](https://leetcode-cn.com/problems/excel-sheet-column-title)|[java](0001-0500/0168.Excel%20Sheet%20Column%20Title.java), [py](0001-0500/0168.Excel%20Sheet%20Column%20Title.py)|Easy|
-|:heavy_check_mark:|167|Two Sum II - Input array is sorted|[:us:](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) [:cn:](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|[java](0001-0500/0167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)|Easy|
+|:heavy_check_mark:|167|Two Sum II - Input Array Is Sorted|[:us:](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) [:cn:](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|[java](0001-0500/0167.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|Easy|
 |:heavy_check_mark:|166|Fraction to Recurring Decimal|[:us:](https://leetcode.com/problems/fraction-to-recurring-decimal) [:cn:](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)|[py](0001-0500/0166.Fraction%20to%20Recurring%20Decimal.py)|Medium|
 |:heavy_check_mark:|165|Compare Version Numbers|[:us:](https://leetcode.com/problems/compare-version-numbers) [:cn:](https://leetcode-cn.com/problems/compare-version-numbers)|[java](0001-0500/0165.Compare%20Version%20Numbers.java)|Medium|
 |:heavy_check_mark:|164|Maximum Gap|[:us:](https://leetcode.com/problems/maximum-gap) [:cn:](https://leetcode-cn.com/problems/maximum-gap)|[py](0001-0500/0164.Maximum%20Gap.py)|Hard|
