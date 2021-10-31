@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|527|0|4|200|9|
+|526|0|4|199|9|
 
 
 
@@ -162,7 +162,6 @@
 ||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
 ||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
 ||587|Erect the Fence|[:us:](https://leetcode.com/problems/erect-the-fence) [:cn:](https://leetcode-cn.com/problems/erect-the-fence)||Hard|
-||575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies) [:cn:](https://leetcode-cn.com/problems/distribute-candies)||Easy|
 ||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree) [:cn:](https://leetcode-cn.com/problems/subtree-of-another-tree)||Easy|
 ||565|Array Nesting|[:us:](https://leetcode.com/problems/array-nesting) [:cn:](https://leetcode-cn.com/problems/array-nesting)||Medium|
 ||558|Logical OR of Two Binary Grids Represented as Quad-Trees|[:us:](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) [:cn:](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)||Medium|

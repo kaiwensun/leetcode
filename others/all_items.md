@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2416|1475|4|200|9|
+|2416|1476|4|199|9|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.3%|12.6%|8.6%|4.8%|3.0%|2.3%|1.1%|0.2%|
+|67.2%|12.6%|8.6%|4.8%|3.0%|2.3%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1505,7 +1505,7 @@
 |:lock:|578|Get Highest Answer Rate Question|[:us:](https://leetcode.com/problems/get-highest-answer-rate-question) [:cn:](https://leetcode-cn.com/problems/get-highest-answer-rate-question)||Medium|
 |:lock:|577|Employee Bonus|[:us:](https://leetcode.com/problems/employee-bonus) [:cn:](https://leetcode-cn.com/problems/employee-bonus)||Easy|
 |:heavy_check_mark:|576|Out of Boundary Paths|[:us:](https://leetcode.com/problems/out-of-boundary-paths) [:cn:](https://leetcode-cn.com/problems/out-of-boundary-paths)|[py](0501-1000/0576.Out%20of%20Boundary%20Paths.py)|Medium|
-||575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies) [:cn:](https://leetcode-cn.com/problems/distribute-candies)||Easy|
+|:heavy_check_mark:|575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies) [:cn:](https://leetcode-cn.com/problems/distribute-candies)|[ts](0501-1000/0575.Distribute%20Candies.ts)|Easy|
 |:lock:|574|Winning Candidate|[:us:](https://leetcode.com/problems/winning-candidate) [:cn:](https://leetcode-cn.com/problems/winning-candidate)||Medium|
 |:lock:|573|Squirrel Simulation|[:us:](https://leetcode.com/problems/squirrel-simulation) [:cn:](https://leetcode-cn.com/problems/squirrel-simulation)||Medium|
 ||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree) [:cn:](https://leetcode-cn.com/problems/subtree-of-another-tree)||Easy|
