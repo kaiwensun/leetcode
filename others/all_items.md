@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2416|1477|4|198|9|
+|2416|1478|4|197|9|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.3%|12.6%|8.6%|4.8%|3.0%|2.3%|1.1%|0.2%|
+|67.2%|12.6%|8.6%|4.8%|3.0%|2.4%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -27,7 +27,7 @@
 ||2056|Number of Valid Move Combinations On Chessboard|[:us:](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) [:cn:](https://leetcode-cn.com/problems/number-of-valid-move-combinations-on-chessboard)||Hard|
 ||2055|Plates Between Candles|[:us:](https://leetcode.com/problems/plates-between-candles) [:cn:](https://leetcode-cn.com/problems/plates-between-candles)||Medium|
 ||2054|Two Best Non-Overlapping Events|[:us:](https://leetcode.com/problems/two-best-non-overlapping-events) [:cn:](https://leetcode-cn.com/problems/two-best-non-overlapping-events)||Medium|
-||2053|Kth Distinct String in an Array|[:us:](https://leetcode.com/problems/kth-distinct-string-in-an-array) [:cn:](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array)||Easy|
+|:heavy_check_mark:|2053|Kth Distinct String in an Array|[:us:](https://leetcode.com/problems/kth-distinct-string-in-an-array) [:cn:](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array)|[ts](2001-2500/2053.Kth%20Distinct%20String%20in%20an%20Array.ts)|Easy|
 |:lock:|2052|Minimum Cost to Separate Sentence Into Rows|[:us:](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-separate-sentence-into-rows)||Medium|
 |:lock:|2051|The Category of Each Member in the Store|[:us:](https://leetcode.com/problems/the-category-of-each-member-in-the-store) [:cn:](https://leetcode-cn.com/problems/the-category-of-each-member-in-the-store)||Medium|
 |:heavy_check_mark:|2050|Parallel Courses III|[:us:](https://leetcode.com/problems/parallel-courses-iii) [:cn:](https://leetcode-cn.com/problems/parallel-courses-iii)|[py](2001-2500/2050.Parallel%20Courses%20III.py)|Hard|
