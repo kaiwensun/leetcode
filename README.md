@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2416|1479|4|196|9|
+|2416|1480|4|195|9|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.2%|12.6%|8.6%|4.8%|3.0%|2.4%|1.1%|0.2%|
+|67.3%|12.6%|8.6%|4.8%|3.0%|2.4%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -25,7 +25,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 |:heavy_check_mark:|2058|Find the Minimum and Maximum Number of Nodes Between Critical Points|[:us:](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) [:cn:](https://leetcode-cn.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|[ts](2001-2500/2058.Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.ts)|Medium|
 |:heavy_check_mark:|2057|Smallest Index With Equal Value|[:us:](https://leetcode.com/problems/smallest-index-with-equal-value) [:cn:](https://leetcode-cn.com/problems/smallest-index-with-equal-value)|[ts](2001-2500/2057.Smallest%20Index%20With%20Equal%20Value.ts)|Easy|
 ||2056|Number of Valid Move Combinations On Chessboard|[:us:](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) [:cn:](https://leetcode-cn.com/problems/number-of-valid-move-combinations-on-chessboard)||Hard|
-||2055|Plates Between Candles|[:us:](https://leetcode.com/problems/plates-between-candles) [:cn:](https://leetcode-cn.com/problems/plates-between-candles)||Medium|
+|:heavy_check_mark:|2055|Plates Between Candles|[:us:](https://leetcode.com/problems/plates-between-candles) [:cn:](https://leetcode-cn.com/problems/plates-between-candles)|[py](2001-2500/2055.Plates%20Between%20Candles.py)|Medium|
 |:heavy_check_mark:|2054|Two Best Non-Overlapping Events|[:us:](https://leetcode.com/problems/two-best-non-overlapping-events) [:cn:](https://leetcode-cn.com/problems/two-best-non-overlapping-events)|[py](2001-2500/2054.Two%20Best%20Non-Overlapping%20Events.py)|Medium|
 |:heavy_check_mark:|2053|Kth Distinct String in an Array|[:us:](https://leetcode.com/problems/kth-distinct-string-in-an-array) [:cn:](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array)|[ts](2001-2500/2053.Kth%20Distinct%20String%20in%20an%20Array.ts)|Easy|
 |:lock:|2052|Minimum Cost to Separate Sentence Into Rows|[:us:](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-separate-sentence-into-rows)||Medium|
