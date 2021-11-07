@@ -15,7 +15,7 @@ function minimizedMaximum(n: number, quantities: number[]): number {
         return q === quantities.length && quantity <= 0;
     }
     const sum = quantities.reduce((acc, num) => acc + num, 0);
-    let l = Math.ceil(sum / n), r = sum + 1;
+    let l = Math.ceil(sum / n), r = Math.max(...quantities) + 1;
     while (l < r) {
         const mid = (l + r) >> 1;
         if (test(mid)) {
