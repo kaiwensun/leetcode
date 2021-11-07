@@ -17,6 +17,7 @@ import pyppeteer
 UNRECOGNIZED_CONTEST_SOLUTIONS = {}
 README_FILENAME = "README.md"
 ONLINE_MAP = {}
+DB_PROBLEMS = None
 LOCAL_MAP = collections.defaultdict(list)
 NOT_BACKFILLED = set()
 ATTEMPTED = {891, 964, 1397, 1655}
@@ -633,6 +634,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
     US_FLAG = ":us:"
     STAR = ":star:"
     LOCK = ":lock:"
+    DB = ":floppy_disk:"
     CHECK_MARK = ":heavy_check_mark:"
     QUESTION_MARK = ":question:"
 
@@ -673,6 +675,8 @@ def gen_markdown(questions, solutions, title, markdown_type):
                 status += LOCK
             if qid in STARRED:
                 status += STAR
+            if qid in DB_PROBLEMS:
+                status += DB
             return status
 
         def get_solution_links(question):
@@ -719,10 +723,14 @@ def gen_markdown(questions, solutions, title, markdown_type):
         solved = len({sol.id() for sol in solutions} | NOT_BACKFILLED)
         attempted = len(ATTEMPTED)
         unsolved_without_lock = len([q for q in questions if (
-            q.is_us() and not q.lock() and q.id() not in NOT_BACKFILLED and not LOCAL_MAP[q.id()])])
+            q.is_us()
+            and not q.lock()
+            and q.id() not in NOT_BACKFILLED
+            and q.id() not in DB_PROBLEMS
+            and not LOCAL_MAP[q.id()])])
         unsynced = len(NOT_BACKFILLED)
         starred = len(STARRED)
-        line1 = "|Total|Solved|Attempted|US site unsolved w/o lock|"
+        line1 = "|Total|Solved|Attempted|US site non-DB unsolved w/o lock|"
         line2 = "|:---:|:---:|:---:|:---:|"
         line3 = "|%s|%s|%s|%s|"
         args = [total, solved, attempted, unsolved_without_lock]
@@ -806,8 +814,8 @@ def load_resources(client):
         with open(abs_path, "w") as out:
             json.dump(json_dict, out, indent=2)
 
-    def get_online_problems():
-        obj = client.getJson("https://leetcode-cn.com/api/problems/all/")
+    def get_online_problems(category):
+        obj = client.getJson(f"https://leetcode-cn.com/api/problems/{category}/")
         # LeetCode removed one question
         if not any(q['stat']['question__title_slug'] == '1zD30O' for q in obj["stat_status_pairs"]):
             obj["stat_status_pairs"].append({'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
@@ -816,7 +824,7 @@ def load_resources(client):
                                              'paid_only': False})
 
         root_path = get_root_path()
-        abs_file_path = os.path.join(root_path, "others", "api-cn.backup.json")
+        abs_file_path = os.path.join(root_path, "others", f"api-cn.{category}.backup.json")
         save_online_resource(obj, abs_file_path)
         return obj
 
@@ -845,8 +853,11 @@ def load_resources(client):
                 solutions.append(Solution(os.path.join(root_path, file_name)))
         return solutions
 
-    questions = list(sorted([Question(prob) for prob in get_online_problems()[
+    global DB_PROBLEMS
+    questions = list(sorted([Question(prob) for prob in get_online_problems('all')[
                      "stat_status_pairs"]], key=lambda q: q.order()))
+    if not DB_PROBLEMS:
+        DB_PROBLEMS = {item['stat']['frontend_question_id'] for item in get_online_problems('database')["stat_status_pairs"]}
     ONLINE_MAP.update({q.id(): q for q in questions})
     solutions = list_local_solutions()
     for sol in solutions:
