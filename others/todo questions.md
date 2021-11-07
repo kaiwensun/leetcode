@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|521|0|4|178|9|
+|520|0|4|177|9|
 
 
 
@@ -192,7 +192,6 @@
 ||400|Nth Digit|[:us:](https://leetcode.com/problems/nth-digit) [:cn:](https://leetcode-cn.com/problems/nth-digit)||Medium|
 ||391|Perfect Rectangle|[:us:](https://leetcode.com/problems/perfect-rectangle) [:cn:](https://leetcode-cn.com/problems/perfect-rectangle)||Hard|
 ||385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode-cn.com/problems/mini-parser)||Medium|
-||382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node) [:cn:](https://leetcode-cn.com/problems/linked-list-random-node)||Medium|
 ||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
 ||357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits) [:cn:](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)||Medium|
 ||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter) [:cn:](https://leetcode-cn.com/problems/design-twitter)||Medium|

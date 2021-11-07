@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2421|1485|4|178|9|
+|2421|1486|4|177|9|
 
 
 |py|java|rb|c|cpp|ts|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|67.2%|12.5%|8.6%|4.8%|3.0%|2.6%|1.1%|0.2%|
+|67.1%|12.5%|8.6%|4.8%|3.0%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1703,7 +1703,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 ||385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode-cn.com/problems/mini-parser)||Medium|
 |:heavy_check_mark:|384|Shuffle an Array|[:us:](https://leetcode.com/problems/shuffle-an-array) [:cn:](https://leetcode-cn.com/problems/shuffle-an-array)|[java](0001-0500/0384.Shuffle%20an%20Array.java)|Medium|
 |:heavy_check_mark:|383|Ransom Note|[:us:](https://leetcode.com/problems/ransom-note) [:cn:](https://leetcode-cn.com/problems/ransom-note)|[c](0001-0500/0383.Ransom%20Note.2.c), [c](0001-0500/0383.Ransom%20Note.c), [rb](0001-0500/0383.Ransom%20Note.rb)|Easy|
-||382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node) [:cn:](https://leetcode-cn.com/problems/linked-list-random-node)||Medium|
+|:heavy_check_mark:|382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node) [:cn:](https://leetcode-cn.com/problems/linked-list-random-node)|[ts](0001-0500/0382.Linked%20List%20Random%20Node.ts)|Medium|
 |:heavy_check_mark:|381|Insert Delete GetRandom O(1) - Duplicates allowed|[:us:](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) [:cn:](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|[py](0001-0500/0381.Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed.py), [rb](0001-0500/0381.Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed.rb)|Hard|
 |:heavy_check_mark:|380|Insert Delete GetRandom O(1)|[:us:](https://leetcode.com/problems/insert-delete-getrandom-o1) [:cn:](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)|[rb](0001-0500/0380.Insert%20Delete%20GetRandom%20O%281%29.rb)|Medium|
 |:lock:|379|Design Phone Directory|[:us:](https://leetcode.com/problems/design-phone-directory) [:cn:](https://leetcode-cn.com/problems/design-phone-directory)||Medium|
