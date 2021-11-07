@@ -815,7 +815,8 @@ def load_resources(client):
             json.dump(json_dict, out, indent=2)
 
     def get_online_problems(category):
-        obj = client.getJson(f"https://leetcode-cn.com/api/problems/{category}/")
+        obj = client.getJson(
+            f"https://leetcode-cn.com/api/problems/{category}/")
         # LeetCode removed one question
         if not any(q['stat']['question__title_slug'] == '1zD30O' for q in obj["stat_status_pairs"]):
             obj["stat_status_pairs"].append({'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
@@ -824,7 +825,8 @@ def load_resources(client):
                                              'paid_only': False})
 
         root_path = get_root_path()
-        abs_file_path = os.path.join(root_path, "others", f"api-cn.{category}.backup.json")
+        abs_file_path = os.path.join(
+            root_path, "others", f"api-cn.{category}.backup.json")
         save_online_resource(obj, abs_file_path)
         return obj
 
@@ -857,7 +859,8 @@ def load_resources(client):
     questions = list(sorted([Question(prob) for prob in get_online_problems('all')[
                      "stat_status_pairs"]], key=lambda q: q.order()))
     if not DB_PROBLEMS:
-        DB_PROBLEMS = {item['stat']['frontend_question_id'] for item in get_online_problems('database')["stat_status_pairs"]}
+        DB_PROBLEMS = {item['stat']['frontend_question_id']
+                       for item in get_online_problems('database')["stat_status_pairs"]}
     ONLINE_MAP.update({q.id(): q for q in questions})
     solutions = list_local_solutions()
     for sol in solutions:
