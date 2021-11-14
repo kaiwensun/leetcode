@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |67.0%|12.5%|8.5%|4.8%|3.0%|3.0%|1.1%|0.2%|
 
-The following table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
+The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2076|Process Restricted Friend Requests|[:us:](https://leetcode.com/problems/process-restricted-friend-requests) [:cn:](https://leetcode-cn.com/problems/process-restricted-friend-requests)|[ts](2001-2500/2076.Process%20Restricted%20Friend%20Requests.ts)|Hard|

@@ -625,7 +625,7 @@ class MarkdownType(Enum):
 
 
 MAIN_README_SIZE = 2000
-all_items_file_name = "all_items.md"
+all_items_file_name = "full_table.md"
 
 
 def gen_markdown(questions, solutions, title, markdown_type):
@@ -644,7 +644,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
             all_items_file_path = os.path.join("others", all_items_file_name)
             size_limit = (f"The following table contains only the latest {MAIN_README_SIZE} items."
                           f"For a full list, check [{all_items_file_name}]({all_items_file_path}). "
-                          "This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data."
+                          "This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data."
                           )
         header = """
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
