@@ -23,7 +23,7 @@
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
-|:floppy_disk:|2026|Low-Quality Problems|[:us:](https://leetcode.com/problems/low-quality-problems) [:cn:](https://leetcode-cn.com/problems/low-quality-problems)||Easy|
+| sql |2026|Low-Quality Problems|[:us:](https://leetcode.com/problems/low-quality-problems) [:cn:](https://leetcode-cn.com/problems/low-quality-problems)||Easy|
 ||2025|Maximum Number of Ways to Partition an Array|[:us:](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array)||Hard|
 ||2021|Brightest Position on Street|[:us:](https://leetcode.com/problems/brightest-position-on-street) [:cn:](https://leetcode-cn.com/problems/brightest-position-on-street)||Medium|
 ||2014|Longest Subsequence Repeated k Times|[:us:](https://leetcode.com/problems/longest-subsequence-repeated-k-times) [:cn:](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)||Hard|
@@ -46,7 +46,7 @@
 |:question:|1655|Distribute Repeating Integers|[:us:](https://leetcode.com/problems/distribute-repeating-integers) [:cn:](https://leetcode-cn.com/problems/distribute-repeating-integers)||Hard|
 |:question:|1397|Find All Good Strings|[:us:](https://leetcode.com/problems/find-all-good-strings) [:cn:](https://leetcode-cn.com/problems/find-all-good-strings)||Hard|
 ||1206|Design Skiplist|[:us:](https://leetcode.com/problems/design-skiplist) [:cn:](https://leetcode-cn.com/problems/design-skiplist)||Hard|
-|:floppy_disk:|1179|Reformat Department Table|[:us:](https://leetcode.com/problems/reformat-department-table) [:cn:](https://leetcode-cn.com/problems/reformat-department-table)||Easy|
+| sql |1179|Reformat Department Table|[:us:](https://leetcode.com/problems/reformat-department-table) [:cn:](https://leetcode-cn.com/problems/reformat-department-table)||Easy|
 ||1157|Online Majority Element In Subarray|[:us:](https://leetcode.com/problems/online-majority-element-in-subarray) [:cn:](https://leetcode-cn.com/problems/online-majority-element-in-subarray)||Hard|
 ||1125|Smallest Sufficient Team|[:us:](https://leetcode.com/problems/smallest-sufficient-team) [:cn:](https://leetcode-cn.com/problems/smallest-sufficient-team)||Hard|
 ||1012|Numbers With Repeated Digits|[:us:](https://leetcode.com/problems/numbers-with-repeated-digits) [:cn:](https://leetcode-cn.com/problems/numbers-with-repeated-digits)||Hard|
@@ -150,14 +150,14 @@
 ||637|Average of Levels in Binary Tree|[:us:](https://leetcode.com/problems/average-of-levels-in-binary-tree) [:cn:](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)||Easy|
 ||636|Exclusive Time of Functions|[:us:](https://leetcode.com/problems/exclusive-time-of-functions) [:cn:](https://leetcode-cn.com/problems/exclusive-time-of-functions)||Medium|
 ||630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii) [:cn:](https://leetcode-cn.com/problems/course-schedule-iii)||Hard|
-|:floppy_disk:|627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode-cn.com/problems/swap-salary)||Easy|
-|:floppy_disk:|626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats) [:cn:](https://leetcode-cn.com/problems/exchange-seats)||Medium|
-|:floppy_disk:|620|Not Boring Movies|[:us:](https://leetcode.com/problems/not-boring-movies) [:cn:](https://leetcode-cn.com/problems/not-boring-movies)||Easy|
+| sql |627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode-cn.com/problems/swap-salary)||Easy|
+| sql |626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats) [:cn:](https://leetcode-cn.com/problems/exchange-seats)||Medium|
+| sql |620|Not Boring Movies|[:us:](https://leetcode.com/problems/not-boring-movies) [:cn:](https://leetcode-cn.com/problems/not-boring-movies)||Easy|
 ||609|Find Duplicate File in System|[:us:](https://leetcode.com/problems/find-duplicate-file-in-system) [:cn:](https://leetcode-cn.com/problems/find-duplicate-file-in-system)||Medium|
 ||606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree) [:cn:](https://leetcode-cn.com/problems/construct-string-from-binary-tree)||Easy|
-|:floppy_disk:|601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium) [:cn:](https://leetcode-cn.com/problems/human-traffic-of-stadium)||Hard|
+| sql |601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium) [:cn:](https://leetcode-cn.com/problems/human-traffic-of-stadium)||Hard|
 ||599|Minimum Index Sum of Two Lists|[:us:](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [:cn:](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)||Easy|
-|:floppy_disk:|596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode-cn.com/problems/classes-more-than-5-students)||Easy|
+| sql |596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode-cn.com/problems/classes-more-than-5-students)||Easy|
 ||594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-harmonious-subsequence)||Easy|
 ||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
 ||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
@@ -203,16 +203,16 @@
 ||327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode-cn.com/problems/count-of-range-sum)||Hard|
 ||306|Additive Number|[:us:](https://leetcode.com/problems/additive-number) [:cn:](https://leetcode-cn.com/problems/additive-number)||Medium|
 ||297|Serialize and Deserialize Binary Tree|[:us:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) [:cn:](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)||Hard|
-|:floppy_disk:|262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
+| sql |262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
 ||214|Shortest Palindrome|[:us:](https://leetcode.com/problems/shortest-palindrome) [:cn:](https://leetcode-cn.com/problems/shortest-palindrome)||Hard|
-|:floppy_disk:|197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|
-|:floppy_disk:|196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-emails)||Easy|
-|:floppy_disk:|185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries) [:cn:](https://leetcode-cn.com/problems/department-top-three-salaries)||Hard|
-|:floppy_disk:|184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary) [:cn:](https://leetcode-cn.com/problems/department-highest-salary)||Medium|
-|:floppy_disk:|180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers) [:cn:](https://leetcode-cn.com/problems/consecutive-numbers)||Medium|
-|:floppy_disk:|178|Rank Scores|[:us:](https://leetcode.com/problems/rank-scores) [:cn:](https://leetcode-cn.com/problems/rank-scores)||Medium|
-|:floppy_disk:|177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary) [:cn:](https://leetcode-cn.com/problems/nth-highest-salary)||Medium|
-|:floppy_disk:|176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary) [:cn:](https://leetcode-cn.com/problems/second-highest-salary)||Medium|
+| sql |197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|
+| sql |196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-emails)||Easy|
+| sql |185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries) [:cn:](https://leetcode-cn.com/problems/department-top-three-salaries)||Hard|
+| sql |184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary) [:cn:](https://leetcode-cn.com/problems/department-highest-salary)||Medium|
+| sql |180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers) [:cn:](https://leetcode-cn.com/problems/consecutive-numbers)||Medium|
+| sql |178|Rank Scores|[:us:](https://leetcode.com/problems/rank-scores) [:cn:](https://leetcode-cn.com/problems/rank-scores)||Medium|
+| sql |177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary) [:cn:](https://leetcode-cn.com/problems/nth-highest-salary)||Medium|
+| sql |176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary) [:cn:](https://leetcode-cn.com/problems/second-highest-salary)||Medium|
 ||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
 ||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode-cn.com/problems/broken-board-dominoes)||Hard|
 ||LCP 05|Coin Bonus|[:cn:](https://leetcode-cn.com/problems/coin-bonus)||Hard|

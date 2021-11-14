@@ -634,7 +634,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
     US_FLAG = ":us:"
     STAR = ":star:"
     LOCK = ":lock:"
-    DB = ":floppy_disk:"
+    DB = " sql "
     CHECK_MARK = ":heavy_check_mark:"
     QUESTION_MARK = ":question:"
 
