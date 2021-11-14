@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|523|0|4|181|9|
+|519|0|4|177|9|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2071|Maximum Number of Tasks You Can Assign|[:us:](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-tasks-you-can-assign)||Hard|
-||2070|Most Beautiful Item for Each Query|[:us:](https://leetcode.com/problems/most-beautiful-item-for-each-query) [:cn:](https://leetcode-cn.com/problems/most-beautiful-item-for-each-query)||Medium|
-||2069|Walking Robot Simulation II|[:us:](https://leetcode.com/problems/walking-robot-simulation-ii) [:cn:](https://leetcode-cn.com/problems/walking-robot-simulation-ii)||Medium|
-||2068|Check Whether Two Strings are Almost Equivalent|[:us:](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) [:cn:](https://leetcode-cn.com/problems/check-whether-two-strings-are-almost-equivalent)||Easy|
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|

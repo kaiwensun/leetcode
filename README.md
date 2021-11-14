@@ -10,25 +10,25 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2432|1491|4|181|9|
+|2432|1495|4|177|9|
 
 
 |py|java|rb|c|ts|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.9%|12.5%|8.5%|4.8%|3.0%|3.0%|1.1%|0.2%|
+|67.0%|12.5%|8.5%|4.8%|3.0%|3.0%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [all_items.md](others/all_items.md). This is because GitHub currently limit blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5929|contest question 5929||[ts](5929.ts)||
-|:heavy_check_mark:|5928|contest question 5928||[ts](5928.ts)||
-|:heavy_check_mark:|5927|contest question 5927||[ts](5927.ts)||
-|:heavy_check_mark:|5926|contest question 5926||[ts](5926.ts)||
+|:heavy_check_mark:|2076|Process Restricted Friend Requests|[:us:](https://leetcode.com/problems/process-restricted-friend-requests) [:cn:](https://leetcode-cn.com/problems/process-restricted-friend-requests)|[ts](2001-2500/2076.Process%20Restricted%20Friend%20Requests.ts)|Hard|
+|:heavy_check_mark:|2075|Decode the Slanted Ciphertext|[:us:](https://leetcode.com/problems/decode-the-slanted-ciphertext) [:cn:](https://leetcode-cn.com/problems/decode-the-slanted-ciphertext)|[ts](2001-2500/2075.Decode%20the%20Slanted%20Ciphertext.ts)|Medium|
+|:heavy_check_mark:|2074|Reverse Nodes in Even Length Groups|[:us:](https://leetcode.com/problems/reverse-nodes-in-even-length-groups) [:cn:](https://leetcode-cn.com/problems/reverse-nodes-in-even-length-groups)|[ts](2001-2500/2074.Reverse%20Nodes%20in%20Even%20Length%20Groups.ts)|Medium|
+|:heavy_check_mark:|2073|Time Needed to Buy Tickets|[:us:](https://leetcode.com/problems/time-needed-to-buy-tickets) [:cn:](https://leetcode-cn.com/problems/time-needed-to-buy-tickets)|[ts](2001-2500/2073.Time%20Needed%20to%20Buy%20Tickets.ts)|Easy|
 |:lock: sql |2072|The Winner University|[:us:](https://leetcode.com/problems/the-winner-university) [:cn:](https://leetcode-cn.com/problems/the-winner-university)||Easy|
-||2071|Maximum Number of Tasks You Can Assign|[:us:](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-tasks-you-can-assign)||Hard|
-||2070|Most Beautiful Item for Each Query|[:us:](https://leetcode.com/problems/most-beautiful-item-for-each-query) [:cn:](https://leetcode-cn.com/problems/most-beautiful-item-for-each-query)||Medium|
-||2069|Walking Robot Simulation II|[:us:](https://leetcode.com/problems/walking-robot-simulation-ii) [:cn:](https://leetcode-cn.com/problems/walking-robot-simulation-ii)||Medium|
-||2068|Check Whether Two Strings are Almost Equivalent|[:us:](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) [:cn:](https://leetcode-cn.com/problems/check-whether-two-strings-are-almost-equivalent)||Easy|
+|:heavy_check_mark:|2071|Maximum Number of Tasks You Can Assign|[:us:](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-tasks-you-can-assign)|[py](2001-2500/2071.Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.py)|Hard|
+|:heavy_check_mark:|2070|Most Beautiful Item for Each Query|[:us:](https://leetcode.com/problems/most-beautiful-item-for-each-query) [:cn:](https://leetcode-cn.com/problems/most-beautiful-item-for-each-query)|[py](2001-2500/2070.Most%20Beautiful%20Item%20for%20Each%20Query.py)|Medium|
+|:heavy_check_mark:|2069|Walking Robot Simulation II|[:us:](https://leetcode.com/problems/walking-robot-simulation-ii) [:cn:](https://leetcode-cn.com/problems/walking-robot-simulation-ii)|[py](2001-2500/2069.Walking%20Robot%20Simulation%20II.py)|Medium|
+|:heavy_check_mark:|2068|Check Whether Two Strings are Almost Equivalent|[:us:](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) [:cn:](https://leetcode-cn.com/problems/check-whether-two-strings-are-almost-equivalent)|[py](2001-2500/2068.Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.py)|Easy|
 |:lock:|2067|Number of Equal Count Substrings|[:us:](https://leetcode.com/problems/number-of-equal-count-substrings) [:cn:](https://leetcode-cn.com/problems/number-of-equal-count-substrings)||Medium|
 |:lock: sql |2066|Account Balance|[:us:](https://leetcode.com/problems/account-balance) [:cn:](https://leetcode-cn.com/problems/account-balance)||Medium|
 |:heavy_check_mark:|2065|Maximum Path Quality of a Graph|[:us:](https://leetcode.com/problems/maximum-path-quality-of-a-graph) [:cn:](https://leetcode-cn.com/problems/maximum-path-quality-of-a-graph)|[py](2001-2500/2065.Maximum%20Path%20Quality%20of%20a%20Graph.py)|Hard|
