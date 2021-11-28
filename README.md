@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2444|1507|4|173|10|
+|2448|1511|4|173|10|
 
 
 |py|java|rb|c|ts|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.7%|12.4%|8.5%|4.7%|3.5%|2.9%|1.1%|0.2%|
+|66.6%|12.4%|8.4%|4.7%|3.7%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|5941|contest question 5941||[ts](5941.ts)||
+|:heavy_check_mark:|5940|contest question 5940||[ts](5940.ts)||
+|:heavy_check_mark:|5939|contest question 5939||[ts](5939.ts)||
+|:heavy_check_mark:|5938|contest question 5938||[ts](5938.ts)||
 |:heavy_check_mark:|2088|Count Fertile Pyramids in a Land|[:us:](https://leetcode.com/problems/count-fertile-pyramids-in-a-land) [:cn:](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|[ts](2001-2500/2088.Count%20Fertile%20Pyramids%20in%20a%20Land.ts)|Hard|
 |:heavy_check_mark:|2087|Minimum Cost Homecoming of a Robot in a Grid|[:us:](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) [:cn:](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|[ts](2001-2500/2087.Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.ts)|Medium|
 |:heavy_check_mark:|2086|Minimum Number of Buckets Required to Collect Rainwater from Houses|[:us:](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|[ts](2001-2500/2086.Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.ts)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items.For a full list, check [
 |:heavy_check_mark:|95|Unique Binary Search Trees II|[:us:](https://leetcode.com/problems/unique-binary-search-trees-ii) [:cn:](https://leetcode-cn.com/problems/unique-binary-search-trees-ii)|[java](0001-0500/0095.Unique%20Binary%20Search%20Trees%20II.java), [py](0001-0500/0095.Unique%20Binary%20Search%20Trees%20II.py)|Medium|
 |:heavy_check_mark:|94|Binary Tree Inorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-inorder-traversal) [:cn:](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)|[py](0001-0500/0094.Binary%20Tree%20Inorder%20Traversal.py)|Easy|
 |:heavy_check_mark:|93|Restore IP Addresses|[:us:](https://leetcode.com/problems/restore-ip-addresses) [:cn:](https://leetcode-cn.com/problems/restore-ip-addresses)|[java](0001-0500/0093.Restore%20IP%20Addresses.java)|Medium|
-|:heavy_check_mark:|92|Reverse Linked List II|[:us:](https://leetcode.com/problems/reverse-linked-list-ii) [:cn:](https://leetcode-cn.com/problems/reverse-linked-list-ii)|[java](0001-0500/0092.Reverse%20Linked%20List%20II.java)|Medium|
-|:heavy_check_mark:|91|Decode Ways|[:us:](https://leetcode.com/problems/decode-ways) [:cn:](https://leetcode-cn.com/problems/decode-ways)|[cpp](0001-0500/0091.Decode%20Ways.cpp)|Medium|
-|:heavy_check_mark:|90|Subsets II|[:us:](https://leetcode.com/problems/subsets-ii) [:cn:](https://leetcode-cn.com/problems/subsets-ii)|[py](0001-0500/0090.Subsets%20II.py), [rb](0001-0500/0090.Subsets%20II.rb)|Medium|
-|:heavy_check_mark:|89|Gray Code|[:us:](https://leetcode.com/problems/gray-code) [:cn:](https://leetcode-cn.com/problems/gray-code)|[java](0001-0500/0089.Gray%20Code.java), [py](0001-0500/0089.Gray%20Code.2.py), [py](0001-0500/0089.Gray%20Code.3.py), [py](0001-0500/0089.Gray%20Code.py)|Medium|
