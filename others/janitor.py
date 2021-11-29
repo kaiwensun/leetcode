@@ -808,13 +808,23 @@ def gen_markdown(questions, solutions, title, markdown_type):
 
 # ======== load resources ========
 
-def load_resources(client):
+def load_resources(client, offline):
 
     def save_online_resource(json_dict, abs_path):
         with open(abs_path, "w") as out:
             json.dump(json_dict, out, indent=2)
 
-    def get_online_problems(category):
+    def load_online_resource_from_file(abs_path):
+        with open(abs_path, "r") as f:
+            return json.load(f)
+
+    def get_online_problems(category, offline):
+        root_path = get_root_path()
+        abs_file_path = os.path.join(
+            root_path, "others", f"api-cn.{category}.backup.json")
+        if offline:
+            obj = load_online_resource_from_file(abs_file_path)
+            return obj
         obj = client.getJson(
             f"https://leetcode-cn.com/api/problems/{category}/")
         # LeetCode removed one question
@@ -823,10 +833,6 @@ def load_resources(client):
                                                       'question__hide': False, 'frontend_question_id': 'DD-2020006'},
                                              'difficulty': {'level': 1},
                                              'paid_only': False})
-
-        root_path = get_root_path()
-        abs_file_path = os.path.join(
-            root_path, "others", f"api-cn.{category}.backup.json")
         save_online_resource(obj, abs_file_path)
         return obj
 
@@ -856,11 +862,11 @@ def load_resources(client):
         return solutions
 
     global DB_PROBLEMS
-    questions = list(sorted([Question(prob) for prob in get_online_problems('all')[
+    questions = list(sorted([Question(prob) for prob in get_online_problems('all', offline)[
                      "stat_status_pairs"]], key=lambda q: q.order()))
     if not DB_PROBLEMS:
         DB_PROBLEMS = {item['stat']['frontend_question_id']
-                       for item in get_online_problems('database')["stat_status_pairs"]}
+                       for item in get_online_problems('database', offline)["stat_status_pairs"]}
     ONLINE_MAP.update({q.id(): q for q in questions})
     solutions = list_local_solutions()
     for sol in solutions:
@@ -919,8 +925,13 @@ def filter_questions_and_solutions(questions, solutions, selector):
 
 def main():
     client = Client()
-    questions, solutions = load_resources(client)
-    if len(sys.argv) == 1:
+    argv = list(sys.argv)
+    offline = "offline" in argv
+    if offline:
+        argv.remove("offline")
+    questions, solutions = load_resources(client, offline)
+    
+    if len(argv) == 1:
         correct_local_files(questions, solutions)
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
         ) for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions
@@ -939,8 +950,8 @@ def main():
         markdown = gen_markdown(
             todo_que, todo_sol, "To do questions", MarkdownType.TODO_PROBS)
         update_file(os.path.join("others", "todo questions.md"), markdown)
-    elif len(sys.argv) == 2:
-        search_local_solutions(sys.argv[1])
+    elif len(argv) == 2:
+        search_local_solutions(argv[1])
     else:
         raise Exception("Too many arguments.")
 
