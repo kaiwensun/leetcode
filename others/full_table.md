@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5941|contest question 5941||[ts](5941.ts)||
-|:heavy_check_mark:|5940|contest question 5940||[ts](5940.ts)||
-|:heavy_check_mark:|5939|contest question 5939||[ts](5939.ts)||
-|:heavy_check_mark:|5938|contest question 5938||[ts](5938.ts)||
+|:heavy_check_mark:|2092|Find All People With Secret|[:us:](https://leetcode.com/problems/find-all-people-with-secret) [:cn:](https://leetcode-cn.com/problems/find-all-people-with-secret)|[ts](2001-2500/2092.Find%20All%20People%20With%20Secret.ts)|Hard|
+|:heavy_check_mark:|2091|Removing Minimum and Maximum From Array|[:us:](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) [:cn:](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|[ts](2001-2500/2091.Removing%20Minimum%20and%20Maximum%20From%20Array.ts)|Medium|
+|:heavy_check_mark:|2090|K Radius Subarray Averages|[:us:](https://leetcode.com/problems/k-radius-subarray-averages) [:cn:](https://leetcode-cn.com/problems/k-radius-subarray-averages)|[ts](2001-2500/2090.K%20Radius%20Subarray%20Averages.ts)|Medium|
+|:heavy_check_mark:|2089|Find Target Indices After Sorting Array|[:us:](https://leetcode.com/problems/find-target-indices-after-sorting-array) [:cn:](https://leetcode-cn.com/problems/find-target-indices-after-sorting-array)|[ts](2001-2500/2089.Find%20Target%20Indices%20After%20Sorting%20Array.ts)|Easy|
 |:heavy_check_mark:|2088|Count Fertile Pyramids in a Land|[:us:](https://leetcode.com/problems/count-fertile-pyramids-in-a-land) [:cn:](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|[ts](2001-2500/2088.Count%20Fertile%20Pyramids%20in%20a%20Land.ts)|Hard|
 |:heavy_check_mark:|2087|Minimum Cost Homecoming of a Robot in a Grid|[:us:](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) [:cn:](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|[ts](2001-2500/2087.Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.ts)|Medium|
 |:heavy_check_mark:|2086|Minimum Number of Buckets Required to Collect Rainwater from Houses|[:us:](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|[ts](2001-2500/2086.Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.ts)|Medium|
