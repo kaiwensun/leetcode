@@ -3,8 +3,8 @@ function countVowelSubstrings(word: string): number {
     const cnt = {};
     vowels.map(c => cnt[c] = 0);
     let res = 0, preStart = 0, l = 0;
-    for (let r = 0; r <= word.length; r++) {
-        if (r < word.length && 'aeiou'.includes(word[r])) {
+    for (let r = 0; r < word.length; r++) {
+        if ('aeiou'.includes(word[r])) {
             cnt[word[r]]++;
             while (cnt[word[l]] > 1) {
                 cnt[word[l++]]--;
