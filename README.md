@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2452|1517|4|171|10|
+|2452|1518|4|170|10|
 
 
 |py|java|rb|c|ts|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.4%|12.3%|8.4%|4.7%|4.0%|2.9%|1.1%|0.2%|
+|66.3%|12.3%|8.4%|4.7%|4.0%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1744,7 +1744,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 |:heavy_check_mark:|375|Guess Number Higher or Lower II|[:us:](https://leetcode.com/problems/guess-number-higher-or-lower-ii) [:cn:](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|[java](0001-0500/0375.Guess%20Number%20Higher%20or%20Lower%20II.java)|Medium|
 |:heavy_check_mark:|374|Guess Number Higher or Lower|[:us:](https://leetcode.com/problems/guess-number-higher-or-lower) [:cn:](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|[cpp](0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.cpp), [py](0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.py)|Easy|
 |:heavy_check_mark:|373|Find K Pairs with Smallest Sums|[:us:](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) [:cn:](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|[java](0001-0500/0373.Find%20K%20Pairs%20with%20Smallest%20Sums.java)|Medium|
-||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
+|:heavy_check_mark:|372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)|[ts](0001-0500/0372.Super%20Pow.ts)|Medium|
 |:heavy_check_mark:|371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)|[c](0001-0500/0371.Sum%20of%20Two%20Integers.c)|Medium|
 |:lock:|370|Range Addition|[:us:](https://leetcode.com/problems/range-addition) [:cn:](https://leetcode-cn.com/problems/range-addition)||Medium|
 |:lock:|369|Plus One Linked List|[:us:](https://leetcode.com/problems/plus-one-linked-list) [:cn:](https://leetcode-cn.com/problems/plus-one-linked-list)||Medium|

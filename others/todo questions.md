@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|513|0|4|171|10|
+|512|0|4|170|10|
 
 
 
@@ -186,7 +186,6 @@
 ||427|Construct Quad Tree|[:us:](https://leetcode.com/problems/construct-quad-tree) [:cn:](https://leetcode-cn.com/problems/construct-quad-tree)||Medium|
 ||420|Strong Password Checker|[:us:](https://leetcode.com/problems/strong-password-checker) [:cn:](https://leetcode-cn.com/problems/strong-password-checker)||Hard|
 ||385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode-cn.com/problems/mini-parser)||Medium|
-||372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)||Medium|
 ||357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits) [:cn:](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)||Medium|
 ||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter) [:cn:](https://leetcode-cn.com/problems/design-twitter)||Medium|
 ||336|Palindrome Pairs|[:us:](https://leetcode.com/problems/palindrome-pairs) [:cn:](https://leetcode-cn.com/problems/palindrome-pairs)||Hard|
