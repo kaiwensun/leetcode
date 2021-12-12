@@ -833,6 +833,21 @@ def load_resources(client, offline):
                                                       'question__hide': False, 'frontend_question_id': 'DD-2020006'},
                                              'difficulty': {'level': 1},
                                              'paid_only': False})
+        if not any(q['stat']['question__title_slug'] == 'longest-happy-string' for q in obj["stat_status_pairs"]):
+            obj["stat_status_pairs"].append({'stat': {'question__title': 'Longest Happy String', 'question__title_slug': 'longest-happy-string',
+                                                      'question__hide': False, 'frontend_question_id': '1405'},
+                                             'difficulty': {'level': 2},
+                                             'paid_only': False})
+        if not any(q['stat']['question__title_slug'] == 'bulb-switcher-iii' for q in obj["stat_status_pairs"]):
+            obj["stat_status_pairs"].append({'stat': {'question__title': 'Bulb Switcher III', 'question__title_slug': 'bulb-switcher-iii',
+                                                      'question__hide': False, 'frontend_question_id': '1375'},
+                                             'difficulty': {'level': 2},
+                                             'paid_only': False})
+        if not any(q['stat']['question__title_slug'] == 'minimum-deletion-cost-to-avoid-repeating-letters' for q in obj["stat_status_pairs"]):
+            obj["stat_status_pairs"].append({'stat': {'question__title': 'Minimum Deletion Cost to Avoid Repeating Letters', 'question__title_slug': 'minimum-deletion-cost-to-avoid-repeating-letters',
+                                                      'question__hide': False, 'frontend_question_id': '1578'},
+                                             'difficulty': {'level': 2},
+                                             'paid_only': False})
         save_online_resource(obj, abs_file_path)
         return obj
 
