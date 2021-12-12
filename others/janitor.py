@@ -828,26 +828,29 @@ def load_resources(client, offline):
         obj = client.getJson(
             f"https://leetcode-cn.com/api/problems/{category}/")
         # LeetCode removed one question
-        if not any(q['stat']['question__title_slug'] == '1zD30O' for q in obj["stat_status_pairs"]):
-            obj["stat_status_pairs"].append({'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
-                                                      'question__hide': False, 'frontend_question_id': 'DD-2020006'},
-                                             'difficulty': {'level': 1},
-                                             'paid_only': False})
-        if not any(q['stat']['question__title_slug'] == 'longest-happy-string' for q in obj["stat_status_pairs"]):
-            obj["stat_status_pairs"].append({'stat': {'question__title': 'Longest Happy String', 'question__title_slug': 'longest-happy-string',
-                                                      'question__hide': False, 'frontend_question_id': '1405'},
-                                             'difficulty': {'level': 2},
-                                             'paid_only': False})
-        if not any(q['stat']['question__title_slug'] == 'bulb-switcher-iii' for q in obj["stat_status_pairs"]):
-            obj["stat_status_pairs"].append({'stat': {'question__title': 'Bulb Switcher III', 'question__title_slug': 'bulb-switcher-iii',
-                                                      'question__hide': False, 'frontend_question_id': '1375'},
-                                             'difficulty': {'level': 2},
-                                             'paid_only': False})
-        if not any(q['stat']['question__title_slug'] == 'minimum-deletion-cost-to-avoid-repeating-letters' for q in obj["stat_status_pairs"]):
-            obj["stat_status_pairs"].append({'stat': {'question__title': 'Minimum Deletion Cost to Avoid Repeating Letters', 'question__title_slug': 'minimum-deletion-cost-to-avoid-repeating-letters',
-                                                      'question__hide': False, 'frontend_question_id': '1578'},
-                                             'difficulty': {'level': 2},
-                                             'paid_only': False})
+        ADDITIONAL_QUESTIONS = [
+            {'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
+                      'question__hide': False, 'frontend_question_id': 'DD-2020006'},
+             'difficulty': {'level': 1},
+             'paid_only': False},
+            {'stat': {'question__title': 'Longest Happy String', 'question__title_slug': 'longest-happy-string',
+                      'question__hide': False, 'frontend_question_id': '1405'},
+             'difficulty': {'level': 2},
+             'paid_only': False},
+            {'stat': {'question__title': 'Bulb Switcher III', 'question__title_slug': 'bulb-switcher-iii',
+                      'question__hide': False, 'frontend_question_id': '1375'},
+             'difficulty': {'level': 2},
+             'paid_only': False},
+            {'stat': {'question__title': 'Minimum Deletion Cost to Avoid Repeating Letters', 'question__title_slug': 'minimum-deletion-cost-to-avoid-repeating-letters',
+                      'question__hide': False, 'frontend_question_id': '1578'},
+             'difficulty': {'level': 2},
+             'paid_only': False}
+        ]
+        for additional_question in ADDITIONAL_QUESTIONS:
+            if not any(q['stat']['question__title_slug'] == additional_question['stat']['question__title_slug'] for q in obj["stat_status_pairs"]):
+                obj["stat_status_pairs"].append(additional_question)
+            else:
+                print("The question is added in online list: " + additional_question)
         save_online_resource(obj, abs_file_path)
         return obj
 
@@ -945,7 +948,7 @@ def main():
     if offline:
         argv.remove("offline")
     questions, solutions = load_resources(client, offline)
-    
+
     if len(argv) == 1:
         correct_local_files(questions, solutions)
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
