@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2461|1524|4|172|10|
+|2461|1525|4|171|10|
 
 
 |py|java|rb|c|ts|cpp|js|php|
@@ -23,7 +23,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 ||2106|Maximum Fruits Harvested After at Most K Steps|[:us:](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) [:cn:](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)||Hard|
 ||2105|Watering Plants II|[:us:](https://leetcode.com/problems/watering-plants-ii) [:cn:](https://leetcode-cn.com/problems/watering-plants-ii)||Medium|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|
-||2103|Rings and Rods|[:us:](https://leetcode.com/problems/rings-and-rods) [:cn:](https://leetcode-cn.com/problems/rings-and-rods)||Easy|
+|:heavy_check_mark:|2103|Rings and Rods|[:us:](https://leetcode.com/problems/rings-and-rods) [:cn:](https://leetcode-cn.com/problems/rings-and-rods)|[ts](2001-2500/2103.Rings%20and%20Rods.ts)|Easy|
 |:heavy_check_mark:|2102|Sequentially Ordinal Rank Tracker|[:us:](https://leetcode.com/problems/sequentially-ordinal-rank-tracker) [:cn:](https://leetcode-cn.com/problems/sequentially-ordinal-rank-tracker)|[java](2001-2500/2102.Sequentially%20Ordinal%20Rank%20Tracker.java)|Hard|
 |:heavy_check_mark:|2101|Detonate the Maximum Bombs|[:us:](https://leetcode.com/problems/detonate-the-maximum-bombs) [:cn:](https://leetcode-cn.com/problems/detonate-the-maximum-bombs)|[ts](2001-2500/2101.Detonate%20the%20Maximum%20Bombs.ts)|Medium|
 |:heavy_check_mark:|2100|Find Good Days to Rob the Bank|[:us:](https://leetcode.com/problems/find-good-days-to-rob-the-bank) [:cn:](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank)|[ts](2001-2500/2100.Find%20Good%20Days%20to%20Rob%20the%20Bank.ts)|Medium|
