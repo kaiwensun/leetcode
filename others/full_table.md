@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2462|1526|4|171|10|
+|2462|1526|4|171|11|
 
 
 |py|java|rb|c|ts|cpp|js|php|
@@ -1496,7 +1496,7 @@
 |:heavy_check_mark:|633|Sum of Square Numbers|[:us:](https://leetcode.com/problems/sum-of-square-numbers) [:cn:](https://leetcode-cn.com/problems/sum-of-square-numbers)|[py](0501-1000/0633.Sum%20of%20Square%20Numbers.py)|Medium|
 |:heavy_check_mark:|632|Smallest Range Covering Elements from K Lists|[:us:](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) [:cn:](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|[py](0501-1000/0632.Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.py)|Hard|
 |:lock:|631|Design Excel Sum Formula|[:us:](https://leetcode.com/problems/design-excel-sum-formula) [:cn:](https://leetcode-cn.com/problems/design-excel-sum-formula)||Hard|
-|:heavy_check_mark:|630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii) [:cn:](https://leetcode-cn.com/problems/course-schedule-iii)|[java](0501-1000/0630.Course%20Schedule%20III.java)|Hard|
+|:heavy_check_mark::star:|630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii) [:cn:](https://leetcode-cn.com/problems/course-schedule-iii)|[java](0501-1000/0630.Course%20Schedule%20III.java)|Hard|
 |:heavy_check_mark:|629|K Inverse Pairs Array|[:us:](https://leetcode.com/problems/k-inverse-pairs-array) [:cn:](https://leetcode-cn.com/problems/k-inverse-pairs-array)|[py](0501-1000/0629.K%20Inverse%20Pairs%20Array.py)|Hard|
 |:heavy_check_mark:|628|Maximum Product of Three Numbers|[:us:](https://leetcode.com/problems/maximum-product-of-three-numbers) [:cn:](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)|[py](0501-1000/0628.Maximum%20Product%20of%20Three%20Numbers.py)|Easy|
 | sql |627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode-cn.com/problems/swap-salary)||Easy|
