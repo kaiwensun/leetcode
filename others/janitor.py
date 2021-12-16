@@ -833,10 +833,6 @@ def load_resources(client, offline):
                       'question__hide': False, 'frontend_question_id': 'DD-2020006'},
              'difficulty': {'level': 1},
              'paid_only': False},
-            {'stat': {'question__title': 'Longest Happy String', 'question__title_slug': 'longest-happy-string',
-                      'question__hide': False, 'frontend_question_id': '1405'},
-             'difficulty': {'level': 2},
-             'paid_only': False},
             {'stat': {'question__title': 'Bulb Switcher III', 'question__title_slug': 'bulb-switcher-iii',
                       'question__hide': False, 'frontend_question_id': '1375'},
              'difficulty': {'level': 2},
@@ -850,7 +846,7 @@ def load_resources(client, offline):
             if not any(q['stat']['question__title_slug'] == additional_question['stat']['question__title_slug'] for q in obj["stat_status_pairs"]):
                 obj["stat_status_pairs"].append(additional_question)
             else:
-                print("The question is added in online list: " + additional_question)
+                print("The question is added in online list: " + str(additional_question))
         save_online_resource(obj, abs_file_path)
         return obj
 
