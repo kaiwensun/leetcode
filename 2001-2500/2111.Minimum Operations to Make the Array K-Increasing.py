@@ -1,3 +1,5 @@
+# Idea: convert to "finding the length of the longest non-decreasing subsequence"
+
 import bisect
 
 class Solution:
