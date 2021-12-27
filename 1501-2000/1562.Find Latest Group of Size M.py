@@ -10,7 +10,7 @@ class Solution(object):
             if data[x] != x:
                 data[x] = find(data[x])
             return data[x]
-                
+
         def union(x, y):
             global res
             rootx = find(x)
@@ -18,7 +18,7 @@ class Solution(object):
             if rootx != rooty:
                 data[rootx] = rooty
                 size[rooty] += size[rootx]
-        
+
         if m == len(arr):
             return m
         data = range(len(arr))

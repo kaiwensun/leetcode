@@ -10,3 +10,4 @@ class Solution(object):
         if rounds[0] < rounds[-1]:
             return range(rounds[0], rounds[-1] + 1)
         return range(1, rounds[-1] + 1) + range(rounds[0], n + 1)
+

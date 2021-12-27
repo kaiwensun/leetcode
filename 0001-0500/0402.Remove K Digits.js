@@ -16,3 +16,4 @@ var removeKdigits = function(num, k) {
     }
     return buff.length ? buff.join("") : "0";
 };
+
