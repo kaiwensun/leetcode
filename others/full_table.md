@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2480|1534|4|174|11|
+|2480|1535|4|173|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.9%|12.3%|8.3%|4.7%|4.7%|2.9%|1.1%|0.2%|
+|65.8%|12.4%|8.3%|4.6%|4.6%|2.9%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -36,7 +36,7 @@
 |:heavy_check_mark:|2109|Adding Spaces to a String|[:us:](https://leetcode.com/problems/adding-spaces-to-a-string) [:cn:](https://leetcode-cn.com/problems/adding-spaces-to-a-string)|[ts](2001-2500/2109.Adding%20Spaces%20to%20a%20String.ts)|Medium|
 |:heavy_check_mark:|2108|Find First Palindromic String in the Array|[:us:](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) [:cn:](https://leetcode-cn.com/problems/find-first-palindromic-string-in-the-array)|[ts](2001-2500/2108.Find%20First%20Palindromic%20String%20in%20the%20Array.ts)|Easy|
 |:lock:|2107|Number of Unique Flavors After Sharing K Candies|[:us:](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies) [:cn:](https://leetcode-cn.com/problems/number-of-unique-flavors-after-sharing-k-candies)||Medium|
-||2106|Maximum Fruits Harvested After at Most K Steps|[:us:](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) [:cn:](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)||Hard|
+|:heavy_check_mark:|2106|Maximum Fruits Harvested After at Most K Steps|[:us:](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) [:cn:](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)|[java](2001-2500/2106.Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.java)|Hard|
 |:heavy_check_mark:|2105|Watering Plants II|[:us:](https://leetcode.com/problems/watering-plants-ii) [:cn:](https://leetcode-cn.com/problems/watering-plants-ii)|[ts](2001-2500/2105.Watering%20Plants%20II.ts)|Medium|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|
 |:heavy_check_mark:|2103|Rings and Rods|[:us:](https://leetcode.com/problems/rings-and-rods) [:cn:](https://leetcode-cn.com/problems/rings-and-rods)|[ts](2001-2500/2103.Rings%20and%20Rods.ts)|Easy|

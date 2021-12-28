@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|516|0|4|174|11|
+|515|0|4|173|11|
 
 
 
@@ -24,7 +24,6 @@
 ||2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)||Medium|
 ||2115|Find All Possible Recipes from Given Supplies|[:us:](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) [:cn:](https://leetcode-cn.com/problems/find-all-possible-recipes-from-given-supplies)||Medium|
 ||2114|Maximum Number of Words Found in Sentences|[:us:](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)||Easy|
-||2106|Maximum Fruits Harvested After at Most K Steps|[:us:](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) [:cn:](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)||Hard|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|
 ||2031|Count Subarrays With More Ones Than Zeros|[:us:](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-more-ones-than-zeros)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
