@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2480|1535|4|173|11|
+|2480|1536|4|172|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.8%|12.4%|8.3%|4.6%|4.6%|2.9%|1.1%|0.2%|
+|65.8%|12.4%|8.3%|4.7%|4.6%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -28,7 +28,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 ||2117|Abbreviating the Product of a Range|[:us:](https://leetcode.com/problems/abbreviating-the-product-of-a-range) [:cn:](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)||Hard|
 ||2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)||Medium|
 ||2115|Find All Possible Recipes from Given Supplies|[:us:](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) [:cn:](https://leetcode-cn.com/problems/find-all-possible-recipes-from-given-supplies)||Medium|
-||2114|Maximum Number of Words Found in Sentences|[:us:](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)||Easy|
+|:heavy_check_mark:|2114|Maximum Number of Words Found in Sentences|[:us:](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)|[ts](2001-2500/2114.Maximum%20Number%20of%20Words%20Found%20in%20Sentences.ts)|Easy|
 |:lock:|2113|Elements in Array After Removing and Replacing Elements|[:us:](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements) [:cn:](https://leetcode-cn.com/problems/elements-in-array-after-removing-and-replacing-elements)||Medium|
 |:lock: sql |2112|The Airport With the Most Traffic|[:us:](https://leetcode.com/problems/the-airport-with-the-most-traffic) [:cn:](https://leetcode-cn.com/problems/the-airport-with-the-most-traffic)||Medium|
 |:heavy_check_mark:|2111|Minimum Operations to Make the Array K-Increasing|[:us:](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-k-increasing)|[py](2001-2500/2111.Minimum%20Operations%20to%20Make%20the%20Array%20K-Increasing.py)|Hard|
