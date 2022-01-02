@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2485|1540|4|170|11|
+|2485|1541|4|169|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.7%|12.4%|8.3%|4.8%|4.6%|2.9%|1.1%|0.2%|
+|65.7%|12.4%|8.3%|4.9%|4.6%|2.9%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1645,7 +1645,7 @@
 |:heavy_check_mark:|507|Perfect Number|[:us:](https://leetcode.com/problems/perfect-number) [:cn:](https://leetcode-cn.com/problems/perfect-number)|[py](0501-1000/0507.Perfect%20Number.py)|Easy|
 |:heavy_check_mark:|506|Relative Ranks|[:us:](https://leetcode.com/problems/relative-ranks) [:cn:](https://leetcode-cn.com/problems/relative-ranks)|[py](0501-1000/0506.Relative%20Ranks.py)|Easy|
 |:lock:|505|The Maze II|[:us:](https://leetcode.com/problems/the-maze-ii) [:cn:](https://leetcode-cn.com/problems/the-maze-ii)||Medium|
-||504|Base 7|[:us:](https://leetcode.com/problems/base-7) [:cn:](https://leetcode-cn.com/problems/base-7)||Easy|
+|:heavy_check_mark:|504|Base 7|[:us:](https://leetcode.com/problems/base-7) [:cn:](https://leetcode-cn.com/problems/base-7)|[ts](0501-1000/0504.Base%207.ts)|Easy|
 |:heavy_check_mark:|503|Next Greater Element II|[:us:](https://leetcode.com/problems/next-greater-element-ii) [:cn:](https://leetcode-cn.com/problems/next-greater-element-ii)|[py](0501-1000/0503.Next%20Greater%20Element%20II.py)|Medium|
 |:heavy_check_mark:|502|IPO|[:us:](https://leetcode.com/problems/ipo) [:cn:](https://leetcode-cn.com/problems/ipo)|[py](0501-1000/0502.IPO.py)|Hard|
 ||501|Find Mode in Binary Search Tree|[:us:](https://leetcode.com/problems/find-mode-in-binary-search-tree) [:cn:](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)||Easy|
