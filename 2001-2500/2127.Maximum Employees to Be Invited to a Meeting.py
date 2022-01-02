@@ -1,14 +1,13 @@
-from functools import cache
 from collections import defaultdict
 
 
 class Solution:
     def maximumInvitations(self, favorite: List[int]) -> int:
         couple_heads = set()
-        graph = defaultdict(set)
+        graph = defaultdict(list)
         for a, b in enumerate(favorite):
             if favorite[b] != a:
-                graph[b].add(a)
+                graph[b].append(a)
             elif a < b:
                 couple_heads.add(a)
         N = len(favorite)
