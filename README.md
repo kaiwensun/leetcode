@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2485|1542|4|168|11|
+|2485|1543|4|167|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.6%|12.4%|8.3%|4.9%|4.6%|2.9%|1.1%|0.2%|
+|65.6%|12.4%|8.3%|5.0%|4.6%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -31,7 +31,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 ||2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)||Easy|
 |:lock: sql |2118|Build the Equation|[:us:](https://leetcode.com/problems/build-the-equation) [:cn:](https://leetcode-cn.com/problems/build-the-equation)||Hard|
 ||2117|Abbreviating the Product of a Range|[:us:](https://leetcode.com/problems/abbreviating-the-product-of-a-range) [:cn:](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)||Hard|
-||2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)||Medium|
+|:heavy_check_mark:|2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)|[ts](2001-2500/2116.Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.ts)|Medium|
 |:heavy_check_mark:|2115|Find All Possible Recipes from Given Supplies|[:us:](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) [:cn:](https://leetcode-cn.com/problems/find-all-possible-recipes-from-given-supplies)|[ts](2001-2500/2115.Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.ts)|Medium|
 |:heavy_check_mark:|2114|Maximum Number of Words Found in Sentences|[:us:](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)|[ts](2001-2500/2114.Maximum%20Number%20of%20Words%20Found%20in%20Sentences.ts)|Easy|
 |:lock:|2113|Elements in Array After Removing and Replacing Elements|[:us:](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements) [:cn:](https://leetcode-cn.com/problems/elements-in-array-after-removing-and-replacing-elements)||Medium|

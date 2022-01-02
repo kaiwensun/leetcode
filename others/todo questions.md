@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|509|0|4|168|11|
+|508|0|4|167|11|
 
 
 
@@ -21,7 +21,6 @@
 ||2120|Execution of All Suffix Instructions Staying in a Grid|[:us:](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) [:cn:](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)||Medium|
 ||2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)||Easy|
 ||2117|Abbreviating the Product of a Range|[:us:](https://leetcode.com/problems/abbreviating-the-product-of-a-range) [:cn:](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)||Hard|
-||2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)||Medium|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
