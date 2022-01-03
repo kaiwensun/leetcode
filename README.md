@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2485|1545|4|165|11|
+|2485|1546|4|164|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.6%|12.3%|8.3%|5.0%|4.6%|2.9%|1.1%|0.2%|
+|65.5%|12.3%|8.3%|5.1%|4.6%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -27,7 +27,7 @@ The following table contains only the latest 2000 items.For a full list, check [
 |:lock:|2123|Minimum Operations to Remove Adjacent Ones in Matrix|[:us:](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|
-||2120|Execution of All Suffix Instructions Staying in a Grid|[:us:](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) [:cn:](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)||Medium|
+|:heavy_check_mark:|2120|Execution of All Suffix Instructions Staying in a Grid|[:us:](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) [:cn:](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)|[ts](2001-2500/2120.Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid.ts)|Medium|
 |:heavy_check_mark:|2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)|[ts](2001-2500/2119.A%20Number%20After%20a%20Double%20Reversal.ts)|Easy|
 |:lock: sql |2118|Build the Equation|[:us:](https://leetcode.com/problems/build-the-equation) [:cn:](https://leetcode-cn.com/problems/build-the-equation)||Hard|
 |:heavy_check_mark:|2117|Abbreviating the Product of a Range|[:us:](https://leetcode.com/problems/abbreviating-the-product-of-a-range) [:cn:](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)|[py](2001-2500/2117.Abbreviating%20the%20Product%20of%20a%20Range.%28cheat%29.py)|Hard|
