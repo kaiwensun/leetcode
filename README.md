@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |65.5%|12.3%|8.3%|5.1%|4.6%|2.9%|1.1%|0.2%|
 
-The following table contains only the latest 2000 items.For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
+The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2127|Maximum Employees to Be Invited to a Meeting|[:us:](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) [:cn:](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting)|[py](2001-2500/2127.Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.py)|Hard|
