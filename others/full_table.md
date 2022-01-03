@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2485|1544|4|166|11|
+|2485|1545|4|165|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
@@ -28,7 +28,7 @@
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|
 ||2120|Execution of All Suffix Instructions Staying in a Grid|[:us:](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) [:cn:](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)||Medium|
-||2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)||Easy|
+|:heavy_check_mark:|2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)|[ts](2001-2500/2119.A%20Number%20After%20a%20Double%20Reversal.ts)|Easy|
 |:lock: sql |2118|Build the Equation|[:us:](https://leetcode.com/problems/build-the-equation) [:cn:](https://leetcode-cn.com/problems/build-the-equation)||Hard|
 |:heavy_check_mark:|2117|Abbreviating the Product of a Range|[:us:](https://leetcode.com/problems/abbreviating-the-product-of-a-range) [:cn:](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)|[py](2001-2500/2117.Abbreviating%20the%20Product%20of%20a%20Range.%28cheat%29.py)|Hard|
 |:heavy_check_mark:|2116|Check if a Parentheses String Can Be Valid|[:us:](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) [:cn:](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)|[ts](2001-2500/2116.Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.ts)|Medium|

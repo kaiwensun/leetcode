@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|507|0|4|166|11|
+|506|0|4|165|11|
 
 
 
@@ -19,7 +19,6 @@
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|
 ||2120|Execution of All Suffix Instructions Staying in a Grid|[:us:](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) [:cn:](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)||Medium|
-||2119|A Number After a Double Reversal|[:us:](https://leetcode.com/problems/a-number-after-a-double-reversal) [:cn:](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)||Easy|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|
 ||2030|Smallest K-Length Subsequence With Occurrences of a Letter|[:us:](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) [:cn:](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)||Hard|
 ||2029|Stone Game IX|[:us:](https://leetcode.com/problems/stone-game-ix) [:cn:](https://leetcode-cn.com/problems/stone-game-ix)||Medium|
