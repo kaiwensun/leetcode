@@ -1,7 +1,7 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
         ones = len([x for x in nums if x == 1])
-        N = len(nums) 
+        N = len(nums)
         res = cur = 0
         l = -N
         for r in range(-N, N):
