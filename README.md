@@ -10,22 +10,22 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2494|1552|4|166|11|
+|2494|1553|4|165|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.5%|12.3%|8.2%|5.1%|4.6%|2.9%|1.1%|0.2%|
+|65.5%|12.3%|8.2%|5.2%|4.6%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5979|contest question 5979||[py](5979.py)||
-|:heavy_check_mark:|5978|contest question 5978||[py](5978.py)||
-|:heavy_check_mark:|5977|contest question 5977||[py](5977.py)||
-|:heavy_check_mark:|5976|contest question 5976||[py](5976.py)||
+|:heavy_check_mark:|2136|Earliest Possible Day of Full Bloom|[:us:](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) [:cn:](https://leetcode-cn.com/problems/earliest-possible-day-of-full-bloom)|[py](2001-2500/2136.Earliest%20Possible%20Day%20of%20Full%20Bloom.py)|Hard|
+|:heavy_check_mark:|2135|Count Words Obtained After Adding a Letter|[:us:](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) [:cn:](https://leetcode-cn.com/problems/count-words-obtained-after-adding-a-letter)|[py](2001-2500/2135.Count%20Words%20Obtained%20After%20Adding%20a%20Letter.py)|Medium|
+|:heavy_check_mark:|2134|Minimum Swaps to Group All 1's Together II|[:us:](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii) [:cn:](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together-ii)|[py](2001-2500/2134.Minimum%20Swaps%20to%20Group%20All%201%27s%20Together%20II.py)|Medium|
+|:heavy_check_mark:|2133|Check if Every Row and Column Contains All Numbers|[:us:](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) [:cn:](https://leetcode-cn.com/problems/check-if-every-row-and-column-contains-all-numbers)|[py](2001-2500/2133.Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.py)|Easy|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
-||2131|Longest Palindrome by Concatenating Two Letter Words|[:us:](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) [:cn:](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)||Medium|
+|:heavy_check_mark:|2131|Longest Palindrome by Concatenating Two Letter Words|[:us:](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) [:cn:](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)|[ts](2001-2500/2131.Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.ts)|Medium|
 |:heavy_check_mark:|2130|Maximum Twin Sum of a Linked List|[:us:](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) [:cn:](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)|[ts](2001-2500/2130.Maximum%20Twin%20Sum%20of%20a%20Linked%20List.ts)|Medium|
 |:heavy_check_mark:|2129|Capitalize the Title|[:us:](https://leetcode.com/problems/capitalize-the-title) [:cn:](https://leetcode-cn.com/problems/capitalize-the-title)|[java](2001-2500/2129.Capitalize%20the%20Title.java)|Easy|
 |:lock:|2128|Remove All Ones With Row and Column Flips|[:us:](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips) [:cn:](https://leetcode-cn.com/problems/remove-all-ones-with-row-and-column-flips)||Medium|

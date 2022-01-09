@@ -3,8 +3,8 @@ class Solution:
         ones = len([x for x in nums if x == 1])
         N = len(nums)
         res = cur = 0
-        l = -N
-        for r in range(-N, N):
+        l = -ones
+        for r in range(-ones, N):
             if nums[r] == 1:
                 cur += 1
             if r - l >= ones:
