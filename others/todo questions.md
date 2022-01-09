@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|509|0|4|168|11|
+|507|0|4|166|11|
 
 
 
@@ -18,8 +18,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2131|Longest Palindrome by Concatenating Two Letter Words|[:us:](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) [:cn:](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)||Medium|
-||2130|Maximum Twin Sum of a Linked List|[:us:](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) [:cn:](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)||Medium|
-||2129|Capitalize the Title|[:us:](https://leetcode.com/problems/capitalize-the-title) [:cn:](https://leetcode-cn.com/problems/capitalize-the-title)||Easy|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|
 ||2104|Sum of Subarray Ranges|[:us:](https://leetcode.com/problems/sum-of-subarray-ranges) [:cn:](https://leetcode-cn.com/problems/sum-of-subarray-ranges)||Medium|

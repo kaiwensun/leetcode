@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2494|1550|4|168|11|
+|2494|1552|4|166|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.6%|12.3%|8.3%|5.1%|4.6%|2.9%|1.1%|0.2%|
+|65.5%|12.3%|8.2%|5.1%|4.6%|2.9%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -26,8 +26,8 @@
 |:heavy_check_mark:|5976|contest question 5976||[py](5976.py)||
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2131|Longest Palindrome by Concatenating Two Letter Words|[:us:](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) [:cn:](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)||Medium|
-||2130|Maximum Twin Sum of a Linked List|[:us:](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) [:cn:](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)||Medium|
-||2129|Capitalize the Title|[:us:](https://leetcode.com/problems/capitalize-the-title) [:cn:](https://leetcode-cn.com/problems/capitalize-the-title)||Easy|
+|:heavy_check_mark:|2130|Maximum Twin Sum of a Linked List|[:us:](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) [:cn:](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)|[ts](2001-2500/2130.Maximum%20Twin%20Sum%20of%20a%20Linked%20List.ts)|Medium|
+|:heavy_check_mark:|2129|Capitalize the Title|[:us:](https://leetcode.com/problems/capitalize-the-title) [:cn:](https://leetcode-cn.com/problems/capitalize-the-title)|[java](2001-2500/2129.Capitalize%20the%20Title.java)|Easy|
 |:lock:|2128|Remove All Ones With Row and Column Flips|[:us:](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips) [:cn:](https://leetcode-cn.com/problems/remove-all-ones-with-row-and-column-flips)||Medium|
 |:heavy_check_mark:|2127|Maximum Employees to Be Invited to a Meeting|[:us:](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) [:cn:](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting)|[py](2001-2500/2127.Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.py)|Hard|
 |:heavy_check_mark:|2126|Destroying Asteroids|[:us:](https://leetcode.com/problems/destroying-asteroids) [:cn:](https://leetcode-cn.com/problems/destroying-asteroids)|[java](2001-2500/2126.Destroying%20Asteroids.java)|Medium|
