@@ -15,15 +15,15 @@
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.5%|12.3%|8.2%|5.2%|4.6%|2.9%|1.1%|0.2%|
+|65.5%|12.3%|8.2%|5.3%|4.6%|2.9%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5983|contest question 5983||[py](5983.py)||
-|:heavy_check_mark:|5982|contest question 5982||[py](5982.py)||
-|:heavy_check_mark:|5980|contest question 5980||[py](5980.py)||
-|:heavy_check_mark:|5194|contest question 5194||[py](5194.py)||
+|:heavy_check_mark:|2141|Maximum Running Time of N Computers|[:us:](https://leetcode.com/problems/maximum-running-time-of-n-computers) [:cn:](https://leetcode-cn.com/problems/maximum-running-time-of-n-computers)|[py](2001-2500/2141.Maximum%20Running%20Time%20of%20N%20Computers.py)|Hard|
+|:heavy_check_mark:|2140|Solving Questions With Brainpower|[:us:](https://leetcode.com/problems/solving-questions-with-brainpower) [:cn:](https://leetcode-cn.com/problems/solving-questions-with-brainpower)|[py](2001-2500/2140.Solving%20Questions%20With%20Brainpower.py)|Medium|
+|:heavy_check_mark:|2139|Minimum Moves to Reach Target Score|[:us:](https://leetcode.com/problems/minimum-moves-to-reach-target-score) [:cn:](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score)|[ts](2001-2500/2139.Minimum%20Moves%20to%20Reach%20Target%20Score.ts)|Medium|
+|:heavy_check_mark:|2138|Divide a String Into Groups of Size k|[:us:](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) [:cn:](https://leetcode-cn.com/problems/divide-a-string-into-groups-of-size-k)|[py](2001-2500/2138.Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py)|Easy|
 |:lock:|2137|Pour Water Between Buckets to Make Water Levels Equal|[:us:](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal) [:cn:](https://leetcode-cn.com/problems/pour-water-between-buckets-to-make-water-levels-equal)||Medium|
 |:heavy_check_mark:|2136|Earliest Possible Day of Full Bloom|[:us:](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) [:cn:](https://leetcode-cn.com/problems/earliest-possible-day-of-full-bloom)|[py](2001-2500/2136.Earliest%20Possible%20Day%20of%20Full%20Bloom.py)|Hard|
 |:heavy_check_mark:|2135|Count Words Obtained After Adding a Letter|[:us:](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) [:cn:](https://leetcode-cn.com/problems/count-words-obtained-after-adding-a-letter)|[py](2001-2500/2135.Count%20Words%20Obtained%20After%20Adding%20a%20Letter.py)|Medium|
