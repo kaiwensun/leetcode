@@ -17,7 +17,6 @@ class Solution:
 
         @cache
         def dp(i, good, bad):
-            x = [i, good, bad]
             if i == len(statements):
                 return bin(good).count('1')
             mask = 1 << i
