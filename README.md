@@ -15,14 +15,14 @@
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|12.3%|8.2%|5.6%|4.6%|2.8%|1.1%|0.2%|
+|65.3%|12.2%|8.2%|5.6%|4.6%|2.8%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2151|Maximum Good People Based on Statements|[:us:](https://leetcode.com/problems/maximum-good-people-based-on-statements) [:cn:](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements)|[py](2001-2500/2151.Maximum%20Good%20People%20Based%20on%20Statements.py)|Hard|
 |:heavy_check_mark:|2150|Find All Lonely Numbers in the Array|[:us:](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array) [:cn:](https://leetcode-cn.com/problems/find-all-lonely-numbers-in-the-array)|[ts](2001-2500/2150.Find%20All%20Lonely%20Numbers%20in%20the%20Array.ts)|Medium|
-|:heavy_check_mark:|2149|Rearrange Array Elements by Sign|[:us:](https://leetcode.com/problems/rearrange-array-elements-by-sign) [:cn:](https://leetcode-cn.com/problems/rearrange-array-elements-by-sign)|[ts](2001-2500/2149.Rearrange%20Array%20Elements%20by%20Sign.ts)|Medium|
+|:heavy_check_mark:|2149|Rearrange Array Elements by Sign|[:us:](https://leetcode.com/problems/rearrange-array-elements-by-sign) [:cn:](https://leetcode-cn.com/problems/rearrange-array-elements-by-sign)|[ts](2001-2500/2149.Rearrange%20Array%20Elements%20by%20Sign.2.ts), [ts](2001-2500/2149.Rearrange%20Array%20Elements%20by%20Sign.ts)|Medium|
 |:heavy_check_mark:|2148|Count Elements With Strictly Smaller and Greater Elements|[:us:](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) [:cn:](https://leetcode-cn.com/problems/count-elements-with-strictly-smaller-and-greater-elements)|[ts](2001-2500/2148.Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.ts)|Easy|
 ||2147|Number of Ways to Divide a Long Corridor|[:us:](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor)||Hard|
 ||2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode-cn.com/problems/k-highest-ranked-items-within-a-price-range)||Medium|
