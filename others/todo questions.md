@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|506|0|4|165|11|
+|505|0|4|164|11|
 
 
 
@@ -18,7 +18,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2147|Number of Ways to Divide a Long Corridor|[:us:](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor)||Hard|
 ||2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode-cn.com/problems/k-highest-ranked-items-within-a-price-range)||Medium|
-||2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode-cn.com/problems/count-the-hidden-sequences)||Medium|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|

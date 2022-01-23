@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2509|1565|4|165|11|
+|2509|1566|4|164|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|12.2%|8.2%|5.6%|4.6%|2.8%|1.1%|0.2%|
+|65.2%|12.2%|8.2%|5.7%|4.6%|2.8%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -26,7 +26,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2148|Count Elements With Strictly Smaller and Greater Elements|[:us:](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) [:cn:](https://leetcode-cn.com/problems/count-elements-with-strictly-smaller-and-greater-elements)|[ts](2001-2500/2148.Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.ts)|Easy|
 ||2147|Number of Ways to Divide a Long Corridor|[:us:](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor)||Hard|
 ||2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode-cn.com/problems/k-highest-ranked-items-within-a-price-range)||Medium|
-||2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode-cn.com/problems/count-the-hidden-sequences)||Medium|
+|:heavy_check_mark:|2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode-cn.com/problems/count-the-hidden-sequences)|[ts](2001-2500/2145.Count%20the%20Hidden%20Sequences.ts)|Medium|
 |:heavy_check_mark:|2144|Minimum Cost of Buying Candies With Discount|[:us:](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) [:cn:](https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount)|[ts](2001-2500/2144.Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.ts)|Easy|
 |:lock:|2143|Choose Numbers From Two Arrays in Range|[:us:](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range) [:cn:](https://leetcode-cn.com/problems/choose-numbers-from-two-arrays-in-range)||Hard|
 |:lock: sql |2142|The Number of Passengers in Each Bus I|[:us:](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i) [:cn:](https://leetcode-cn.com/problems/the-number-of-passengers-in-each-bus-i)||Medium|
