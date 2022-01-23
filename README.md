@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2509|1564|4|166|11|
+|2509|1565|4|165|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|65.3%|12.3%|8.2%|5.5%|4.6%|2.8%|1.1%|0.2%|
+|65.3%|12.3%|8.2%|5.6%|4.6%|2.8%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -27,7 +27,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 ||2147|Number of Ways to Divide a Long Corridor|[:us:](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor)||Hard|
 ||2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode-cn.com/problems/k-highest-ranked-items-within-a-price-range)||Medium|
 ||2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode-cn.com/problems/count-the-hidden-sequences)||Medium|
-||2144|Minimum Cost of Buying Candies With Discount|[:us:](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) [:cn:](https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount)||Easy|
+|:heavy_check_mark:|2144|Minimum Cost of Buying Candies With Discount|[:us:](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) [:cn:](https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount)|[ts](2001-2500/2144.Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.ts)|Easy|
 |:lock:|2143|Choose Numbers From Two Arrays in Range|[:us:](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range) [:cn:](https://leetcode-cn.com/problems/choose-numbers-from-two-arrays-in-range)||Hard|
 |:lock: sql |2142|The Number of Passengers in Each Bus I|[:us:](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i) [:cn:](https://leetcode-cn.com/problems/the-number-of-passengers-in-each-bus-i)||Medium|
 |:heavy_check_mark:|2141|Maximum Running Time of N Computers|[:us:](https://leetcode.com/problems/maximum-running-time-of-n-computers) [:cn:](https://leetcode-cn.com/problems/maximum-running-time-of-n-computers)|[py](2001-2500/2141.Maximum%20Running%20Time%20of%20N%20Computers.py)|Hard|
