@@ -801,7 +801,8 @@ def gen_markdown(questions, solutions, title, markdown_type):
         gen_markdown_intro(),
         gen_markdown_stats(questions, solutions),
         gen_markdown_language_stats(solutions),
-        gen_markdown_questions(questions)
+        gen_markdown_questions(questions),
+        ""
     ]
     return "\n".join(res)
 
