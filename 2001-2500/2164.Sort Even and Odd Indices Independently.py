@@ -4,6 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        rearraged = [sorted(nums[::2]), sorted(nums[1::2], reverse=True)]
-        return [rearraged[i % 2][i // 2] for i in range(len(nums))]
+        nums[::2], nums[1::2] = sorted(nums[::2]), sorted(nums[1::2], reverse=True)
+        return nums
 
