@@ -8,7 +8,7 @@ class Bitset {
         this.size = size;
         flipped = false;
     }
-    
+
     public void fix(int idx) {
         if (flipped) {
             set.remove(idx);
@@ -16,7 +16,7 @@ class Bitset {
             set.add(idx);
         }
     }
-    
+
     public void unfix(int idx) {
         if (flipped) {
             set.add(idx);
@@ -24,23 +24,23 @@ class Bitset {
             set.remove(idx);
         }
     }
-    
+
     public void flip() {
         flipped = !flipped;
     }
-    
+
     public boolean all() {
         return set.size() == (flipped ? 0 : size);
     }
-    
+
     public boolean one() {
         return flipped ? set.size() < size : !set.isEmpty();
     }
-    
+
     public int count() {
         return flipped ? size - set.size() : set.size();
     }
-    
+
     public String toString() {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < size; i++) {
