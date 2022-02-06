@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2519|1576|4|162|11|
+|2523|1580|4|162|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|64.9%|12.2%|8.1%|6.1%|4.5%|2.8%|1.1%|0.2%|
+|64.8%|12.3%|8.1%|6.2%|4.5%|2.8%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2167|Minimum Time to Remove All Cars Containing Illegal Goods|[:us:](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods) [:cn:](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods)|[ts](2001-2500/2167.Minimum%20Time%20to%20Remove%20All%20Cars%20Containing%20Illegal%20Goods.ts)|Hard|
+|:heavy_check_mark:|2166|Design Bitset|[:us:](https://leetcode.com/problems/design-bitset) [:cn:](https://leetcode-cn.com/problems/design-bitset)|[java](2001-2500/2166.Design%20Bitset.java)|Medium|
+|:heavy_check_mark:|2165|Smallest Value of the Rearranged Number|[:us:](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) [:cn:](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number)|[py](2001-2500/2165.Smallest%20Value%20of%20the%20Rearranged%20Number.py)|Medium|
+|:heavy_check_mark:|2164|Sort Even and Odd Indices Independently|[:us:](https://leetcode.com/problems/sort-even-and-odd-indices-independently) [:cn:](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently)|[py](2001-2500/2164.Sort%20Even%20and%20Odd%20Indices%20Independently.py)|Easy|
 |:heavy_check_mark:|2163|Minimum Difference in Sums After Removal of Elements|[:us:](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) [:cn:](https://leetcode-cn.com/problems/minimum-difference-in-sums-after-removal-of-elements)|[java](2001-2500/2163.Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements.java)|Hard|
 |:heavy_check_mark:|2162|Minimum Cost to Set Cooking Time|[:us:](https://leetcode.com/problems/minimum-cost-to-set-cooking-time) [:cn:](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time)|[ts](2001-2500/2162.Minimum%20Cost%20to%20Set%20Cooking%20Time.ts)|Medium|
 |:heavy_check_mark:|2161|Partition Array According to Given Pivot|[:us:](https://leetcode.com/problems/partition-array-according-to-given-pivot) [:cn:](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot)|[ts](2001-2500/2161.Partition%20Array%20According%20to%20Given%20Pivot.ts)|Medium|
