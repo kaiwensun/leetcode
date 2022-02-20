@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|505|0|4|164|11|
+|501|0|4|160|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2179|Count Good Triplets in an Array|[:us:](https://leetcode.com/problems/count-good-triplets-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-good-triplets-in-an-array)||Hard|
-||2178|Maximum Split of Positive Even Integers|[:us:](https://leetcode.com/problems/maximum-split-of-positive-even-integers) [:cn:](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers)||Medium|
-||2177|Find Three Consecutive Integers That Sum to a Given Number|[:us:](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number) [:cn:](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number)||Medium|
-||2176|Count Equal and Divisible Pairs in an Array|[:us:](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array)||Easy|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|
