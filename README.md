@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2535|1590|4|160|11|
+|2539|1594|4|160|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|64.5%|12.3%|8.1%|6.5%|4.5%|2.8%|1.0%|0.2%|
+|64.4%|12.3%|8.0%|6.7%|4.5%|2.8%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6015|contest question 6015||[ts](/6015.ts)||
+|:heavy_check_mark:|6014|contest question 6014||[ts](/6014.ts)||
+|:heavy_check_mark:|6013|contest question 6013||[ts](/6013.ts)||
+|:heavy_check_mark:|6012|contest question 6012||[ts](/6012.ts)||
 |:heavy_check_mark:|2179|Count Good Triplets in an Array|[:us:](https://leetcode.com/problems/count-good-triplets-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-good-triplets-in-an-array)|[ts](/2001-2500/2179.Count%20Good%20Triplets%20in%20an%20Array.ts)|Hard|
 |:heavy_check_mark:|2178|Maximum Split of Positive Even Integers|[:us:](https://leetcode.com/problems/maximum-split-of-positive-even-integers) [:cn:](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers)|[ts](/2001-2500/2178.Maximum%20Split%20of%20Positive%20Even%20Integers.ts)|Medium|
 |:heavy_check_mark:|2177|Find Three Consecutive Integers That Sum to a Given Number|[:us:](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number) [:cn:](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number)|[ts](/2001-2500/2177.Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.ts)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:lock:|186|Reverse Words in a String II|[:us:](https://leetcode.com/problems/reverse-words-in-a-string-ii) [:cn:](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii)||Medium|
 | sql |185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries) [:cn:](https://leetcode-cn.com/problems/department-top-three-salaries)||Hard|
 | sql |184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary) [:cn:](https://leetcode-cn.com/problems/department-highest-salary)||Medium|
-|:heavy_check_mark: sql |183|Customers Who Never Order|[:us:](https://leetcode.com/problems/customers-who-never-order) [:cn:](https://leetcode-cn.com/problems/customers-who-never-order)|[sql](/0001-0500/0183.Customers%20Who%20Never%20Order.sql)|Easy|
-|:heavy_check_mark: sql |182|Duplicate Emails|[:us:](https://leetcode.com/problems/duplicate-emails) [:cn:](https://leetcode-cn.com/problems/duplicate-emails)|[sql](/0001-0500/0182.Duplicate%20Emails.sql)|Easy|
-|:heavy_check_mark: sql |181|Employees Earning More Than Their Managers|[:us:](https://leetcode.com/problems/employees-earning-more-than-their-managers) [:cn:](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)|[sql](/0001-0500/0181.Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|
-| sql |180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers) [:cn:](https://leetcode-cn.com/problems/consecutive-numbers)||Medium|
