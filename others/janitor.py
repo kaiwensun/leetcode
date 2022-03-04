@@ -834,7 +834,7 @@ def load_resources(client, offline):
                       'question__hide': False, 'frontend_question_id': 'DD-2020006'},
              'difficulty': {'level': 1},
              'paid_only': False}
-        ]
+        ] if category == "all" else []
         for additional_question in ADDITIONAL_QUESTIONS:
             if not any(q['stat']['question__title_slug'] == additional_question['stat']['question__title_slug'] or
                     q['stat']['frontend_question_id'] == additional_question['stat']['frontend_question_id']

@@ -2209,7 +2209,7 @@
 |:heavy_check_mark:|3|Longest Substring Without Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-without-repeating-characters) [:cn:](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.c), [c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.c), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.py), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
 |:heavy_check_mark:|2|Add Two Numbers|[:us:](https://leetcode.com/problems/add-two-numbers) [:cn:](https://leetcode-cn.com/problems/add-two-numbers)|[c](/0001-0500/0002.Add%20Two%20Numbers.c), [py](/0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
 |:heavy_check_mark:|1|Two Sum|[:us:](https://leetcode.com/problems/two-sum) [:cn:](https://leetcode-cn.com/problems/two-sum)|[c](/0001-0500/0001.Two%20Sum.c), [java](/0001-0500/0001.Two%20Sum.java), [py](/0001-0500/0001.Two%20Sum.py)|Easy|
-|:heavy_check_mark: sql |DD-2020006|简单游戏|[:cn:](https://leetcode-cn.com/problems/1zD30O)|[py](/DD/DD-2020006.%E7%AE%80%E5%8D%95%E6%B8%B8%E6%88%8F.py)|Easy|
+|:heavy_check_mark:|DD-2020006|简单游戏|[:cn:](https://leetcode-cn.com/problems/1zD30O)|[py](/DD/DD-2020006.%E7%AE%80%E5%8D%95%E6%B8%B8%E6%88%8F.py)|Easy|
 |:heavy_check_mark:|LCP 01|Guess Numbers|[:cn:](https://leetcode-cn.com/problems/guess-numbers)|[py](/LCP/LCP%2001.Guess%20Numbers.py)|Easy|
 |:heavy_check_mark:|LCP 02|Deep Dark Fraction|[:cn:](https://leetcode-cn.com/problems/deep-dark-fraction)|[java](/LCP/LCP%2002.Deep%20Dark%20Fraction.java)|Easy|
 ||LCP 03|Programmable Robot|[:cn:](https://leetcode-cn.com/problems/programmable-robot)||Medium|
