@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2545|1600|4|158|11|
+|2545|1601|4|158|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
@@ -2564,4 +2564,4 @@
 |:heavy_check_mark:|面试题 17.26|Sparse Similarity LCCI|[:cn:](https://leetcode-cn.com/problems/sparse-similarity-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.26.Sparse%20Similarity%20LCCI.py)|Hard|
 ||面试题19|正则表达式匹配 LCOF|[:cn:](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof)||Hard|
 ||面试题32 - I|从上到下打印二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)||Medium|
-||面试题50|第一个只出现一次的字符 LCOF|[:cn:](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)||Easy|
+|:heavy_check_mark:|面试题50|第一个只出现一次的字符 LCOF|[:cn:](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)|[ts](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%9850.%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6%20LCOF.ts)|Easy|

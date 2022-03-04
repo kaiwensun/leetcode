@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2545|1600|4|158|11|
+|2545|1601|4|158|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|

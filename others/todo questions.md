@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|499|0|4|158|11|
+|498|0|4|158|11|
 
 
 
@@ -514,4 +514,3 @@
 ||面试题 17.25|Word Rectangle LCCI|[:cn:](https://leetcode-cn.com/problems/word-rectangle-lcci)||Hard|
 ||面试题19|正则表达式匹配 LCOF|[:cn:](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof)||Hard|
 ||面试题32 - I|从上到下打印二叉树 LCOF|[:cn:](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)||Medium|
-||面试题50|第一个只出现一次的字符 LCOF|[:cn:](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)||Easy|

@@ -173,7 +173,7 @@ class Solution:
         re.compile("^LCP \d{2}$"),
         re.compile("^剑指 Offer II \d{3}$"),
         re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
-        re.compile("^面试题 \d{2}\.\d{2}$"),
+        re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
         re.compile("^DD-\d{7}")
     ]
     ROOT_PATH = None
