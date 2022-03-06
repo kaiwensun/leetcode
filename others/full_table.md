@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2549|1606|4|158|11|
+|2553|1610|4|158|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|64.0%|12.2%|8.0%|7.3%|4.5%|2.8%|1.0%|0.2%|
+|64.0%|12.2%|8.0%|7.4%|4.4%|2.8%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6019|contest question 6019||[py](/6019.py)||
+|:heavy_check_mark:|6018|contest question 6018||[ts](/6018.ts)||
+|:heavy_check_mark:|6017|contest question 6017||[py](/6017.py)||
+|:heavy_check_mark:|6016|contest question 6016||[py](/6016.py)||
 |:heavy_check_mark:|2193|Minimum Number of Moves to Make Palindrome|[:us:](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-moves-to-make-palindrome)|[ts](/2001-2500/2193.Minimum%20Number%20of%20Moves%20to%20Make%20Palindrome.2.ts), [ts](/2001-2500/2193.Minimum%20Number%20of%20Moves%20to%20Make%20Palindrome.ts)|Hard|
 |:heavy_check_mark:|2192|All Ancestors of a Node in a Directed Acyclic Graph|[:us:](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) [:cn:](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)|[ts](/2001-2500/2192.All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.ts)|Medium|
 |:heavy_check_mark:|2191|Sort the Jumbled Numbers|[:us:](https://leetcode.com/problems/sort-the-jumbled-numbers) [:cn:](https://leetcode-cn.com/problems/sort-the-jumbled-numbers)|[ts](/2001-2500/2191.Sort%20the%20Jumbled%20Numbers.ts)|Medium|

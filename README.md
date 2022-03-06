@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2549|1606|4|158|11|
+|2553|1610|4|158|11|
 
 
 |py|java|rb|ts|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|64.0%|12.2%|8.0%|7.3%|4.5%|2.8%|1.0%|0.2%|
+|64.0%|12.2%|8.0%|7.4%|4.4%|2.8%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6019|contest question 6019||[py](/6019.py)||
+|:heavy_check_mark:|6018|contest question 6018||[ts](/6018.ts)||
+|:heavy_check_mark:|6017|contest question 6017||[py](/6017.py)||
+|:heavy_check_mark:|6016|contest question 6016||[py](/6016.py)||
 |:heavy_check_mark:|2193|Minimum Number of Moves to Make Palindrome|[:us:](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-moves-to-make-palindrome)|[ts](/2001-2500/2193.Minimum%20Number%20of%20Moves%20to%20Make%20Palindrome.2.ts), [ts](/2001-2500/2193.Minimum%20Number%20of%20Moves%20to%20Make%20Palindrome.ts)|Hard|
 |:heavy_check_mark:|2192|All Ancestors of a Node in a Directed Acyclic Graph|[:us:](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph) [:cn:](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)|[ts](/2001-2500/2192.All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.ts)|Medium|
 |:heavy_check_mark:|2191|Sort the Jumbled Numbers|[:us:](https://leetcode.com/problems/sort-the-jumbled-numbers) [:cn:](https://leetcode-cn.com/problems/sort-the-jumbled-numbers)|[ts](/2001-2500/2191.Sort%20the%20Jumbled%20Numbers.ts)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|200|Number of Islands|[:us:](https://leetcode.com/problems/number-of-islands) [:cn:](https://leetcode-cn.com/problems/number-of-islands)|[c](/0001-0500/0200.Number%20of%20Islands.c), [py](/0001-0500/0200.Number%20of%20Islands.py), [rb](/0001-0500/0200.Number%20of%20Islands.rb)|Medium|
 |:heavy_check_mark:|199|Binary Tree Right Side View|[:us:](https://leetcode.com/problems/binary-tree-right-side-view) [:cn:](https://leetcode-cn.com/problems/binary-tree-right-side-view)|[c](/0001-0500/0199.Binary%20Tree%20Right%20Side%20View.c)|Medium|
 |:heavy_check_mark:|198|House Robber|[:us:](https://leetcode.com/problems/house-robber) [:cn:](https://leetcode-cn.com/problems/house-robber)|[java](/0001-0500/0198.House%20Robber.java)|Medium|
-| sql |197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|
-| sql |196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails) [:cn:](https://leetcode-cn.com/problems/delete-duplicate-emails)||Easy|
-|:heavy_check_mark:|195|Tenth Line|[:us:](https://leetcode.com/problems/tenth-line) [:cn:](https://leetcode-cn.com/problems/tenth-line)|[sh](/0001-0500/0195.Tenth%20Line.sh)|Easy|
-|:heavy_check_mark:|194|Transpose File|[:us:](https://leetcode.com/problems/transpose-file) [:cn:](https://leetcode-cn.com/problems/transpose-file)|[sh](/0001-0500/0194.Transpose%20File.sh)|Medium|
