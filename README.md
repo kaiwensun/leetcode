@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6032|contest question 6032||[py](/6032.py)||
-|:heavy_check_mark:|6031|contest question 6031||[ts](/6031.ts)||
-|:heavy_check_mark:|5227|contest question 5227||[py](/5227.py)||
-|:heavy_check_mark:|5203|contest question 5203||[py](/5203.py)||
+|:heavy_check_mark:|2203|Minimum Weighted Subgraph With the Required Paths|[:us:](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths) [:cn:](https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths)|[py](/2001-2500/2203.Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.py)|Hard|
+|:heavy_check_mark:|2202|Maximize the Topmost Element After K Moves|[:us:](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves) [:cn:](https://leetcode-cn.com/problems/maximize-the-topmost-element-after-k-moves)|[py](/2001-2500/2202.Maximize%20the%20Topmost%20Element%20After%20K%20Moves.py)|Medium|
+|:heavy_check_mark:|2201|Count Artifacts That Can Be Extracted|[:us:](https://leetcode.com/problems/count-artifacts-that-can-be-extracted) [:cn:](https://leetcode-cn.com/problems/count-artifacts-that-can-be-extracted)|[py](/2001-2500/2201.Count%20Artifacts%20That%20Can%20Be%20Extracted.py)|Medium|
+|:heavy_check_mark:|2200|Find All K-Distant Indices in an Array|[:us:](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) [:cn:](https://leetcode-cn.com/problems/find-all-k-distant-indices-in-an-array)|[ts](/2001-2500/2200.Find%20All%20K-Distant%20Indices%20in%20an%20Array.ts)|Easy|
 |:lock: sql |2199|Finding the Topic of Each Post|[:us:](https://leetcode.com/problems/finding-the-topic-of-each-post) [:cn:](https://leetcode-cn.com/problems/finding-the-topic-of-each-post)||Hard|
 |:lock:|2198|Number of Single Divisor Triplets|[:us:](https://leetcode.com/problems/number-of-single-divisor-triplets) [:cn:](https://leetcode-cn.com/problems/number-of-single-divisor-triplets)||Medium|
 |:heavy_check_mark:|2197|Replace Non-Coprime Numbers in Array|[:us:](https://leetcode.com/problems/replace-non-coprime-numbers-in-array) [:cn:](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array)|[py](/2001-2500/2197.Replace%20Non-Coprime%20Numbers%20in%20Array.py)|Hard|
