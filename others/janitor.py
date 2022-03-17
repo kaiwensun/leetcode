@@ -13,6 +13,7 @@ import time
 from enum import Enum
 from requests_html import HTMLSession
 import pyppeteer
+import bisect
 
 UNRECOGNIZED_CONTEST_SOLUTIONS = {}
 README_FILENAME = "README.md"
@@ -99,6 +100,10 @@ class Question:
         self._difficulty = dic["difficulty"]["level"]
         self._slug = dic["stat"]["question__title_slug"]
         self._is_mock_dic = dic.get("_is_mock_dic", False)
+        
+        self._contest__title_slug = dic["stat"].get("contest__title_slug")
+        self._category_slug = dic["stat"].get("category_slug")
+
         self._correct_new_weekly_contest_question()
 
     def is_mock(self):
@@ -111,6 +116,11 @@ class Question:
         return self._id.isdigit()
 
     def cn_url(self):
+        # if str(self._id).startswith("银联"):
+        #     import pdb
+        #     pdb.set_trace()
+        if self._contest__title_slug and self._category_slug:
+            return f"https://leetcode-cn.com/{self._category_slug}/{self._contest__title_slug}/problems/{self._slug}"
         return Question.CN_QUESTION_URL_PATTERN % self._slug
 
     def us_url(self):
@@ -174,7 +184,8 @@ class Solution:
         re.compile("^剑指 Offer II \d{3}$"),
         re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
         re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
-        re.compile("^DD-\d{7}")
+        re.compile("^DD-\d{7}"),
+        re.compile("^银联-\d{2}$")
     ]
     ROOT_PATH = None
     moved_cnt = 0
@@ -295,7 +306,7 @@ class Solution:
             end = start + Solution.FOLDER_SIZE - 1
             return "{:04d}-{:04d}".format(start, end)
         elif any(matcher.match(self._id) for matcher in Solution.KNOWN_CN_GROUPS):
-            folders = ["LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD"]
+            folders = ["LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
             for folder in folders:
                 if self._id.startswith(folder):
                     return folder
@@ -828,26 +839,45 @@ def load_resources(client, offline):
             return obj
         obj = client.getJson(
             f"https://leetcode-cn.com/api/problems/{category}/")
-        # LeetCode removed one question
-        ADDITIONAL_QUESTIONS = [
-            {'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
-                      'question__hide': False, 'frontend_question_id': 'DD-2020006'},
-             'difficulty': {'level': 1},
-             'paid_only': False}
-        ] if category == "all" else []
-        for additional_question in ADDITIONAL_QUESTIONS:
-            if not any(q['stat']['question__title_slug'] == additional_question['stat']['question__title_slug'] or
-                    q['stat']['frontend_question_id'] == additional_question['stat']['frontend_question_id']
-                    for q in obj["stat_status_pairs"]):
-                obj["stat_status_pairs"].append(additional_question)
-            else:
-                print("The question is added in online list: " + str(additional_question))
+
+        # LeetCode does not list some questions in normal api
+        if category == "all":
+            ADDITIONAL_QUESTIONS = [
+                {'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
+                        'question__hide': False, 'frontend_question_id': 'DD-2020006'},
+                'difficulty': {'level': 1},
+                'paid_only': False}
+            ]
+
+            # https://leetcode-cn.com/contest/api/info/cnunionpay-2022spring/
+            CNUNIONPAY_2022SPRING = [
+                {'id': 3501, 'question_id': 1000419, 'credit': 3, 'title': '回文链表', 'english_title': '回文链表', 'title_slug': 'D7rekZ', 'category_slug': 'contest'},
+                {'id': 3502, 'question_id': 1000421, 'credit': 4, 'title': '优惠活动系统', 'english_title': '优惠活动系统', 'title_slug': 'kDPV0f', 'category_slug': 'contest'},
+                {'id': 3503, 'question_id': 1000420, 'credit': 5, 'title': '理财产品', 'english_title': '理财产品', 'title_slug': 'I4mOGz', 'category_slug': 'contest'},
+                {'id': 3504, 'question_id': 1000422, 'credit': 7, 'title': '合作开发', 'english_title': '合作开发', 'title_slug': 'lCh58I', 'category_slug': 'contest'}
+            ]
+            CNUNIONPAY_2022SPRING = [{
+                'stat': {'question__title': item['title'], 'question__title_slug': item['title_slug'],
+                        'question__hide': False, 'frontend_question_id': f'银联-{(item["id"]- 3500):02d}',
+                        "contest__title_slug": "cnunionpay-2022spring", "category_slug": item["category_slug"]},
+                'difficulty': {'level': bisect.bisect_left([0, 3, 5], item['credit'])},
+                'paid_only': False
+            } for item in CNUNIONPAY_2022SPRING]
+            ADDITIONAL_QUESTIONS.extend(CNUNIONPAY_2022SPRING)
+
+            for additional_question in ADDITIONAL_QUESTIONS:
+                if not any(q['stat']['question__title_slug'] == additional_question['stat']['question__title_slug'] or
+                        q['stat']['frontend_question_id'] == additional_question['stat']['frontend_question_id']
+                        for q in obj["stat_status_pairs"]):
+                    obj["stat_status_pairs"].append(additional_question)
+                else:
+                    print("The question is added in online list: " + str(additional_question))
         save_online_resource(obj, abs_file_path)
         return obj
 
     def list_code_folders():
         folder_patterns = ["\d{4}-\d{4}", "LCS",
-                           "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD"]
+                           "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
@@ -861,7 +891,7 @@ def load_resources(client, offline):
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
+            "\d{4}-\d{4}", "LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)
