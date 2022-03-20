@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2569|1625|4|155|11|
+|2573|1629|4|155|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.7%|12.1%|7.9%|7.9%|4.4%|2.7%|1.0%|0.2%|
+|63.7%|12.1%|8.0%|7.9%|4.4%|2.7%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2213|Longest Substring of One Repeating Character|[:us:](https://leetcode.com/problems/longest-substring-of-one-repeating-character) [:cn:](https://leetcode-cn.com/problems/longest-substring-of-one-repeating-character)|[py](/2001-2500/2213.Longest%20Substring%20of%20One%20Repeating%20Character.py)|Hard|
+|:heavy_check_mark:|2212|Maximum Points in an Archery Competition|[:us:](https://leetcode.com/problems/maximum-points-in-an-archery-competition) [:cn:](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition)|[ts](/2001-2500/2212.Maximum%20Points%20in%20an%20Archery%20Competition.ts)|Medium|
+|:heavy_check_mark:|2211|Count Collisions on a Road|[:us:](https://leetcode.com/problems/count-collisions-on-a-road) [:cn:](https://leetcode-cn.com/problems/count-collisions-on-a-road)|[ts](/2001-2500/2211.Count%20Collisions%20on%20a%20Road.ts)|Medium|
+|:heavy_check_mark:|2210|Count Hills and Valleys in an Array|[:us:](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) [:cn:](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array)|[py](/2001-2500/2210.Count%20Hills%20and%20Valleys%20in%20an%20Array.py)|Easy|
 |:heavy_check_mark:|2209|Minimum White Tiles After Covering With Carpets|[:us:](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets) [:cn:](https://leetcode-cn.com/problems/minimum-white-tiles-after-covering-with-carpets)|[ts](/2001-2500/2209.Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets.ts)|Hard|
 |:heavy_check_mark:|2208|Minimum Operations to Halve Array Sum|[:us:](https://leetcode.com/problems/minimum-operations-to-halve-array-sum) [:cn:](https://leetcode-cn.com/problems/minimum-operations-to-halve-array-sum)|[ts](/2001-2500/2208.Minimum%20Operations%20to%20Halve%20Array%20Sum.ts)|Medium|
 |:heavy_check_mark:|2207|Maximize Number of Subsequences in a String|[:us:](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string) [:cn:](https://leetcode-cn.com/problems/maximize-number-of-subsequences-in-a-string)|[ts](/2001-2500/2207.Maximize%20Number%20of%20Subsequences%20in%20a%20String.ts)|Medium|
