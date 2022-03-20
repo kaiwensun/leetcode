@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|493|0|4|154|11|
+|492|0|4|153|11|
 
 
 
@@ -174,7 +174,6 @@
 ||357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits) [:cn:](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)||Medium|
 ||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter) [:cn:](https://leetcode-cn.com/problems/design-twitter)||Medium|
 ||336|Palindrome Pairs|[:us:](https://leetcode.com/problems/palindrome-pairs) [:cn:](https://leetcode-cn.com/problems/palindrome-pairs)||Hard|
-||327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode-cn.com/problems/count-of-range-sum)||Hard|
 | sql |262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode-cn.com/problems/trips-and-users)||Hard|
 ||214|Shortest Palindrome|[:us:](https://leetcode.com/problems/shortest-palindrome) [:cn:](https://leetcode-cn.com/problems/shortest-palindrome)||Hard|
 | sql |197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode-cn.com/problems/rising-temperature)||Easy|

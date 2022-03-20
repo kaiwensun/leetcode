@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2573|1630|4|154|11|
+|2573|1631|4|153|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -1906,7 +1906,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|330|Patching Array|[:us:](https://leetcode.com/problems/patching-array) [:cn:](https://leetcode-cn.com/problems/patching-array)|[c](/0001-0500/0330.Patching%20Array.c)|Hard|
 |:heavy_check_mark:|329|Longest Increasing Path in a Matrix|[:us:](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) [:cn:](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)|[java](/0001-0500/0329.Longest%20Increasing%20Path%20in%20a%20Matrix.java), [py](/0001-0500/0329.Longest%20Increasing%20Path%20in%20a%20Matrix.py)|Hard|
 |:heavy_check_mark:|328|Odd Even Linked List|[:us:](https://leetcode.com/problems/odd-even-linked-list) [:cn:](https://leetcode-cn.com/problems/odd-even-linked-list)|[java](/0001-0500/0328.Odd%20Even%20Linked%20List.java), [rb](/0001-0500/0328.Odd%20Even%20Linked%20List.rb)|Medium|
-||327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode-cn.com/problems/count-of-range-sum)||Hard|
+|:heavy_check_mark:|327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode-cn.com/problems/count-of-range-sum)|[py](/0001-0500/0327.Count%20of%20Range%20Sum.py)|Hard|
 |:heavy_check_mark:|326|Power of Three|[:us:](https://leetcode.com/problems/power-of-three) [:cn:](https://leetcode-cn.com/problems/power-of-three)|[cpp](/0001-0500/0326.Power%20of%20Three.cpp)|Easy|
 |:lock:|325|Maximum Size Subarray Sum Equals k|[:us:](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) [:cn:](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k)||Medium|
 |:heavy_check_mark:|324|Wiggle Sort II|[:us:](https://leetcode.com/problems/wiggle-sort-ii) [:cn:](https://leetcode-cn.com/problems/wiggle-sort-ii)|[py](/0001-0500/0324.Wiggle%20Sort%20II.py)|Medium|
