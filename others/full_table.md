@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|5269|contest question 5269||[py](/5269.py)||
-|:heavy_check_mark:|5268|contest question 5268||[py](/5268.py)||
-|:heavy_check_mark:|5253|contest question 5253||[ts](/5253.ts)||
-|:heavy_check_mark:|5236|contest question 5236||[ts](/5236.ts)||
+|:heavy_check_mark:|2218|Maximum Value of K Coins From Piles|[:us:](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles) [:cn:](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles)|[py](/2001-2500/2218.Maximum%20Value%20of%20K%20Coins%20From%20Piles.py)|Hard|
+|:heavy_check_mark:|2217|Find Palindrome With Fixed Length|[:us:](https://leetcode.com/problems/find-palindrome-with-fixed-length) [:cn:](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length)|[ts](/2001-2500/2217.Find%20Palindrome%20With%20Fixed%20Length.ts)|Medium|
+|:heavy_check_mark:|2216|Minimum Deletions to Make Array Beautiful|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful)|[ts](/2001-2500/2216.Minimum%20Deletions%20to%20Make%20Array%20Beautiful.ts)|Medium|
+|:heavy_check_mark:|2215|Find the Difference of Two Arrays|[:us:](https://leetcode.com/problems/find-the-difference-of-two-arrays) [:cn:](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays)|[py](/2001-2500/2215.Find%20the%20Difference%20of%20Two%20Arrays.py)|Easy|
 |:lock:|2214|Minimum Health to Beat Game|[:us:](https://leetcode.com/problems/minimum-health-to-beat-game) [:cn:](https://leetcode-cn.com/problems/minimum-health-to-beat-game)||Medium|
 |:heavy_check_mark:|2213|Longest Substring of One Repeating Character|[:us:](https://leetcode.com/problems/longest-substring-of-one-repeating-character) [:cn:](https://leetcode-cn.com/problems/longest-substring-of-one-repeating-character)|[py](/2001-2500/2213.Longest%20Substring%20of%20One%20Repeating%20Character.py)|Hard|
 |:heavy_check_mark:|2212|Maximum Points in an Archery Competition|[:us:](https://leetcode.com/problems/maximum-points-in-an-archery-competition) [:cn:](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition)|[ts](/2001-2500/2212.Maximum%20Points%20in%20an%20Archery%20Competition.ts)|Medium|
