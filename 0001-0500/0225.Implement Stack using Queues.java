@@ -1,24 +1,15 @@
-/**
- *Result:
- * 16 / 16 test cases passed.
- * Status: Accepted
- * Runtime: 99 ms
- * Your runtime beats 63.13% of java submissions.
- *Date:
- * 10/1/2016
- */
 class MyStack {
-    Queue<Integer> q = new LinkedList<Integer>();
-    Queue<Integer> p = new LinkedList<Integer>();
-    // Push element x onto stack.
+    private Queue<Integer> q = new LinkedList<Integer>();
+    private Queue<Integer> p = new LinkedList<Integer>();
+
     public void push(int x) {
         q.offer(x);
     }
 
-    // Removes the element on top of the stack.
-    public void pop() {
+    public int pop() {
         if(q.isEmpty())
-            return;
+            return -1;
+        int res = this.top();
         while(q.size()>1){
             p.offer(q.poll());
         }
@@ -26,9 +17,9 @@ class MyStack {
         Queue<Integer> tmp = p;
         p = q;
         q = tmp;
+        return res;
     }
 
-    // Get the top element.
     public int top() {
         if(q.isEmpty())
             return 0;
@@ -43,8 +34,16 @@ class MyStack {
         return rtn;
     }
 
-    // Return whether the stack is empty.
     public boolean empty() {
         return q.isEmpty();
     }
 }
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
+
