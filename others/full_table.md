@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2583|1642|6|150|11|
+|2587|1646|6|150|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.4%|12.0%|8.4%|7.8%|4.4%|2.7%|1.1%|0.2%|
+|63.5%|12.0%|8.4%|7.8%|4.4%|2.7%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6055|contest question 6055||[py](/6055.py)||
+|:heavy_check_mark:|5302|contest question 5302||[py](/5302.py)||
+|:heavy_check_mark:|5235|contest question 5235||[py](/5235.py)||
+|:heavy_check_mark:|5219|contest question 5219||[py](/5219.py)||
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 |:heavy_check_mark:|2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|[ts](/2001-2500/2222.Number%20of%20Ways%20to%20Select%20Buildings.ts)|Medium|
 |:heavy_check_mark:|2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|[py](/2001-2500/2221.Find%20Triangular%20Sum%20of%20an%20Array.py)|Medium|

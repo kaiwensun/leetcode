@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2583|1642|6|150|11|
+|2587|1646|6|150|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.4%|12.0%|8.4%|7.8%|4.4%|2.7%|1.1%|0.2%|
+|63.5%|12.0%|8.4%|7.8%|4.4%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6055|contest question 6055||[py](/6055.py)||
+|:heavy_check_mark:|5302|contest question 5302||[py](/5302.py)||
+|:heavy_check_mark:|5235|contest question 5235||[py](/5235.py)||
+|:heavy_check_mark:|5219|contest question 5219||[py](/5219.py)||
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 |:heavy_check_mark:|2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|[ts](/2001-2500/2222.Number%20of%20Ways%20to%20Select%20Buildings.ts)|Medium|
 |:heavy_check_mark:|2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|[py](/2001-2500/2221.Find%20Triangular%20Sum%20of%20an%20Array.py)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|230|Kth Smallest Element in a BST|[:us:](https://leetcode.com/problems/kth-smallest-element-in-a-bst) [:cn:](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[rb](/0001-0500/0230.Kth%20Smallest%20Element%20in%20a%20BST.rb)|Medium|
 |:heavy_check_mark:|229|Majority Element II|[:us:](https://leetcode.com/problems/majority-element-ii) [:cn:](https://leetcode-cn.com/problems/majority-element-ii)|[py](/0001-0500/0229.Majority%20Element%20II.py)|Medium|
 |:heavy_check_mark:|228|Summary Ranges|[:us:](https://leetcode.com/problems/summary-ranges) [:cn:](https://leetcode-cn.com/problems/summary-ranges)|[java](/0001-0500/0228.Summary%20Ranges.java)|Easy|
-|:heavy_check_mark:|227|Basic Calculator II|[:us:](https://leetcode.com/problems/basic-calculator-ii) [:cn:](https://leetcode-cn.com/problems/basic-calculator-ii)|[py](/0001-0500/0227.Basic%20Calculator%20II.py)|Medium|
-|:heavy_check_mark:|226|Invert Binary Tree|[:us:](https://leetcode.com/problems/invert-binary-tree) [:cn:](https://leetcode-cn.com/problems/invert-binary-tree)|[c](/0001-0500/0226.Invert%20Binary%20Tree.c), [py](/0001-0500/0226.Invert%20Binary%20Tree.py), [rb](/0001-0500/0226.Invert%20Binary%20Tree.rb)|Easy|
-|:heavy_check_mark:|225|Implement Stack using Queues|[:us:](https://leetcode.com/problems/implement-stack-using-queues) [:cn:](https://leetcode-cn.com/problems/implement-stack-using-queues)|[java](/0001-0500/0225.Implement%20Stack%20using%20Queues.java)|Easy|
-|:heavy_check_mark:|224|Basic Calculator|[:us:](https://leetcode.com/problems/basic-calculator) [:cn:](https://leetcode-cn.com/problems/basic-calculator)|[py](/0001-0500/0224.Basic%20Calculator.py)|Hard|
