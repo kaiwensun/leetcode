@@ -10,16 +10,13 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|517|0|6|153|11|
+|514|0|6|150|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
-||2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)||Medium|
-||2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)||Medium|
-||2220|Minimum Bit Flips to Convert Number|[:us:](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [:cn:](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)||Easy|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
 ||2121|Intervals Between Identical Elements|[:us:](https://leetcode.com/problems/intervals-between-identical-elements) [:cn:](https://leetcode-cn.com/problems/intervals-between-identical-elements)||Medium|

@@ -10,20 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2583|1639|6|153|11|
+|2583|1642|6|150|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.5%|12.0%|8.3%|7.8%|4.4%|2.7%|1.1%|0.2%|
+|63.4%|12.0%|8.4%|7.8%|4.4%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
-||2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)||Medium|
-||2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)||Medium|
-||2220|Minimum Bit Flips to Convert Number|[:us:](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [:cn:](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)||Easy|
+|:heavy_check_mark:|2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|[ts](/2001-2500/2222.Number%20of%20Ways%20to%20Select%20Buildings.ts)|Medium|
+|:heavy_check_mark:|2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|[py](/2001-2500/2221.Find%20Triangular%20Sum%20of%20an%20Array.py)|Medium|
+|:heavy_check_mark:|2220|Minimum Bit Flips to Convert Number|[:us:](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [:cn:](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)|[ts](/2001-2500/2220.Minimum%20Bit%20Flips%20to%20Convert%20Number.ts)|Easy|
 |:lock:|2219|Maximum Sum Score of Array|[:us:](https://leetcode.com/problems/maximum-sum-score-of-array) [:cn:](https://leetcode-cn.com/problems/maximum-sum-score-of-array)||Medium|
 |:heavy_check_mark:|2218|Maximum Value of K Coins From Piles|[:us:](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles) [:cn:](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles)|[py](/2001-2500/2218.Maximum%20Value%20of%20K%20Coins%20From%20Piles.py)|Hard|
 |:heavy_check_mark:|2217|Find Palindrome With Fixed Length|[:us:](https://leetcode.com/problems/find-palindrome-with-fixed-length) [:cn:](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length)|[ts](/2001-2500/2217.Find%20Palindrome%20With%20Fixed%20Length.ts)|Medium|
