@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6055|contest question 6055||[py](/6055.py)||
-|:heavy_check_mark:|5302|contest question 5302||[py](/5302.py)||
-|:heavy_check_mark:|5235|contest question 5235||[py](/5235.py)||
-|:heavy_check_mark:|5219|contest question 5219||[py](/5219.py)||
+|:heavy_check_mark:|2227|Encrypt and Decrypt Strings|[:us:](https://leetcode.com/problems/encrypt-and-decrypt-strings) [:cn:](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings)|[py](/2001-2500/2227.Encrypt%20and%20Decrypt%20Strings.py)|Hard|
+|:heavy_check_mark:|2226|Maximum Candies Allocated to K Children|[:us:](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) [:cn:](https://leetcode-cn.com/problems/maximum-candies-allocated-to-k-children)|[py](/2001-2500/2226.Maximum%20Candies%20Allocated%20to%20K%20Children.py)|Medium|
+|:heavy_check_mark:|2225|Find Players With Zero or One Losses|[:us:](https://leetcode.com/problems/find-players-with-zero-or-one-losses) [:cn:](https://leetcode-cn.com/problems/find-players-with-zero-or-one-losses)|[py](/2001-2500/2225.Find%20Players%20With%20Zero%20or%20One%20Losses.py)|Medium|
+|:heavy_check_mark:|2224|Minimum Number of Operations to Convert Time|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-operations-to-convert-time)|[py](/2001-2500/2224.Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py)|Easy|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 |:heavy_check_mark:|2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|[ts](/2001-2500/2222.Number%20of%20Ways%20to%20Select%20Buildings.ts)|Medium|
 |:heavy_check_mark:|2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|[py](/2001-2500/2221.Find%20Triangular%20Sum%20of%20an%20Array.py)|Medium|
