@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|514|0|6|150|11|
+|510|0|6|146|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2234|Maximum Total Beauty of the Gardens|[:us:](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens) [:cn:](https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens)||Hard|
-||2233|Maximum Product After K Increments|[:us:](https://leetcode.com/problems/maximum-product-after-k-increments) [:cn:](https://leetcode-cn.com/problems/maximum-product-after-k-increments)||Medium|
-||2232|Minimize Result by Adding Parentheses to Expression|[:us:](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression) [:cn:](https://leetcode-cn.com/problems/minimize-result-by-adding-parentheses-to-expression)||Medium|
-||2231|Largest Number After Digit Swaps by Parity|[:us:](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) [:cn:](https://leetcode-cn.com/problems/largest-number-after-digit-swaps-by-parity)||Easy|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
