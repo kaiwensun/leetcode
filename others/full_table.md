@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2598|1658|6|144|11|
+|2607|1662|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.3%|11.9%|8.7%|7.8%|4.3%|2.7%|1.1%|0.2%|
+|63.1%|11.9%|8.9%|7.8%|4.3%|2.7%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2242|Maximum Score of a Node Sequence|[:us:](https://leetcode.com/problems/maximum-score-of-a-node-sequence) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence)|[ts](/2001-2500/2242.Maximum%20Score%20of%20a%20Node%20Sequence.ts)|Hard|
+|:heavy_check_mark:|2241|Design an ATM Machine|[:us:](https://leetcode.com/problems/design-an-atm-machine) [:cn:](https://leetcode-cn.com/problems/design-an-atm-machine)|[ts](/2001-2500/2241.Design%20an%20ATM%20Machine.ts)|Medium|
+|:heavy_check_mark:|2240|Number of Ways to Buy Pens and Pencils|[:us:](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils)|[ts](/2001-2500/2240.Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.ts)|Medium|
+|:heavy_check_mark:|2239|Find Closest Number to Zero|[:us:](https://leetcode.com/problems/find-closest-number-to-zero) [:cn:](https://leetcode-cn.com/problems/find-closest-number-to-zero)|[ts](/2001-2500/2239.Find%20Closest%20Number%20to%20Zero.ts)|Easy|
 |:lock: sql |2238|Number of Times a Driver Was a Passenger|[:us:](https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger) [:cn:](https://leetcode-cn.com/problems/number-of-times-a-driver-was-a-passenger)||Medium|
 |:lock:|2237|Count Positions on Street With Required Brightness|[:us:](https://leetcode.com/problems/count-positions-on-street-with-required-brightness) [:cn:](https://leetcode-cn.com/problems/count-positions-on-street-with-required-brightness)||Medium|
 |:heavy_check_mark:|2236|Root Equals Sum of Children|[:us:](https://leetcode.com/problems/root-equals-sum-of-children) [:cn:](https://leetcode-cn.com/problems/root-equals-sum-of-children)|[ts](/2001-2500/2236.Root%20Equals%20Sum%20of%20Children.ts)|Easy|
@@ -2308,6 +2312,11 @@
 ||LCP 47|入场安检|[:cn:](https://leetcode-cn.com/problems/oPs9Bm)||Hard|
 ||LCP 48|无限棋局|[:cn:](https://leetcode-cn.com/problems/fsa7oZ)||Hard|
 ||LCP 49|环形闯关游戏|[:cn:](https://leetcode-cn.com/problems/K8GULz)||Hard|
+||LCP 50|宝石补给|[:cn:](https://leetcode-cn.com/problems/WHnhjV)||Easy|
+||LCP 51|烹饪料理|[:cn:](https://leetcode-cn.com/problems/UEcfPD)||Easy|
+||LCP 52|二叉搜索树染色|[:cn:](https://leetcode-cn.com/problems/QO5KpG)||Medium|
+||LCP 53|守护太空城|[:cn:](https://leetcode-cn.com/problems/EJvmW4)||Hard|
+||LCP 54|夺回据点|[:cn:](https://leetcode-cn.com/problems/s5kipK)||Hard|
 |:heavy_check_mark:|LCS 01|下载插件|[:cn:](https://leetcode-cn.com/problems/Ju9Xwi)|[c](/LCS/LCS%2001.%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B6.c)|Easy|
 |:heavy_check_mark:|LCS 02|完成一半题目|[:cn:](https://leetcode-cn.com/problems/WqXACV)|[py](/LCS/LCS%2002.%E5%AE%8C%E6%88%90%E4%B8%80%E5%8D%8A%E9%A2%98%E7%9B%AE.py)|Easy|
 |:heavy_check_mark:|LCS 03|主题空间|[:cn:](https://leetcode-cn.com/problems/YesdPw)|[py](/LCS/LCS%2003.%E4%B8%BB%E9%A2%98%E7%A9%BA%E9%97%B4.py)|Medium|

@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|508|0|6|144|11|
+|513|0|6|144|11|
 
 
 
@@ -244,6 +244,11 @@
 ||LCP 47|入场安检|[:cn:](https://leetcode-cn.com/problems/oPs9Bm)||Hard|
 ||LCP 48|无限棋局|[:cn:](https://leetcode-cn.com/problems/fsa7oZ)||Hard|
 ||LCP 49|环形闯关游戏|[:cn:](https://leetcode-cn.com/problems/K8GULz)||Hard|
+||LCP 50|宝石补给|[:cn:](https://leetcode-cn.com/problems/WHnhjV)||Easy|
+||LCP 51|烹饪料理|[:cn:](https://leetcode-cn.com/problems/UEcfPD)||Easy|
+||LCP 52|二叉搜索树染色|[:cn:](https://leetcode-cn.com/problems/QO5KpG)||Medium|
+||LCP 53|守护太空城|[:cn:](https://leetcode-cn.com/problems/EJvmW4)||Hard|
+||LCP 54|夺回据点|[:cn:](https://leetcode-cn.com/problems/s5kipK)||Hard|
 ||剑指 Offer 04|二维数组中的查找 LCOF|[:cn:](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)||Medium|
 ||剑指 Offer 05|替换空格 LCOF|[:cn:](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)||Easy|
 ||剑指 Offer 06|从尾到头打印链表 LCOF|[:cn:](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|

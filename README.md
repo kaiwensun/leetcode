@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2598|1658|6|144|11|
+|2607|1662|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.3%|11.9%|8.7%|7.8%|4.3%|2.7%|1.1%|0.2%|
+|63.1%|11.9%|8.9%|7.8%|4.3%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2242|Maximum Score of a Node Sequence|[:us:](https://leetcode.com/problems/maximum-score-of-a-node-sequence) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence)|[ts](/2001-2500/2242.Maximum%20Score%20of%20a%20Node%20Sequence.ts)|Hard|
+|:heavy_check_mark:|2241|Design an ATM Machine|[:us:](https://leetcode.com/problems/design-an-atm-machine) [:cn:](https://leetcode-cn.com/problems/design-an-atm-machine)|[ts](/2001-2500/2241.Design%20an%20ATM%20Machine.ts)|Medium|
+|:heavy_check_mark:|2240|Number of Ways to Buy Pens and Pencils|[:us:](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils)|[ts](/2001-2500/2240.Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.ts)|Medium|
+|:heavy_check_mark:|2239|Find Closest Number to Zero|[:us:](https://leetcode.com/problems/find-closest-number-to-zero) [:cn:](https://leetcode-cn.com/problems/find-closest-number-to-zero)|[ts](/2001-2500/2239.Find%20Closest%20Number%20to%20Zero.ts)|Easy|
 |:lock: sql |2238|Number of Times a Driver Was a Passenger|[:us:](https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger) [:cn:](https://leetcode-cn.com/problems/number-of-times-a-driver-was-a-passenger)||Medium|
 |:lock:|2237|Count Positions on Street With Required Brightness|[:us:](https://leetcode.com/problems/count-positions-on-street-with-required-brightness) [:cn:](https://leetcode-cn.com/problems/count-positions-on-street-with-required-brightness)||Medium|
 |:heavy_check_mark:|2236|Root Equals Sum of Children|[:us:](https://leetcode.com/problems/root-equals-sum-of-children) [:cn:](https://leetcode-cn.com/problems/root-equals-sum-of-children)|[ts](/2001-2500/2236.Root%20Equals%20Sum%20of%20Children.ts)|Easy|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:lock:|245|Shortest Word Distance III|[:us:](https://leetcode.com/problems/shortest-word-distance-iii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-iii)||Medium|
 |:lock:|244|Shortest Word Distance II|[:us:](https://leetcode.com/problems/shortest-word-distance-ii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-ii)||Medium|
 |:lock:|243|Shortest Word Distance|[:us:](https://leetcode.com/problems/shortest-word-distance) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance)||Easy|
-|:heavy_check_mark:|242|Valid Anagram|[:us:](https://leetcode.com/problems/valid-anagram) [:cn:](https://leetcode-cn.com/problems/valid-anagram)|[c](/0001-0500/0242.Valid%20Anagram.c)|Easy|
-|:heavy_check_mark:|241|Different Ways to Add Parentheses|[:us:](https://leetcode.com/problems/different-ways-to-add-parentheses) [:cn:](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)|[java](/0001-0500/0241.Different%20Ways%20to%20Add%20Parentheses.java)|Medium|
-|:heavy_check_mark:|240|Search a 2D Matrix II|[:us:](https://leetcode.com/problems/search-a-2d-matrix-ii) [:cn:](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)|[c](/0001-0500/0240.Search%20a%202D%20Matrix%20II.c), [java](/0001-0500/0240.Search%20a%202D%20Matrix%20II.java)|Medium|
-|:heavy_check_mark:|239|Sliding Window Maximum|[:us:](https://leetcode.com/problems/sliding-window-maximum) [:cn:](https://leetcode-cn.com/problems/sliding-window-maximum)|[java](/0001-0500/0239.Sliding%20Window%20Maximum.java), [py](/0001-0500/0239.Sliding%20Window%20Maximum.py)|Hard|
