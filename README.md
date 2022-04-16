@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2607|1662|6|144|11|
+|2607|1663|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.1%|11.9%|8.9%|7.8%|4.3%|2.7%|1.1%|0.2%|
+|63.1%|11.9%|9.0%|7.7%|4.3%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -43,7 +43,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2222|Number of Ways to Select Buildings|[:us:](https://leetcode.com/problems/number-of-ways-to-select-buildings) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings)|[ts](/2001-2500/2222.Number%20of%20Ways%20to%20Select%20Buildings.ts)|Medium|
 |:heavy_check_mark:|2221|Find Triangular Sum of an Array|[:us:](https://leetcode.com/problems/find-triangular-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array)|[py](/2001-2500/2221.Find%20Triangular%20Sum%20of%20an%20Array.py)|Medium|
 |:heavy_check_mark:|2220|Minimum Bit Flips to Convert Number|[:us:](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [:cn:](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number)|[ts](/2001-2500/2220.Minimum%20Bit%20Flips%20to%20Convert%20Number.ts)|Easy|
-|:lock:|2219|Maximum Sum Score of Array|[:us:](https://leetcode.com/problems/maximum-sum-score-of-array) [:cn:](https://leetcode-cn.com/problems/maximum-sum-score-of-array)||Medium|
+|:heavy_check_mark::lock:|2219|Maximum Sum Score of Array|[:us:](https://leetcode.com/problems/maximum-sum-score-of-array) [:cn:](https://leetcode-cn.com/problems/maximum-sum-score-of-array)|[ts](/2001-2500/2219.Maximum%20Sum%20Score%20of%20Array.ts)|Medium|
 |:heavy_check_mark:|2218|Maximum Value of K Coins From Piles|[:us:](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles) [:cn:](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles)|[py](/2001-2500/2218.Maximum%20Value%20of%20K%20Coins%20From%20Piles.py)|Hard|
 |:heavy_check_mark:|2217|Find Palindrome With Fixed Length|[:us:](https://leetcode.com/problems/find-palindrome-with-fixed-length) [:cn:](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length)|[ts](/2001-2500/2217.Find%20Palindrome%20With%20Fixed%20Length.ts)|Medium|
 |:heavy_check_mark:|2216|Minimum Deletions to Make Array Beautiful|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful)|[ts](/2001-2500/2216.Minimum%20Deletions%20to%20Make%20Array%20Beautiful.ts)|Medium|
