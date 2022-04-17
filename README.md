@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2607|1664|6|144|11|
+|2607|1665|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.1%|11.9%|9.0%|7.7%|4.3%|2.7%|1.1%|0.2%|
+|63.0%|11.9%|9.1%|7.7%|4.3%|2.7%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -2016,7 +2016,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:lock:|249|Group Shifted Strings|[:us:](https://leetcode.com/problems/group-shifted-strings) [:cn:](https://leetcode-cn.com/problems/group-shifted-strings)||Medium|
 |:lock:|248|Strobogrammatic Number III|[:us:](https://leetcode.com/problems/strobogrammatic-number-iii) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number-iii)||Hard|
 |:lock:|247|Strobogrammatic Number II|[:us:](https://leetcode.com/problems/strobogrammatic-number-ii) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number-ii)||Medium|
-|:lock:|246|Strobogrammatic Number|[:us:](https://leetcode.com/problems/strobogrammatic-number) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number)||Easy|
+|:heavy_check_mark::lock:|246|Strobogrammatic Number|[:us:](https://leetcode.com/problems/strobogrammatic-number) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number)|[ts](/0001-0500/0246.Strobogrammatic%20Number.ts)|Easy|
 |:lock:|245|Shortest Word Distance III|[:us:](https://leetcode.com/problems/shortest-word-distance-iii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-iii)||Medium|
 |:lock:|244|Shortest Word Distance II|[:us:](https://leetcode.com/problems/shortest-word-distance-ii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-ii)||Medium|
 |:lock:|243|Shortest Word Distance|[:us:](https://leetcode.com/problems/shortest-word-distance) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance)||Easy|
