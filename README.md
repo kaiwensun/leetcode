@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2607|1665|6|144|11|
+|2611|1669|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -20,6 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6073|contest question 6073||[ts](/6073.ts)||
+|:heavy_check_mark:|6072|contest question 6072||[py](/6072.py)||
+|:heavy_check_mark:|6071|contest question 6071||[py](/6071.py)||
+|:heavy_check_mark:|6070|contest question 6070||[ts](/6070.ts)||
 |:heavy_check_mark:|2242|Maximum Score of a Node Sequence|[:us:](https://leetcode.com/problems/maximum-score-of-a-node-sequence) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence)|[ts](/2001-2500/2242.Maximum%20Score%20of%20a%20Node%20Sequence.ts)|Hard|
 |:heavy_check_mark:|2241|Design an ATM Machine|[:us:](https://leetcode.com/problems/design-an-atm-machine) [:cn:](https://leetcode-cn.com/problems/design-an-atm-machine)|[ts](/2001-2500/2241.Design%20an%20ATM%20Machine.ts)|Medium|
 |:heavy_check_mark:|2240|Number of Ways to Buy Pens and Pencils|[:us:](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils)|[ts](/2001-2500/2240.Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.ts)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:lock:|249|Group Shifted Strings|[:us:](https://leetcode.com/problems/group-shifted-strings) [:cn:](https://leetcode-cn.com/problems/group-shifted-strings)||Medium|
 |:lock:|248|Strobogrammatic Number III|[:us:](https://leetcode.com/problems/strobogrammatic-number-iii) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number-iii)||Hard|
 |:lock:|247|Strobogrammatic Number II|[:us:](https://leetcode.com/problems/strobogrammatic-number-ii) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number-ii)||Medium|
-|:heavy_check_mark::lock:|246|Strobogrammatic Number|[:us:](https://leetcode.com/problems/strobogrammatic-number) [:cn:](https://leetcode-cn.com/problems/strobogrammatic-number)|[ts](/0001-0500/0246.Strobogrammatic%20Number.ts)|Easy|
-|:lock:|245|Shortest Word Distance III|[:us:](https://leetcode.com/problems/shortest-word-distance-iii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-iii)||Medium|
-|:lock:|244|Shortest Word Distance II|[:us:](https://leetcode.com/problems/shortest-word-distance-ii) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance-ii)||Medium|
-|:lock:|243|Shortest Word Distance|[:us:](https://leetcode.com/problems/shortest-word-distance) [:cn:](https://leetcode-cn.com/problems/shortest-word-distance)||Easy|
