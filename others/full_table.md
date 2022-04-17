@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2607|1663|6|144|11|
+|2607|1664|6|144|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -2010,7 +2010,7 @@
 |:lock:|255|Verify Preorder Sequence in Binary Search Tree|[:us:](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree) [:cn:](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree)||Medium|
 |:lock:|254|Factor Combinations|[:us:](https://leetcode.com/problems/factor-combinations) [:cn:](https://leetcode-cn.com/problems/factor-combinations)||Medium|
 |:lock:|253|Meeting Rooms II|[:us:](https://leetcode.com/problems/meeting-rooms-ii) [:cn:](https://leetcode-cn.com/problems/meeting-rooms-ii)||Medium|
-|:lock:|252|Meeting Rooms|[:us:](https://leetcode.com/problems/meeting-rooms) [:cn:](https://leetcode-cn.com/problems/meeting-rooms)||Easy|
+|:heavy_check_mark::lock:|252|Meeting Rooms|[:us:](https://leetcode.com/problems/meeting-rooms) [:cn:](https://leetcode-cn.com/problems/meeting-rooms)|[ts](/0001-0500/0252.Meeting%20Rooms.ts)|Easy|
 |:lock:|251|Flatten 2D Vector|[:us:](https://leetcode.com/problems/flatten-2d-vector) [:cn:](https://leetcode-cn.com/problems/flatten-2d-vector)||Medium|
 |:lock:|250|Count Univalue Subtrees|[:us:](https://leetcode.com/problems/count-univalue-subtrees) [:cn:](https://leetcode-cn.com/problems/count-univalue-subtrees)||Medium|
 |:lock:|249|Group Shifted Strings|[:us:](https://leetcode.com/problems/group-shifted-strings) [:cn:](https://leetcode-cn.com/problems/group-shifted-strings)||Medium|
