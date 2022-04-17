@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6073|contest question 6073||[ts](/6073.ts)||
-|:heavy_check_mark:|6072|contest question 6072||[py](/6072.py)||
-|:heavy_check_mark:|6071|contest question 6071||[py](/6071.py)||
-|:heavy_check_mark:|6070|contest question 6070||[ts](/6070.ts)||
+|:heavy_check_mark:|2246|Longest Path With Different Adjacent Characters|[:us:](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) [:cn:](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters)|[ts](/2001-2500/2246.Longest%20Path%20With%20Different%20Adjacent%20Characters.ts)|Hard|
+|:heavy_check_mark:|2245|Maximum Trailing Zeros in a Cornered Path|[:us:](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path) [:cn:](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path)|[py](/2001-2500/2245.Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path.py)|Medium|
+|:heavy_check_mark:|2244|Minimum Rounds to Complete All Tasks|[:us:](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) [:cn:](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks)|[py](/2001-2500/2244.Minimum%20Rounds%20to%20Complete%20All%20Tasks.py)|Medium|
+|:heavy_check_mark:|2243|Calculate Digit Sum of a String|[:us:](https://leetcode.com/problems/calculate-digit-sum-of-a-string) [:cn:](https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string)|[ts](/2001-2500/2243.Calculate%20Digit%20Sum%20of%20a%20String.ts)|Easy|
 |:heavy_check_mark:|2242|Maximum Score of a Node Sequence|[:us:](https://leetcode.com/problems/maximum-score-of-a-node-sequence) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence)|[ts](/2001-2500/2242.Maximum%20Score%20of%20a%20Node%20Sequence.ts)|Hard|
 |:heavy_check_mark:|2241|Design an ATM Machine|[:us:](https://leetcode.com/problems/design-an-atm-machine) [:cn:](https://leetcode-cn.com/problems/design-an-atm-machine)|[ts](/2001-2500/2241.Design%20an%20ATM%20Machine.ts)|Medium|
 |:heavy_check_mark:|2240|Number of Ways to Buy Pens and Pencils|[:us:](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils)|[ts](/2001-2500/2240.Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.ts)|Medium|
