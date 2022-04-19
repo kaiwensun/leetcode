@@ -15,7 +15,7 @@
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|63.0%|11.9%|9.2%|7.7%|4.3%|2.7%|1.1%|0.2%|
+|63.0%|11.9%|9.2%|7.7%|4.3%|2.7%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1514,7 +1514,7 @@
 |:lock:|755|Pour Water|[:us:](https://leetcode.com/problems/pour-water) [:cn:](https://leetcode-cn.com/problems/pour-water)||Medium|
 ||754|Reach a Number|[:us:](https://leetcode.com/problems/reach-a-number) [:cn:](https://leetcode-cn.com/problems/reach-a-number)||Medium|
 ||753|Cracking the Safe|[:us:](https://leetcode.com/problems/cracking-the-safe) [:cn:](https://leetcode-cn.com/problems/cracking-the-safe)||Hard|
-|:heavy_check_mark:|752|Open the Lock|[:us:](https://leetcode.com/problems/open-the-lock) [:cn:](https://leetcode-cn.com/problems/open-the-lock)|[py](/0501-1000/0752.Open%20the%20Lock.%28step%20cost%20being%20the%20next%20stage%20-%20Dijkstra%29.py), [py](/0501-1000/0752.Open%20the%20Lock.py)|Medium|
+|:heavy_check_mark:|752|Open the Lock|[:us:](https://leetcode.com/problems/open-the-lock) [:cn:](https://leetcode-cn.com/problems/open-the-lock)|[py](/0501-1000/0752.Open%20the%20Lock.%28step%20cost%20being%20the%20next%20stage%20-%20Dijkstra%29.py), [py](/0501-1000/0752.Open%20the%20Lock.2.py), [py](/0501-1000/0752.Open%20the%20Lock.py)|Medium|
 |:lock:|751|IP to CIDR|[:us:](https://leetcode.com/problems/ip-to-cidr) [:cn:](https://leetcode-cn.com/problems/ip-to-cidr)||Medium|
 |:lock:|750|Number Of Corner Rectangles|[:us:](https://leetcode.com/problems/number-of-corner-rectangles) [:cn:](https://leetcode-cn.com/problems/number-of-corner-rectangles)||Medium|
 ||749|Contain Virus|[:us:](https://leetcode.com/problems/contain-virus) [:cn:](https://leetcode-cn.com/problems/contain-virus)||Hard|
