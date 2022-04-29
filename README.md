@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2628|1675|6|146|11|
+|2625|1675|6|143|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -20,16 +20,13 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6044|contest question 6044||[py](/6044.py)||
-|:heavy_check_mark:|6042|contest question 6042||[py](/6042.py)||
-|:heavy_check_mark:|6041|contest question 6041||[py](/6041.py)||
 ||2254|Design Video Sharing Platform|[:us:](https://leetcode.com/problems/design-video-sharing-platform) [:cn:](https://leetcode-cn.com/problems/design-video-sharing-platform)||Hard|
 |:lock: sql |2253|Dynamic Unpivoting of a Table|[:us:](https://leetcode.com/problems/dynamic-unpivoting-of-a-table) [:cn:](https://leetcode-cn.com/problems/dynamic-unpivoting-of-a-table)||Hard|
 |:lock: sql |2252|Dynamic Pivoting of a Table|[:us:](https://leetcode.com/problems/dynamic-pivoting-of-a-table) [:cn:](https://leetcode-cn.com/problems/dynamic-pivoting-of-a-table)||Hard|
-||2251|Number of Flowers in Full Bloom|[:us:](https://leetcode.com/problems/number-of-flowers-in-full-bloom) [:cn:](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom)||Hard|
+|:heavy_check_mark:|2251|Number of Flowers in Full Bloom|[:us:](https://leetcode.com/problems/number-of-flowers-in-full-bloom) [:cn:](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom)|[py](/2001-2500/2251.Number%20of%20Flowers%20in%20Full%20Bloom.py)|Hard|
 |:heavy_check_mark:|2250|Count Number of Rectangles Containing Each Point|[:us:](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point) [:cn:](https://leetcode-cn.com/problems/count-number-of-rectangles-containing-each-point)|[py](/2001-2500/2250.Count%20Number%20of%20Rectangles%20Containing%20Each%20Point.py)|Medium|
-||2249|Count Lattice Points Inside a Circle|[:us:](https://leetcode.com/problems/count-lattice-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle)||Medium|
-||2248|Intersection of Multiple Arrays|[:us:](https://leetcode.com/problems/intersection-of-multiple-arrays) [:cn:](https://leetcode-cn.com/problems/intersection-of-multiple-arrays)||Easy|
+|:heavy_check_mark:|2249|Count Lattice Points Inside a Circle|[:us:](https://leetcode.com/problems/count-lattice-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle)|[py](/2001-2500/2249.Count%20Lattice%20Points%20Inside%20a%20Circle.py)|Medium|
+|:heavy_check_mark:|2248|Intersection of Multiple Arrays|[:us:](https://leetcode.com/problems/intersection-of-multiple-arrays) [:cn:](https://leetcode-cn.com/problems/intersection-of-multiple-arrays)|[py](/2001-2500/2248.Intersection%20of%20Multiple%20Arrays.py)|Easy|
 |:lock:|2247|Maximum Cost of Trip With K Highways|[:us:](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways) [:cn:](https://leetcode-cn.com/problems/maximum-cost-of-trip-with-k-highways)||Hard|
 |:heavy_check_mark:|2246|Longest Path With Different Adjacent Characters|[:us:](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) [:cn:](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters)|[ts](/2001-2500/2246.Longest%20Path%20With%20Different%20Adjacent%20Characters.ts)|Hard|
 |:heavy_check_mark:|2245|Maximum Trailing Zeros in a Cornered Path|[:us:](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path) [:cn:](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path)|[py](/2001-2500/2245.Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path.py)|Medium|
@@ -2020,3 +2017,6 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|260|Single Number III|[:us:](https://leetcode.com/problems/single-number-iii) [:cn:](https://leetcode-cn.com/problems/single-number-iii)|[py](/0001-0500/0260.Single%20Number%20III.py), [ts](/0001-0500/0260.Single%20Number%20III.ts)|Medium|
 |:lock:|259|3Sum Smaller|[:us:](https://leetcode.com/problems/3sum-smaller) [:cn:](https://leetcode-cn.com/problems/3sum-smaller)||Medium|
 |:heavy_check_mark:|258|Add Digits|[:us:](https://leetcode.com/problems/add-digits) [:cn:](https://leetcode-cn.com/problems/add-digits)|[py](/0001-0500/0258.Add%20Digits.py)|Easy|
+|:heavy_check_mark:|257|Binary Tree Paths|[:us:](https://leetcode.com/problems/binary-tree-paths) [:cn:](https://leetcode-cn.com/problems/binary-tree-paths)|[py](/0001-0500/0257.Binary%20Tree%20Paths.py)|Easy|
+|:lock:|256|Paint House|[:us:](https://leetcode.com/problems/paint-house) [:cn:](https://leetcode-cn.com/problems/paint-house)||Medium|
+|:lock:|255|Verify Preorder Sequence in Binary Search Tree|[:us:](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree) [:cn:](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree)||Medium|

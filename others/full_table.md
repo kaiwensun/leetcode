@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2628|1675|6|146|11|
+|2625|1675|6|143|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -20,16 +20,13 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6044|contest question 6044||[py](/6044.py)||
-|:heavy_check_mark:|6042|contest question 6042||[py](/6042.py)||
-|:heavy_check_mark:|6041|contest question 6041||[py](/6041.py)||
 ||2254|Design Video Sharing Platform|[:us:](https://leetcode.com/problems/design-video-sharing-platform) [:cn:](https://leetcode-cn.com/problems/design-video-sharing-platform)||Hard|
 |:lock: sql |2253|Dynamic Unpivoting of a Table|[:us:](https://leetcode.com/problems/dynamic-unpivoting-of-a-table) [:cn:](https://leetcode-cn.com/problems/dynamic-unpivoting-of-a-table)||Hard|
 |:lock: sql |2252|Dynamic Pivoting of a Table|[:us:](https://leetcode.com/problems/dynamic-pivoting-of-a-table) [:cn:](https://leetcode-cn.com/problems/dynamic-pivoting-of-a-table)||Hard|
-||2251|Number of Flowers in Full Bloom|[:us:](https://leetcode.com/problems/number-of-flowers-in-full-bloom) [:cn:](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom)||Hard|
+|:heavy_check_mark:|2251|Number of Flowers in Full Bloom|[:us:](https://leetcode.com/problems/number-of-flowers-in-full-bloom) [:cn:](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom)|[py](/2001-2500/2251.Number%20of%20Flowers%20in%20Full%20Bloom.py)|Hard|
 |:heavy_check_mark:|2250|Count Number of Rectangles Containing Each Point|[:us:](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point) [:cn:](https://leetcode-cn.com/problems/count-number-of-rectangles-containing-each-point)|[py](/2001-2500/2250.Count%20Number%20of%20Rectangles%20Containing%20Each%20Point.py)|Medium|
-||2249|Count Lattice Points Inside a Circle|[:us:](https://leetcode.com/problems/count-lattice-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle)||Medium|
-||2248|Intersection of Multiple Arrays|[:us:](https://leetcode.com/problems/intersection-of-multiple-arrays) [:cn:](https://leetcode-cn.com/problems/intersection-of-multiple-arrays)||Easy|
+|:heavy_check_mark:|2249|Count Lattice Points Inside a Circle|[:us:](https://leetcode.com/problems/count-lattice-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle)|[py](/2001-2500/2249.Count%20Lattice%20Points%20Inside%20a%20Circle.py)|Medium|
+|:heavy_check_mark:|2248|Intersection of Multiple Arrays|[:us:](https://leetcode.com/problems/intersection-of-multiple-arrays) [:cn:](https://leetcode-cn.com/problems/intersection-of-multiple-arrays)|[py](/2001-2500/2248.Intersection%20of%20Multiple%20Arrays.py)|Easy|
 |:lock:|2247|Maximum Cost of Trip With K Highways|[:us:](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways) [:cn:](https://leetcode-cn.com/problems/maximum-cost-of-trip-with-k-highways)||Hard|
 |:heavy_check_mark:|2246|Longest Path With Different Adjacent Characters|[:us:](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) [:cn:](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters)|[ts](/2001-2500/2246.Longest%20Path%20With%20Different%20Adjacent%20Characters.ts)|Hard|
 |:heavy_check_mark:|2245|Maximum Trailing Zeros in a Cornered Path|[:us:](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path) [:cn:](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path)|[py](/2001-2500/2245.Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path.py)|Medium|

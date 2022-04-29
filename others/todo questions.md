@@ -10,16 +10,13 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|521|0|6|146|11|
+|518|0|6|143|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2254|Design Video Sharing Platform|[:us:](https://leetcode.com/problems/design-video-sharing-platform) [:cn:](https://leetcode-cn.com/problems/design-video-sharing-platform)||Hard|
-||2251|Number of Flowers in Full Bloom|[:us:](https://leetcode.com/problems/number-of-flowers-in-full-bloom) [:cn:](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom)||Hard|
-||2249|Count Lattice Points Inside a Circle|[:us:](https://leetcode.com/problems/count-lattice-points-inside-a-circle) [:cn:](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle)||Medium|
-||2248|Intersection of Multiple Arrays|[:us:](https://leetcode.com/problems/intersection-of-multiple-arrays) [:cn:](https://leetcode-cn.com/problems/intersection-of-multiple-arrays)||Easy|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
