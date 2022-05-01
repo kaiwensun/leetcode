@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|518|0|6|143|11|
+|517|0|6|142|11|
 
 
 
@@ -160,7 +160,6 @@
 | sql |601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium) [:cn:](https://leetcode-cn.com/problems/human-traffic-of-stadium)||Hard|
 | sql |596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode-cn.com/problems/classes-more-than-5-students)||Easy|
 ||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
-||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
 | sql |586|Customer Placing the Largest Number of Orders|[:us:](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) [:cn:](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders)||Easy|
 | sql |584|Find Customer Referee|[:us:](https://leetcode.com/problems/find-customer-referee) [:cn:](https://leetcode-cn.com/problems/find-customer-referee)||Easy|
 ||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree) [:cn:](https://leetcode-cn.com/problems/subtree-of-another-tree)||Easy|

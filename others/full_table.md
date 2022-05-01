@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2633|1683|6|143|11|
+|2633|1684|6|142|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.8%|11.8%|9.5%|7.7%|4.3%|2.7%|1.0%|0.2%|
+|62.8%|11.8%|9.6%|7.7%|4.3%|2.7%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -1691,7 +1691,7 @@
 |:heavy_check_mark:|594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|[ts](/0501-1000/0594.Longest%20Harmonious%20Subsequence.ts)|Easy|
 |:heavy_check_mark:|593|Valid Square|[:us:](https://leetcode.com/problems/valid-square) [:cn:](https://leetcode-cn.com/problems/valid-square)|[py](/0501-1000/0593.Valid%20Square.py)|Medium|
 ||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)||Medium|
-||591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)||Hard|
+|:heavy_check_mark:|591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode-cn.com/problems/tag-validator)|[ts](/0501-1000/0591.Tag%20Validator.ts)|Hard|
 |:heavy_check_mark:|590|N-ary Tree Postorder Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-postorder-traversal) [:cn:](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)|[py](/0501-1000/0590.N-ary%20Tree%20Postorder%20Traversal.py)|Easy|
 |:heavy_check_mark:|589|N-ary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-preorder-traversal) [:cn:](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|[js](/0501-1000/0589.N-ary%20Tree%20Preorder%20Traversal.js)|Easy|
 |:lock:|588|Design In-Memory File System|[:us:](https://leetcode.com/problems/design-in-memory-file-system) [:cn:](https://leetcode-cn.com/problems/design-in-memory-file-system)||Hard|
