@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6050|contest question 6050||[ts](/6050.ts)||
-|:heavy_check_mark:|6049|contest question 6049||[ts](/6049.ts)||
-|:heavy_check_mark:|6048|contest question 6048||[ts](/6048.ts)||
-|:heavy_check_mark:|6047|contest question 6047||[ts](/6047.ts)||
+|:heavy_check_mark:|2262|Total Appeal of A String|[:us:](https://leetcode.com/problems/total-appeal-of-a-string) [:cn:](https://leetcode-cn.com/problems/total-appeal-of-a-string)|[ts](/2001-2500/2262.Total%20Appeal%20of%20A%20String.ts)|Hard|
+|:heavy_check_mark:|2261|K Divisible Elements Subarrays|[:us:](https://leetcode.com/problems/k-divisible-elements-subarrays) [:cn:](https://leetcode-cn.com/problems/k-divisible-elements-subarrays)|[ts](/2001-2500/2261.K%20Divisible%20Elements%20Subarrays.ts)|Medium|
+|:heavy_check_mark:|2260|Minimum Consecutive Cards to Pick Up|[:us:](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up) [:cn:](https://leetcode-cn.com/problems/minimum-consecutive-cards-to-pick-up)|[ts](/2001-2500/2260.Minimum%20Consecutive%20Cards%20to%20Pick%20Up.ts)|Medium|
+|:heavy_check_mark:|2259|Remove Digit From Number to Maximize Result|[:us:](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) [:cn:](https://leetcode-cn.com/problems/remove-digit-from-number-to-maximize-result)|[ts](/2001-2500/2259.Remove%20Digit%20From%20Number%20to%20Maximize%20Result.ts)|Easy|
 ||2258|Escape the Spreading Fire|[:us:](https://leetcode.com/problems/escape-the-spreading-fire) [:cn:](https://leetcode-cn.com/problems/escape-the-spreading-fire)||Hard|
 ||2257|Count Unguarded Cells in the Grid|[:us:](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) [:cn:](https://leetcode-cn.com/problems/count-unguarded-cells-in-the-grid)||Medium|
 ||2256|Minimum Average Difference|[:us:](https://leetcode.com/problems/minimum-average-difference) [:cn:](https://leetcode-cn.com/problems/minimum-average-difference)||Medium|
