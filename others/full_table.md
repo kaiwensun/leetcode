@@ -20,10 +20,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6059|contest question 6059||[py](/6059.py)||
-|:heavy_check_mark:|6058|contest question 6058||[py](/6058.py)||
-|:heavy_check_mark:|6057|contest question 6057||[ts](/6057.ts)||
-|:heavy_check_mark:|6056|contest question 6056||[py](/6056.py)||
+|:heavy_check_mark:|2267|Check if There Is a Valid Parentheses String Path|[:us:](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) [:cn:](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path)|[py](/2001-2500/2267.Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path.py)|Hard|
+|:heavy_check_mark:|2266|Count Number of Texts|[:us:](https://leetcode.com/problems/count-number-of-texts) [:cn:](https://leetcode-cn.com/problems/count-number-of-texts)|[py](/2001-2500/2266.Count%20Number%20of%20Texts.py)|Medium|
+|:heavy_check_mark:|2265|Count Nodes Equal to Average of Subtree|[:us:](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) [:cn:](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree)|[ts](/2001-2500/2265.Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.ts)|Medium|
+|:heavy_check_mark:|2264|Largest 3-Same-Digit Number in String|[:us:](https://leetcode.com/problems/largest-3-same-digit-number-in-string) [:cn:](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string)|[py](/2001-2500/2264.Largest%203-Same-Digit%20Number%20in%20String.py)|Easy|
 |:lock:|2263|Make Array Non-decreasing or Non-increasing|[:us:](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing) [:cn:](https://leetcode-cn.com/problems/make-array-non-decreasing-or-non-increasing)||Hard|
 |:heavy_check_mark:|2262|Total Appeal of A String|[:us:](https://leetcode.com/problems/total-appeal-of-a-string) [:cn:](https://leetcode-cn.com/problems/total-appeal-of-a-string)|[ts](/2001-2500/2262.Total%20Appeal%20of%20A%20String.ts)|Hard|
 |:heavy_check_mark:|2261|K Divisible Elements Subarrays|[:us:](https://leetcode.com/problems/k-divisible-elements-subarrays) [:cn:](https://leetcode-cn.com/problems/k-divisible-elements-subarrays)|[ts](/2001-2500/2261.K%20Divisible%20Elements%20Subarrays.ts)|Medium|
