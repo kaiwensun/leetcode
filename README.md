@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2643|1693|6|141|11|
+|2647|1697|6|141|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.7%|11.7%|9.8%|7.6%|4.3%|2.6%|1.0%|0.2%|
+|62.8%|11.7%|9.8%|7.6%|4.2%|2.6%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6066|contest question 6066||[py](/6066.py)||
+|:heavy_check_mark:|6065|contest question 6065||[py](/6065.py)||
+|:heavy_check_mark:|6064|contest question 6064||[py](/6064.py)||
+|:heavy_check_mark:|5234|contest question 5234||[py](/5234.py)||
 ||2272|Substring With Largest Variance|[:us:](https://leetcode.com/problems/substring-with-largest-variance) [:cn:](https://leetcode-cn.com/problems/substring-with-largest-variance)||Hard|
 |:heavy_check_mark:|2271|Maximum White Tiles Covered by a Carpet|[:us:](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet) [:cn:](https://leetcode-cn.com/problems/maximum-white-tiles-covered-by-a-carpet)|[ts](/2001-2500/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.ts)|Medium|
 |:heavy_check_mark:|2270|Number of Ways to Split Array|[:us:](https://leetcode.com/problems/number-of-ways-to-split-array) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-split-array)|[ts](/2001-2500/2270.Number%20of%20Ways%20to%20Split%20Array.ts)|Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|279|Perfect Squares|[:us:](https://leetcode.com/problems/perfect-squares) [:cn:](https://leetcode-cn.com/problems/perfect-squares)|[rb](/0001-0500/0279.Perfect%20Squares.rb)|Medium|
 |:heavy_check_mark:|278|First Bad Version|[:us:](https://leetcode.com/problems/first-bad-version) [:cn:](https://leetcode-cn.com/problems/first-bad-version)|[rb](/0001-0500/0278.First%20Bad%20Version.rb)|Easy|
 |:lock:|277|Find the Celebrity|[:us:](https://leetcode.com/problems/find-the-celebrity) [:cn:](https://leetcode-cn.com/problems/find-the-celebrity)||Medium|
-|:lock:|276|Paint Fence|[:us:](https://leetcode.com/problems/paint-fence) [:cn:](https://leetcode-cn.com/problems/paint-fence)||Medium|
-|:heavy_check_mark:|275|H-Index II|[:us:](https://leetcode.com/problems/h-index-ii) [:cn:](https://leetcode-cn.com/problems/h-index-ii)|[rb](/0001-0500/0275.H-Index%20II.rb)|Medium|
-|:heavy_check_mark:|274|H-Index|[:us:](https://leetcode.com/problems/h-index) [:cn:](https://leetcode-cn.com/problems/h-index)|[py](/0001-0500/0274.H-Index.py)|Medium|
-|:heavy_check_mark:|273|Integer to English Words|[:us:](https://leetcode.com/problems/integer-to-english-words) [:cn:](https://leetcode-cn.com/problems/integer-to-english-words)|[java](/0001-0500/0273.Integer%20to%20English%20Words.java)|Hard|
