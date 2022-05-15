@@ -10,12 +10,13 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|514|0|6|140|11|
+|515|0|6|141|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2272|Substring With Largest Variance|[:us:](https://leetcode.com/problems/substring-with-largest-variance) [:cn:](https://leetcode-cn.com/problems/substring-with-largest-variance)||Hard|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|

@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2639|1690|6|140|11|
+|2643|1693|6|141|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.8%|11.7%|9.7%|7.6%|4.3%|2.6%|1.0%|0.2%|
+|62.7%|11.7%|9.8%|7.6%|4.3%|2.6%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2272|Substring With Largest Variance|[:us:](https://leetcode.com/problems/substring-with-largest-variance) [:cn:](https://leetcode-cn.com/problems/substring-with-largest-variance)||Hard|
+|:heavy_check_mark:|2271|Maximum White Tiles Covered by a Carpet|[:us:](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet) [:cn:](https://leetcode-cn.com/problems/maximum-white-tiles-covered-by-a-carpet)|[ts](/2001-2500/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.ts)|Medium|
+|:heavy_check_mark:|2270|Number of Ways to Split Array|[:us:](https://leetcode.com/problems/number-of-ways-to-split-array) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-split-array)|[ts](/2001-2500/2270.Number%20of%20Ways%20to%20Split%20Array.ts)|Medium|
+|:heavy_check_mark:|2269|Find the K-Beauty of a Number|[:us:](https://leetcode.com/problems/find-the-k-beauty-of-a-number) [:cn:](https://leetcode-cn.com/problems/find-the-k-beauty-of-a-number)|[ts](/2001-2500/2269.Find%20the%20K-Beauty%20of%20a%20Number.ts)|Easy|
 |:lock:|2268|Minimum Number of Keypresses|[:us:](https://leetcode.com/problems/minimum-number-of-keypresses) [:cn:](https://leetcode-cn.com/problems/minimum-number-of-keypresses)||Medium|
 |:heavy_check_mark:|2267|Check if There Is a Valid Parentheses String Path|[:us:](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) [:cn:](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path)|[py](/2001-2500/2267.Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path.py)|Hard|
 |:heavy_check_mark:|2266|Count Number of Texts|[:us:](https://leetcode.com/problems/count-number-of-texts) [:cn:](https://leetcode-cn.com/problems/count-number-of-texts)|[py](/2001-2500/2266.Count%20Number%20of%20Texts.py)|Medium|
