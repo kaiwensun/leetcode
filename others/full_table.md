@@ -10,21 +10,21 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2647|1697|6|141|11|
+|2647|1698|6|140|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.8%|11.7%|9.8%|7.6%|4.2%|2.6%|1.0%|0.2%|
+|62.7%|11.7%|9.9%|7.6%|4.2%|2.6%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6066|contest question 6066||[py](/6066.py)||
-|:heavy_check_mark:|6065|contest question 6065||[py](/6065.py)||
-|:heavy_check_mark:|6064|contest question 6064||[py](/6064.py)||
-|:heavy_check_mark:|5234|contest question 5234||[py](/5234.py)||
-||2272|Substring With Largest Variance|[:us:](https://leetcode.com/problems/substring-with-largest-variance) [:cn:](https://leetcode-cn.com/problems/substring-with-largest-variance)||Hard|
+|:heavy_check_mark:|2276|Count Integers in Intervals|[:us:](https://leetcode.com/problems/count-integers-in-intervals) [:cn:](https://leetcode-cn.com/problems/count-integers-in-intervals)|[py](/2001-2500/2276.Count%20Integers%20in%20Intervals.py)|Hard|
+|:heavy_check_mark:|2275|Largest Combination With Bitwise AND Greater Than Zero|[:us:](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) [:cn:](https://leetcode-cn.com/problems/largest-combination-with-bitwise-and-greater-than-zero)|[py](/2001-2500/2275.Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.py)|Medium|
+|:heavy_check_mark:|2274|Maximum Consecutive Floors Without Special Floors|[:us:](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors) [:cn:](https://leetcode-cn.com/problems/maximum-consecutive-floors-without-special-floors)|[py](/2001-2500/2274.Maximum%20Consecutive%20Floors%20Without%20Special%20Floors.py)|Medium|
+|:heavy_check_mark:|2273|Find Resultant Array After Removing Anagrams|[:us:](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) [:cn:](https://leetcode-cn.com/problems/find-resultant-array-after-removing-anagrams)|[py](/2001-2500/2273.Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)|Easy|
+|:heavy_check_mark:|2272|Substring With Largest Variance|[:us:](https://leetcode.com/problems/substring-with-largest-variance) [:cn:](https://leetcode-cn.com/problems/substring-with-largest-variance)|[ts](/2001-2500/2272.Substring%20With%20Largest%20Variance.ts)|Hard|
 |:heavy_check_mark:|2271|Maximum White Tiles Covered by a Carpet|[:us:](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet) [:cn:](https://leetcode-cn.com/problems/maximum-white-tiles-covered-by-a-carpet)|[ts](/2001-2500/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.ts)|Medium|
 |:heavy_check_mark:|2270|Number of Ways to Split Array|[:us:](https://leetcode.com/problems/number-of-ways-to-split-array) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-split-array)|[ts](/2001-2500/2270.Number%20of%20Ways%20to%20Split%20Array.ts)|Medium|
 |:heavy_check_mark:|2269|Find the K-Beauty of a Number|[:us:](https://leetcode.com/problems/find-the-k-beauty-of-a-number) [:cn:](https://leetcode-cn.com/problems/find-the-k-beauty-of-a-number)|[ts](/2001-2500/2269.Find%20the%20K-Beauty%20of%20a%20Number.ts)|Easy|
