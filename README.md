@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6077|contest question 6077||[py](/6077.py)||
-|:heavy_check_mark:|6076|contest question 6076||[py](/6076.py)||
-|:heavy_check_mark:|6075|contest question 6075||[py](/6075.py)||
-|:heavy_check_mark:|6074|contest question 6074||[py](/6074.py)||
+|:heavy_check_mark:|2281|Sum of Total Strength of Wizards|[:us:](https://leetcode.com/problems/sum-of-total-strength-of-wizards) [:cn:](https://leetcode-cn.com/problems/sum-of-total-strength-of-wizards)|[py](/2001-2500/2281.Sum%20of%20Total%20Strength%20of%20Wizards.py)|Hard|
+|:heavy_check_mark:|2280|Minimum Lines to Represent a Line Chart|[:us:](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart) [:cn:](https://leetcode-cn.com/problems/minimum-lines-to-represent-a-line-chart)|[py](/2001-2500/2280.Minimum%20Lines%20to%20Represent%20a%20Line%20Chart.py)|Medium|
+|:heavy_check_mark:|2279|Maximum Bags With Full Capacity of Rocks|[:us:](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) [:cn:](https://leetcode-cn.com/problems/maximum-bags-with-full-capacity-of-rocks)|[py](/2001-2500/2279.Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.py)|Medium|
+|:heavy_check_mark:|2278|Percentage of Letter in String|[:us:](https://leetcode.com/problems/percentage-of-letter-in-string) [:cn:](https://leetcode-cn.com/problems/percentage-of-letter-in-string)|[py](/2001-2500/2278.Percentage%20of%20Letter%20in%20String.py)|Easy|
 |:lock:|2277|Closest Node to Path in Tree|[:us:](https://leetcode.com/problems/closest-node-to-path-in-tree) [:cn:](https://leetcode-cn.com/problems/closest-node-to-path-in-tree)||Hard|
 |:heavy_check_mark:|2276|Count Integers in Intervals|[:us:](https://leetcode.com/problems/count-integers-in-intervals) [:cn:](https://leetcode-cn.com/problems/count-integers-in-intervals)|[py](/2001-2500/2276.Count%20Integers%20in%20Intervals.py)|Hard|
 |:heavy_check_mark:|2275|Largest Combination With Bitwise AND Greater Than Zero|[:us:](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) [:cn:](https://leetcode-cn.com/problems/largest-combination-with-bitwise-and-greater-than-zero)|[py](/2001-2500/2275.Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.py)|Medium|
