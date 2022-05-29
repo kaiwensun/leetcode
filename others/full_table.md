@@ -15,13 +15,13 @@
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.8%|11.6%|9.9%|7.6%|4.2%|2.6%|1.0%|0.2%|
+|62.8%|11.6%|9.9%|7.6%|4.2%|2.6%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|6081|contest question 6081||[py](/6081.py)||
-|:heavy_check_mark:|6080|contest question 6080||[py](/6080.py)||
+|:heavy_check_mark:|6080|contest question 6080||[js](/6080.js), [py](/6080.py)||
 |:heavy_check_mark:|6079|contest question 6079||[ts](/6079.ts)||
 |:heavy_check_mark:|6078|contest question 6078||[py](/6078.py)||
 ||2286|Booking Concert Tickets in Groups|[:us:](https://leetcode.com/problems/booking-concert-tickets-in-groups) [:cn:](https://leetcode-cn.com/problems/booking-concert-tickets-in-groups)||Hard|
