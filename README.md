@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2661|1706|6|144|11|
+|2661|1710|6|140|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.8%|11.6%|9.9%|7.6%|4.2%|2.6%|1.1%|0.2%|
+|62.7%|11.6%|10.0%|7.6%|4.2%|2.6%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2289|Steps to Make Array Non-decreasing|[:us:](https://leetcode.com/problems/steps-to-make-array-non-decreasing) [:cn:](https://leetcode-cn.com/problems/steps-to-make-array-non-decreasing)|[js](/2001-2500/2289.Steps%20to%20Make%20Array%20Non-decreasing.js), [py](/2001-2500/2289.Steps%20to%20Make%20Array%20Non-decreasing.py)|Medium|
 |:heavy_check_mark:|2288|Apply Discount to Prices|[:us:](https://leetcode.com/problems/apply-discount-to-prices) [:cn:](https://leetcode-cn.com/problems/apply-discount-to-prices)|[ts](/2001-2500/2288.Apply%20Discount%20to%20Prices.ts)|Medium|
 |:heavy_check_mark:|2287|Rearrange Characters to Make Target String|[:us:](https://leetcode.com/problems/rearrange-characters-to-make-target-string) [:cn:](https://leetcode-cn.com/problems/rearrange-characters-to-make-target-string)|[py](/2001-2500/2287.Rearrange%20Characters%20to%20Make%20Target%20String.py)|Easy|
-||2286|Booking Concert Tickets in Groups|[:us:](https://leetcode.com/problems/booking-concert-tickets-in-groups) [:cn:](https://leetcode-cn.com/problems/booking-concert-tickets-in-groups)||Hard|
-||2285|Maximum Total Importance of Roads|[:us:](https://leetcode.com/problems/maximum-total-importance-of-roads) [:cn:](https://leetcode-cn.com/problems/maximum-total-importance-of-roads)||Medium|
-||2284|Sender With Largest Word Count|[:us:](https://leetcode.com/problems/sender-with-largest-word-count) [:cn:](https://leetcode-cn.com/problems/sender-with-largest-word-count)||Medium|
-||2283|Check if Number Has Equal Digit Count and Digit Value|[:us:](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) [:cn:](https://leetcode-cn.com/problems/check-if-number-has-equal-digit-count-and-digit-value)||Easy|
+|:heavy_check_mark:|2286|Booking Concert Tickets in Groups|[:us:](https://leetcode.com/problems/booking-concert-tickets-in-groups) [:cn:](https://leetcode-cn.com/problems/booking-concert-tickets-in-groups)|[ts](/2001-2500/2286.Booking%20Concert%20Tickets%20in%20Groups.ts)|Hard|
+|:heavy_check_mark:|2285|Maximum Total Importance of Roads|[:us:](https://leetcode.com/problems/maximum-total-importance-of-roads) [:cn:](https://leetcode-cn.com/problems/maximum-total-importance-of-roads)|[ts](/2001-2500/2285.Maximum%20Total%20Importance%20of%20Roads.ts)|Medium|
+|:heavy_check_mark:|2284|Sender With Largest Word Count|[:us:](https://leetcode.com/problems/sender-with-largest-word-count) [:cn:](https://leetcode-cn.com/problems/sender-with-largest-word-count)|[ts](/2001-2500/2284.Sender%20With%20Largest%20Word%20Count.ts)|Medium|
+|:heavy_check_mark:|2283|Check if Number Has Equal Digit Count and Digit Value|[:us:](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value) [:cn:](https://leetcode-cn.com/problems/check-if-number-has-equal-digit-count-and-digit-value)|[py](/2001-2500/2283.Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py)|Easy|
 |:lock:|2282|Number of People That Can Be Seen in a Grid|[:us:](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid) [:cn:](https://leetcode-cn.com/problems/number-of-people-that-can-be-seen-in-a-grid)||Medium|
 |:heavy_check_mark:|2281|Sum of Total Strength of Wizards|[:us:](https://leetcode.com/problems/sum-of-total-strength-of-wizards) [:cn:](https://leetcode-cn.com/problems/sum-of-total-strength-of-wizards)|[py](/2001-2500/2281.Sum%20of%20Total%20Strength%20of%20Wizards.py)|Hard|
 |:heavy_check_mark:|2280|Minimum Lines to Represent a Line Chart|[:us:](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart) [:cn:](https://leetcode-cn.com/problems/minimum-lines-to-represent-a-line-chart)|[py](/2001-2500/2280.Minimum%20Lines%20to%20Represent%20a%20Line%20Chart.py)|Medium|
