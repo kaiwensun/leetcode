@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6093|contest question 6093||[java](/6093.java)||
-|:heavy_check_mark:|6092|contest question 6092||[java](/6092.java)||
-|:heavy_check_mark:|6091|contest question 6091||[ts](/6091.ts)||
-|:heavy_check_mark:|6090|contest question 6090||[ts](/6090.ts)||
+|:heavy_check_mark:|2296|Design a Text Editor|[:us:](https://leetcode.com/problems/design-a-text-editor) [:cn:](https://leetcode-cn.com/problems/design-a-text-editor)|[java](/2001-2500/2296.Design%20a%20Text%20Editor.java)|Hard|
+|:heavy_check_mark:|2295|Replace Elements in an Array|[:us:](https://leetcode.com/problems/replace-elements-in-an-array) [:cn:](https://leetcode-cn.com/problems/replace-elements-in-an-array)|[java](/2001-2500/2295.Replace%20Elements%20in%20an%20Array.java)|Medium|
+|:heavy_check_mark:|2294|Partition Array Such That Maximum Difference Is K|[:us:](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) [:cn:](https://leetcode-cn.com/problems/partition-array-such-that-maximum-difference-is-k)|[ts](/2001-2500/2294.Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.ts)|Medium|
+|:heavy_check_mark:|2293|Min Max Game|[:us:](https://leetcode.com/problems/min-max-game) [:cn:](https://leetcode-cn.com/problems/min-max-game)|[ts](/2001-2500/2293.Min%20Max%20Game.ts)|Easy|
 |:lock: sql |2292|Products With Three or More Orders in Two Consecutive Years|[:us:](https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years) [:cn:](https://leetcode-cn.com/problems/products-with-three-or-more-orders-in-two-consecutive-years)||Medium|
 |:lock:|2291|Maximum Profit From Trading Stocks|[:us:](https://leetcode.com/problems/maximum-profit-from-trading-stocks) [:cn:](https://leetcode-cn.com/problems/maximum-profit-from-trading-stocks)||Medium|
 |:heavy_check_mark:|2290|Minimum Obstacle Removal to Reach Corner|[:us:](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner) [:cn:](https://leetcode-cn.com/problems/minimum-obstacle-removal-to-reach-corner)|[py](/2001-2500/2290.Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.py)|Hard|
