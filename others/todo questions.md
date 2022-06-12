@@ -10,15 +10,14 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|517|0|6|143|11|
+|516|0|6|142|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2302|Count Subarrays With Score Less Than K|[:us:](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-score-less-than-k)||Hard|
-||2300|Successful Pairs of Spells and Potions|[:us:](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) [:cn:](https://leetcode-cn.com/problems/successful-pairs-of-spells-and-potions)||Medium|
-||2299|Strong Password Checker II|[:us:](https://leetcode.com/problems/strong-password-checker-ii) [:cn:](https://leetcode-cn.com/problems/strong-password-checker-ii)||Easy|
+||2301|Match Substring After Replacement|[:us:](https://leetcode.com/problems/match-substring-after-replacement) [:cn:](https://leetcode-cn.com/problems/match-substring-after-replacement)||Hard|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|

@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2677|1718|6|143|11|
+|2677|1720|6|142|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.6%|11.7%|10.2%|7.5%|4.2%|2.6%|1.1%|0.2%|
+|62.5%|11.7%|10.2%|7.5%|4.2%|2.6%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -25,11 +25,11 @@
 |:heavy_check_mark:|2304|Minimum Path Cost in a Grid|[:us:](https://leetcode.com/problems/minimum-path-cost-in-a-grid) [:cn:](https://leetcode-cn.com/problems/minimum-path-cost-in-a-grid)|[py](/2001-2500/2304.Minimum%20Path%20Cost%20in%20a%20Grid.py)|Medium|
 |:heavy_check_mark:|2303|Calculate Amount Paid in Taxes|[:us:](https://leetcode.com/problems/calculate-amount-paid-in-taxes) [:cn:](https://leetcode-cn.com/problems/calculate-amount-paid-in-taxes)|[ts](/2001-2500/2303.Calculate%20Amount%20Paid%20in%20Taxes.ts)|Easy|
 ||2302|Count Subarrays With Score Less Than K|[:us:](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) [:cn:](https://leetcode-cn.com/problems/count-subarrays-with-score-less-than-k)||Hard|
-||2300|Successful Pairs of Spells and Potions|[:us:](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) [:cn:](https://leetcode-cn.com/problems/successful-pairs-of-spells-and-potions)||Medium|
-||2299|Strong Password Checker II|[:us:](https://leetcode.com/problems/strong-password-checker-ii) [:cn:](https://leetcode-cn.com/problems/strong-password-checker-ii)||Easy|
+||2301|Match Substring After Replacement|[:us:](https://leetcode.com/problems/match-substring-after-replacement) [:cn:](https://leetcode-cn.com/problems/match-substring-after-replacement)||Hard|
+|:heavy_check_mark:|2300|Successful Pairs of Spells and Potions|[:us:](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) [:cn:](https://leetcode-cn.com/problems/successful-pairs-of-spells-and-potions)|[py](/2001-2500/2300.Successful%20Pairs%20of%20Spells%20and%20Potions.py)|Medium|
+|:heavy_check_mark:|2299|Strong Password Checker II|[:us:](https://leetcode.com/problems/strong-password-checker-ii) [:cn:](https://leetcode-cn.com/problems/strong-password-checker-ii)|[ts](/2001-2500/2299.Strong%20Password%20Checker%20II.ts)|Easy|
 |:lock:|2298|Tasks Count in the Weekend|[:us:](https://leetcode.com/problems/tasks-count-in-the-weekend) [:cn:](https://leetcode-cn.com/problems/tasks-count-in-the-weekend)||Medium|
 |:lock:|2297|Jump Game IX|[:us:](https://leetcode.com/problems/jump-game-ix) [:cn:](https://leetcode-cn.com/problems/jump-game-ix)||Medium|
-|:heavy_check_mark:|2296|Match Substring After Replacement|[:us:](https://leetcode.com/problems/match-substring-after-replacement) [:cn:](https://leetcode-cn.com/problems/match-substring-after-replacement)|[java](/2001-2500/2296.Design%20a%20Text%20Editor.java)|Hard|
 |:heavy_check_mark:|2296|Design a Text Editor|[:us:](https://leetcode.com/problems/design-a-text-editor) [:cn:](https://leetcode-cn.com/problems/design-a-text-editor)|[java](/2001-2500/2296.Design%20a%20Text%20Editor.java)|Hard|
 |:heavy_check_mark:|2295|Replace Elements in an Array|[:us:](https://leetcode.com/problems/replace-elements-in-an-array) [:cn:](https://leetcode-cn.com/problems/replace-elements-in-an-array)|[java](/2001-2500/2295.Replace%20Elements%20in%20an%20Array.java)|Medium|
 |:heavy_check_mark:|2294|Partition Array Such That Maximum Difference Is K|[:us:](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) [:cn:](https://leetcode-cn.com/problems/partition-array-such-that-maximum-difference-is-k)|[ts](/2001-2500/2294.Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.ts)|Medium|

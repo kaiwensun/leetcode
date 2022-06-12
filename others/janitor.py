@@ -92,8 +92,11 @@ class Question:
         self._id = str(dic["stat"]["frontend_question_id"])
 
         # temp fix until leetcode fixes issues
-        if self._id == "":
+        slug = dic["stat"]["question__title_slug"]
+        if slug == "design-a-text-editor":
             self._id = "2296"
+        if slug == "match-substring-after-replacement":
+            self._id = "6097"
 
         self._contest_temp_id = None
         self._title = dic["stat"]["question__title"].strip()
