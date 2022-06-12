@@ -91,6 +91,10 @@ class Question:
     def __init__(self, dic):
         self._id = str(dic["stat"]["frontend_question_id"])
 
+        # temp fix until leetcode fixes issues
+        if self._id == "":
+            self._id = "2296"
+
         self._contest_temp_id = None
         self._title = dic["stat"]["question__title"].strip()
         # malformatted title from api
@@ -116,9 +120,6 @@ class Question:
         return self._id.isdigit()
 
     def cn_url(self):
-        # if str(self._id).startswith("银联"):
-        #     import pdb
-        #     pdb.set_trace()
         if self._contest__title_slug and self._category_slug:
             return f"https://leetcode-cn.com/{self._category_slug}/{self._contest__title_slug}/problems/{self._slug}"
         return Question.CN_QUESTION_URL_PATTERN % self._slug
