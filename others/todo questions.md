@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|518|0|6|144|11|
+|516|0|6|142|11|
 
 
 
@@ -18,8 +18,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2322|Minimum Score After Removals on a Tree|[:us:](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) [:cn:](https://leetcode-cn.com/problems/minimum-score-after-removals-on-a-tree)||Hard|
 ||2321|Maximum Score Of Spliced Array|[:us:](https://leetcode.com/problems/maximum-score-of-spliced-array) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-spliced-array)||Hard|
-||2320|Count Number of Ways to Place Houses|[:us:](https://leetcode.com/problems/count-number-of-ways-to-place-houses) [:cn:](https://leetcode-cn.com/problems/count-number-of-ways-to-place-houses)||Medium|
-||2319|Check if Matrix Is X-Matrix|[:us:](https://leetcode.com/problems/check-if-matrix-is-x-matrix) [:cn:](https://leetcode-cn.com/problems/check-if-matrix-is-x-matrix)||Easy|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|
