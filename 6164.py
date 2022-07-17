@@ -11,6 +11,6 @@ class Solution:
         res = -1
         for values in d.values():
             if len(values) >= 2:
-                res = max(res, sum(nlargest(2, values)))
+                res = max(res, sum(heapq.nlargest(2, values)))
         return res
 
