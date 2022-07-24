@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2725|1744|6|154|11|
+|2725|1748|6|150|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.3%|11.5%|10.7%|7.4%|4.2%|2.6%|1.1%|0.2%|
+|62.3%|11.5%|10.8%|7.4%|4.2%|2.6%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2353|Design a Food Rating System|[:us:](https://leetcode.com/problems/design-a-food-rating-system) [:cn:](https://leetcode-cn.com/problems/design-a-food-rating-system)|[py](/2001-2500/2353.Design%20a%20Food%20Rating%20System.py)|Medium|
 |:heavy_check_mark:|2352|Equal Row and Column Pairs|[:us:](https://leetcode.com/problems/equal-row-and-column-pairs) [:cn:](https://leetcode-cn.com/problems/equal-row-and-column-pairs)|[py](/2001-2500/2352.Equal%20Row%20and%20Column%20Pairs.py)|Medium|
 |:heavy_check_mark:|2351|First Letter to Appear Twice|[:us:](https://leetcode.com/problems/first-letter-to-appear-twice) [:cn:](https://leetcode-cn.com/problems/first-letter-to-appear-twice)|[ts](/2001-2500/2351.First%20Letter%20to%20Appear%20Twice.ts)|Easy|
-||2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)||Hard|
-||2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)||Medium|
-||2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)||Medium|
-||2347|Best Poker Hand|[:us:](https://leetcode.com/problems/best-poker-hand) [:cn:](https://leetcode-cn.com/problems/best-poker-hand)||Easy|
+|:heavy_check_mark:|2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)|[ts](/2001-2500/2350.Shortest%20Impossible%20Sequence%20of%20Rolls.ts)|Hard|
+|:heavy_check_mark:|2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)|[py](/2001-2500/2349.Design%20a%20Number%20Container%20System.py)|Medium|
+|:heavy_check_mark:|2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)|[ts](/2001-2500/2348.Number%20of%20Zero-Filled%20Subarrays.ts)|Medium|
+|:heavy_check_mark:|2347|Best Poker Hand|[:us:](https://leetcode.com/problems/best-poker-hand) [:cn:](https://leetcode-cn.com/problems/best-poker-hand)|[ts](/2001-2500/2347.Best%20Poker%20Hand.ts)|Easy|
 |:lock: sql |2346|Compute the Rank as a Percentage|[:us:](https://leetcode.com/problems/compute-the-rank-as-a-percentage) [:cn:](https://leetcode-cn.com/problems/compute-the-rank-as-a-percentage)||Medium|
 |:lock:|2345|Finding the Number of Visible Mountains|[:us:](https://leetcode.com/problems/finding-the-number-of-visible-mountains) [:cn:](https://leetcode-cn.com/problems/finding-the-number-of-visible-mountains)||Medium|
 |:heavy_check_mark:|2344|Minimum Deletions to Make Array Divisible|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-divisible)|[py](/2001-2500/2344.Minimum%20Deletions%20to%20Make%20Array%20Divisible.py)|Hard|

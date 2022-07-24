@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|528|0|6|154|11|
+|524|0|6|150|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)||Hard|
-||2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)||Medium|
-||2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)||Medium|
-||2347|Best Poker Hand|[:us:](https://leetcode.com/problems/best-poker-hand) [:cn:](https://leetcode-cn.com/problems/best-poker-hand)||Easy|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
 ||2337|Move Pieces to Obtain a String|[:us:](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [:cn:](https://leetcode-cn.com/problems/move-pieces-to-obtain-a-string)||Medium|
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|
