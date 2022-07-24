@@ -16,14 +16,14 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2354|Number of Excellent Pairs|[:us:](https://leetcode.com/problems/number-of-excellent-pairs) [:cn:](https://leetcode-cn.com/problems/number-of-excellent-pairs)||Hard|
+||2353|Design a Food Rating System|[:us:](https://leetcode.com/problems/design-a-food-rating-system) [:cn:](https://leetcode-cn.com/problems/design-a-food-rating-system)||Medium|
+||2352|Equal Row and Column Pairs|[:us:](https://leetcode.com/problems/equal-row-and-column-pairs) [:cn:](https://leetcode-cn.com/problems/equal-row-and-column-pairs)||Medium|
+||2351|First Letter to Appear Twice|[:us:](https://leetcode.com/problems/first-letter-to-appear-twice) [:cn:](https://leetcode-cn.com/problems/first-letter-to-appear-twice)||Easy|
 ||2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)||Hard|
 ||2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)||Medium|
 ||2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)||Medium|
 ||2347|Best Poker Hand|[:us:](https://leetcode.com/problems/best-poker-hand) [:cn:](https://leetcode-cn.com/problems/best-poker-hand)||Easy|
-||2344|Minimum Deletions to Make Array Divisible|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-divisible)||Hard|
-||2343|Query Kth Smallest Trimmed Number|[:us:](https://leetcode.com/problems/query-kth-smallest-trimmed-number) [:cn:](https://leetcode-cn.com/problems/query-kth-smallest-trimmed-number)||Medium|
-||2342|Max Sum of a Pair With Equal Sum of Digits|[:us:](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) [:cn:](https://leetcode-cn.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)||Medium|
-||2341|Maximum Number of Pairs in Array|[:us:](https://leetcode.com/problems/maximum-number-of-pairs-in-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-pairs-in-array)||Easy|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
 ||2337|Move Pieces to Obtain a String|[:us:](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [:cn:](https://leetcode-cn.com/problems/move-pieces-to-obtain-a-string)||Medium|
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|

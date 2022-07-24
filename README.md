@@ -20,20 +20,20 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6164|contest question 6164||[py](/6164.py)||
-|:heavy_check_mark:|6122|contest question 6122||[py](/6122.py)||
-|:heavy_check_mark:|6121|contest question 6121||[py](/6121.py)||
-|:heavy_check_mark:|6120|contest question 6120||[py](/6120.py)||
+||2354|Number of Excellent Pairs|[:us:](https://leetcode.com/problems/number-of-excellent-pairs) [:cn:](https://leetcode-cn.com/problems/number-of-excellent-pairs)||Hard|
+||2353|Design a Food Rating System|[:us:](https://leetcode.com/problems/design-a-food-rating-system) [:cn:](https://leetcode-cn.com/problems/design-a-food-rating-system)||Medium|
+||2352|Equal Row and Column Pairs|[:us:](https://leetcode.com/problems/equal-row-and-column-pairs) [:cn:](https://leetcode-cn.com/problems/equal-row-and-column-pairs)||Medium|
+||2351|First Letter to Appear Twice|[:us:](https://leetcode.com/problems/first-letter-to-appear-twice) [:cn:](https://leetcode-cn.com/problems/first-letter-to-appear-twice)||Easy|
 ||2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)||Hard|
 ||2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)||Medium|
 ||2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)||Medium|
 ||2347|Best Poker Hand|[:us:](https://leetcode.com/problems/best-poker-hand) [:cn:](https://leetcode-cn.com/problems/best-poker-hand)||Easy|
 |:lock: sql |2346|Compute the Rank as a Percentage|[:us:](https://leetcode.com/problems/compute-the-rank-as-a-percentage) [:cn:](https://leetcode-cn.com/problems/compute-the-rank-as-a-percentage)||Medium|
 |:lock:|2345|Finding the Number of Visible Mountains|[:us:](https://leetcode.com/problems/finding-the-number-of-visible-mountains) [:cn:](https://leetcode-cn.com/problems/finding-the-number-of-visible-mountains)||Medium|
-||2344|Minimum Deletions to Make Array Divisible|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-divisible)||Hard|
-||2343|Query Kth Smallest Trimmed Number|[:us:](https://leetcode.com/problems/query-kth-smallest-trimmed-number) [:cn:](https://leetcode-cn.com/problems/query-kth-smallest-trimmed-number)||Medium|
-||2342|Max Sum of a Pair With Equal Sum of Digits|[:us:](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) [:cn:](https://leetcode-cn.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)||Medium|
-||2341|Maximum Number of Pairs in Array|[:us:](https://leetcode.com/problems/maximum-number-of-pairs-in-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-pairs-in-array)||Easy|
+|:heavy_check_mark:|2344|Minimum Deletions to Make Array Divisible|[:us:](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible) [:cn:](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-divisible)|[py](/2001-2500/2344.Minimum%20Deletions%20to%20Make%20Array%20Divisible.py)|Hard|
+|:heavy_check_mark:|2343|Query Kth Smallest Trimmed Number|[:us:](https://leetcode.com/problems/query-kth-smallest-trimmed-number) [:cn:](https://leetcode-cn.com/problems/query-kth-smallest-trimmed-number)|[py](/2001-2500/2343.Query%20Kth%20Smallest%20Trimmed%20Number.py)|Medium|
+|:heavy_check_mark:|2342|Max Sum of a Pair With Equal Sum of Digits|[:us:](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) [:cn:](https://leetcode-cn.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)|[py](/2001-2500/2342.Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py)|Medium|
+|:heavy_check_mark:|2341|Maximum Number of Pairs in Array|[:us:](https://leetcode.com/problems/maximum-number-of-pairs-in-array) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-pairs-in-array)|[py](/2001-2500/2341.Maximum%20Number%20of%20Pairs%20in%20Array.py)|Easy|
 |:lock:|2340|Minimum Adjacent Swaps to Make a Valid Array|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array) [:cn:](https://leetcode-cn.com/problems/minimum-adjacent-swaps-to-make-a-valid-array)||Medium|
 |:lock: sql |2339|All the Matches of the League|[:us:](https://leetcode.com/problems/all-the-matches-of-the-league) [:cn:](https://leetcode-cn.com/problems/all-the-matches-of-the-league)||Easy|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
