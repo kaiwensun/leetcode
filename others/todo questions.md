@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|532|0|6|158|11|
+|528|0|6|154|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2354|Number of Excellent Pairs|[:us:](https://leetcode.com/problems/number-of-excellent-pairs) [:cn:](https://leetcode-cn.com/problems/number-of-excellent-pairs)||Hard|
-||2353|Design a Food Rating System|[:us:](https://leetcode.com/problems/design-a-food-rating-system) [:cn:](https://leetcode-cn.com/problems/design-a-food-rating-system)||Medium|
-||2352|Equal Row and Column Pairs|[:us:](https://leetcode.com/problems/equal-row-and-column-pairs) [:cn:](https://leetcode-cn.com/problems/equal-row-and-column-pairs)||Medium|
-||2351|First Letter to Appear Twice|[:us:](https://leetcode.com/problems/first-letter-to-appear-twice) [:cn:](https://leetcode-cn.com/problems/first-letter-to-appear-twice)||Easy|
 ||2350|Shortest Impossible Sequence of Rolls|[:us:](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls) [:cn:](https://leetcode-cn.com/problems/shortest-impossible-sequence-of-rolls)||Hard|
 ||2349|Design a Number Container System|[:us:](https://leetcode.com/problems/design-a-number-container-system) [:cn:](https://leetcode-cn.com/problems/design-a-number-container-system)||Medium|
 ||2348|Number of Zero-Filled Subarrays|[:us:](https://leetcode.com/problems/number-of-zero-filled-subarrays) [:cn:](https://leetcode-cn.com/problems/number-of-zero-filled-subarrays)||Medium|
