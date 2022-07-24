@@ -1,4 +1,3 @@
-#import pdb
 class Solution(object):
     def threeSumClosest(self, nums, target):
         """
@@ -7,7 +6,6 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        print nums
         diff = 2**30
         rtn=0
         for i in range(len(nums)):
@@ -16,8 +14,6 @@ class Solution(object):
             while l<r:
                 tmp_diff = (target-nums[i]-nums[l]-nums[r])
                 if abs(tmp_diff)<diff:
-#                    if nums[r]==-18:
-#                        pdb.set_trace()
                     diff = abs(tmp_diff)
                     rtn = target-tmp_diff
                     print '%d,%d,%d,%d,%d,%d\n'%(nums[i],nums[l],nums[r],i,l,r)

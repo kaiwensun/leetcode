@@ -97,6 +97,8 @@ class Question:
             self._id = "2296"
         if slug == "match-substring-after-replacement":
             self._id = "6097"
+        if self._id == "面试题52":
+            self._id = "剑指 Offer 52"
 
         self._contest_temp_id = None
         self._title = dic["stat"]["question__title"].strip()

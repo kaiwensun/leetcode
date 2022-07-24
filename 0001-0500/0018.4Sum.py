@@ -1,4 +1,3 @@
-import pdb
 class Solution(object):
     #List = []
     def fourSum(self, nums, target):
@@ -57,9 +56,8 @@ class Solution(object):
                 l=l+1
                 while l<r and nums[l-1]==nums[l]:
                     l=l+1
- 
-                
-pdb.set_trace()
+
+
 lst = [-5,5,4,-3,0,0,4,-2]
 target = 4
 s = Solution()

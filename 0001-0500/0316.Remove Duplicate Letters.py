@@ -48,6 +48,4 @@ class Solution(object):
 
 sol = Solution()
 s = 'cbacdcbc'
-from pdb import set_trace as t
-t()
 print sol.removeDuplicateLetters(s)

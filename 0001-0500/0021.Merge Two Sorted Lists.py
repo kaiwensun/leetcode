@@ -1,4 +1,3 @@
-from pdb import *
 # Definition for singly-linked list.
 class ListNode(object):
 	def __init__(self, x):
@@ -22,7 +21,6 @@ class Solution(object):
 		ptr = head
 		ptr.next=ptr1
 		was1=True
-		#set_trace()
 		while ptr1!=None and ptr2!=None:
 			if ptr1.val<=ptr2.val:
 				if was1==False:

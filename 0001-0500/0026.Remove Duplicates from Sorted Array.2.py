@@ -1,4 +1,3 @@
-import pdb
 class Solution(object):
     def removeDuplicates(self, nums):
         """
@@ -25,6 +24,5 @@ class Solution(object):
             
 l = [1,1,2]        
 s=Solution()
-pdb.set_trace()
 print s.removeDuplicates(l)
 print l
