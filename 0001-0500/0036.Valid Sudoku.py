@@ -24,6 +24,4 @@ class Solution(object):
 
 s=Solution()
 sin = [".87654321","2........","3........","4........","5........","6........","7........","8........","9........"]
-import pdb
-pdb.set_trace()
 s.isValidSudoku(sin)
