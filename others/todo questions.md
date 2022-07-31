@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|524|0|6|150|11|
+|523|0|6|149|11|
 
 
 
@@ -25,7 +25,6 @@
 ||2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)||Medium|
 ||2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)||Easy|
 ||2322|Minimum Score After Removals on a Tree|[:us:](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) [:cn:](https://leetcode-cn.com/problems/minimum-score-after-removals-on-a-tree)||Hard|
-||2321|Maximum Score Of Spliced Array|[:us:](https://leetcode.com/problems/maximum-score-of-spliced-array) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-spliced-array)||Hard|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
 ||2122|Recover the Original Array|[:us:](https://leetcode.com/problems/recover-the-original-array) [:cn:](https://leetcode-cn.com/problems/recover-the-original-array)||Hard|

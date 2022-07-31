@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2731|1752|6|150|11|
+|2731|1753|6|149|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -59,7 +59,7 @@
 |:lock: sql |2324|Product Sales Analysis IV|[:us:](https://leetcode.com/problems/product-sales-analysis-iv) [:cn:](https://leetcode-cn.com/problems/product-sales-analysis-iv)||Medium|
 |:lock:|2323|Find Minimum Time to Finish All Jobs II|[:us:](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii) [:cn:](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs-ii)||Medium|
 ||2322|Minimum Score After Removals on a Tree|[:us:](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) [:cn:](https://leetcode-cn.com/problems/minimum-score-after-removals-on-a-tree)||Hard|
-||2321|Maximum Score Of Spliced Array|[:us:](https://leetcode.com/problems/maximum-score-of-spliced-array) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-spliced-array)||Hard|
+|:heavy_check_mark:|2321|Maximum Score Of Spliced Array|[:us:](https://leetcode.com/problems/maximum-score-of-spliced-array) [:cn:](https://leetcode-cn.com/problems/maximum-score-of-spliced-array)|[ts](/2001-2500/2321.Maximum%20Score%20Of%20Spliced%20Array.ts)|Hard|
 |:heavy_check_mark:|2320|Count Number of Ways to Place Houses|[:us:](https://leetcode.com/problems/count-number-of-ways-to-place-houses) [:cn:](https://leetcode-cn.com/problems/count-number-of-ways-to-place-houses)|[c](/2001-2500/2320.Count%20Number%20of%20Ways%20to%20Place%20Houses.c)|Medium|
 |:heavy_check_mark:|2319|Check if Matrix Is X-Matrix|[:us:](https://leetcode.com/problems/check-if-matrix-is-x-matrix) [:cn:](https://leetcode-cn.com/problems/check-if-matrix-is-x-matrix)|[ts](/2001-2500/2319.Check%20if%20Matrix%20Is%20X-Matrix.ts)|Easy|
 |:heavy_check_mark:|2318|Number of Distinct Roll Sequences|[:us:](https://leetcode.com/problems/number-of-distinct-roll-sequences) [:cn:](https://leetcode-cn.com/problems/number-of-distinct-roll-sequences)|[py](/2001-2500/2318.Number%20of%20Distinct%20Roll%20Sequences.py)|Hard|
