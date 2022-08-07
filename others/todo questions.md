@@ -10,16 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|527|0|6|153|11|
+|523|0|6|149|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)||Hard|
-||2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)||Medium|
-||2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)||Medium|
-||2363|Merge Similar Items|[:us:](https://leetcode.com/problems/merge-similar-items) [:cn:](https://leetcode-cn.com/problems/merge-similar-items)||Easy|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
 ||2337|Move Pieces to Obtain a String|[:us:](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [:cn:](https://leetcode-cn.com/problems/move-pieces-to-obtain-a-string)||Medium|
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|

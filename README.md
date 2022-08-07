@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2741|1757|6|153|11|
+|2741|1761|6|149|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.1%|11.4%|11.0%|7.4%|4.2%|2.6%|1.1%|0.2%|
+|62.0%|11.4%|11.2%|7.4%|4.2%|2.6%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -24,10 +24,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|6138|contest question 6138||[py](/6138.py)||
 |:heavy_check_mark:|6137|contest question 6137||[py](/6137.py)||
 |:heavy_check_mark:|6136|contest question 6136||[ts](/6136.ts)||
-||2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)||Hard|
-||2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)||Medium|
-||2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)||Medium|
-||2363|Merge Similar Items|[:us:](https://leetcode.com/problems/merge-similar-items) [:cn:](https://leetcode-cn.com/problems/merge-similar-items)||Easy|
+|:heavy_check_mark:|2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)|[ts](/2001-2500/2366.Minimum%20Replacements%20to%20Sort%20the%20Array.ts)|Hard|
+|:heavy_check_mark:|2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)|[ts](/2001-2500/2365.Task%20Scheduler%20II.ts)|Medium|
+|:heavy_check_mark:|2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)|[ts](/2001-2500/2364.Count%20Number%20of%20Bad%20Pairs.ts)|Medium|
+|:heavy_check_mark:|2363|Merge Similar Items|[:us:](https://leetcode.com/problems/merge-similar-items) [:cn:](https://leetcode-cn.com/problems/merge-similar-items)|[ts](/2001-2500/2363.Merge%20Similar%20Items.ts)|Easy|
 |:lock: sql |2362|Generate the Invoice|[:us:](https://leetcode.com/problems/generate-the-invoice) [:cn:](https://leetcode-cn.com/problems/generate-the-invoice)||Hard|
 |:lock:|2361|Minimum Costs Using the Train Line|[:us:](https://leetcode.com/problems/minimum-costs-using-the-train-line) [:cn:](https://leetcode-cn.com/problems/minimum-costs-using-the-train-line)||Hard|
 |:heavy_check_mark:|2360|Longest Cycle in a Graph|[:us:](https://leetcode.com/problems/longest-cycle-in-a-graph) [:cn:](https://leetcode-cn.com/problems/longest-cycle-in-a-graph)|[ts](/2001-2500/2360.Longest%20Cycle%20in%20a%20Graph.ts)|Hard|
