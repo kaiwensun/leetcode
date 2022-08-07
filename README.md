@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6139|contest question 6139||[py](/6139.py)||
-|:heavy_check_mark:|6138|contest question 6138||[py](/6138.py)||
-|:heavy_check_mark:|6137|contest question 6137||[py](/6137.py)||
-|:heavy_check_mark:|6136|contest question 6136||[ts](/6136.ts)||
+|:heavy_check_mark:|2370|Longest Ideal Subsequence|[:us:](https://leetcode.com/problems/longest-ideal-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-ideal-subsequence)|[py](/2001-2500/2370.Longest%20Ideal%20Subsequence.py)|Medium|
+|:heavy_check_mark:|2369|Check if There is a Valid Partition For The Array|[:us:](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array) [:cn:](https://leetcode-cn.com/problems/check-if-there-is-a-valid-partition-for-the-array)|[py](/2001-2500/2369.Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.py)|Medium|
+|:heavy_check_mark:|2368|Reachable Nodes With Restrictions|[:us:](https://leetcode.com/problems/reachable-nodes-with-restrictions) [:cn:](https://leetcode-cn.com/problems/reachable-nodes-with-restrictions)|[py](/2001-2500/2368.Reachable%20Nodes%20With%20Restrictions.py)|Medium|
+|:heavy_check_mark:|2367|Number of Arithmetic Triplets|[:us:](https://leetcode.com/problems/number-of-arithmetic-triplets) [:cn:](https://leetcode-cn.com/problems/number-of-arithmetic-triplets)|[ts](/2001-2500/2367.Number%20of%20Arithmetic%20Triplets.ts)|Easy|
 |:heavy_check_mark:|2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)|[ts](/2001-2500/2366.Minimum%20Replacements%20to%20Sort%20the%20Array.ts)|Hard|
 |:heavy_check_mark:|2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)|[ts](/2001-2500/2365.Task%20Scheduler%20II.ts)|Medium|
 |:heavy_check_mark:|2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)|[ts](/2001-2500/2364.Count%20Number%20of%20Bad%20Pairs.ts)|Medium|
