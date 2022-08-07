@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2737|1753|6|153|11|
+|2741|1757|6|153|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.1%|11.5%|11.0%|7.4%|4.2%|2.6%|1.1%|0.2%|
+|62.1%|11.4%|11.0%|7.4%|4.2%|2.6%|1.1%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6139|contest question 6139||[py](/6139.py)||
+|:heavy_check_mark:|6138|contest question 6138||[py](/6138.py)||
+|:heavy_check_mark:|6137|contest question 6137||[py](/6137.py)||
+|:heavy_check_mark:|6136|contest question 6136||[ts](/6136.ts)||
 ||2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)||Hard|
 ||2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)||Medium|
 ||2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)||Medium|

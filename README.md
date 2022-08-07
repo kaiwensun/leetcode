@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2737|1753|6|153|11|
+|2741|1757|6|153|11|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.1%|11.5%|11.0%|7.4%|4.2%|2.6%|1.1%|0.2%|
+|62.1%|11.4%|11.0%|7.4%|4.2%|2.6%|1.1%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6139|contest question 6139||[py](/6139.py)||
+|:heavy_check_mark:|6138|contest question 6138||[py](/6138.py)||
+|:heavy_check_mark:|6137|contest question 6137||[py](/6137.py)||
+|:heavy_check_mark:|6136|contest question 6136||[ts](/6136.ts)||
 ||2366|Minimum Replacements to Sort the Array|[:us:](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) [:cn:](https://leetcode-cn.com/problems/minimum-replacements-to-sort-the-array)||Hard|
 ||2365|Task Scheduler II|[:us:](https://leetcode.com/problems/task-scheduler-ii) [:cn:](https://leetcode-cn.com/problems/task-scheduler-ii)||Medium|
 ||2364|Count Number of Bad Pairs|[:us:](https://leetcode.com/problems/count-number-of-bad-pairs) [:cn:](https://leetcode-cn.com/problems/count-number-of-bad-pairs)||Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|373|Find K Pairs with Smallest Sums|[:us:](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) [:cn:](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|[java](/0001-0500/0373.Find%20K%20Pairs%20with%20Smallest%20Sums.java)|Medium|
 |:heavy_check_mark:|372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode-cn.com/problems/super-pow)|[ts](/0001-0500/0372.Super%20Pow.ts)|Medium|
 |:heavy_check_mark:|371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode-cn.com/problems/sum-of-two-integers)|[c](/0001-0500/0371.Sum%20of%20Two%20Integers.c)|Medium|
-|:lock:|370|Range Addition|[:us:](https://leetcode.com/problems/range-addition) [:cn:](https://leetcode-cn.com/problems/range-addition)||Medium|
-|:lock:|369|Plus One Linked List|[:us:](https://leetcode.com/problems/plus-one-linked-list) [:cn:](https://leetcode-cn.com/problems/plus-one-linked-list)||Medium|
-|:heavy_check_mark:|368|Largest Divisible Subset|[:us:](https://leetcode.com/problems/largest-divisible-subset) [:cn:](https://leetcode-cn.com/problems/largest-divisible-subset)|[py](/0001-0500/0368.Largest%20Divisible%20Subset.py), [rb](/0001-0500/0368.Largest%20Divisible%20Subset.rb)|Medium|
-|:heavy_check_mark:|367|Valid Perfect Square|[:us:](https://leetcode.com/problems/valid-perfect-square) [:cn:](https://leetcode-cn.com/problems/valid-perfect-square)|[rb](/0001-0500/0367.Valid%20Perfect%20Square.rb)|Easy|
