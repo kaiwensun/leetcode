@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6151|contest question 6151||[py](/6151.py)||
-|:heavy_check_mark:|6150|contest question 6150||[py](/6150.py)||
-|:heavy_check_mark:|6149|contest question 6149||[py](/6149.py)||
-|:heavy_check_mark:|6148|contest question 6148||[py](/6148.py)||
+|:heavy_check_mark:|2376|Count Special Integers|[:us:](https://leetcode.com/problems/count-special-integers) [:cn:](https://leetcode-cn.com/problems/count-special-integers)|[py](/2001-2500/2376.Count%20Special%20Integers.py)|Hard|
+|:heavy_check_mark:|2375|Construct Smallest Number From DI String|[:us:](https://leetcode.com/problems/construct-smallest-number-from-di-string) [:cn:](https://leetcode-cn.com/problems/construct-smallest-number-from-di-string)|[py](/2001-2500/2375.Construct%20Smallest%20Number%20From%20DI%20String.py)|Medium|
+|:heavy_check_mark:|2374|Node With Highest Edge Score|[:us:](https://leetcode.com/problems/node-with-highest-edge-score) [:cn:](https://leetcode-cn.com/problems/node-with-highest-edge-score)|[py](/2001-2500/2374.Node%20With%20Highest%20Edge%20Score.py)|Medium|
+|:heavy_check_mark:|2373|Largest Local Values in a Matrix|[:us:](https://leetcode.com/problems/largest-local-values-in-a-matrix) [:cn:](https://leetcode-cn.com/problems/largest-local-values-in-a-matrix)|[py](/2001-2500/2373.Largest%20Local%20Values%20in%20a%20Matrix.py)|Easy|
 |:lock: sql |2372|Calculate the Influence of Each Salesperson|[:us:](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson) [:cn:](https://leetcode-cn.com/problems/calculate-the-influence-of-each-salesperson)||Medium|
 |:lock:|2371|Minimize Maximum Value in a Grid|[:us:](https://leetcode.com/problems/minimize-maximum-value-in-a-grid) [:cn:](https://leetcode-cn.com/problems/minimize-maximum-value-in-a-grid)||Hard|
 |:heavy_check_mark:|2370|Longest Ideal Subsequence|[:us:](https://leetcode.com/problems/longest-ideal-subsequence) [:cn:](https://leetcode-cn.com/problems/longest-ideal-subsequence)|[py](/2001-2500/2370.Longest%20Ideal%20Subsequence.py)|Medium|
