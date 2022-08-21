@@ -10,13 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|524|0|6|150|11|
+|523|0|6|149|11|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2382|Maximum Segment Sum After Removals|[:us:](https://leetcode.com/problems/maximum-segment-sum-after-removals) [:cn:](https://leetcode-cn.com/problems/maximum-segment-sum-after-removals)||Hard|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
 ||2337|Move Pieces to Obtain a String|[:us:](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [:cn:](https://leetcode-cn.com/problems/move-pieces-to-obtain-a-string)||Medium|
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|
