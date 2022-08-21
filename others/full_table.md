@@ -10,18 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2755|1768|6|152|11|
+|2757|1769|6|153|11|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.0%|11.4%|11.4%|7.3%|4.2%|2.5%|1.0%|0.2%|
+|61.9%|11.4%|11.4%|7.3%|4.2%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6166|contest question 6166||[ts](/6166.ts)||
-|:heavy_check_mark:|6152|contest question 6152||[ts](/6152.ts)||
+||2386|Find the K-Sum of an Array|[:us:](https://leetcode.com/problems/find-the-k-sum-of-an-array) [:cn:](https://leetcode-cn.com/problems/find-the-k-sum-of-an-array)||Hard|
+|:heavy_check_mark:|2385|Amount of Time for Binary Tree to Be Infected|[:us:](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected) [:cn:](https://leetcode-cn.com/problems/amount-of-time-for-binary-tree-to-be-infected)|[ts](/2001-2500/2385.Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.ts)|Medium|
+|:heavy_check_mark:|2384|Largest Palindromic Number|[:us:](https://leetcode.com/problems/largest-palindromic-number) [:cn:](https://leetcode-cn.com/problems/largest-palindromic-number)|[ts](/2001-2500/2384.Largest%20Palindromic%20Number.ts)|Medium|
+|:heavy_check_mark:|2383|Minimum Hours of Training to Win a Competition|[:us:](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition) [:cn:](https://leetcode-cn.com/problems/minimum-hours-of-training-to-win-a-competition)|[ts](/2001-2500/2383.Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition.ts)|Easy|
 ||2382|Maximum Segment Sum After Removals|[:us:](https://leetcode.com/problems/maximum-segment-sum-after-removals) [:cn:](https://leetcode-cn.com/problems/maximum-segment-sum-after-removals)||Hard|
 ||2381|Shifting Letters II|[:us:](https://leetcode.com/problems/shifting-letters-ii) [:cn:](https://leetcode-cn.com/problems/shifting-letters-ii)||Medium|
 ||2380|Time Needed to Rearrange a Binary String|[:us:](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string) [:cn:](https://leetcode-cn.com/problems/time-needed-to-rearrange-a-binary-string)||Medium|
