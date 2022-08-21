@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2757|1770|6|152|11|
+|2757|1771|6|151|11|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.0%|11.4%|11.4%|7.3%|4.2%|2.5%|1.0%|0.2%|
+|61.9%|11.4%|11.3%|7.3%|4.2%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -26,7 +26,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2383|Minimum Hours of Training to Win a Competition|[:us:](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition) [:cn:](https://leetcode-cn.com/problems/minimum-hours-of-training-to-win-a-competition)|[ts](/2001-2500/2383.Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition.ts)|Easy|
 ||2382|Maximum Segment Sum After Removals|[:us:](https://leetcode.com/problems/maximum-segment-sum-after-removals) [:cn:](https://leetcode-cn.com/problems/maximum-segment-sum-after-removals)||Hard|
 ||2381|Shifting Letters II|[:us:](https://leetcode.com/problems/shifting-letters-ii) [:cn:](https://leetcode-cn.com/problems/shifting-letters-ii)||Medium|
-||2380|Time Needed to Rearrange a Binary String|[:us:](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string) [:cn:](https://leetcode-cn.com/problems/time-needed-to-rearrange-a-binary-string)||Medium|
+|:heavy_check_mark:|2380|Time Needed to Rearrange a Binary String|[:us:](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string) [:cn:](https://leetcode-cn.com/problems/time-needed-to-rearrange-a-binary-string)|[ts](/2001-2500/2380.Time%20Needed%20to%20Rearrange%20a%20Binary%20String.ts)|Medium|
 |:heavy_check_mark:|2379|Minimum Recolors to Get K Consecutive Black Blocks|[:us:](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) [:cn:](https://leetcode-cn.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks)|[ts](/2001-2500/2379.Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks.ts)|Easy|
 |:lock:|2378|Choose Edges to Maximize Score in a Tree|[:us:](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree) [:cn:](https://leetcode-cn.com/problems/choose-edges-to-maximize-score-in-a-tree)||Medium|
 |:lock: sql |2377|Sort the Olympic Table|[:us:](https://leetcode.com/problems/sort-the-olympic-table) [:cn:](https://leetcode-cn.com/problems/sort-the-olympic-table)||Easy|
