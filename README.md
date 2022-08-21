@@ -10,16 +10,18 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2753|1766|6|152|11|
+|2755|1768|6|152|11|
 
 
-|py|java|ts|rb|c|cpp|js|php|
+|py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.0%|11.4%|11.3%|7.3%|4.2%|2.5%|1.0%|0.2%|
+|62.0%|11.4%|11.4%|7.3%|4.2%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6166|contest question 6166||[ts](/6166.ts)||
+|:heavy_check_mark:|6152|contest question 6152||[ts](/6152.ts)||
 ||2382|Maximum Segment Sum After Removals|[:us:](https://leetcode.com/problems/maximum-segment-sum-after-removals) [:cn:](https://leetcode-cn.com/problems/maximum-segment-sum-after-removals)||Hard|
 ||2381|Shifting Letters II|[:us:](https://leetcode.com/problems/shifting-letters-ii) [:cn:](https://leetcode-cn.com/problems/shifting-letters-ii)||Medium|
 ||2380|Time Needed to Rearrange a Binary String|[:us:](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string) [:cn:](https://leetcode-cn.com/problems/time-needed-to-rearrange-a-binary-string)||Medium|
@@ -2018,5 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|387|First Unique Character in a String|[:us:](https://leetcode.com/problems/first-unique-character-in-a-string) [:cn:](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[py](/0001-0500/0387.First%20Unique%20Character%20in%20a%20String.py), [rb](/0001-0500/0387.First%20Unique%20Character%20in%20a%20String.rb)|Easy|
 |:heavy_check_mark:|386|Lexicographical Numbers|[:us:](https://leetcode.com/problems/lexicographical-numbers) [:cn:](https://leetcode-cn.com/problems/lexicographical-numbers)|[ts](/0001-0500/0386.Lexicographical%20Numbers.ts)|Medium|
 |:heavy_check_mark:|385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode-cn.com/problems/mini-parser)|[ts](/0001-0500/0385.Mini%20Parser.ts)|Medium|
-|:heavy_check_mark:|384|Shuffle an Array|[:us:](https://leetcode.com/problems/shuffle-an-array) [:cn:](https://leetcode-cn.com/problems/shuffle-an-array)|[java](/0001-0500/0384.Shuffle%20an%20Array.java)|Medium|
-|:heavy_check_mark:|383|Ransom Note|[:us:](https://leetcode.com/problems/ransom-note) [:cn:](https://leetcode-cn.com/problems/ransom-note)|[c](/0001-0500/0383.Ransom%20Note.2.c), [c](/0001-0500/0383.Ransom%20Note.c), [rb](/0001-0500/0383.Ransom%20Note.rb)|Easy|

@@ -10,16 +10,18 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2753|1766|6|152|11|
+|2755|1768|6|152|11|
 
 
-|py|java|ts|rb|c|cpp|js|php|
+|py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|62.0%|11.4%|11.3%|7.3%|4.2%|2.5%|1.0%|0.2%|
+|62.0%|11.4%|11.4%|7.3%|4.2%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6166|contest question 6166||[ts](/6166.ts)||
+|:heavy_check_mark:|6152|contest question 6152||[ts](/6152.ts)||
 ||2382|Maximum Segment Sum After Removals|[:us:](https://leetcode.com/problems/maximum-segment-sum-after-removals) [:cn:](https://leetcode-cn.com/problems/maximum-segment-sum-after-removals)||Hard|
 ||2381|Shifting Letters II|[:us:](https://leetcode.com/problems/shifting-letters-ii) [:cn:](https://leetcode-cn.com/problems/shifting-letters-ii)||Medium|
 ||2380|Time Needed to Rearrange a Binary String|[:us:](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string) [:cn:](https://leetcode-cn.com/problems/time-needed-to-rearrange-a-binary-string)||Medium|
