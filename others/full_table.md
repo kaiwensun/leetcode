@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2778|1785|6|153|12|
+|2778|1789|6|149|12|
 
 
-|py|ts|java|rb|c|cpp|js|php|
+|py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|61.7%|11.6%|11.5%|7.3%|4.2%|2.5%|1.0%|0.2%|
+|61.6%|11.6%|11.6%|7.2%|4.2%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -29,10 +29,10 @@
 |:heavy_check_mark:|2401|Longest Nice Subarray|[:us:](https://leetcode.com/problems/longest-nice-subarray) [:cn:](https://leetcode-cn.com/problems/longest-nice-subarray)|[java](/2001-2500/2401.Longest%20Nice%20Subarray.java)|Medium|
 |:heavy_check_mark:|2400|Number of Ways to Reach a Position After Exactly k Steps|[:us:](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps) [:cn:](https://leetcode-cn.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps)|[py](/2001-2500/2400.Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps.py)|Medium|
 |:heavy_check_mark:|2399|Check Distances Between Same Letters|[:us:](https://leetcode.com/problems/check-distances-between-same-letters) [:cn:](https://leetcode-cn.com/problems/check-distances-between-same-letters)|[java](/2001-2500/2399.Check%20Distances%20Between%20Same%20Letters.java)|Easy|
-||2398|Maximum Number of Robots Within Budget|[:us:](https://leetcode.com/problems/maximum-number-of-robots-within-budget) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-robots-within-budget)||Hard|
-||2397|Maximum Rows Covered by Columns|[:us:](https://leetcode.com/problems/maximum-rows-covered-by-columns) [:cn:](https://leetcode-cn.com/problems/maximum-rows-covered-by-columns)||Medium|
-||2396|Strictly Palindromic Number|[:us:](https://leetcode.com/problems/strictly-palindromic-number) [:cn:](https://leetcode-cn.com/problems/strictly-palindromic-number)||Medium|
-||2395|Find Subarrays With Equal Sum|[:us:](https://leetcode.com/problems/find-subarrays-with-equal-sum) [:cn:](https://leetcode-cn.com/problems/find-subarrays-with-equal-sum)||Easy|
+|:heavy_check_mark:|2398|Maximum Number of Robots Within Budget|[:us:](https://leetcode.com/problems/maximum-number-of-robots-within-budget) [:cn:](https://leetcode-cn.com/problems/maximum-number-of-robots-within-budget)|[java](/2001-2500/2398.Maximum%20Number%20of%20Robots%20Within%20Budget.java)|Hard|
+|:heavy_check_mark:|2397|Maximum Rows Covered by Columns|[:us:](https://leetcode.com/problems/maximum-rows-covered-by-columns) [:cn:](https://leetcode-cn.com/problems/maximum-rows-covered-by-columns)|[ts](/2001-2500/2397.Maximum%20Rows%20Covered%20by%20Columns.ts)|Medium|
+|:heavy_check_mark:|2396|Strictly Palindromic Number|[:us:](https://leetcode.com/problems/strictly-palindromic-number) [:cn:](https://leetcode-cn.com/problems/strictly-palindromic-number)|[java](/2001-2500/2396.Strictly%20Palindromic%20Number.java)|Medium|
+|:heavy_check_mark:|2395|Find Subarrays With Equal Sum|[:us:](https://leetcode.com/problems/find-subarrays-with-equal-sum) [:cn:](https://leetcode-cn.com/problems/find-subarrays-with-equal-sum)|[java](/2001-2500/2395.Find%20Subarrays%20With%20Equal%20Sum.java)|Easy|
 |:lock: sql |2394|Employees With Deductions|[:us:](https://leetcode.com/problems/employees-with-deductions) [:cn:](https://leetcode-cn.com/problems/employees-with-deductions)||Medium|
 |:lock:|2393|Count Strictly Increasing Subarrays|[:us:](https://leetcode.com/problems/count-strictly-increasing-subarrays) [:cn:](https://leetcode-cn.com/problems/count-strictly-increasing-subarrays)||Medium|
 |:heavy_check_mark:|2392|Build a Matrix With Conditions|[:us:](https://leetcode.com/problems/build-a-matrix-with-conditions) [:cn:](https://leetcode-cn.com/problems/build-a-matrix-with-conditions)|[java](/2001-2500/2392.Build%20a%20Matrix%20With%20Conditions.java)|Hard|
