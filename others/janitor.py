@@ -45,7 +45,8 @@ class Client:
                 time.sleep(1)
                 res.html.render()
                 break
-            except pyppeteer.errors.NetworkError as e:
+            except (pyppeteer.errors.NetworkError, pyppeteer.errors.TimeoutError) as e:
+                print(e)
                 ex = e
         else:
             raise ex
