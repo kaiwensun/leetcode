@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6191|contest question 6191||[py](/6191.py)||
-|:heavy_check_mark:|6190|contest question 6190||[java](/6190.java)||
-|:heavy_check_mark:|6189|contest question 6189||[java](/6189.java)||
-|:heavy_check_mark:|6188|contest question 6188||[py](/6188.py)||
+|:heavy_check_mark:|2421|Number of Good Paths|[:us:](https://leetcode.com/problems/number-of-good-paths) [:cn:](https://leetcode-cn.com/problems/number-of-good-paths)|[py](/2001-2500/2421.Number%20of%20Good%20Paths.py)|Hard|
+|:heavy_check_mark:|2420|Find All Good Indices|[:us:](https://leetcode.com/problems/find-all-good-indices) [:cn:](https://leetcode-cn.com/problems/find-all-good-indices)|[java](/2001-2500/2420.Find%20All%20Good%20Indices.java)|Medium|
+|:heavy_check_mark:|2419|Longest Subarray With Maximum Bitwise AND|[:us:](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) [:cn:](https://leetcode-cn.com/problems/longest-subarray-with-maximum-bitwise-and)|[java](/2001-2500/2419.Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.java)|Medium|
+|:heavy_check_mark:|2418|Sort the People|[:us:](https://leetcode.com/problems/sort-the-people) [:cn:](https://leetcode-cn.com/problems/sort-the-people)|[py](/2001-2500/2418.Sort%20the%20People.py)|Easy|
 |:lock:|2417|Closest Fair Integer|[:us:](https://leetcode.com/problems/closest-fair-integer) [:cn:](https://leetcode-cn.com/problems/closest-fair-integer)||Medium|
 |:heavy_check_mark:|2416|Sum of Prefix Scores of Strings|[:us:](https://leetcode.com/problems/sum-of-prefix-scores-of-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-prefix-scores-of-strings)|[py](/2001-2500/2416.Sum%20of%20Prefix%20Scores%20of%20Strings.py)|Hard|
 |:heavy_check_mark:|2415|Reverse Odd Levels of Binary Tree|[:us:](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree) [:cn:](https://leetcode-cn.com/problems/reverse-odd-levels-of-binary-tree)|[py](/2001-2500/2415.Reverse%20Odd%20Levels%20of%20Binary%20Tree.py), [ts](/2001-2500/2415.Reverse%20Odd%20Levels%20of%20Binary%20Tree.ts)|Medium|
