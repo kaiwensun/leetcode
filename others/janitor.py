@@ -778,18 +778,10 @@ def gen_markdown(questions, solutions, title, markdown_type):
         def gen_markdown_today():
             return "* Last updat: " + datetime.date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
 
-        def gen_support():
-            if markdown_type == MarkdownType.MAIN_README:
-                return "* :gift_heart: [Buy me a coffee](others/support/README.md)"
-            elif markdown_type == MarkdownType.FULL_TABLE:
-                return "* :gift_heart: [Buy me a coffee](support/README.md)"
-            return ""
-
         res = ["# " + title,
                gen_markdown_site_links(),
                gen_markdown_self_link(),
-               gen_markdown_today(),
-               gen_support()]
+               gen_markdown_today()]
         return "\n".join(res)
 
     def gen_markdown_language_stats(solutions):
