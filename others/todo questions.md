@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|528|0|6|149|12|
+|527|0|6|148|12|
 
 
 
@@ -22,7 +22,6 @@
 ||2334|Subarray With Elements Greater Than Varying Threshold|[:us:](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) [:cn:](https://leetcode-cn.com/problems/subarray-with-elements-greater-than-varying-threshold)||Hard|
 ||2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)||Medium|
 ||2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)||Medium|
-||2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)||Easy|
 ||2322|Minimum Score After Removals on a Tree|[:us:](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) [:cn:](https://leetcode-cn.com/problems/minimum-score-after-removals-on-a-tree)||Hard|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|

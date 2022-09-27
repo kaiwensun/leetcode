@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2797|1801|6|149|12|
+|2797|1802|6|148|12|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -109,7 +109,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 ||2334|Subarray With Elements Greater Than Varying Threshold|[:us:](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) [:cn:](https://leetcode-cn.com/problems/subarray-with-elements-greater-than-varying-threshold)||Hard|
 ||2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)||Medium|
 ||2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)||Medium|
-||2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)||Easy|
+|:heavy_check_mark:|2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)|[c](/2001-2500/2331.Evaluate%20Boolean%20Binary%20Tree.c)|Easy|
 |:lock:|2330|Valid Palindrome IV|[:us:](https://leetcode.com/problems/valid-palindrome-iv) [:cn:](https://leetcode-cn.com/problems/valid-palindrome-iv)||Medium|
 |:lock: sql |2329|Product Sales Analysis V|[:us:](https://leetcode.com/problems/product-sales-analysis-v) [:cn:](https://leetcode-cn.com/problems/product-sales-analysis-v)||Easy|
 |:heavy_check_mark:|2328|Number of Increasing Paths in a Grid|[:us:](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid) [:cn:](https://leetcode-cn.com/problems/number-of-increasing-paths-in-a-grid)|[py](/2001-2500/2328.Number%20of%20Increasing%20Paths%20in%20a%20Grid.py)|Hard|
