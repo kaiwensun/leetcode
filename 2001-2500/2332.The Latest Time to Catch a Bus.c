@@ -6,7 +6,7 @@ int latestTimeCatchTheBus(int* buses, int busesSize, int* passengers, int passen
     qsort(buses, busesSize, sizeof(*buses), compare);
     qsort(passengers, passengersSize, sizeof(*passengers), compare);
     int* pp = passengers;
-    int waiting = 0, res = *buses;
+    int res = *buses;
     for (int* bp = buses; bp < buses + busesSize; bp++) {
         int i;
         for (i = 0; i < capacity && pp < passengers + passengersSize && *pp <= *bp; i++, pp++) {
@@ -14,7 +14,6 @@ int latestTimeCatchTheBus(int* buses, int busesSize, int* passengers, int passen
                 res = *pp - 1;
             }
         }
-        printf("%d\n", i);
         if (i != capacity && (pp == passengers || *(pp - 1) != *bp)) {
             res = *bp;
         }
