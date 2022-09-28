@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2797|1803|6|147|12|
+|2797|1804|6|146|12|
 
 
 |py|java|ts|rb|c|cpp|js|php|
@@ -107,7 +107,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|
 ||2335|Minimum Amount of Time to Fill Cups|[:us:](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) [:cn:](https://leetcode-cn.com/problems/minimum-amount-of-time-to-fill-cups)||Easy|
 ||2334|Subarray With Elements Greater Than Varying Threshold|[:us:](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) [:cn:](https://leetcode-cn.com/problems/subarray-with-elements-greater-than-varying-threshold)||Hard|
-||2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)||Medium|
+|:heavy_check_mark:|2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)|[c](/2001-2500/2333.Minimum%20Sum%20of%20Squared%20Difference.c)|Medium|
 |:heavy_check_mark:|2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)|[c](/2001-2500/2332.The%20Latest%20Time%20to%20Catch%20a%20Bus.c)|Medium|
 |:heavy_check_mark:|2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)|[c](/2001-2500/2331.Evaluate%20Boolean%20Binary%20Tree.c)|Easy|
 |:lock:|2330|Valid Palindrome IV|[:us:](https://leetcode.com/problems/valid-palindrome-iv) [:cn:](https://leetcode-cn.com/problems/valid-palindrome-iv)||Medium|

@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|526|0|6|147|12|
+|525|0|6|146|12|
 
 
 
@@ -20,7 +20,6 @@
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|
 ||2335|Minimum Amount of Time to Fill Cups|[:us:](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) [:cn:](https://leetcode-cn.com/problems/minimum-amount-of-time-to-fill-cups)||Easy|
 ||2334|Subarray With Elements Greater Than Varying Threshold|[:us:](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) [:cn:](https://leetcode-cn.com/problems/subarray-with-elements-greater-than-varying-threshold)||Hard|
-||2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)||Medium|
 ||2322|Minimum Score After Removals on a Tree|[:us:](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) [:cn:](https://leetcode-cn.com/problems/minimum-score-after-removals-on-a-tree)||Hard|
 ||2223|Sum of Scores of Built Strings|[:us:](https://leetcode.com/problems/sum-of-scores-of-built-strings) [:cn:](https://leetcode-cn.com/problems/sum-of-scores-of-built-strings)||Hard|
 ||2132|Stamping the Grid|[:us:](https://leetcode.com/problems/stamping-the-grid) [:cn:](https://leetcode-cn.com/problems/stamping-the-grid)||Hard|
