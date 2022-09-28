@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2797|1802|6|148|12|
+|2797|1803|6|147|12|
 
 
 |py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|61.4%|11.8%|11.6%|7.2%|4.3%|2.5%|1.0%|0.2%|
+|61.3%|11.7%|11.6%|7.2%|4.4%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
@@ -108,7 +108,7 @@
 ||2335|Minimum Amount of Time to Fill Cups|[:us:](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups) [:cn:](https://leetcode-cn.com/problems/minimum-amount-of-time-to-fill-cups)||Easy|
 ||2334|Subarray With Elements Greater Than Varying Threshold|[:us:](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) [:cn:](https://leetcode-cn.com/problems/subarray-with-elements-greater-than-varying-threshold)||Hard|
 ||2333|Minimum Sum of Squared Difference|[:us:](https://leetcode.com/problems/minimum-sum-of-squared-difference) [:cn:](https://leetcode-cn.com/problems/minimum-sum-of-squared-difference)||Medium|
-||2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)||Medium|
+|:heavy_check_mark:|2332|The Latest Time to Catch a Bus|[:us:](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) [:cn:](https://leetcode-cn.com/problems/the-latest-time-to-catch-a-bus)|[c](/2001-2500/2332.The%20Latest%20Time%20to%20Catch%20a%20Bus.c)|Medium|
 |:heavy_check_mark:|2331|Evaluate Boolean Binary Tree|[:us:](https://leetcode.com/problems/evaluate-boolean-binary-tree) [:cn:](https://leetcode-cn.com/problems/evaluate-boolean-binary-tree)|[c](/2001-2500/2331.Evaluate%20Boolean%20Binary%20Tree.c)|Easy|
 |:lock:|2330|Valid Palindrome IV|[:us:](https://leetcode.com/problems/valid-palindrome-iv) [:cn:](https://leetcode-cn.com/problems/valid-palindrome-iv)||Medium|
 |:lock: sql |2329|Product Sales Analysis V|[:us:](https://leetcode.com/problems/product-sales-analysis-v) [:cn:](https://leetcode-cn.com/problems/product-sales-analysis-v)||Easy|
