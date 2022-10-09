@@ -85,7 +85,7 @@ class Question:
     """
 
     US_QUESTION_URL_PATTERN = "https://leetcode.com/problems/%s"
-    CN_QUESTION_URL_PATTERN = "https://leetcode-cn.com/problems/%s"
+    CN_QUESTION_URL_PATTERN = "https://leetcode.cn/problems/%s"
     DIFFICULTIES = ["Easy", "Medium", "Hard"]
     QID_SPLIT = 5000  # new weekly contest questions have very big question ids
 
@@ -118,7 +118,7 @@ class Question:
 
     def cn_url(self):
         if self._contest__title_slug and self._category_slug:
-            return f"https://leetcode-cn.com/{self._category_slug}/{self._contest__title_slug}/problems/{self._slug}"
+            return f"https://leetcode.cn/{self._category_slug}/{self._contest__title_slug}/problems/{self._slug}"
         return Question.CN_QUESTION_URL_PATTERN % self._slug
 
     def us_url(self):
@@ -656,7 +656,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
                           "This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data."
                           )
         header = """
-|Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
+|Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 """
         if markdown_type == MarkdownType.MAIN_README:
@@ -762,7 +762,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
             return """
 * LeetCode websites
   * [leetcode.com](https://leetcode.com/)
-  * [leetcode-cn.com](https://leetcode-cn.com/)
+  * [leetcode.cn](https://leetcode.cn/)
 """
 
         def gen_markdown_self_link():
@@ -828,7 +828,7 @@ def load_resources(client, offline):
             obj = load_online_resource_from_file(abs_file_path)
             return obj
         obj = client.getJson(
-            f"https://leetcode-cn.com/api/problems/{category}/")
+            f"https://leetcode.cn/api/problems/{category}/")
 
         # LeetCode does not list some questions in normal api
         if category == "all":
@@ -839,7 +839,7 @@ def load_resources(client, offline):
                 'paid_only': False}
             ]
 
-            # https://leetcode-cn.com/contest/api/info/cnunionpay-2022spring/
+            # https://leetcode.cn/contest/api/info/cnunionpay-2022spring/
             CNUNIONPAY_2022SPRING = [
                 {'id': 3501, 'question_id': 1000419, 'credit': 3, 'title': '回文链表', 'english_title': '回文链表', 'title_slug': 'D7rekZ', 'category_slug': 'contest'},
                 {'id': 3502, 'question_id': 1000421, 'credit': 4, 'title': '优惠活动系统', 'english_title': '优惠活动系统', 'title_slug': 'kDPV0f', 'category_slug': 'contest'},
