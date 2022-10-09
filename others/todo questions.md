@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|534|0|6|149|12|
+|530|0|6|145|12|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2426|Number of Pairs Satisfying Inequality|[:us:](https://leetcode.com/problems/number-of-pairs-satisfying-inequality) [:cn:](https://leetcode-cn.com/problems/number-of-pairs-satisfying-inequality)||Hard|
-||2425|Bitwise XOR of All Pairings|[:us:](https://leetcode.com/problems/bitwise-xor-of-all-pairings) [:cn:](https://leetcode-cn.com/problems/bitwise-xor-of-all-pairings)||Medium|
-||2424|Longest Uploaded Prefix|[:us:](https://leetcode.com/problems/longest-uploaded-prefix) [:cn:](https://leetcode-cn.com/problems/longest-uploaded-prefix)||Medium|
-||2423|Remove Letter To Equalize Frequency|[:us:](https://leetcode.com/problems/remove-letter-to-equalize-frequency) [:cn:](https://leetcode-cn.com/problems/remove-letter-to-equalize-frequency)||Easy|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode-cn.com/problems/count-the-number-of-ideal-arrays)||Hard|
 ||2337|Move Pieces to Obtain a String|[:us:](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [:cn:](https://leetcode-cn.com/problems/move-pieces-to-obtain-a-string)||Medium|
 ||2336|Smallest Number in Infinite Set|[:us:](https://leetcode.com/problems/smallest-number-in-infinite-set) [:cn:](https://leetcode-cn.com/problems/smallest-number-in-infinite-set)||Medium|

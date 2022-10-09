@@ -9,29 +9,29 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2817|1813|6|149|12|
+|2817|1817|6|145|12|
 
 
-|py|ts|java|rb|c|cpp|js|php|
+|py|java|ts|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|61.1%|11.7%|11.7%|7.2%|4.6%|2.5%|1.0%|0.2%|
+|61.1%|11.7%|11.7%|7.1%|4.6%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode-cn.com/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6203|contest question 6203||[py](/6203.py)||
-|:heavy_check_mark:|6202|contest question 6202||[ts](/6202.ts)||
-|:heavy_check_mark:|6201|contest question 6201||[ts](/6201.ts)||
-|:heavy_check_mark:|6200|contest question 6200||[ts](/6200.ts)||
+|:heavy_check_mark:|2435|Paths in Matrix Whose Sum Is Divisible by K|[:us:](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k) [:cn:](https://leetcode-cn.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k)|[py](/2001-2500/2435.Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K.py)|Hard|
+|:heavy_check_mark:|2434|Using a Robot to Print the Lexicographically Smallest String|[:us:](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) [:cn:](https://leetcode-cn.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string)|[ts](/2001-2500/2434.Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String.ts)|Medium|
+|:heavy_check_mark:|2433|Find The Original Array of Prefix Xor|[:us:](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) [:cn:](https://leetcode-cn.com/problems/find-the-original-array-of-prefix-xor)|[ts](/2001-2500/2433.Find%20The%20Original%20Array%20of%20Prefix%20Xor.ts)|Medium|
+|:heavy_check_mark:|2432|The Employee That Worked on the Longest Task|[:us:](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) [:cn:](https://leetcode-cn.com/problems/the-employee-that-worked-on-the-longest-task)|[ts](/2001-2500/2432.The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.ts)|Easy|
 |:lock:|2431|Maximize Total Tastiness of Purchased Fruits|[:us:](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits) [:cn:](https://leetcode-cn.com/problems/maximize-total-tastiness-of-purchased-fruits)||Medium|
 |:heavy_check_mark:|2430|Maximum Deletions on a String|[:us:](https://leetcode.com/problems/maximum-deletions-on-a-string) [:cn:](https://leetcode-cn.com/problems/maximum-deletions-on-a-string)|[py](/2001-2500/2430.Maximum%20Deletions%20on%20a%20String.py)|Hard|
 |:heavy_check_mark:|2429|Minimize XOR|[:us:](https://leetcode.com/problems/minimize-xor) [:cn:](https://leetcode-cn.com/problems/minimize-xor)|[c](/2001-2500/2429.Minimize%20XOR.c)|Medium|
 |:heavy_check_mark:|2428|Maximum Sum of an Hourglass|[:us:](https://leetcode.com/problems/maximum-sum-of-an-hourglass) [:cn:](https://leetcode-cn.com/problems/maximum-sum-of-an-hourglass)|[c](/2001-2500/2428.Maximum%20Sum%20of%20an%20Hourglass.c)|Medium|
 |:heavy_check_mark:|2427|Number of Common Factors|[:us:](https://leetcode.com/problems/number-of-common-factors) [:cn:](https://leetcode-cn.com/problems/number-of-common-factors)|[c](/2001-2500/2427.Number%20of%20Common%20Factors.c)|Easy|
-||2426|Number of Pairs Satisfying Inequality|[:us:](https://leetcode.com/problems/number-of-pairs-satisfying-inequality) [:cn:](https://leetcode-cn.com/problems/number-of-pairs-satisfying-inequality)||Hard|
-||2425|Bitwise XOR of All Pairings|[:us:](https://leetcode.com/problems/bitwise-xor-of-all-pairings) [:cn:](https://leetcode-cn.com/problems/bitwise-xor-of-all-pairings)||Medium|
-||2424|Longest Uploaded Prefix|[:us:](https://leetcode.com/problems/longest-uploaded-prefix) [:cn:](https://leetcode-cn.com/problems/longest-uploaded-prefix)||Medium|
-||2423|Remove Letter To Equalize Frequency|[:us:](https://leetcode.com/problems/remove-letter-to-equalize-frequency) [:cn:](https://leetcode-cn.com/problems/remove-letter-to-equalize-frequency)||Easy|
+|:heavy_check_mark:|2426|Number of Pairs Satisfying Inequality|[:us:](https://leetcode.com/problems/number-of-pairs-satisfying-inequality) [:cn:](https://leetcode-cn.com/problems/number-of-pairs-satisfying-inequality)|[py](/2001-2500/2426.Number%20of%20Pairs%20Satisfying%20Inequality.py)|Hard|
+|:heavy_check_mark:|2425|Bitwise XOR of All Pairings|[:us:](https://leetcode.com/problems/bitwise-xor-of-all-pairings) [:cn:](https://leetcode-cn.com/problems/bitwise-xor-of-all-pairings)|[c](/2001-2500/2425.Bitwise%20XOR%20of%20All%20Pairings.c)|Medium|
+|:heavy_check_mark:|2424|Longest Uploaded Prefix|[:us:](https://leetcode.com/problems/longest-uploaded-prefix) [:cn:](https://leetcode-cn.com/problems/longest-uploaded-prefix)|[java](/2001-2500/2424.Longest%20Uploaded%20Prefix.java)|Medium|
+|:heavy_check_mark:|2423|Remove Letter To Equalize Frequency|[:us:](https://leetcode.com/problems/remove-letter-to-equalize-frequency) [:cn:](https://leetcode-cn.com/problems/remove-letter-to-equalize-frequency)|[py](/2001-2500/2423.Remove%20Letter%20To%20Equalize%20Frequency.py)|Easy|
 |:lock:|2422|Merge Operations to Turn Array Into a Palindrome|[:us:](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome) [:cn:](https://leetcode-cn.com/problems/merge-operations-to-turn-array-into-a-palindrome)||Medium|
 |:heavy_check_mark:|2421|Number of Good Paths|[:us:](https://leetcode.com/problems/number-of-good-paths) [:cn:](https://leetcode-cn.com/problems/number-of-good-paths)|[py](/2001-2500/2421.Number%20of%20Good%20Paths.py)|Hard|
 |:heavy_check_mark:|2420|Find All Good Indices|[:us:](https://leetcode.com/problems/find-all-good-indices) [:cn:](https://leetcode-cn.com/problems/find-all-good-indices)|[java](/2001-2500/2420.Find%20All%20Good%20Indices.java)|Medium|
