@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2822|1820|6|146|12|
+|2826|1824|6|146|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|61.0%|11.8%|11.7%|7.1%|4.6%|2.5%|1.0%|0.2%|
+|61.0%|11.9%|11.7%|7.1%|4.6%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6219|contest question 6219||[ts](/6219.ts)||
+|:heavy_check_mark:|6207|contest question 6207||[ts](/6207.ts)||
+|:heavy_check_mark:|6205|contest question 6205||[py](/6205.py)||
+|:heavy_check_mark:|6204|contest question 6204||[py](/6204.py)||
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
 |:heavy_check_mark:|2439|Minimize Maximum of Array|[:us:](https://leetcode.com/problems/minimize-maximum-of-array) [:cn:](https://leetcode.cn/problems/minimize-maximum-of-array)|[ts](/2001-2500/2439.Minimize%20Maximum%20of%20Array.ts)|Medium|
 |:heavy_check_mark:|2438|Range Product Queries of Powers|[:us:](https://leetcode.com/problems/range-product-queries-of-powers) [:cn:](https://leetcode.cn/problems/range-product-queries-of-powers)|[ts](/2001-2500/2438.Range%20Product%20Queries%20of%20Powers.ts)|Medium|
@@ -2015,7 +2019,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|447|Number of Boomerangs|[:us:](https://leetcode.com/problems/number-of-boomerangs) [:cn:](https://leetcode.cn/problems/number-of-boomerangs)|[cpp](/0001-0500/0447.Number%20of%20Boomerangs.cpp)|Medium|
 |:heavy_check_mark:|446|Arithmetic Slices II - Subsequence|[:us:](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) [:cn:](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence)|[py](/0001-0500/0446.Arithmetic%20Slices%20II%20-%20Subsequence.py)|Hard|
 |:heavy_check_mark:|445|Add Two Numbers II|[:us:](https://leetcode.com/problems/add-two-numbers-ii) [:cn:](https://leetcode.cn/problems/add-two-numbers-ii)|[py](/0001-0500/0445.Add%20Two%20Numbers%20II.py)|Medium|
-|:lock:|444|Sequence Reconstruction|[:us:](https://leetcode.com/problems/sequence-reconstruction) [:cn:](https://leetcode.cn/problems/sequence-reconstruction)||Medium|
-|:heavy_check_mark:|443|String Compression|[:us:](https://leetcode.com/problems/string-compression) [:cn:](https://leetcode.cn/problems/string-compression)|[c](/0001-0500/0443.String%20Compression.c)|Medium|
-|:heavy_check_mark:|442|Find All Duplicates in an Array|[:us:](https://leetcode.com/problems/find-all-duplicates-in-an-array) [:cn:](https://leetcode.cn/problems/find-all-duplicates-in-an-array)|[py](/0001-0500/0442.Find%20All%20Duplicates%20in%20an%20Array.2.py), [py](/0001-0500/0442.Find%20All%20Duplicates%20in%20an%20Array.py)|Medium|
-|:heavy_check_mark:|441|Arranging Coins|[:us:](https://leetcode.com/problems/arranging-coins) [:cn:](https://leetcode.cn/problems/arranging-coins)|[cpp](/0001-0500/0441.Arranging%20Coins.cpp), [rb](/0001-0500/0441.Arranging%20Coins.rb)|Easy|

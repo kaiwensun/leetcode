@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2822|1820|6|146|12|
+|2826|1824|6|146|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|61.0%|11.8%|11.7%|7.1%|4.6%|2.5%|1.0%|0.2%|
+|61.0%|11.9%|11.7%|7.1%|4.6%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6219|contest question 6219||[ts](/6219.ts)||
+|:heavy_check_mark:|6207|contest question 6207||[ts](/6207.ts)||
+|:heavy_check_mark:|6205|contest question 6205||[py](/6205.py)||
+|:heavy_check_mark:|6204|contest question 6204||[py](/6204.py)||
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
 |:heavy_check_mark:|2439|Minimize Maximum of Array|[:us:](https://leetcode.com/problems/minimize-maximum-of-array) [:cn:](https://leetcode.cn/problems/minimize-maximum-of-array)|[ts](/2001-2500/2439.Minimize%20Maximum%20of%20Array.ts)|Medium|
 |:heavy_check_mark:|2438|Range Product Queries of Powers|[:us:](https://leetcode.com/problems/range-product-queries-of-powers) [:cn:](https://leetcode.cn/problems/range-product-queries-of-powers)|[ts](/2001-2500/2438.Range%20Product%20Queries%20of%20Powers.ts)|Medium|
