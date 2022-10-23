@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2835|1828|6|150|12|
+|2831|1828|6|146|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -21,17 +21,13 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|6271|contest question 6271||[ts](/6271.ts)||
 |:heavy_check_mark:|6224|contest question 6224||[ts](/6224.ts)||
-|:heavy_check_mark:|6219|contest question 6219||[ts](/6219.ts)||
 |:heavy_check_mark:|6216|contest question 6216||[c](/6216.c), [py](/6216.py)||
 |:heavy_check_mark:|6214|contest question 6214||[ts](/6214.ts)||
-|:heavy_check_mark:|6207|contest question 6207||[ts](/6207.ts)||
-|:heavy_check_mark:|6205|contest question 6205||[py](/6205.py)||
-|:heavy_check_mark:|6204|contest question 6204||[py](/6204.py)||
 |:lock:|2445|Number of Nodes With Value One|[:us:](https://leetcode.com/problems/number-of-nodes-with-value-one) [:cn:](https://leetcode.cn/problems/number-of-nodes-with-value-one)||Medium|
-||2444|Count Subarrays With Fixed Bounds|[:us:](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) [:cn:](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds)||Hard|
-||2443|Sum of Number and Its Reverse|[:us:](https://leetcode.com/problems/sum-of-number-and-its-reverse) [:cn:](https://leetcode.cn/problems/sum-of-number-and-its-reverse)||Medium|
-||2442|Count Number of Distinct Integers After Reverse Operations|[:us:](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) [:cn:](https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations)||Medium|
-||2441|Largest Positive Integer That Exists With Its Negative|[:us:](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) [:cn:](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative)||Easy|
+|:heavy_check_mark:|2444|Count Subarrays With Fixed Bounds|[:us:](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) [:cn:](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds)|[ts](/2001-2500/2444.Count%20Subarrays%20With%20Fixed%20Bounds.ts)|Hard|
+|:heavy_check_mark:|2443|Sum of Number and Its Reverse|[:us:](https://leetcode.com/problems/sum-of-number-and-its-reverse) [:cn:](https://leetcode.cn/problems/sum-of-number-and-its-reverse)|[ts](/2001-2500/2443.Sum%20of%20Number%20and%20Its%20Reverse.ts)|Medium|
+|:heavy_check_mark:|2442|Count Number of Distinct Integers After Reverse Operations|[:us:](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) [:cn:](https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations)|[py](/2001-2500/2442.Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.py)|Medium|
+|:heavy_check_mark:|2441|Largest Positive Integer That Exists With Its Negative|[:us:](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) [:cn:](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative)|[py](/2001-2500/2441.Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.py)|Easy|
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
 |:heavy_check_mark:|2439|Minimize Maximum of Array|[:us:](https://leetcode.com/problems/minimize-maximum-of-array) [:cn:](https://leetcode.cn/problems/minimize-maximum-of-array)|[ts](/2001-2500/2439.Minimize%20Maximum%20of%20Array.ts)|Medium|
 |:heavy_check_mark:|2438|Range Product Queries of Powers|[:us:](https://leetcode.com/problems/range-product-queries-of-powers) [:cn:](https://leetcode.cn/problems/range-product-queries-of-powers)|[ts](/2001-2500/2438.Range%20Product%20Queries%20of%20Powers.ts)|Medium|
@@ -2019,3 +2015,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|456|132 Pattern|[:us:](https://leetcode.com/problems/132-pattern) [:cn:](https://leetcode.cn/problems/132-pattern)|[py](/0001-0500/0456.132%20Pattern.py)|Medium|
 |:heavy_check_mark:|455|Assign Cookies|[:us:](https://leetcode.com/problems/assign-cookies) [:cn:](https://leetcode.cn/problems/assign-cookies)|[cpp](/0001-0500/0455.Assign%20Cookies.cpp)|Easy|
 ||454|4Sum II|[:us:](https://leetcode.com/problems/4sum-ii) [:cn:](https://leetcode.cn/problems/4sum-ii)||Medium|
+|:heavy_check_mark:|453|Minimum Moves to Equal Array Elements|[:us:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) [:cn:](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements)|[cpp](/0001-0500/0453.Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp)|Medium|
+|:heavy_check_mark:|452|Minimum Number of Arrows to Burst Balloons|[:us:](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) [:cn:](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons)|[py](/0001-0500/0452.Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)|Medium|
+|:heavy_check_mark:|451|Sort Characters By Frequency|[:us:](https://leetcode.com/problems/sort-characters-by-frequency) [:cn:](https://leetcode.cn/problems/sort-characters-by-frequency)|[rb](/0001-0500/0451.Sort%20Characters%20By%20Frequency.rb)|Medium|
+|:heavy_check_mark:|450|Delete Node in a BST|[:us:](https://leetcode.com/problems/delete-node-in-a-bst) [:cn:](https://leetcode.cn/problems/delete-node-in-a-bst)|[py](/0001-0500/0450.Delete%20Node%20in%20a%20BST.py)|Medium|
