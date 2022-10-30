@@ -263,10 +263,11 @@ class Solution:
             recent_us_questions = [q for q in us_questions if int(q.id()) > len(us_questions) - 20]
             for q in recent_us_questions:
                 if q.slug() == self._title or q.title() == self._title:
+                    print(f"[WARN] Correct the question ID: {self._id} -> {q.id()}")
                     self._question = question = q
                     del UNRECOGNIZED_CONTEST_SOLUTIONS[self._id]
                     self._id = q.id()
-                    self._title = None
+                    self._title = q.title()
                     self._desired_folder = self._calc_desired_folder()
                     break
 
