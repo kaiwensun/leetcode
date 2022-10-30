@@ -19,10 +19,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6223|Height of Binary Tree After Subtree Removal Queries||[py](/6223.Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py)||
-|:heavy_check_mark:|6222|Minimum Addition to Make Integer Beautiful||[py](/6222.Minimum%20Addition%20to%20Make%20Integer%20Beautiful.py)||
-|:heavy_check_mark:|6221|Most Popular Video Creator||[py](/6221.Most%20Popular%20Video%20Creator.py)||
-|:heavy_check_mark:|6220|Average Value of Even Numbers That Are Divisible by Three||[py](/6220.Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py)||
+|:heavy_check_mark:|2458|Height of Binary Tree After Subtree Removal Queries|[:us:](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries) [:cn:](https://leetcode.cn/problems/height-of-binary-tree-after-subtree-removal-queries)|[py](/2001-2500/2458.Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py)|Hard|
+|:heavy_check_mark:|2457|Minimum Addition to Make Integer Beautiful|[:us:](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful) [:cn:](https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful)|[py](/2001-2500/2457.Minimum%20Addition%20to%20Make%20Integer%20Beautiful.py)|Medium|
+|:heavy_check_mark:|2456|Most Popular Video Creator|[:us:](https://leetcode.com/problems/most-popular-video-creator) [:cn:](https://leetcode.cn/problems/most-popular-video-creator)|[py](/2001-2500/2456.Most%20Popular%20Video%20Creator.py)|Medium|
+|:heavy_check_mark:|2455|Average Value of Even Numbers That Are Divisible by Three|[:us:](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) [:cn:](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three)|[py](/2001-2500/2455.Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.py)|Easy|
 ||2454|Next Greater Element IV|[:us:](https://leetcode.com/problems/next-greater-element-iv) [:cn:](https://leetcode.cn/problems/next-greater-element-iv)||Hard|
 ||2453|Destroy Sequential Targets|[:us:](https://leetcode.com/problems/destroy-sequential-targets) [:cn:](https://leetcode.cn/problems/destroy-sequential-targets)||Medium|
 ||2452|Words Within Two Edits of Dictionary|[:us:](https://leetcode.com/problems/words-within-two-edits-of-dictionary) [:cn:](https://leetcode.cn/problems/words-within-two-edits-of-dictionary)||Medium|

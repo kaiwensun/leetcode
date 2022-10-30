@@ -127,6 +127,9 @@ class Question:
     def id(self):
         return self._id
 
+    def slug(self):
+        return self._slug
+
     def title(self):
         return self._title
 
@@ -253,6 +256,20 @@ class Solution:
                         "Found multiple titles from basename %s" % self._basename)
                 self._title = piece.strip()
         question = getattr(self, "_question", None)
+
+        # guess corresponding question using file name, comparing to recent question slug and title
+        if question is None and self.is_contest() and self._title:
+            us_questions = [q for q in ONLINE_MAP.values() if q.is_us()]
+            recent_us_questions = [q for q in us_questions if int(q.id()) > len(us_questions) - 20]
+            for q in recent_us_questions:
+                if q.slug() == self._title or q.title() == self._title:
+                    self._question = question = q
+                    del UNRECOGNIZED_CONTEST_SOLUTIONS[self._id]
+                    self._id = q.id()
+                    self._title = None
+                    self._desired_folder = self._calc_desired_folder()
+                    break
+
         if question is None:
             msg = "Unable to auto-detect title from online source, for the basename %s" % self._basename
             if self.is_contest():
