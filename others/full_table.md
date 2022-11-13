@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2850|1839|6|151|12|
+|2854|1843|6|151|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6236|maximum-number-of-non-overlapping-palindrome-substrings||[py](/6236.maximum-number-of-non-overlapping-palindrome-substrings.py)||
+|:heavy_check_mark:|6235|minimum-number-of-operations-to-sort-a-binary-tree-by-level||[py](/6235.minimum-number-of-operations-to-sort-a-binary-tree-by-level.py)||
+|:heavy_check_mark:|6234|number-of-subarrays-with-lcm-equal-to-k||[ts](/6234.number-of-subarrays-with-lcm-equal-to-k.ts)||
+|:heavy_check_mark:|6233|convert-the-temperature||[ts](/6233.convert-the-temperature.ts)||
 ||2468|Split Message Based on Limit|[:us:](https://leetcode.com/problems/split-message-based-on-limit) [:cn:](https://leetcode.cn/problems/split-message-based-on-limit)||Hard|
 ||2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)||Medium|
 ||2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)||Medium|

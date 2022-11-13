@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2850|1839|6|151|12|
+|2854|1843|6|151|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6236|maximum-number-of-non-overlapping-palindrome-substrings||[py](/6236.maximum-number-of-non-overlapping-palindrome-substrings.py)||
+|:heavy_check_mark:|6235|minimum-number-of-operations-to-sort-a-binary-tree-by-level||[py](/6235.minimum-number-of-operations-to-sort-a-binary-tree-by-level.py)||
+|:heavy_check_mark:|6234|number-of-subarrays-with-lcm-equal-to-k||[ts](/6234.number-of-subarrays-with-lcm-equal-to-k.ts)||
+|:heavy_check_mark:|6233|convert-the-temperature||[ts](/6233.convert-the-temperature.ts)||
 ||2468|Split Message Based on Limit|[:us:](https://leetcode.com/problems/split-message-based-on-limit) [:cn:](https://leetcode.cn/problems/split-message-based-on-limit)||Hard|
 ||2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)||Medium|
 ||2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)||Medium|
@@ -2015,7 +2019,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|475|Heaters|[:us:](https://leetcode.com/problems/heaters) [:cn:](https://leetcode.cn/problems/heaters)|[ts](/0001-0500/0475.Heaters.ts)|Medium|
 |:heavy_check_mark:|474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode.cn/problems/ones-and-zeroes)|[py](/0001-0500/0474.Ones%20and%20Zeroes.py)|Medium|
 ||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square) [:cn:](https://leetcode.cn/problems/matchsticks-to-square)||Medium|
-|:heavy_check_mark:|472|Concatenated Words|[:us:](https://leetcode.com/problems/concatenated-words) [:cn:](https://leetcode.cn/problems/concatenated-words)|[py](/0001-0500/0472.Concatenated%20Words.2.py), [py](/0001-0500/0472.Concatenated%20Words.py)|Hard|
-|:lock:|471|Encode String with Shortest Length|[:us:](https://leetcode.com/problems/encode-string-with-shortest-length) [:cn:](https://leetcode.cn/problems/encode-string-with-shortest-length)||Hard|
-|:heavy_check_mark:|470|Implement Rand10() Using Rand7()|[:us:](https://leetcode.com/problems/implement-rand10-using-rand7) [:cn:](https://leetcode.cn/problems/implement-rand10-using-rand7)|[c](/0001-0500/0470.Implement%20Rand10%28%29%20Using%20Rand7%28%29.c)|Medium|
-|:lock:|469|Convex Polygon|[:us:](https://leetcode.com/problems/convex-polygon) [:cn:](https://leetcode.cn/problems/convex-polygon)||Medium|
