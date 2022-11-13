@@ -290,9 +290,12 @@ class Solution:
                       (self.id(), question.title()))
                 self._title = question.title()
         else:
-            if question and self._title != question.title():
-                raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
-                    question.title(), self._title, self._basename))
+            if question:
+                if self._title == question.slug():
+                    self._title = question.title()
+                elif self._title != question.title():
+                    raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
+                        question.title(), self._title, self._basename))
 
     def mock_question_for_unrecognized_contest_solution(self):
         return Question({

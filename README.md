@@ -19,10 +19,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6236|maximum-number-of-non-overlapping-palindrome-substrings||[py](/6236.maximum-number-of-non-overlapping-palindrome-substrings.py)||
-|:heavy_check_mark:|6235|minimum-number-of-operations-to-sort-a-binary-tree-by-level||[py](/6235.minimum-number-of-operations-to-sort-a-binary-tree-by-level.py)||
-|:heavy_check_mark:|6234|number-of-subarrays-with-lcm-equal-to-k||[ts](/6234.number-of-subarrays-with-lcm-equal-to-k.ts)||
-|:heavy_check_mark:|6233|convert-the-temperature||[ts](/6233.convert-the-temperature.ts)||
+|:heavy_check_mark:|2472|Maximum Number of Non-overlapping Palindrome Substrings|[:us:](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) [:cn:](https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings)|[py](/2001-2500/2472.Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings.py)|Hard|
+|:heavy_check_mark:|2471|Minimum Number of Operations to Sort a Binary Tree by Level|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level)|[py](/2001-2500/2471.Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)|Medium|
+|:heavy_check_mark:|2470|Number of Subarrays With LCM Equal to K|[:us:](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k) [:cn:](https://leetcode.cn/problems/number-of-subarrays-with-lcm-equal-to-k)|[ts](/2001-2500/2470.Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K.ts)|Medium|
+|:heavy_check_mark:|2469|Convert the Temperature|[:us:](https://leetcode.com/problems/convert-the-temperature) [:cn:](https://leetcode.cn/problems/convert-the-temperature)|[ts](/2001-2500/2469.Convert%20the%20Temperature.ts)|Easy|
 ||2468|Split Message Based on Limit|[:us:](https://leetcode.com/problems/split-message-based-on-limit) [:cn:](https://leetcode.cn/problems/split-message-based-on-limit)||Hard|
 ||2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)||Medium|
 ||2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)||Medium|
