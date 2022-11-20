@@ -8,7 +8,7 @@ class Solution:
         if s[0] not in primes or s[-1] in primes:
             return 0
         MOD = 10 ** 9 + 7
-        
+
         start_points = []
         for i in range(1, len(s) - 1):
             if s[i] in primes and s[i - 1] not in primes:
