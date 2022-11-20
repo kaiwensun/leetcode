@@ -19,10 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6244|number-of-beautiful-partitions||[py](/6244.number-of-beautiful-partitions.py)||
-|:heavy_check_mark:|6243|minimum-fuel-cost-to-report-to-the-capital||[ts](/6243.minimum-fuel-cost-to-report-to-the-capital.ts)||
-|:heavy_check_mark:|6242|contest question 6242||[py](/6242.py)||
-|:heavy_check_mark:|6241|number-of-unequal-triplets-in-array||[py](/6241.number-of-unequal-triplets-in-array.py)||
+|:heavy_check_mark:|2478|Number of Beautiful Partitions|[:us:](https://leetcode.com/problems/number-of-beautiful-partitions) [:cn:](https://leetcode.cn/problems/number-of-beautiful-partitions)|[py](/2001-2500/2478.Number%20of%20Beautiful%20Partitions.py)|Hard|
+|:heavy_check_mark:|2477|Minimum Fuel Cost to Report to the Capital|[:us:](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital) [:cn:](https://leetcode.cn/problems/minimum-fuel-cost-to-report-to-the-capital)|[ts](/2001-2500/2477.Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.ts)|Medium|
+|:heavy_check_mark:|2476|Closest Nodes Queries in a Binary Search Tree|[:us:](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree) [:cn:](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree)|[py](/2001-2500/2476.Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree.py), [ts](/2001-2500/2476.Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree.%28timeout%20due%20to%20directly%20searching%20on%20BST%29.ts)|Medium|
+|:heavy_check_mark:|2475|Number of Unequal Triplets in Array|[:us:](https://leetcode.com/problems/number-of-unequal-triplets-in-array) [:cn:](https://leetcode.cn/problems/number-of-unequal-triplets-in-array)|[py](/2001-2500/2475.Number%20of%20Unequal%20Triplets%20in%20Array.py)|Easy|
 |:lock: sql |2474|Customers With Strictly Increasing Purchases|[:us:](https://leetcode.com/problems/customers-with-strictly-increasing-purchases) [:cn:](https://leetcode.cn/problems/customers-with-strictly-increasing-purchases)||Medium|
 |:lock:|2473|Minimum Cost to Buy Apples|[:us:](https://leetcode.com/problems/minimum-cost-to-buy-apples) [:cn:](https://leetcode.cn/problems/minimum-cost-to-buy-apples)||Medium|
 |:heavy_check_mark:|2472|Maximum Number of Non-overlapping Palindrome Substrings|[:us:](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) [:cn:](https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings)|[py](/2001-2500/2472.Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings.py)|Hard|

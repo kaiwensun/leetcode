@@ -4,7 +4,7 @@ from functools import cache
 class Solution:
     def unequalTriplets(self, nums: List[int]) -> int:
         cnt = list(Counter(nums).values())
-        
+
         @cache
         def dp(i, rem):
             if i == len(cnt):
