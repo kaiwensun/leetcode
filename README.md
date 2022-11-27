@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2870|1852|6|154|12|
+|2870|1853|6|153|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.7%|12.5%|11.6%|7.0%|4.6%|2.5%|1.0%|0.2%|
+|60.6%|12.5%|11.5%|7.0%|4.6%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -41,7 +41,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2469|Convert the Temperature|[:us:](https://leetcode.com/problems/convert-the-temperature) [:cn:](https://leetcode.cn/problems/convert-the-temperature)|[ts](/2001-2500/2469.Convert%20the%20Temperature.ts)|Easy|
 ||2468|Split Message Based on Limit|[:us:](https://leetcode.com/problems/split-message-based-on-limit) [:cn:](https://leetcode.cn/problems/split-message-based-on-limit)||Hard|
 ||2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)||Medium|
-||2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)||Medium|
+|:heavy_check_mark:|2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)|[ts](/2001-2500/2466.Count%20Ways%20To%20Build%20Good%20Strings.ts)|Medium|
 |:heavy_check_mark:|2465|Number of Distinct Averages|[:us:](https://leetcode.com/problems/number-of-distinct-averages) [:cn:](https://leetcode.cn/problems/number-of-distinct-averages)|[ts](/2001-2500/2465.Number%20of%20Distinct%20Averages.ts)|Easy|
 |:lock:|2464|Minimum Subarrays in a Valid Split|[:us:](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split) [:cn:](https://leetcode.cn/problems/minimum-subarrays-in-a-valid-split)||Medium|
 ||2463|Minimum Total Distance Traveled|[:us:](https://leetcode.com/problems/minimum-total-distance-traveled) [:cn:](https://leetcode.cn/problems/minimum-total-distance-traveled)||Hard|
