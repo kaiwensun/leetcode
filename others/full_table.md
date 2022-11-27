@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2866|1848|6|154|12|
+|2870|1852|6|154|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.8%|12.3%|11.6%|7.0%|4.6%|2.5%|1.0%|0.2%|
+|60.7%|12.5%|11.6%|7.0%|4.6%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6248|count-subarrays-with-median-k||[ts](/6248.count-subarrays-with-median-k.ts)||
+|:heavy_check_mark:|6247|remove-nodes-from-linked-list||[ts](/6247.remove-nodes-from-linked-list.ts)||
+|:heavy_check_mark:|6246|append-characters-to-string-to-make-subsequence||[ts](/6246.append-characters-to-string-to-make-subsequence.ts)||
+|:heavy_check_mark:|6245|find-the-pivot-integer||[ts](/6245.find-the-pivot-integer.ts)||
 ||2484|Count Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-palindromic-subsequences)||Hard|
 ||2483|Minimum Penalty for a Shop|[:us:](https://leetcode.com/problems/minimum-penalty-for-a-shop) [:cn:](https://leetcode.cn/problems/minimum-penalty-for-a-shop)||Medium|
 ||2482|Difference Between Ones and Zeros in Row and Column|[:us:](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) [:cn:](https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column)||Medium|
