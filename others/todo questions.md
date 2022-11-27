@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|536|0|6|151|12|
+|532|0|6|147|12|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2484|Count Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-palindromic-subsequences)||Hard|
-||2483|Minimum Penalty for a Shop|[:us:](https://leetcode.com/problems/minimum-penalty-for-a-shop) [:cn:](https://leetcode.cn/problems/minimum-penalty-for-a-shop)||Medium|
-||2482|Difference Between Ones and Zeros in Row and Column|[:us:](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) [:cn:](https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column)||Medium|
-||2481|Minimum Cuts to Divide a Circle|[:us:](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) [:cn:](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle)||Easy|
 ||2463|Minimum Total Distance Traveled|[:us:](https://leetcode.com/problems/minimum-total-distance-traveled) [:cn:](https://leetcode.cn/problems/minimum-total-distance-traveled)||Hard|
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-ideal-arrays)||Hard|

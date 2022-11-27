@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2870|1855|6|151|12|
+|2870|1859|6|147|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.6%|12.6%|11.5%|7.0%|4.6%|2.5%|1.0%|0.2%|
+|60.5%|12.8%|11.5%|7.0%|4.6%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -23,10 +23,10 @@
 |:heavy_check_mark:|2487|Remove Nodes From Linked List|[:us:](https://leetcode.com/problems/remove-nodes-from-linked-list) [:cn:](https://leetcode.cn/problems/remove-nodes-from-linked-list)|[ts](/2001-2500/2487.Remove%20Nodes%20From%20Linked%20List.ts)|Medium|
 |:heavy_check_mark:|2486|Append Characters to String to Make Subsequence|[:us:](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) [:cn:](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence)|[ts](/2001-2500/2486.Append%20Characters%20to%20String%20to%20Make%20Subsequence.ts)|Medium|
 |:heavy_check_mark:|2485|Find the Pivot Integer|[:us:](https://leetcode.com/problems/find-the-pivot-integer) [:cn:](https://leetcode.cn/problems/find-the-pivot-integer)|[ts](/2001-2500/2485.Find%20the%20Pivot%20Integer.ts)|Easy|
-||2484|Count Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-palindromic-subsequences)||Hard|
-||2483|Minimum Penalty for a Shop|[:us:](https://leetcode.com/problems/minimum-penalty-for-a-shop) [:cn:](https://leetcode.cn/problems/minimum-penalty-for-a-shop)||Medium|
-||2482|Difference Between Ones and Zeros in Row and Column|[:us:](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) [:cn:](https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column)||Medium|
-||2481|Minimum Cuts to Divide a Circle|[:us:](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) [:cn:](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle)||Easy|
+|:heavy_check_mark:|2484|Count Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-palindromic-subsequences)|[py](/2001-2500/2484.Count%20Palindromic%20Subsequences.py), [ts](/2001-2500/2484.Count%20Palindromic%20Subsequences.ts)|Hard|
+|:heavy_check_mark:|2483|Minimum Penalty for a Shop|[:us:](https://leetcode.com/problems/minimum-penalty-for-a-shop) [:cn:](https://leetcode.cn/problems/minimum-penalty-for-a-shop)|[ts](/2001-2500/2483.Minimum%20Penalty%20for%20a%20Shop.ts)|Medium|
+|:heavy_check_mark:|2482|Difference Between Ones and Zeros in Row and Column|[:us:](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) [:cn:](https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column)|[ts](/2001-2500/2482.Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.ts)|Medium|
+|:heavy_check_mark:|2481|Minimum Cuts to Divide a Circle|[:us:](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) [:cn:](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle)|[ts](/2001-2500/2481.Minimum%20Cuts%20to%20Divide%20a%20Circle.ts)|Easy|
 |:lock: sql |2480|Form a Chemical Bond|[:us:](https://leetcode.com/problems/form-a-chemical-bond) [:cn:](https://leetcode.cn/problems/form-a-chemical-bond)||Easy|
 |:lock:|2479|Maximum XOR of Two Non-Overlapping Subtrees|[:us:](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees) [:cn:](https://leetcode.cn/problems/maximum-xor-of-two-non-overlapping-subtrees)||Hard|
 |:heavy_check_mark:|2478|Number of Beautiful Partitions|[:us:](https://leetcode.com/problems/number-of-beautiful-partitions) [:cn:](https://leetcode.cn/problems/number-of-beautiful-partitions)|[py](/2001-2500/2478.Number%20of%20Beautiful%20Partitions.py)|Hard|
