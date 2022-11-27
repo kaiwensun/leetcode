@@ -9,20 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2870|1853|6|153|12|
+|2870|1854|6|152|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.6%|12.5%|11.5%|7.0%|4.6%|2.5%|1.0%|0.2%|
+|60.6%|12.6%|11.5%|7.0%|4.6%|2.5%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6248|count-subarrays-with-median-k||[ts](/6248.count-subarrays-with-median-k.ts)||
-|:heavy_check_mark:|6247|remove-nodes-from-linked-list||[ts](/6247.remove-nodes-from-linked-list.ts)||
-|:heavy_check_mark:|6246|append-characters-to-string-to-make-subsequence||[ts](/6246.append-characters-to-string-to-make-subsequence.ts)||
-|:heavy_check_mark:|6245|find-the-pivot-integer||[ts](/6245.find-the-pivot-integer.ts)||
+|:heavy_check_mark:|2488|Count Subarrays With Median K|[:us:](https://leetcode.com/problems/count-subarrays-with-median-k) [:cn:](https://leetcode.cn/problems/count-subarrays-with-median-k)|[ts](/2001-2500/2488.Count%20Subarrays%20With%20Median%20K.ts)|Hard|
+|:heavy_check_mark:|2487|Remove Nodes From Linked List|[:us:](https://leetcode.com/problems/remove-nodes-from-linked-list) [:cn:](https://leetcode.cn/problems/remove-nodes-from-linked-list)|[ts](/2001-2500/2487.Remove%20Nodes%20From%20Linked%20List.ts)|Medium|
+|:heavy_check_mark:|2486|Append Characters to String to Make Subsequence|[:us:](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) [:cn:](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence)|[ts](/2001-2500/2486.Append%20Characters%20to%20String%20to%20Make%20Subsequence.ts)|Medium|
+|:heavy_check_mark:|2485|Find the Pivot Integer|[:us:](https://leetcode.com/problems/find-the-pivot-integer) [:cn:](https://leetcode.cn/problems/find-the-pivot-integer)|[ts](/2001-2500/2485.Find%20the%20Pivot%20Integer.ts)|Easy|
 ||2484|Count Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-palindromic-subsequences)||Hard|
 ||2483|Minimum Penalty for a Shop|[:us:](https://leetcode.com/problems/minimum-penalty-for-a-shop) [:cn:](https://leetcode.cn/problems/minimum-penalty-for-a-shop)||Medium|
 ||2482|Difference Between Ones and Zeros in Row and Column|[:us:](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) [:cn:](https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column)||Medium|
@@ -40,7 +40,7 @@
 |:heavy_check_mark:|2470|Number of Subarrays With LCM Equal to K|[:us:](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k) [:cn:](https://leetcode.cn/problems/number-of-subarrays-with-lcm-equal-to-k)|[ts](/2001-2500/2470.Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K.ts)|Medium|
 |:heavy_check_mark:|2469|Convert the Temperature|[:us:](https://leetcode.com/problems/convert-the-temperature) [:cn:](https://leetcode.cn/problems/convert-the-temperature)|[ts](/2001-2500/2469.Convert%20the%20Temperature.ts)|Easy|
 ||2468|Split Message Based on Limit|[:us:](https://leetcode.com/problems/split-message-based-on-limit) [:cn:](https://leetcode.cn/problems/split-message-based-on-limit)||Hard|
-||2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)||Medium|
+|:heavy_check_mark:|2467|Most Profitable Path in a Tree|[:us:](https://leetcode.com/problems/most-profitable-path-in-a-tree) [:cn:](https://leetcode.cn/problems/most-profitable-path-in-a-tree)|[ts](/2001-2500/2467.Most%20Profitable%20Path%20in%20a%20Tree.ts)|Medium|
 |:heavy_check_mark:|2466|Count Ways To Build Good Strings|[:us:](https://leetcode.com/problems/count-ways-to-build-good-strings) [:cn:](https://leetcode.cn/problems/count-ways-to-build-good-strings)|[ts](/2001-2500/2466.Count%20Ways%20To%20Build%20Good%20Strings.ts)|Medium|
 |:heavy_check_mark:|2465|Number of Distinct Averages|[:us:](https://leetcode.com/problems/number-of-distinct-averages) [:cn:](https://leetcode.cn/problems/number-of-distinct-averages)|[ts](/2001-2500/2465.Number%20of%20Distinct%20Averages.ts)|Easy|
 |:lock:|2464|Minimum Subarrays in a Valid Split|[:us:](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split) [:cn:](https://leetcode.cn/problems/minimum-subarrays-in-a-valid-split)||Medium|
