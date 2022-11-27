@@ -752,24 +752,29 @@ def gen_markdown(questions, solutions, title, markdown_type):
         total = len(questions)
         solved = len({sol.id() for sol in solutions} | NOT_BACKFILLED)
         attempted = len(ATTEMPTED)
-        unsolved_without_lock = len([q for q in questions if (
+        us_unsolved_without_lock = len([q for q in questions if (
             q.is_us()
             and not q.lock()
             and q.id() not in NOT_BACKFILLED
             and q.id() not in DB_PROBLEMS
             and not LOCAL_MAP[q.id()])])
+        us_without_lock = len([q for q in questions if (
+            q.is_us()
+            and not q.lock()
+            and q.id() not in NOT_BACKFILLED
+            and q.id() not in DB_PROBLEMS)])
         unsynced = len(NOT_BACKFILLED)
         starred = len(STARRED)
-        line1 = "|Total|Solved|Attempted|US site non-DB unsolved w/o lock|"
+        line1 = "|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|"
         line2 = "|:---:|:---:|:---:|:---:|"
-        line3 = "|%s|%s|%s|%s|"
-        args = [total, solved, attempted, unsolved_without_lock]
+        line3 = "|%s|%s|%s|%s (%s)|"
+        args = [total, solved, attempted, us_unsolved_without_lock, f"{(us_without_lock - us_unsolved_without_lock) * 100 / us_without_lock:.2f}%"]
 
         if unsynced:
             line1 += "Not synced to GitHub"
             line2 += ":---:|"
             line3 += "%s|"
-            args.append(unsolved_without_lock)
+            args.append(us_unsolved_without_lock)
         if starred:
             line1 += "Starred"
             line2 += ":---:|"
