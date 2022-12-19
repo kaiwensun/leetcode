@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|540|0|6|155 (0.00%)|12|
+|536|0|6|151 (0.00%)|12|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2503|Maximum Number of Points From Grid Queries|[:us:](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) [:cn:](https://leetcode.cn/problems/maximum-number-of-points-from-grid-queries)||Hard|
-||2502|Design Memory Allocator|[:us:](https://leetcode.com/problems/design-memory-allocator) [:cn:](https://leetcode.cn/problems/design-memory-allocator)||Medium|
-||2501|Longest Square Streak in an Array|[:us:](https://leetcode.com/problems/longest-square-streak-in-an-array) [:cn:](https://leetcode.cn/problems/longest-square-streak-in-an-array)||Medium|
-||2500|Delete Greatest Value in Each Row|[:us:](https://leetcode.com/problems/delete-greatest-value-in-each-row) [:cn:](https://leetcode.cn/problems/delete-greatest-value-in-each-row)||Easy|
 ||2499|Minimum Total Cost to Make Arrays Unequal|[:us:](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal) [:cn:](https://leetcode.cn/problems/minimum-total-cost-to-make-arrays-unequal)||Hard|
 ||2498|Frog Jump II|[:us:](https://leetcode.com/problems/frog-jump-ii) [:cn:](https://leetcode.cn/problems/frog-jump-ii)||Medium|
 ||2497|Maximum Star Sum of a Graph|[:us:](https://leetcode.com/problems/maximum-star-sum-of-a-graph) [:cn:](https://leetcode.cn/problems/maximum-star-sum-of-a-graph)||Medium|

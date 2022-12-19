@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2891|1867|6|155 (92.01%)|12|
+|2891|1871|6|151 (92.22%)|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.4%|13.0%|11.5%|7.0%|4.5%|2.5%|1.0%|0.2%|
+|60.2%|13.2%|11.4%|7.0%|4.5%|2.5%|1.0%|0.2%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -25,10 +25,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2506|Count Pairs Of Similar Strings|[:us:](https://leetcode.com/problems/count-pairs-of-similar-strings) [:cn:](https://leetcode.cn/problems/count-pairs-of-similar-strings)|[ts](/2501-3000/2506.Count%20Pairs%20Of%20Similar%20Strings.ts)|Easy|
 |:lock:|2505|Bitwise OR of All Subsequence Sums|[:us:](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums) [:cn:](https://leetcode.cn/problems/bitwise-or-of-all-subsequence-sums)||Medium|
 |:lock: sql |2504|Concatenate the Name and the Profession|[:us:](https://leetcode.com/problems/concatenate-the-name-and-the-profession) [:cn:](https://leetcode.cn/problems/concatenate-the-name-and-the-profession)||Easy|
-||2503|Maximum Number of Points From Grid Queries|[:us:](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) [:cn:](https://leetcode.cn/problems/maximum-number-of-points-from-grid-queries)||Hard|
-||2502|Design Memory Allocator|[:us:](https://leetcode.com/problems/design-memory-allocator) [:cn:](https://leetcode.cn/problems/design-memory-allocator)||Medium|
-||2501|Longest Square Streak in an Array|[:us:](https://leetcode.com/problems/longest-square-streak-in-an-array) [:cn:](https://leetcode.cn/problems/longest-square-streak-in-an-array)||Medium|
-||2500|Delete Greatest Value in Each Row|[:us:](https://leetcode.com/problems/delete-greatest-value-in-each-row) [:cn:](https://leetcode.cn/problems/delete-greatest-value-in-each-row)||Easy|
+|:heavy_check_mark:|2503|Maximum Number of Points From Grid Queries|[:us:](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) [:cn:](https://leetcode.cn/problems/maximum-number-of-points-from-grid-queries)|[ts](/2501-3000/2503.Maximum%20Number%20of%20Points%20From%20Grid%20Queries.ts)|Hard|
+|:heavy_check_mark:|2502|Design Memory Allocator|[:us:](https://leetcode.com/problems/design-memory-allocator) [:cn:](https://leetcode.cn/problems/design-memory-allocator)|[ts](/2501-3000/2502.Design%20Memory%20Allocator.ts)|Medium|
+|:heavy_check_mark:|2501|Longest Square Streak in an Array|[:us:](https://leetcode.com/problems/longest-square-streak-in-an-array) [:cn:](https://leetcode.cn/problems/longest-square-streak-in-an-array)|[ts](/2501-3000/2501.Longest%20Square%20Streak%20in%20an%20Array.ts)|Medium|
+|:heavy_check_mark:|2500|Delete Greatest Value in Each Row|[:us:](https://leetcode.com/problems/delete-greatest-value-in-each-row) [:cn:](https://leetcode.cn/problems/delete-greatest-value-in-each-row)|[ts](/2001-2500/2500.Delete%20Greatest%20Value%20in%20Each%20Row.ts)|Easy|
 ||2499|Minimum Total Cost to Make Arrays Unequal|[:us:](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal) [:cn:](https://leetcode.cn/problems/minimum-total-cost-to-make-arrays-unequal)||Hard|
 ||2498|Frog Jump II|[:us:](https://leetcode.com/problems/frog-jump-ii) [:cn:](https://leetcode.cn/problems/frog-jump-ii)||Medium|
 ||2497|Maximum Star Sum of a Graph|[:us:](https://leetcode.com/problems/maximum-star-sum-of-a-graph) [:cn:](https://leetcode.cn/problems/maximum-star-sum-of-a-graph)||Medium|
