@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|536|0|6|151 (0.00%)|12|
+|534|0|6|149 (0.00%)|12|
 
 
 
@@ -17,8 +17,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2514|Count Anagrams|[:us:](https://leetcode.com/problems/count-anagrams) [:cn:](https://leetcode.cn/problems/count-anagrams)||Hard|
 ||2513|Minimize the Maximum of Two Arrays|[:us:](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays)||Medium|
-||2512|Reward Top K Students|[:us:](https://leetcode.com/problems/reward-top-k-students) [:cn:](https://leetcode.cn/problems/reward-top-k-students)||Medium|
-||2511|Maximum Enemy Forts That Can Be Captured|[:us:](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) [:cn:](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured)||Easy|
 ||2463|Minimum Total Distance Traveled|[:us:](https://leetcode.com/problems/minimum-total-distance-traveled) [:cn:](https://leetcode.cn/problems/minimum-total-distance-traveled)||Hard|
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
 ||2338|Count the Number of Ideal Arrays|[:us:](https://leetcode.com/problems/count-the-number-of-ideal-arrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-ideal-arrays)||Hard|

@@ -9,24 +9,24 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2900|1879|6|151 (92.25%)|12|
+|2900|1881|6|149 (92.35%)|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.2%|13.3%|11.4%|6.9%|4.5%|2.4%|1.0%|0.2%|
+|60.1%|13.3%|11.4%|7.0%|4.5%|2.4%|1.0%|0.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6272|number-of-great-partitions||[py](/6272.number-of-great-partitions.py)||
-|:heavy_check_mark:|6271|maximum-tastiness-of-candy-basket||[py](/6271.maximum-tastiness-of-candy-basket.py)||
-|:heavy_check_mark:|6270|take-k-of-each-character-from-left-and-right||[py](/6270.take-k-of-each-character-from-left-and-right.py)||
-|:heavy_check_mark:|6269|shortest-distance-to-target-string-in-a-circular-array||[py](/6269.shortest-distance-to-target-string-in-a-circular-array.py)||
+|:heavy_check_mark:|2518|Number of Great Partitions|[:us:](https://leetcode.com/problems/number-of-great-partitions) [:cn:](https://leetcode.cn/problems/number-of-great-partitions)|[py](/2501-3000/2518.Number%20of%20Great%20Partitions.py)|Hard|
+|:heavy_check_mark:|2517|Maximum Tastiness of Candy Basket|[:us:](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) [:cn:](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket)|[py](/2501-3000/2517.Maximum%20Tastiness%20of%20Candy%20Basket.py)|Medium|
+|:heavy_check_mark:|2516|Take K of Each Character From Left and Right|[:us:](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) [:cn:](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right)|[py](/2501-3000/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)|Medium|
+|:heavy_check_mark:|2515|Shortest Distance to Target String in a Circular Array|[:us:](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) [:cn:](https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array)|[py](/2501-3000/2515.Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)|Easy|
 ||2514|Count Anagrams|[:us:](https://leetcode.com/problems/count-anagrams) [:cn:](https://leetcode.cn/problems/count-anagrams)||Hard|
 ||2513|Minimize the Maximum of Two Arrays|[:us:](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays)||Medium|
-||2512|Reward Top K Students|[:us:](https://leetcode.com/problems/reward-top-k-students) [:cn:](https://leetcode.cn/problems/reward-top-k-students)||Medium|
-||2511|Maximum Enemy Forts That Can Be Captured|[:us:](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) [:cn:](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured)||Easy|
+|:heavy_check_mark:|2512|Reward Top K Students|[:us:](https://leetcode.com/problems/reward-top-k-students) [:cn:](https://leetcode.cn/problems/reward-top-k-students)|[rb](/2501-3000/2512.Reward%20Top%20K%20Students.rb)|Medium|
+|:heavy_check_mark:|2511|Maximum Enemy Forts That Can Be Captured|[:us:](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) [:cn:](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured)|[java](/2501-3000/2511.Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.java)|Easy|
 |:lock:|2510|Check if There is a Path With Equal Number of 0's And 1's|[:us:](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s) [:cn:](https://leetcode.cn/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s)||Medium|
 |:heavy_check_mark:|2509|Cycle Length Queries in a Tree|[:us:](https://leetcode.com/problems/cycle-length-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/cycle-length-queries-in-a-tree)|[ts](/2501-3000/2509.Cycle%20Length%20Queries%20in%20a%20Tree.ts)|Hard|
 |:heavy_check_mark:|2508|Add Edges to Make Degrees of All Nodes Even|[:us:](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even) [:cn:](https://leetcode.cn/problems/add-edges-to-make-degrees-of-all-nodes-even)|[ts](/2501-3000/2508.Add%20Edges%20to%20Make%20Degrees%20of%20All%20Nodes%20Even.ts)|Hard|
