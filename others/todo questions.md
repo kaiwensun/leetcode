@@ -9,13 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|534|0|6|149 (0.00%)|12|
+|533|0|6|148 (0.00%)|12|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2514|Count Anagrams|[:us:](https://leetcode.com/problems/count-anagrams) [:cn:](https://leetcode.cn/problems/count-anagrams)||Hard|
 ||2513|Minimize the Maximum of Two Arrays|[:us:](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays)||Medium|
 ||2463|Minimum Total Distance Traveled|[:us:](https://leetcode.com/problems/minimum-total-distance-traveled) [:cn:](https://leetcode.cn/problems/minimum-total-distance-traveled)||Hard|
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|

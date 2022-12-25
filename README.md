@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2900|1881|6|149 (92.35%)|12|
+|2900|1882|6|148 (92.40%)|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -23,7 +23,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2517|Maximum Tastiness of Candy Basket|[:us:](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) [:cn:](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket)|[py](/2501-3000/2517.Maximum%20Tastiness%20of%20Candy%20Basket.py)|Medium|
 |:heavy_check_mark:|2516|Take K of Each Character From Left and Right|[:us:](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right) [:cn:](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right)|[py](/2501-3000/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)|Medium|
 |:heavy_check_mark:|2515|Shortest Distance to Target String in a Circular Array|[:us:](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) [:cn:](https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array)|[py](/2501-3000/2515.Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.py)|Easy|
-||2514|Count Anagrams|[:us:](https://leetcode.com/problems/count-anagrams) [:cn:](https://leetcode.cn/problems/count-anagrams)||Hard|
+|:heavy_check_mark:|2514|Count Anagrams|[:us:](https://leetcode.com/problems/count-anagrams) [:cn:](https://leetcode.cn/problems/count-anagrams)|[rb](/2501-3000/2514.Count%20Anagrams.rb)|Hard|
 ||2513|Minimize the Maximum of Two Arrays|[:us:](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays)||Medium|
 |:heavy_check_mark:|2512|Reward Top K Students|[:us:](https://leetcode.com/problems/reward-top-k-students) [:cn:](https://leetcode.cn/problems/reward-top-k-students)|[rb](/2501-3000/2512.Reward%20Top%20K%20Students.rb)|Medium|
 |:heavy_check_mark:|2511|Maximum Enemy Forts That Can Be Captured|[:us:](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) [:cn:](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured)|[java](/2501-3000/2511.Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured.java)|Easy|
