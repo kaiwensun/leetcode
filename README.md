@@ -19,10 +19,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6279|distinct-prime-factors-of-product-of-array||[py](/6279.distinct-prime-factors-of-product-of-array.py)||
-|:heavy_check_mark:|6278|count-the-digits-that-divide-a-number||[py](/6278.count-the-digits-that-divide-a-number.py)||
-|:heavy_check_mark:|6208|closest-prime-numbers-in-range||[py](/6208.closest-prime-numbers-in-range.py)||
-|:heavy_check_mark:|6196|partition-string-into-substrings-with-values-at-most-k||[py](/6196.partition-string-into-substrings-with-values-at-most-k.py)||
+|:heavy_check_mark:|2523|Closest Prime Numbers in Range|[:us:](https://leetcode.com/problems/closest-prime-numbers-in-range) [:cn:](https://leetcode.cn/problems/closest-prime-numbers-in-range)|[py](/2501-3000/2523.Closest%20Prime%20Numbers%20in%20Range.py)|Medium|
+|:heavy_check_mark:|2522|Partition String Into Substrings With Values at Most K|[:us:](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k) [:cn:](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k)|[py](/2501-3000/2522.Partition%20String%20Into%20Substrings%20With%20Values%20at%20Most%20K.py)|Medium|
+|:heavy_check_mark:|2521|Distinct Prime Factors of Product of Array|[:us:](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array) [:cn:](https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array)|[py](/2501-3000/2521.Distinct%20Prime%20Factors%20of%20Product%20of%20Array.py)|Medium|
+|:heavy_check_mark:|2520|Count the Digits That Divide a Number|[:us:](https://leetcode.com/problems/count-the-digits-that-divide-a-number) [:cn:](https://leetcode.cn/problems/count-the-digits-that-divide-a-number)|[py](/2501-3000/2520.Count%20the%20Digits%20That%20Divide%20a%20Number.py)|Easy|
 |:lock:|2519|Count the Number of K-Big Indices|[:us:](https://leetcode.com/problems/count-the-number-of-k-big-indices) [:cn:](https://leetcode.cn/problems/count-the-number-of-k-big-indices)||Hard|
 |:heavy_check_mark:|2518|Number of Great Partitions|[:us:](https://leetcode.com/problems/number-of-great-partitions) [:cn:](https://leetcode.cn/problems/number-of-great-partitions)|[py](/2501-3000/2518.Number%20of%20Great%20Partitions.py)|Hard|
 |:heavy_check_mark:|2517|Maximum Tastiness of Candy Basket|[:us:](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) [:cn:](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket)|[py](/2501-3000/2517.Maximum%20Tastiness%20of%20Candy%20Basket.py)|Medium|
