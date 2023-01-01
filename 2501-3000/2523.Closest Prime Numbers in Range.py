@@ -69,7 +69,8 @@ class Solution:
             if new_diff < diff:
                 diff = new_diff
                 res_ind = i
-
+                if diff == 2:
+                    break
         if res_ind == -1:
             return [-1, -1]
         return [PRIMES[res_ind], PRIMES[res_ind + 1]]
