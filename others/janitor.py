@@ -804,7 +804,14 @@ def gen_markdown(questions, solutions, title, markdown_type):
         def gen_markdown_today():
             return "* Last update: " + datetime.date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
 
-        res = ["# " + title,
+        def title_and_fork_permission(title):
+            if markdown_type != MarkdownType.MAIN_README:
+                return f"# {title}"
+            return "\n".join([
+                f"# {title}. FORK NOT PERMITTED",
+                "* If you like, star the original repository https://github.com/kaiwensun/leetcode"])
+
+        res = [title_and_fork_permission(title),
                gen_markdown_site_links(),
                gen_markdown_self_link(),
                gen_markdown_today()]
@@ -991,13 +998,13 @@ def main():
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
         ) for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions
         markdown = gen_markdown(
-            all_questions, solutions, "My LeetCode solutions", MarkdownType.MAIN_README)
+            all_questions, solutions, "Kaiwen's LeetCode solutions", MarkdownType.MAIN_README)
         update_file(README_FILENAME, markdown)
 
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
         ) for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions
         markdown = gen_markdown(all_questions, solutions,
-                                "My LeetCode solutions", MarkdownType.FULL_TABLE)
+                                "Kaiwen's LeetCode solutions", MarkdownType.FULL_TABLE)
         update_file(os.path.join("others", all_items_file_name), markdown)
 
         todo_que, todo_sol = filter_questions_and_solutions(

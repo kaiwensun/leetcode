@@ -1,4 +1,4 @@
-# My LeetCode solutions
+# Kaiwen's LeetCode solutions
 
 * LeetCode websites
   * [leetcode.com](https://leetcode.com/)
