@@ -1,4 +1,4 @@
-# Kaiwen's LeetCode solutions. FORK NOT PERMITTED
+# Kaiwen's LeetCode solutions [FORK NOT PERMITTED]
 * If you like, star the original repository https://github.com/kaiwensun/leetcode
 
 * LeetCode websites

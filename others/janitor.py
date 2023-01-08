@@ -808,7 +808,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
             if markdown_type != MarkdownType.MAIN_README:
                 return f"# {title}"
             return "\n".join([
-                f"# {title}. FORK NOT PERMITTED",
+                f"# {title} [FORK NOT PERMITTED]",
                 "* If you like, star the original repository https://github.com/kaiwensun/leetcode"])
 
         res = [title_and_fork_permission(title),
