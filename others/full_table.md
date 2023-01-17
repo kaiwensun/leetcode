@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2920|1897|6|150 (92.37%)|12|
+|2920|1898|6|149 (92.42%)|12|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -20,7 +20,7 @@
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2538|Difference Between Maximum and Minimum Price Sum|[:us:](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum) [:cn:](https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum)||Hard|
-||2537|Count the Number of Good Subarrays|[:us:](https://leetcode.com/problems/count-the-number-of-good-subarrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-good-subarrays)||Medium|
+|:heavy_check_mark:|2537|Count the Number of Good Subarrays|[:us:](https://leetcode.com/problems/count-the-number-of-good-subarrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-good-subarrays)|[php](/2501-3000/2537.Count%20the%20Number%20of%20Good%20Subarrays.php)|Medium|
 |:heavy_check_mark:|2536|Increment Submatrices by One|[:us:](https://leetcode.com/problems/increment-submatrices-by-one) [:cn:](https://leetcode.cn/problems/increment-submatrices-by-one)|[java](/2501-3000/2536.Increment%20Submatrices%20by%20One.java)|Medium|
 |:heavy_check_mark:|2535|Difference Between Element Sum and Digit Sum of an Array|[:us:](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) [:cn:](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array)|[php](/2501-3000/2535.Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.php)|Easy|
 |:lock:|2534|Time Taken to Cross the Door|[:us:](https://leetcode.com/problems/time-taken-to-cross-the-door) [:cn:](https://leetcode.cn/problems/time-taken-to-cross-the-door)||Hard|

@@ -9,14 +9,13 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|535|0|6|150 (0.00%)|12|
+|534|0|6|149 (0.00%)|12|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 ||2538|Difference Between Maximum and Minimum Price Sum|[:us:](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum) [:cn:](https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum)||Hard|
-||2537|Count the Number of Good Subarrays|[:us:](https://leetcode.com/problems/count-the-number-of-good-subarrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-good-subarrays)||Medium|
 ||2513|Minimize the Maximum of Two Arrays|[:us:](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays)||Medium|
 ||2463|Minimum Total Distance Traveled|[:us:](https://leetcode.com/problems/minimum-total-distance-traveled) [:cn:](https://leetcode.cn/problems/minimum-total-distance-traveled)||Hard|
 ||2440|Create Components With Same Value|[:us:](https://leetcode.com/problems/create-components-with-same-value) [:cn:](https://leetcode.cn/problems/create-components-with-same-value)||Hard|
