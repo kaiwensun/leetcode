@@ -14,12 +14,12 @@
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.8%|13.2%|11.4%|7.0%|4.5%|2.4%|1.0%|0.7%|
+|59.8%|13.3%|11.4%|7.0%|4.5%|2.4%|1.0%|0.7%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|2561|Rearranging Fruits|[:us:](https://leetcode.com/problems/rearranging-fruits) [:cn:](https://leetcode.cn/problems/rearranging-fruits)|[py](/2501-3000/2561.Rearranging%20Fruits.py)|Hard|
+|:heavy_check_mark:|2561|Rearranging Fruits|[:us:](https://leetcode.com/problems/rearranging-fruits) [:cn:](https://leetcode.cn/problems/rearranging-fruits)|[py](/2501-3000/2561.Rearranging%20Fruits.py), [ts](/2501-3000/2561.Rearranging%20Fruits.ts)|Hard|
 |:heavy_check_mark:|2560|House Robber IV|[:us:](https://leetcode.com/problems/house-robber-iv) [:cn:](https://leetcode.cn/problems/house-robber-iv)|[ts](/2501-3000/2560.House%20Robber%20IV.ts)|Medium|
 |:heavy_check_mark::star:|2559|Count Vowel Strings in Ranges|[:us:](https://leetcode.com/problems/count-vowel-strings-in-ranges) [:cn:](https://leetcode.cn/problems/count-vowel-strings-in-ranges)|[ts](/2501-3000/2559.Count%20Vowel%20Strings%20in%20Ranges.ts)|Medium|
 |:heavy_check_mark:|2558|Take Gifts From the Richest Pile|[:us:](https://leetcode.com/problems/take-gifts-from-the-richest-pile) [:cn:](https://leetcode.cn/problems/take-gifts-from-the-richest-pile)|[py](/2501-3000/2558.Take%20Gifts%20From%20the%20Richest%20Pile.py)|Easy|
