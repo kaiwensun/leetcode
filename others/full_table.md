@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2943|1910|6|157 (92.09%)|14|
+|2947|1915|6|156 (92.16%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.8%|13.3%|11.4%|7.0%|4.5%|2.4%|1.0%|0.7%|
+|59.8%|13.3%|11.3%|7.0%|4.4%|2.4%|1.0%|0.7%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6357|contest question 6357||[py](/6357.py)||
+|:heavy_check_mark:|6356|contest question 6356||[py](/6356.py)||
+|:heavy_check_mark:|6355|contest question 6355||[py](/6355.py)||
+|:heavy_check_mark:|6354|contest question 6354||[py](/6354.py)||
 |:heavy_check_mark:|2561|Rearranging Fruits|[:us:](https://leetcode.com/problems/rearranging-fruits) [:cn:](https://leetcode.cn/problems/rearranging-fruits)|[py](/2501-3000/2561.Rearranging%20Fruits.py), [ts](/2501-3000/2561.Rearranging%20Fruits.ts)|Hard|
 |:heavy_check_mark:|2560|House Robber IV|[:us:](https://leetcode.com/problems/house-robber-iv) [:cn:](https://leetcode.cn/problems/house-robber-iv)|[ts](/2501-3000/2560.House%20Robber%20IV.ts)|Medium|
 |:heavy_check_mark::star:|2559|Count Vowel Strings in Ranges|[:us:](https://leetcode.com/problems/count-vowel-strings-in-ranges) [:cn:](https://leetcode.cn/problems/count-vowel-strings-in-ranges)|[ts](/2501-3000/2559.Count%20Vowel%20Strings%20in%20Ranges.ts)|Medium|
@@ -26,7 +30,7 @@
 |:lock:|2557|Maximum Number of Integers to Choose From a Range II|[:us:](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii) [:cn:](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-ii)||Medium|
 ||2556|Disconnect Path in a Binary Matrix by at Most One Flip|[:us:](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip) [:cn:](https://leetcode.cn/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)||Medium|
 ||2555|Maximize Win From Two Segments|[:us:](https://leetcode.com/problems/maximize-win-from-two-segments) [:cn:](https://leetcode.cn/problems/maximize-win-from-two-segments)||Medium|
-||2554|Maximum Number of Integers to Choose From a Range I|[:us:](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) [:cn:](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i)||Medium|
+|:heavy_check_mark:|2554|Maximum Number of Integers to Choose From a Range I|[:us:](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) [:cn:](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i)|[rb](/2501-3000/2554.Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.rb)|Medium|
 |:heavy_check_mark:|2553|Separate the Digits in an Array|[:us:](https://leetcode.com/problems/separate-the-digits-in-an-array) [:cn:](https://leetcode.cn/problems/separate-the-digits-in-an-array)|[ts](/2501-3000/2553.Separate%20the%20Digits%20in%20an%20Array.ts)|Easy|
 ||2552|Count Increasing Quadruplets|[:us:](https://leetcode.com/problems/count-increasing-quadruplets) [:cn:](https://leetcode.cn/problems/count-increasing-quadruplets)||Hard|
 ||2551|Put Marbles in Bags|[:us:](https://leetcode.com/problems/put-marbles-in-bags) [:cn:](https://leetcode.cn/problems/put-marbles-in-bags)||Hard|

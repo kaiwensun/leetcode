@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|542|0|6|157 (0.00%)|14|
+|541|0|6|156 (0.00%)|14|
 
 
 
@@ -17,7 +17,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2556|Disconnect Path in a Binary Matrix by at Most One Flip|[:us:](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip) [:cn:](https://leetcode.cn/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)||Medium|
 ||2555|Maximize Win From Two Segments|[:us:](https://leetcode.com/problems/maximize-win-from-two-segments) [:cn:](https://leetcode.cn/problems/maximize-win-from-two-segments)||Medium|
-||2554|Maximum Number of Integers to Choose From a Range I|[:us:](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i) [:cn:](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i)||Medium|
 ||2552|Count Increasing Quadruplets|[:us:](https://leetcode.com/problems/count-increasing-quadruplets) [:cn:](https://leetcode.cn/problems/count-increasing-quadruplets)||Hard|
 ||2551|Put Marbles in Bags|[:us:](https://leetcode.com/problems/put-marbles-in-bags) [:cn:](https://leetcode.cn/problems/put-marbles-in-bags)||Hard|
 ||2547|Minimum Cost to Split an Array|[:us:](https://leetcode.com/problems/minimum-cost-to-split-an-array) [:cn:](https://leetcode.cn/problems/minimum-cost-to-split-an-array)||Hard|
