@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|553|0|6|168 (0.00%)|14|
+|549|0|6|164 (0.00%)|14|
 
 
 
@@ -23,10 +23,6 @@
 ||2568|Minimum Impossible OR|[:us:](https://leetcode.com/problems/minimum-impossible-or) [:cn:](https://leetcode.cn/problems/minimum-impossible-or)||Medium|
 ||2567|Minimum Score by Changing Two Elements|[:us:](https://leetcode.com/problems/minimum-score-by-changing-two-elements) [:cn:](https://leetcode.cn/problems/minimum-score-by-changing-two-elements)||Medium|
 ||2566|Maximum Difference by Remapping a Digit|[:us:](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) [:cn:](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit)||Easy|
-||2565|Subsequence With the Minimum Score|[:us:](https://leetcode.com/problems/subsequence-with-the-minimum-score) [:cn:](https://leetcode.cn/problems/subsequence-with-the-minimum-score)||Hard|
-||2564|Substring XOR Queries|[:us:](https://leetcode.com/problems/substring-xor-queries) [:cn:](https://leetcode.cn/problems/substring-xor-queries)||Medium|
-||2563|Count the Number of Fair Pairs|[:us:](https://leetcode.com/problems/count-the-number-of-fair-pairs) [:cn:](https://leetcode.cn/problems/count-the-number-of-fair-pairs)||Medium|
-||2562|Find the Array Concatenation Value|[:us:](https://leetcode.com/problems/find-the-array-concatenation-value) [:cn:](https://leetcode.cn/problems/find-the-array-concatenation-value)||Easy|
 ||2556|Disconnect Path in a Binary Matrix by at Most One Flip|[:us:](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip) [:cn:](https://leetcode.cn/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip)||Medium|
 ||2555|Maximize Win From Two Segments|[:us:](https://leetcode.com/problems/maximize-win-from-two-segments) [:cn:](https://leetcode.cn/problems/maximize-win-from-two-segments)||Medium|
 ||2552|Count Increasing Quadruplets|[:us:](https://leetcode.com/problems/count-increasing-quadruplets) [:cn:](https://leetcode.cn/problems/count-increasing-quadruplets)||Hard|

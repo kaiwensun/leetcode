@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2963|1919|6|168 (91.62%)|14|
+|2959|1919|6|164 (91.80%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -20,10 +20,6 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6357|contest question 6357||[py](/6357.py)||
-|:heavy_check_mark:|6356|contest question 6356||[py](/6356.py)||
-|:heavy_check_mark:|6355|contest question 6355||[py](/6355.py)||
-|:heavy_check_mark:|6354|contest question 6354||[py](/6354.py)||
 |:heavy_check_mark:|2577|Minimum Time to Visit a Cell In a Grid|[:us:](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) [:cn:](https://leetcode.cn/problems/minimum-time-to-visit-a-cell-in-a-grid)|[py](/2501-3000/2577.Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid.py)|Hard|
 |:heavy_check_mark:|2576|Find the Maximum Number of Marked Indices|[:us:](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices) [:cn:](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices)|[py](/2501-3000/2576.Find%20the%20Maximum%20Number%20of%20Marked%20Indices.py)|Medium|
 |:heavy_check_mark:|2575|Find the Divisibility Array of a String|[:us:](https://leetcode.com/problems/find-the-divisibility-array-of-a-string) [:cn:](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string)|[java](/2501-3000/2575.Find%20the%20Divisibility%20Array%20of%20a%20String.java)|Medium|
@@ -36,10 +32,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 ||2568|Minimum Impossible OR|[:us:](https://leetcode.com/problems/minimum-impossible-or) [:cn:](https://leetcode.cn/problems/minimum-impossible-or)||Medium|
 ||2567|Minimum Score by Changing Two Elements|[:us:](https://leetcode.com/problems/minimum-score-by-changing-two-elements) [:cn:](https://leetcode.cn/problems/minimum-score-by-changing-two-elements)||Medium|
 ||2566|Maximum Difference by Remapping a Digit|[:us:](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) [:cn:](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit)||Easy|
-||2565|Subsequence With the Minimum Score|[:us:](https://leetcode.com/problems/subsequence-with-the-minimum-score) [:cn:](https://leetcode.cn/problems/subsequence-with-the-minimum-score)||Hard|
-||2564|Substring XOR Queries|[:us:](https://leetcode.com/problems/substring-xor-queries) [:cn:](https://leetcode.cn/problems/substring-xor-queries)||Medium|
-||2563|Count the Number of Fair Pairs|[:us:](https://leetcode.com/problems/count-the-number-of-fair-pairs) [:cn:](https://leetcode.cn/problems/count-the-number-of-fair-pairs)||Medium|
-||2562|Find the Array Concatenation Value|[:us:](https://leetcode.com/problems/find-the-array-concatenation-value) [:cn:](https://leetcode.cn/problems/find-the-array-concatenation-value)||Easy|
+|:heavy_check_mark:|2565|Subsequence With the Minimum Score|[:us:](https://leetcode.com/problems/subsequence-with-the-minimum-score) [:cn:](https://leetcode.cn/problems/subsequence-with-the-minimum-score)|[py](/2501-3000/2565.Subsequence%20With%20the%20Minimum%20Score.py)|Hard|
+|:heavy_check_mark:|2564|Substring XOR Queries|[:us:](https://leetcode.com/problems/substring-xor-queries) [:cn:](https://leetcode.cn/problems/substring-xor-queries)|[py](/2501-3000/2564.Substring%20XOR%20Queries.py)|Medium|
+|:heavy_check_mark:|2563|Count the Number of Fair Pairs|[:us:](https://leetcode.com/problems/count-the-number-of-fair-pairs) [:cn:](https://leetcode.cn/problems/count-the-number-of-fair-pairs)|[py](/2501-3000/2563.Count%20the%20Number%20of%20Fair%20Pairs.py)|Medium|
+|:heavy_check_mark:|2562|Find the Array Concatenation Value|[:us:](https://leetcode.com/problems/find-the-array-concatenation-value) [:cn:](https://leetcode.cn/problems/find-the-array-concatenation-value)|[py](/2501-3000/2562.Find%20the%20Array%20Concatenation%20Value.py)|Easy|
 |:heavy_check_mark:|2561|Rearranging Fruits|[:us:](https://leetcode.com/problems/rearranging-fruits) [:cn:](https://leetcode.cn/problems/rearranging-fruits)|[py](/2501-3000/2561.Rearranging%20Fruits.py), [ts](/2501-3000/2561.Rearranging%20Fruits.ts)|Hard|
 |:heavy_check_mark:|2560|House Robber IV|[:us:](https://leetcode.com/problems/house-robber-iv) [:cn:](https://leetcode.cn/problems/house-robber-iv)|[ts](/2501-3000/2560.House%20Robber%20IV.ts)|Medium|
 |:heavy_check_mark::star:|2559|Count Vowel Strings in Ranges|[:us:](https://leetcode.com/problems/count-vowel-strings-in-ranges) [:cn:](https://leetcode.cn/problems/count-vowel-strings-in-ranges)|[ts](/2501-3000/2559.Count%20Vowel%20Strings%20in%20Ranges.ts)|Medium|
@@ -2020,3 +2016,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 | sql |584|Find Customer Referee|[:us:](https://leetcode.com/problems/find-customer-referee) [:cn:](https://leetcode.cn/problems/find-customer-referee)||Easy|
 |:heavy_check_mark:|583|Delete Operation for Two Strings|[:us:](https://leetcode.com/problems/delete-operation-for-two-strings) [:cn:](https://leetcode.cn/problems/delete-operation-for-two-strings)|[java](/0501-1000/0583.Delete%20Operation%20for%20Two%20Strings.java)|Medium|
 |:lock:|582|Kill Process|[:us:](https://leetcode.com/problems/kill-process) [:cn:](https://leetcode.cn/problems/kill-process)||Medium|
+|:heavy_check_mark:|581|Shortest Unsorted Continuous Subarray|[:us:](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [:cn:](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray)|[py](/0501-1000/0581.Shortest%20Unsorted%20Continuous%20Subarray.py)|Medium|
+|:lock: sql |580|Count Student Number in Departments|[:us:](https://leetcode.com/problems/count-student-number-in-departments) [:cn:](https://leetcode.cn/problems/count-student-number-in-departments)||Medium|
+|:lock: sql |579|Find Cumulative Salary of an Employee|[:us:](https://leetcode.com/problems/find-cumulative-salary-of-an-employee) [:cn:](https://leetcode.cn/problems/find-cumulative-salary-of-an-employee)||Hard|
+|:lock: sql |578|Get Highest Answer Rate Question|[:us:](https://leetcode.com/problems/get-highest-answer-rate-question) [:cn:](https://leetcode.cn/problems/get-highest-answer-rate-question)||Medium|
