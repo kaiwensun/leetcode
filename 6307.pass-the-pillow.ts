@@ -1,5 +1,5 @@
 function passThePillow(n: number, time: number): number {
-    time %= ((n - 1) * 2);
-    return (time < n ? time : (n - 1) - (time - (n - 1))) + 1;
+    time %= (n - 1) * 2;
+    return Math.min(time, (n - 1) * 2 - time) + 1;
 };
 

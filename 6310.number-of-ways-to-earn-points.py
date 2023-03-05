@@ -2,7 +2,6 @@ from functools import cache
 
 class Solution:
     def waysToReachTarget(self, target: int, types: List[List[int]]) -> int:
-        types.sort(key=lambda t: t[1])
         MOD = 10 ** 9 + 7
 
         @cache
