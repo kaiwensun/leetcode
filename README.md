@@ -20,10 +20,10 @@
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6310|number-of-ways-to-earn-points||[py](/6310.number-of-ways-to-earn-points.py)||
-|:heavy_check_mark:|6309|split-the-array-to-make-coprime-products||[py](/6309.split-the-array-to-make-coprime-products.py)||
-|:heavy_check_mark:|6308|kth-largest-sum-in-a-binary-tree||[py](/6308.kth-largest-sum-in-a-binary-tree.py)||
-|:heavy_check_mark:|6307|pass-the-pillow||[ts](/6307.pass-the-pillow.ts)||
+|:heavy_check_mark:|2585|Number of Ways to Earn Points|[:us:](https://leetcode.com/problems/number-of-ways-to-earn-points) [:cn:](https://leetcode.cn/problems/number-of-ways-to-earn-points)|[py](/2501-3000/2585.Number%20of%20Ways%20to%20Earn%20Points.py)|Hard|
+|:heavy_check_mark:|2584|Split the Array to Make Coprime Products|[:us:](https://leetcode.com/problems/split-the-array-to-make-coprime-products) [:cn:](https://leetcode.cn/problems/split-the-array-to-make-coprime-products)|[py](/2501-3000/2584.Split%20the%20Array%20to%20Make%20Coprime%20Products.py)|Medium|
+|:heavy_check_mark:|2583|Kth Largest Sum in a Binary Tree|[:us:](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) [:cn:](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree)|[py](/2501-3000/2583.Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)|Medium|
+|:heavy_check_mark:|2582|Pass the Pillow|[:us:](https://leetcode.com/problems/pass-the-pillow) [:cn:](https://leetcode.cn/problems/pass-the-pillow)|[ts](/2501-3000/2582.Pass%20the%20Pillow.ts)|Easy|
 ||2581|Count Number of Possible Root Nodes|[:us:](https://leetcode.com/problems/count-number-of-possible-root-nodes) [:cn:](https://leetcode.cn/problems/count-number-of-possible-root-nodes)||Hard|
 ||2580|Count Ways to Group Overlapping Ranges|[:us:](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges) [:cn:](https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges)||Medium|
 ||2579|Count Total Number of Colored Cells|[:us:](https://leetcode.com/problems/count-total-number-of-colored-cells) [:cn:](https://leetcode.cn/problems/count-total-number-of-colored-cells)||Medium|
