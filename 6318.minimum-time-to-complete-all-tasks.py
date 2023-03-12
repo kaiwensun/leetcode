@@ -3,8 +3,8 @@ Idea:
 
 Imagine each task is a tile of length `duration`. The tile can freely slide in the range of [start, end].
 Initially all tiles are at their most-left possible position.
-We use a screen to push tiles rightward, until at least one tile touched by the screen cannot push more rightward, because it is bounded by `end`. Find out the biggest such `end`.
-Now we execute all applicable task in the time range from the screen's position to the biggest `end`.
+We use a screen to push tiles rightward, until at least one tile touched by the screen cannot be pushed more rightward, because it is bounded by `end`. Find out the biggest of such `end`.
+Now we run all applicable tasks in the time range from the screen's position to the biggest `end`.
 """
 
 class Solution:
@@ -34,9 +34,10 @@ class Solution:
             def __repr__(self):
                 return str([self.start, self.end, self.duration])
 
-        MX_END = max(task[1] for task in tasks)
-        MN_START = min(task[0] for task in tasks)
         tasks.sort()
+        MX_END = max(task[1] for task in tasks)
+        MN_START = tasks[0][0]
+
 
         tiles = [Tile(task) for task in tasks]
         total_duration = 0
@@ -52,15 +53,11 @@ class Solution:
                 if not touched_tiles:
                     break
 
-            pushables = []
-            unpushables = []
+            end = 0
             for tile in touched_tiles:
-                if tile.can_push_right(t):
-                    pushables.append(tile)
-                else:
-                    unpushables.append(tile)
-            if unpushables:
-                end = max(tile.end for tile in unpushables)
+                if not tile.can_push_right(t):
+                    end = max(end, tile.end)
+            if end:
                 for tile in tiles:
                     tile.run_in_range(t, end)
                 duration = end - t + 1
