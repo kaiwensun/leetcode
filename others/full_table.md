@@ -19,10 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6318|minimum-time-to-complete-all-tasks||[py](/6318.minimum-time-to-complete-all-tasks.py)||
 |:heavy_check_mark:|6317|count-the-number-of-beautiful-subarrays||[ts](/6317.count-the-number-of-beautiful-subarrays.ts)||
 |:heavy_check_mark:|6316|rearrange-array-to-maximize-prefix-score||[cpp](/6316.rearrange-array-to-maximize-prefix-score.cpp)||
 |:heavy_check_mark:|6315|count-the-number-of-vowel-strings-in-range||[py](/6315.count-the-number-of-vowel-strings-in-range.py)||
-|:heavy_check_mark:|6218|minimum-time-to-complete-all-tasks||[py](/6218.minimum-time-to-complete-all-tasks.py)||
 |:heavy_check_mark:|2585|Number of Ways to Earn Points|[:us:](https://leetcode.com/problems/number-of-ways-to-earn-points) [:cn:](https://leetcode.cn/problems/number-of-ways-to-earn-points)|[py](/2501-3000/2585.Number%20of%20Ways%20to%20Earn%20Points.py)|Hard|
 |:heavy_check_mark:|2584|Split the Array to Make Coprime Products|[:us:](https://leetcode.com/problems/split-the-array-to-make-coprime-products) [:cn:](https://leetcode.cn/problems/split-the-array-to-make-coprime-products)|[py](/2501-3000/2584.Split%20the%20Array%20to%20Make%20Coprime%20Products.py)|Hard|
 |:heavy_check_mark:|2583|Kth Largest Sum in a Binary Tree|[:us:](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree) [:cn:](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree)|[py](/2501-3000/2583.Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)|Medium|
