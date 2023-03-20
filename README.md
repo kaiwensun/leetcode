@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|2980|1931|6|172 (91.49%)|14|
+|2980|1935|6|168 (91.69%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.8%|13.3%|11.3%|7.0%|4.5%|2.4%|1.0%|0.7%|
+|59.7%|13.3%|11.3%|7.0%|4.5%|2.4%|1.0%|0.8%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -25,10 +25,10 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2597|The Number of Beautiful Subsets|[:us:](https://leetcode.com/problems/the-number-of-beautiful-subsets) [:cn:](https://leetcode.cn/problems/the-number-of-beautiful-subsets)|[py](/2501-3000/2597.The%20Number%20of%20Beautiful%20Subsets.py)|Medium|
 |:heavy_check_mark:|2596|Check Knight Tour Configuration|[:us:](https://leetcode.com/problems/check-knight-tour-configuration) [:cn:](https://leetcode.cn/problems/check-knight-tour-configuration)|[c](/2501-3000/2596.Check%20Knight%20Tour%20Configuration.c)|Medium|
 |:heavy_check_mark:|2595|Number of Even and Odd Bits|[:us:](https://leetcode.com/problems/number-of-even-and-odd-bits) [:cn:](https://leetcode.cn/problems/number-of-even-and-odd-bits)|[java](/2501-3000/2595.Number%20of%20Even%20and%20Odd%20Bits.java)|Easy|
-||2594|Minimum Time to Repair Cars|[:us:](https://leetcode.com/problems/minimum-time-to-repair-cars) [:cn:](https://leetcode.cn/problems/minimum-time-to-repair-cars)||Medium|
-||2593|Find Score of an Array After Marking All Elements|[:us:](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) [:cn:](https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements)||Medium|
-||2592|Maximize Greatness of an Array|[:us:](https://leetcode.com/problems/maximize-greatness-of-an-array) [:cn:](https://leetcode.cn/problems/maximize-greatness-of-an-array)||Medium|
-||2591|Distribute Money to Maximum Children|[:us:](https://leetcode.com/problems/distribute-money-to-maximum-children) [:cn:](https://leetcode.cn/problems/distribute-money-to-maximum-children)||Easy|
+|:heavy_check_mark:|2594|Minimum Time to Repair Cars|[:us:](https://leetcode.com/problems/minimum-time-to-repair-cars) [:cn:](https://leetcode.cn/problems/minimum-time-to-repair-cars)|[py](/2501-3000/2594.Minimum%20Time%20to%20Repair%20Cars.py)|Medium|
+|:heavy_check_mark:|2593|Find Score of an Array After Marking All Elements|[:us:](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements) [:cn:](https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements)|[py](/2501-3000/2593.Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements.py)|Medium|
+|:heavy_check_mark:|2592|Maximize Greatness of an Array|[:us:](https://leetcode.com/problems/maximize-greatness-of-an-array) [:cn:](https://leetcode.cn/problems/maximize-greatness-of-an-array)|[php](/2501-3000/2592.Maximize%20Greatness%20of%20an%20Array.php)|Medium|
+|:heavy_check_mark:|2591|Distribute Money to Maximum Children|[:us:](https://leetcode.com/problems/distribute-money-to-maximum-children) [:cn:](https://leetcode.cn/problems/distribute-money-to-maximum-children)|[c](/2501-3000/2591.Distribute%20Money%20to%20Maximum%20Children.c)|Easy|
 |:heavy_check_mark:|2589|Minimum Time to Complete All Tasks|[:us:](https://leetcode.com/problems/minimum-time-to-complete-all-tasks) [:cn:](https://leetcode.cn/problems/minimum-time-to-complete-all-tasks)|[py](/2501-3000/2589.Minimum%20Time%20to%20Complete%20All%20Tasks.py)|Hard|
 |:heavy_check_mark:|2588|Count the Number of Beautiful Subarrays|[:us:](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays) [:cn:](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays)|[ts](/2501-3000/2588.Count%20the%20Number%20of%20Beautiful%20Subarrays.ts)|Medium|
 |:heavy_check_mark:|2587|Rearrange Array to Maximize Prefix Score|[:us:](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) [:cn:](https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score)|[cpp](/2501-3000/2587.Rearrange%20Array%20to%20Maximize%20Prefix%20Score.cpp)|Medium|
