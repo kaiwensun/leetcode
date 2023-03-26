@@ -67,8 +67,12 @@ class GraphQLData:
     def _query(self):
         if self.csrf is None:
             self.client = requests.Session()
-            self.client.get(GraphQLData.BASE_URL)
-            self.csrf = self.client.cookies['csrftoken']
+            resp = self.client.get(GraphQLData.BASE_URL)
+            try:
+                self.csrf = self.client.cookies['csrftoken']
+            except KeyError as e:
+                raise Exception(f"response does not contain csrf token - {resp}") from e
+
         params = {
             'operationName': "query",
             'variables': self.variables,
