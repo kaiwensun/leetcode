@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3028|1951|6|196 (90.51%)|14|
+|3028|1952|6|195 (90.56%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,10 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6378|minimize-the-total-price-of-the-trips||[py](/6378.minimize-the-total-price-of-the-trips.py)||
-|:heavy_check_mark:|6376|row-with-maximum-ones||[ts](/6376.row-with-maximum-ones.ts)||
-|:heavy_check_mark:|6375|minimum-additions-to-make-valid-string||[c](/6375.minimum-additions-to-make-valid-string.c), [py](/6375.minimum-additions-to-make-valid-string.py)||
-|:heavy_check_mark:|6350|find-the-maximum-divisibility-score||[rb](/6350.find-the-maximum-divisibility-score.rb)||
+|:heavy_check_mark:|2646|Minimize the Total Price of the Trips|[:us:](https://leetcode.com/problems/minimize-the-total-price-of-the-trips) [:cn:](https://leetcode.cn/problems/minimize-the-total-price-of-the-trips)|[py](/2501-3000/2646.Minimize%20the%20Total%20Price%20of%20the%20Trips.py)|Hard|
+|:heavy_check_mark:|2645|Minimum Additions to Make Valid String|[:us:](https://leetcode.com/problems/minimum-additions-to-make-valid-string) [:cn:](https://leetcode.cn/problems/minimum-additions-to-make-valid-string)|[c](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.c), [py](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.py)|Medium|
+|:heavy_check_mark:|2644|Find the Maximum Divisibility Score|[:us:](https://leetcode.com/problems/find-the-maximum-divisibility-score) [:cn:](https://leetcode.cn/problems/find-the-maximum-divisibility-score)|[rb](/2501-3000/2644.Find%20the%20Maximum%20Divisibility%20Score.rb)|Easy|
+|:heavy_check_mark:|2643|Row With Maximum Ones|[:us:](https://leetcode.com/problems/row-with-maximum-ones) [:cn:](https://leetcode.cn/problems/row-with-maximum-ones)|[ts](/2501-3000/2643.Row%20With%20Maximum%20Ones.ts)|Easy|
 ||2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)||Hard|
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
@@ -30,7 +30,7 @@
 |:lock:|2638|Count the Number of K-Free Subsets|[:us:](https://leetcode.com/problems/count-the-number-of-k-free-subsets) [:cn:](https://leetcode.cn/problems/count-the-number-of-k-free-subsets)||Medium|
 |:heavy_check_mark:|2637|Promise Time Limit|[:us:](https://leetcode.com/problems/promise-time-limit) [:cn:](https://leetcode.cn/problems/promise-time-limit)|[ts](/2501-3000/2637.Promise%20Time%20Limit.ts)|Easy|
 ||2636|Promise Pool|[:us:](https://leetcode.com/problems/promise-pool) [:cn:](https://leetcode.cn/problems/promise-pool)||Medium|
-||2635|Apply Transform Over Each Element in Array|[:us:](https://leetcode.com/problems/apply-transform-over-each-element-in-array) [:cn:](https://leetcode.cn/problems/apply-transform-over-each-element-in-array)||Easy|
+|:heavy_check_mark:|2635|Apply Transform Over Each Element in Array|[:us:](https://leetcode.com/problems/apply-transform-over-each-element-in-array) [:cn:](https://leetcode.cn/problems/apply-transform-over-each-element-in-array)|[ts](/2501-3000/2635.Apply%20Transform%20Over%20Each%20Element%20in%20Array.ts)|Easy|
 ||2634|Filter Elements from Array|[:us:](https://leetcode.com/problems/filter-elements-from-array) [:cn:](https://leetcode.cn/problems/filter-elements-from-array)||Easy|
 ||2633|Convert Object to JSON String|[:us:](https://leetcode.com/problems/convert-object-to-json-string) [:cn:](https://leetcode.cn/problems/convert-object-to-json-string)||Medium|
 ||2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)||Medium|
