@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|605|0|6|188 (0.00%)|14|
+|594|0|6|177 (0.00%)|14|
 
 
 
@@ -19,17 +19,6 @@
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
 ||2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)||Easy|
-||2629|Function Composition|[:us:](https://leetcode.com/problems/function-composition) [:cn:](https://leetcode.cn/problems/function-composition)||Easy|
-||2628|JSON Deep Equal|[:us:](https://leetcode.com/problems/json-deep-equal) [:cn:](https://leetcode.cn/problems/json-deep-equal)||Medium|
-||2627|Debounce|[:us:](https://leetcode.com/problems/debounce) [:cn:](https://leetcode.cn/problems/debounce)||Medium|
-||2626|Array Reduce Transformation|[:us:](https://leetcode.com/problems/array-reduce-transformation) [:cn:](https://leetcode.cn/problems/array-reduce-transformation)||Easy|
-||2625|Flatten Deeply Nested Array|[:us:](https://leetcode.com/problems/flatten-deeply-nested-array) [:cn:](https://leetcode.cn/problems/flatten-deeply-nested-array)||Medium|
-||2624|Snail Traversal|[:us:](https://leetcode.com/problems/snail-traversal) [:cn:](https://leetcode.cn/problems/snail-traversal)||Medium|
-||2623|Memoize|[:us:](https://leetcode.com/problems/memoize) [:cn:](https://leetcode.cn/problems/memoize)||Medium|
-||2622|Cache With Time Limit|[:us:](https://leetcode.com/problems/cache-with-time-limit) [:cn:](https://leetcode.cn/problems/cache-with-time-limit)||Medium|
-||2621|Sleep|[:us:](https://leetcode.com/problems/sleep) [:cn:](https://leetcode.cn/problems/sleep)||Easy|
-||2620|Counter|[:us:](https://leetcode.com/problems/counter) [:cn:](https://leetcode.cn/problems/counter)||Easy|
-||2619|Array Prototype Last|[:us:](https://leetcode.com/problems/array-prototype-last) [:cn:](https://leetcode.cn/problems/array-prototype-last)||Easy|
 ||2612|Minimum Reverse Operations|[:us:](https://leetcode.com/problems/minimum-reverse-operations) [:cn:](https://leetcode.cn/problems/minimum-reverse-operations)||Hard|
 ||2608|Shortest Cycle in a Graph|[:us:](https://leetcode.com/problems/shortest-cycle-in-a-graph) [:cn:](https://leetcode.cn/problems/shortest-cycle-in-a-graph)||Hard|
 ||2607|Make K-Subarray Sums Equal|[:us:](https://leetcode.com/problems/make-k-subarray-sums-equal) [:cn:](https://leetcode.cn/problems/make-k-subarray-sums-equal)||Medium|

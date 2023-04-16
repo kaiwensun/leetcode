@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3028|1959|6|188 (90.90%)|14|
+|3028|1970|6|177 (91.43%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.6%|13.6%|11.2%|6.9%|4.5%|2.4%|1.0%|0.8%|
+|59.3%|14.0%|11.1%|6.9%|4.5%|2.4%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -36,17 +36,17 @@
 |:heavy_check_mark:|2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)|[ts](/2501-3000/2632.Curry.ts)|Medium|
 |:heavy_check_mark:|2631|Group By|[:us:](https://leetcode.com/problems/group-by) [:cn:](https://leetcode.cn/problems/group-by)|[ts](/2501-3000/2631.Group%20By.ts)|Medium|
 |:heavy_check_mark:|2630|Memoize II|[:us:](https://leetcode.com/problems/memoize-ii) [:cn:](https://leetcode.cn/problems/memoize-ii)|[ts](/2501-3000/2630.Memoize%20II.ts)|Hard|
-||2629|Function Composition|[:us:](https://leetcode.com/problems/function-composition) [:cn:](https://leetcode.cn/problems/function-composition)||Easy|
-||2628|JSON Deep Equal|[:us:](https://leetcode.com/problems/json-deep-equal) [:cn:](https://leetcode.cn/problems/json-deep-equal)||Medium|
-||2627|Debounce|[:us:](https://leetcode.com/problems/debounce) [:cn:](https://leetcode.cn/problems/debounce)||Medium|
-||2626|Array Reduce Transformation|[:us:](https://leetcode.com/problems/array-reduce-transformation) [:cn:](https://leetcode.cn/problems/array-reduce-transformation)||Easy|
-||2625|Flatten Deeply Nested Array|[:us:](https://leetcode.com/problems/flatten-deeply-nested-array) [:cn:](https://leetcode.cn/problems/flatten-deeply-nested-array)||Medium|
-||2624|Snail Traversal|[:us:](https://leetcode.com/problems/snail-traversal) [:cn:](https://leetcode.cn/problems/snail-traversal)||Medium|
-||2623|Memoize|[:us:](https://leetcode.com/problems/memoize) [:cn:](https://leetcode.cn/problems/memoize)||Medium|
-||2622|Cache With Time Limit|[:us:](https://leetcode.com/problems/cache-with-time-limit) [:cn:](https://leetcode.cn/problems/cache-with-time-limit)||Medium|
-||2621|Sleep|[:us:](https://leetcode.com/problems/sleep) [:cn:](https://leetcode.cn/problems/sleep)||Easy|
-||2620|Counter|[:us:](https://leetcode.com/problems/counter) [:cn:](https://leetcode.cn/problems/counter)||Easy|
-||2619|Array Prototype Last|[:us:](https://leetcode.com/problems/array-prototype-last) [:cn:](https://leetcode.cn/problems/array-prototype-last)||Easy|
+|:heavy_check_mark:|2629|Function Composition|[:us:](https://leetcode.com/problems/function-composition) [:cn:](https://leetcode.cn/problems/function-composition)|[ts](/2501-3000/2629.Function%20Composition.ts)|Easy|
+|:heavy_check_mark:|2628|JSON Deep Equal|[:us:](https://leetcode.com/problems/json-deep-equal) [:cn:](https://leetcode.cn/problems/json-deep-equal)|[ts](/2501-3000/2628.JSON%20Deep%20Equal.ts)|Medium|
+|:heavy_check_mark:|2627|Debounce|[:us:](https://leetcode.com/problems/debounce) [:cn:](https://leetcode.cn/problems/debounce)|[ts](/2501-3000/2627.Debounce.ts)|Medium|
+|:heavy_check_mark:|2626|Array Reduce Transformation|[:us:](https://leetcode.com/problems/array-reduce-transformation) [:cn:](https://leetcode.cn/problems/array-reduce-transformation)|[ts](/2501-3000/2626.Array%20Reduce%20Transformation.ts)|Easy|
+|:heavy_check_mark:|2625|Flatten Deeply Nested Array|[:us:](https://leetcode.com/problems/flatten-deeply-nested-array) [:cn:](https://leetcode.cn/problems/flatten-deeply-nested-array)|[ts](/2501-3000/2625.Flatten%20Deeply%20Nested%20Array.ts)|Medium|
+|:heavy_check_mark:|2624|Snail Traversal|[:us:](https://leetcode.com/problems/snail-traversal) [:cn:](https://leetcode.cn/problems/snail-traversal)|[ts](/2501-3000/2624.Snail%20Traversal.ts)|Medium|
+|:heavy_check_mark:|2623|Memoize|[:us:](https://leetcode.com/problems/memoize) [:cn:](https://leetcode.cn/problems/memoize)|[ts](/2501-3000/2623.Memoize.ts)|Medium|
+|:heavy_check_mark:|2622|Cache With Time Limit|[:us:](https://leetcode.com/problems/cache-with-time-limit) [:cn:](https://leetcode.cn/problems/cache-with-time-limit)|[ts](/2501-3000/2622.Cache%20With%20Time%20Limit.ts)|Medium|
+|:heavy_check_mark:|2621|Sleep|[:us:](https://leetcode.com/problems/sleep) [:cn:](https://leetcode.cn/problems/sleep)|[ts](/2501-3000/2621.Sleep.ts)|Easy|
+|:heavy_check_mark:|2620|Counter|[:us:](https://leetcode.com/problems/counter) [:cn:](https://leetcode.cn/problems/counter)|[ts](/2501-3000/2620.Counter.ts)|Easy|
+|:heavy_check_mark:|2619|Array Prototype Last|[:us:](https://leetcode.com/problems/array-prototype-last) [:cn:](https://leetcode.cn/problems/array-prototype-last)|[ts](/2501-3000/2619.Array%20Prototype%20Last.ts)|Easy|
 |:heavy_check_mark:|2618|Check if Object Instance of Class|[:us:](https://leetcode.com/problems/check-if-object-instance-of-class) [:cn:](https://leetcode.cn/problems/check-if-object-instance-of-class)|[ts](/2501-3000/2618.Check%20if%20Object%20Instance%20of%20Class.ts)|Medium|
 |:heavy_check_mark:|2617|Minimum Number of Visited Cells in a Grid|[:us:](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid) [:cn:](https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid)|[py](/2501-3000/2617.Minimum%20Number%20of%20Visited%20Cells%20in%20a%20Grid.%28BFS%29.py), [py](/2501-3000/2617.Minimum%20Number%20of%20Visited%20Cells%20in%20a%20Grid.%28DP%20and%20Segment%20Tree%29.py)|Hard|
 |:heavy_check_mark:|2616|Minimize the Maximum Difference of Pairs|[:us:](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs)|[py](/2501-3000/2616.Minimize%20the%20Maximum%20Difference%20of%20Pairs.py)|Medium|
