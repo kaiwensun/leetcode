@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|612|0|6|195 (0.00%)|14|
+|611|0|6|194 (0.00%)|14|
 
 
 
@@ -19,7 +19,6 @@
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
 ||2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)||Easy|
-||2636|Promise Pool|[:us:](https://leetcode.com/problems/promise-pool) [:cn:](https://leetcode.cn/problems/promise-pool)||Medium|
 ||2634|Filter Elements from Array|[:us:](https://leetcode.com/problems/filter-elements-from-array) [:cn:](https://leetcode.cn/problems/filter-elements-from-array)||Easy|
 ||2633|Convert Object to JSON String|[:us:](https://leetcode.com/problems/convert-object-to-json-string) [:cn:](https://leetcode.cn/problems/convert-object-to-json-string)||Medium|
 ||2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)||Medium|
