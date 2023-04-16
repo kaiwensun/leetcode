@@ -18,7 +18,7 @@ Array.prototype.snail = function(rowsCount: number, colsCount: number): number[]
         return j % 2 ? [i - 1, j] : [i + 1, j];
     }
     let i = 0, j = 0;
-    
+
     for (let k = 0; k < total; k++) {
         res[i][j] = this[k];
         [i, j] = nextIndex(i, j);
