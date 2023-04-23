@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3041|1974|6|180 (91.31%)|14|
+|3041|1976|6|178 (91.41%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|14.1%|11.1%|6.9%|4.5%|2.4%|0.9%|0.8%|
+|59.2%|14.2%|11.1%|6.9%|4.5%|2.4%|0.9%|0.8%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -25,8 +25,8 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2652|Sum Multiples|[:us:](https://leetcode.com/problems/sum-multiples) [:cn:](https://leetcode.cn/problems/sum-multiples)|[ts](/2501-3000/2652.Sum%20Multiples.ts)|Easy|
 |:heavy_check_mark:|2651|Calculate Delayed Arrival Time|[:us:](https://leetcode.com/problems/calculate-delayed-arrival-time) [:cn:](https://leetcode.cn/problems/calculate-delayed-arrival-time)|[c](/2501-3000/2651.Calculate%20Delayed%20Arrival%20Time.c)|Easy|
 ||2650|Design Cancellable Function|[:us:](https://leetcode.com/problems/design-cancellable-function) [:cn:](https://leetcode.cn/problems/design-cancellable-function)||Hard|
-||2649|Nested Array Generator|[:us:](https://leetcode.com/problems/nested-array-generator) [:cn:](https://leetcode.cn/problems/nested-array-generator)||Medium|
-||2648|Generate Fibonacci Sequence|[:us:](https://leetcode.com/problems/generate-fibonacci-sequence) [:cn:](https://leetcode.cn/problems/generate-fibonacci-sequence)||Easy|
+|:heavy_check_mark:|2649|Nested Array Generator|[:us:](https://leetcode.com/problems/nested-array-generator) [:cn:](https://leetcode.cn/problems/nested-array-generator)|[ts](/2501-3000/2649.Nested%20Array%20Generator.ts)|Medium|
+|:heavy_check_mark:|2648|Generate Fibonacci Sequence|[:us:](https://leetcode.com/problems/generate-fibonacci-sequence) [:cn:](https://leetcode.cn/problems/generate-fibonacci-sequence)|[ts](/2501-3000/2648.Generate%20Fibonacci%20Sequence.ts)|Easy|
 |:lock:|2647|Color the Triangle Red|[:us:](https://leetcode.com/problems/color-the-triangle-red) [:cn:](https://leetcode.cn/problems/color-the-triangle-red)||Hard|
 |:heavy_check_mark:|2646|Minimize the Total Price of the Trips|[:us:](https://leetcode.com/problems/minimize-the-total-price-of-the-trips) [:cn:](https://leetcode.cn/problems/minimize-the-total-price-of-the-trips)|[py](/2501-3000/2646.Minimize%20the%20Total%20Price%20of%20the%20Trips.py)|Hard|
 |:heavy_check_mark:|2645|Minimum Additions to Make Valid String|[:us:](https://leetcode.com/problems/minimum-additions-to-make-valid-string) [:cn:](https://leetcode.cn/problems/minimum-additions-to-make-valid-string)|[c](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.c), [py](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.py)|Medium|
