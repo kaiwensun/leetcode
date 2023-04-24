@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3041|1977|6|177 (91.46%)|14|
+|3042|1979|6|176 (91.51%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -34,7 +34,7 @@
 ||2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)||Hard|
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
-||2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)||Easy|
+|:heavy_check_mark:|2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)|[ts](/2501-3000/2639.Find%20the%20Width%20of%20Columns%20of%20a%20Grid.ts)|Easy|
 |:lock:|2638|Count the Number of K-Free Subsets|[:us:](https://leetcode.com/problems/count-the-number-of-k-free-subsets) [:cn:](https://leetcode.cn/problems/count-the-number-of-k-free-subsets)||Medium|
 |:heavy_check_mark:|2637|Promise Time Limit|[:us:](https://leetcode.com/problems/promise-time-limit) [:cn:](https://leetcode.cn/problems/promise-time-limit)|[ts](/2501-3000/2637.Promise%20Time%20Limit.ts)|Easy|
 |:heavy_check_mark:|2636|Promise Pool|[:us:](https://leetcode.com/problems/promise-pool) [:cn:](https://leetcode.cn/problems/promise-pool)|[ts](/2501-3000/2636.Promise%20Pool.ts)|Medium|
@@ -2673,6 +2673,7 @@
 |:heavy_check_mark:|3|Longest Substring Without Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-without-repeating-characters) [:cn:](https://leetcode.cn/problems/longest-substring-without-repeating-characters)|[c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.c), [c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.c), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.py), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
 |:heavy_check_mark:|2|Add Two Numbers|[:us:](https://leetcode.com/problems/add-two-numbers) [:cn:](https://leetcode.cn/problems/add-two-numbers)|[c](/0001-0500/0002.Add%20Two%20Numbers.c), [py](/0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
 |:heavy_check_mark:|1|Two Sum|[:us:](https://leetcode.com/problems/two-sum) [:cn:](https://leetcode.cn/problems/two-sum)|[c](/0001-0500/0001.Two%20Sum.c), [java](/0001-0500/0001.Two%20Sum.java), [py](/0001-0500/0001.Two%20Sum.py)|Easy|
+|:heavy_check_mark:|DD-2019001|排列小球|[:cn:](https://leetcode.cn/problems/FHnt4H)|[py](/DD/DD-2019001.%E6%8E%92%E5%88%97%E5%B0%8F%E7%90%83.py)|Easy|
 |:heavy_check_mark:|DD-2020006|简单游戏|[:cn:](https://leetcode.cn/problems/1zD30O)|[py](/DD/DD-2020006.%E7%AE%80%E5%8D%95%E6%B8%B8%E6%88%8F.py)|Easy|
 |:heavy_check_mark:|LCP 01|Guess Numbers|[:cn:](https://leetcode.cn/problems/guess-numbers)|[py](/LCP/LCP%2001.Guess%20Numbers.py)|Easy|
 |:heavy_check_mark:|LCP 02|Deep Dark Fraction|[:cn:](https://leetcode.cn/problems/deep-dark-fraction)|[java](/LCP/LCP%2002.Deep%20Dark%20Fraction.java)|Easy|

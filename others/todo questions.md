@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|599|0|6|177 (0.00%)|14|
+|598|0|6|176 (0.00%)|14|
 
 
 
@@ -18,7 +18,6 @@
 ||2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)||Hard|
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
-||2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)||Easy|
 ||2612|Minimum Reverse Operations|[:us:](https://leetcode.com/problems/minimum-reverse-operations) [:cn:](https://leetcode.cn/problems/minimum-reverse-operations)||Hard|
 ||2608|Shortest Cycle in a Graph|[:us:](https://leetcode.com/problems/shortest-cycle-in-a-graph) [:cn:](https://leetcode.cn/problems/shortest-cycle-in-a-graph)||Hard|
 ||2607|Make K-Subarray Sums Equal|[:us:](https://leetcode.com/problems/make-k-subarray-sums-equal) [:cn:](https://leetcode.cn/problems/make-k-subarray-sums-equal)||Medium|

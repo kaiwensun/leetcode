@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3041|1977|6|177 (91.46%)|14|
+|3042|1979|6|176 (91.51%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -35,7 +35,7 @@ The following table contains only the latest 2000 items. For a full list, check 
 ||2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)||Hard|
 ||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
 ||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
-||2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)||Easy|
+|:heavy_check_mark:|2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)|[ts](/2501-3000/2639.Find%20the%20Width%20of%20Columns%20of%20a%20Grid.ts)|Easy|
 |:lock:|2638|Count the Number of K-Free Subsets|[:us:](https://leetcode.com/problems/count-the-number-of-k-free-subsets) [:cn:](https://leetcode.cn/problems/count-the-number-of-k-free-subsets)||Medium|
 |:heavy_check_mark:|2637|Promise Time Limit|[:us:](https://leetcode.com/problems/promise-time-limit) [:cn:](https://leetcode.cn/problems/promise-time-limit)|[ts](/2501-3000/2637.Promise%20Time%20Limit.ts)|Easy|
 |:heavy_check_mark:|2636|Promise Pool|[:us:](https://leetcode.com/problems/promise-pool) [:cn:](https://leetcode.cn/problems/promise-pool)|[ts](/2501-3000/2636.Promise%20Pool.ts)|Medium|

@@ -873,6 +873,10 @@ def load_resources(client, offline):
                 {'stat': {'question__title': '简单游戏', 'question__title_slug': '1zD30O',
                         'question__hide': False, 'frontend_question_id': 'DD-2020006'},
                 'difficulty': {'level': 1},
+                'paid_only': False},
+                {'stat': {'question__title': '排列小球', 'question__title_slug': 'FHnt4H',
+                        'question__hide': False, 'frontend_question_id': 'DD-2019001'},
+                'difficulty': {'level': 1},
                 'paid_only': False}
             ]
 
