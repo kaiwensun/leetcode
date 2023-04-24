@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3042|1979|6|176 (91.51%)|14|
+|3042|1982|6|173 (91.65%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.2%|14.2%|11.1%|6.9%|4.5%|2.4%|0.9%|0.8%|
+|59.1%|14.3%|11.1%|6.9%|4.5%|2.4%|0.9%|0.8%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -32,9 +32,9 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|2645|Minimum Additions to Make Valid String|[:us:](https://leetcode.com/problems/minimum-additions-to-make-valid-string) [:cn:](https://leetcode.cn/problems/minimum-additions-to-make-valid-string)|[c](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.c), [py](/2501-3000/2645.Minimum%20Additions%20to%20Make%20Valid%20String.py)|Medium|
 |:heavy_check_mark:|2644|Find the Maximum Divisibility Score|[:us:](https://leetcode.com/problems/find-the-maximum-divisibility-score) [:cn:](https://leetcode.cn/problems/find-the-maximum-divisibility-score)|[rb](/2501-3000/2644.Find%20the%20Maximum%20Divisibility%20Score.rb)|Easy|
 |:heavy_check_mark:|2643|Row With Maximum Ones|[:us:](https://leetcode.com/problems/row-with-maximum-ones) [:cn:](https://leetcode.cn/problems/row-with-maximum-ones)|[ts](/2501-3000/2643.Row%20With%20Maximum%20Ones.ts)|Easy|
-||2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)||Hard|
-||2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)||Medium|
-||2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)||Medium|
+|:heavy_check_mark:|2642|Design Graph With Shortest Path Calculator|[:us:](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) [:cn:](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator)|[py](/2501-3000/2642.Design%20Graph%20With%20Shortest%20Path%20Calculator.py)|Hard|
+|:heavy_check_mark:|2641|Cousins in Binary Tree II|[:us:](https://leetcode.com/problems/cousins-in-binary-tree-ii) [:cn:](https://leetcode.cn/problems/cousins-in-binary-tree-ii)|[ts](/2501-3000/2641.Cousins%20in%20Binary%20Tree%20II.ts)|Medium|
+|:heavy_check_mark:|2640|Find the Score of All Prefixes of an Array|[:us:](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array)|[ts](/2501-3000/2640.Find%20the%20Score%20of%20All%20Prefixes%20of%20an%20Array.ts)|Medium|
 |:heavy_check_mark:|2639|Find the Width of Columns of a Grid|[:us:](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) [:cn:](https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid)|[ts](/2501-3000/2639.Find%20the%20Width%20of%20Columns%20of%20a%20Grid.ts)|Easy|
 |:lock:|2638|Count the Number of K-Free Subsets|[:us:](https://leetcode.com/problems/count-the-number-of-k-free-subsets) [:cn:](https://leetcode.cn/problems/count-the-number-of-k-free-subsets)||Medium|
 |:heavy_check_mark:|2637|Promise Time Limit|[:us:](https://leetcode.com/problems/promise-time-limit) [:cn:](https://leetcode.cn/problems/promise-time-limit)|[ts](/2501-3000/2637.Promise%20Time%20Limit.ts)|Easy|
