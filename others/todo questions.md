@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|616|0|6|188 (0.00%)|14|
+|614|0|6|186 (0.00%)|14|
 
 
 
@@ -17,8 +17,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||2681|Power of Heroes|[:us:](https://leetcode.com/problems/power-of-heroes) [:cn:](https://leetcode.cn/problems/power-of-heroes)||Hard|
 ||2680|Maximum OR|[:us:](https://leetcode.com/problems/maximum-or) [:cn:](https://leetcode.cn/problems/maximum-or)||Medium|
-||2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)||Medium|
-||2678|Number of Senior Citizens|[:us:](https://leetcode.com/problems/number-of-senior-citizens) [:cn:](https://leetcode.cn/problems/number-of-senior-citizens)||Easy|
 ||2677|Chunk Array|[:us:](https://leetcode.com/problems/chunk-array) [:cn:](https://leetcode.cn/problems/chunk-array)||Easy|
 ||2676|Throttle|[:us:](https://leetcode.com/problems/throttle) [:cn:](https://leetcode.cn/problems/throttle)||Medium|
 ||2675|Array of Objects to Matrix|[:us:](https://leetcode.com/problems/array-of-objects-to-matrix) [:cn:](https://leetcode.cn/problems/array-of-objects-to-matrix)||Medium|

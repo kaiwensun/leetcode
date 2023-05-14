@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3079|1993|6|188 (91.04%)|14|
+|3079|1995|6|186 (91.13%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -25,8 +25,8 @@
 |:heavy_check_mark:|6430|find-the-losers-of-the-circular-game||[php](/6430.find-the-losers-of-the-circular-game.php)||
 ||2681|Power of Heroes|[:us:](https://leetcode.com/problems/power-of-heroes) [:cn:](https://leetcode.cn/problems/power-of-heroes)||Hard|
 ||2680|Maximum OR|[:us:](https://leetcode.com/problems/maximum-or) [:cn:](https://leetcode.cn/problems/maximum-or)||Medium|
-||2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)||Medium|
-||2678|Number of Senior Citizens|[:us:](https://leetcode.com/problems/number-of-senior-citizens) [:cn:](https://leetcode.cn/problems/number-of-senior-citizens)||Easy|
+|:heavy_check_mark:|2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)|[py](/2501-3000/2679.Sum%20in%20a%20Matrix.py)|Medium|
+|:heavy_check_mark:|2678|Number of Senior Citizens|[:us:](https://leetcode.com/problems/number-of-senior-citizens) [:cn:](https://leetcode.cn/problems/number-of-senior-citizens)|[c](/2501-3000/2678.Number%20of%20Senior%20Citizens.c)|Easy|
 ||2677|Chunk Array|[:us:](https://leetcode.com/problems/chunk-array) [:cn:](https://leetcode.cn/problems/chunk-array)||Easy|
 ||2676|Throttle|[:us:](https://leetcode.com/problems/throttle) [:cn:](https://leetcode.cn/problems/throttle)||Medium|
 ||2675|Array of Objects to Matrix|[:us:](https://leetcode.com/problems/array-of-objects-to-matrix) [:cn:](https://leetcode.cn/problems/array-of-objects-to-matrix)||Medium|
