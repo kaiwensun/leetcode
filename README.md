@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |59.0%|14.5%|11.1%|6.8%|4.5%|2.4%|0.9%|0.8%|
 
-The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
+The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|6433|maximum-number-of-moves-in-a-grid||[ts](/6433.maximum-number-of-moves-in-a-grid.ts)||
