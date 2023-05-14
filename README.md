@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3075|1989|6|188 (91.02%)|14|
+|3079|1993|6|188 (91.04%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.1%|14.4%|11.1%|6.8%|4.5%|2.4%|0.9%|0.8%|
+|59.0%|14.5%|11.1%|6.8%|4.5%|2.4%|0.9%|0.8%|
 
 The following table contains only the latest 2000 items. For a full list, check [full_table.md](others/full_table.md). This is because GitHub currently limits blob rendering of a repo's README to around 500 KB of data.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6433|maximum-number-of-moves-in-a-grid||[ts](/6433.maximum-number-of-moves-in-a-grid.ts)||
+|:heavy_check_mark:|6432|count-the-number-of-complete-components||[ts](/6432.count-the-number-of-complete-components.ts)||
+|:heavy_check_mark:|6431|neighboring-bitwise-xor||[ts](/6431.neighboring-bitwise-xor.ts)||
+|:heavy_check_mark:|6430|find-the-losers-of-the-circular-game||[php](/6430.find-the-losers-of-the-circular-game.php)||
 ||2681|Power of Heroes|[:us:](https://leetcode.com/problems/power-of-heroes) [:cn:](https://leetcode.cn/problems/power-of-heroes)||Hard|
 ||2680|Maximum OR|[:us:](https://leetcode.com/problems/maximum-or) [:cn:](https://leetcode.cn/problems/maximum-or)||Medium|
 ||2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)||Medium|
@@ -2016,7 +2020,3 @@ The following table contains only the latest 2000 items. For a full list, check 
 |:heavy_check_mark:|688|Knight Probability in Chessboard|[:us:](https://leetcode.com/problems/knight-probability-in-chessboard) [:cn:](https://leetcode.cn/problems/knight-probability-in-chessboard)|[py](/0501-1000/0688.Knight%20Probability%20in%20Chessboard.py)|Medium|
 |:heavy_check_mark:|687|Longest Univalue Path|[:us:](https://leetcode.com/problems/longest-univalue-path) [:cn:](https://leetcode.cn/problems/longest-univalue-path)|[py](/0501-1000/0687.Longest%20Univalue%20Path.py)|Medium|
 |:heavy_check_mark:|686|Repeated String Match|[:us:](https://leetcode.com/problems/repeated-string-match) [:cn:](https://leetcode.cn/problems/repeated-string-match)|[ts](/0501-1000/0686.Repeated%20String%20Match.ts)|Medium|
-||685|Redundant Connection II|[:us:](https://leetcode.com/problems/redundant-connection-ii) [:cn:](https://leetcode.cn/problems/redundant-connection-ii)||Hard|
-|:heavy_check_mark:|684|Redundant Connection|[:us:](https://leetcode.com/problems/redundant-connection) [:cn:](https://leetcode.cn/problems/redundant-connection)|[py](/0501-1000/0684.Redundant%20Connection.py)|Medium|
-|:heavy_check_mark::lock:|683|K Empty Slots|[:us:](https://leetcode.com/problems/k-empty-slots) [:cn:](https://leetcode.cn/problems/k-empty-slots)|[py](/0501-1000/0683.K%20Empty%20Slots.py)|Hard|
-|:heavy_check_mark:|682|Baseball Game|[:us:](https://leetcode.com/problems/baseball-game) [:cn:](https://leetcode.cn/problems/baseball-game)|[ts](/0501-1000/0682.Baseball%20Game.ts)|Easy|

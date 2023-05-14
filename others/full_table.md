@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3075|1989|6|188 (91.02%)|14|
+|3079|1993|6|188 (91.04%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.1%|14.4%|11.1%|6.8%|4.5%|2.4%|0.9%|0.8%|
+|59.0%|14.5%|11.1%|6.8%|4.5%|2.4%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6433|maximum-number-of-moves-in-a-grid||[ts](/6433.maximum-number-of-moves-in-a-grid.ts)||
+|:heavy_check_mark:|6432|count-the-number-of-complete-components||[ts](/6432.count-the-number-of-complete-components.ts)||
+|:heavy_check_mark:|6431|neighboring-bitwise-xor||[ts](/6431.neighboring-bitwise-xor.ts)||
+|:heavy_check_mark:|6430|find-the-losers-of-the-circular-game||[php](/6430.find-the-losers-of-the-circular-game.php)||
 ||2681|Power of Heroes|[:us:](https://leetcode.com/problems/power-of-heroes) [:cn:](https://leetcode.cn/problems/power-of-heroes)||Hard|
 ||2680|Maximum OR|[:us:](https://leetcode.com/problems/maximum-or) [:cn:](https://leetcode.cn/problems/maximum-or)||Medium|
 ||2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)||Medium|
