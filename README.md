@@ -20,10 +20,10 @@
 The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6433|maximum-number-of-moves-in-a-grid||[ts](/6433.maximum-number-of-moves-in-a-grid.ts)||
-|:heavy_check_mark:|6432|count-the-number-of-complete-components||[ts](/6432.count-the-number-of-complete-components.ts)||
-|:heavy_check_mark:|6431|neighboring-bitwise-xor||[ts](/6431.neighboring-bitwise-xor.ts)||
-|:heavy_check_mark:|6430|find-the-losers-of-the-circular-game||[php](/6430.find-the-losers-of-the-circular-game.php)||
+|:heavy_check_mark:|2685|Count the Number of Complete Components|[:us:](https://leetcode.com/problems/count-the-number-of-complete-components) [:cn:](https://leetcode.cn/problems/count-the-number-of-complete-components)|[ts](/2501-3000/2685.Count%20the%20Number%20of%20Complete%20Components.ts)|Medium|
+|:heavy_check_mark:|2684|Maximum Number of Moves in a Grid|[:us:](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) [:cn:](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid)|[ts](/2501-3000/2684.Maximum%20Number%20of%20Moves%20in%20a%20Grid.ts)|Medium|
+|:heavy_check_mark:|2683|Neighboring Bitwise XOR|[:us:](https://leetcode.com/problems/neighboring-bitwise-xor) [:cn:](https://leetcode.cn/problems/neighboring-bitwise-xor)|[ts](/2501-3000/2683.Neighboring%20Bitwise%20XOR.ts)|Medium|
+|:heavy_check_mark:|2682|Find the Losers of the Circular Game|[:us:](https://leetcode.com/problems/find-the-losers-of-the-circular-game) [:cn:](https://leetcode.cn/problems/find-the-losers-of-the-circular-game)|[php](/2501-3000/2682.Find%20the%20Losers%20of%20the%20Circular%20Game.php)|Easy|
 ||2681|Power of Heroes|[:us:](https://leetcode.com/problems/power-of-heroes) [:cn:](https://leetcode.cn/problems/power-of-heroes)||Hard|
 ||2680|Maximum OR|[:us:](https://leetcode.com/problems/maximum-or) [:cn:](https://leetcode.cn/problems/maximum-or)||Medium|
 |:heavy_check_mark:|2679|Sum in a Matrix|[:us:](https://leetcode.com/problems/sum-in-a-matrix) [:cn:](https://leetcode.cn/problems/sum-in-a-matrix)|[py](/2501-3000/2679.Sum%20in%20a%20Matrix.py)|Medium|
