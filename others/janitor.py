@@ -658,7 +658,7 @@ class MarkdownType(Enum):
     FULL_TABLE = "FULL_TABLE"
 
 
-MAIN_README_SIZE = 2000
+MAIN_README_SIZE = 1000
 all_items_file_name = "full_table.md"
 
 
