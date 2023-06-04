@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|631|0|6|203 (0.00%)|14|
+|630|0|6|202 (0.00%)|14|
 
 
 
@@ -44,7 +44,6 @@
 ||2665|Counter II|[:us:](https://leetcode.com/problems/counter-ii) [:cn:](https://leetcode.cn/problems/counter-ii)||Easy|
 ||2663|Lexicographically Smallest Beautiful String|[:us:](https://leetcode.com/problems/lexicographically-smallest-beautiful-string) [:cn:](https://leetcode.cn/problems/lexicographically-smallest-beautiful-string)||Hard|
 ||2659|Make Array Empty|[:us:](https://leetcode.com/problems/make-array-empty) [:cn:](https://leetcode.cn/problems/make-array-empty)||Hard|
-||2658|Maximum Number of Fish in a Grid|[:us:](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) [:cn:](https://leetcode.cn/problems/maximum-number-of-fish-in-a-grid)||Medium|
 ||2612|Minimum Reverse Operations|[:us:](https://leetcode.com/problems/minimum-reverse-operations) [:cn:](https://leetcode.cn/problems/minimum-reverse-operations)||Hard|
 ||2608|Shortest Cycle in a Graph|[:us:](https://leetcode.com/problems/shortest-cycle-in-a-graph) [:cn:](https://leetcode.cn/problems/shortest-cycle-in-a-graph)||Hard|
 ||2607|Make K-Subarray Sums Equal|[:us:](https://leetcode.com/problems/make-k-subarray-sums-equal) [:cn:](https://leetcode.cn/problems/make-k-subarray-sums-equal)||Medium|
