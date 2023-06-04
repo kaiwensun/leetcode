@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3113|1999|6|206 (90.29%)|14|
+|3113|2000|6|205 (90.34%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.0%|14.5%|11.0%|6.9%|4.5%|2.4%|0.9%|0.8%|
+|58.9%|14.5%|11.0%|6.9%|4.5%|2.4%|0.9%|0.8%|
 
 The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -24,7 +24,7 @@ The following table contains only the latest 1000 items. For a full list, check 
 |:heavy_check_mark:|2718|Sum of Matrix After Queries|[:us:](https://leetcode.com/problems/sum-of-matrix-after-queries) [:cn:](https://leetcode.cn/problems/sum-of-matrix-after-queries)|[py](/2501-3000/2718.Sum%20of%20Matrix%20After%20Queries.py)|Medium|
 |:heavy_check_mark:|2717|Semi-Ordered Permutation|[:us:](https://leetcode.com/problems/semi-ordered-permutation) [:cn:](https://leetcode.cn/problems/semi-ordered-permutation)|[rb](/2501-3000/2717.Semi-Ordered%20Permutation.rb)|Easy|
 |:heavy_check_mark:|2716|Minimize String Length|[:us:](https://leetcode.com/problems/minimize-string-length) [:cn:](https://leetcode.cn/problems/minimize-string-length)|[rb](/2501-3000/2716.Minimize%20String%20Length.rb)|Medium|
-||2715|Execute Cancellable Function With Delay|[:us:](https://leetcode.com/problems/execute-cancellable-function-with-delay) [:cn:](https://leetcode.cn/problems/execute-cancellable-function-with-delay)||Easy|
+|:heavy_check_mark:|2715|Execute Cancellable Function With Delay|[:us:](https://leetcode.com/problems/execute-cancellable-function-with-delay) [:cn:](https://leetcode.cn/problems/execute-cancellable-function-with-delay)|[ts](/2501-3000/2715.Execute%20Cancellable%20Function%20With%20Delay.ts)|Easy|
 |:lock:|2714|Find Shortest Path with K Hops|[:us:](https://leetcode.com/problems/find-shortest-path-with-k-hops) [:cn:](https://leetcode.cn/problems/find-shortest-path-with-k-hops)||Hard|
 ||2713|Maximum Strictly Increasing Cells in a Matrix|[:us:](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix) [:cn:](https://leetcode.cn/problems/maximum-strictly-increasing-cells-in-a-matrix)||Hard|
 ||2712|Minimum Cost to Make All Characters Equal|[:us:](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal) [:cn:](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal)||Medium|

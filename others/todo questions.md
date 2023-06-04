@@ -9,13 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|634|0|6|206 (0.00%)|14|
+|633|0|6|205 (0.00%)|14|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2715|Execute Cancellable Function With Delay|[:us:](https://leetcode.com/problems/execute-cancellable-function-with-delay) [:cn:](https://leetcode.cn/problems/execute-cancellable-function-with-delay)||Easy|
 ||2713|Maximum Strictly Increasing Cells in a Matrix|[:us:](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix) [:cn:](https://leetcode.cn/problems/maximum-strictly-increasing-cells-in-a-matrix)||Hard|
 ||2712|Minimum Cost to Make All Characters Equal|[:us:](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal) [:cn:](https://leetcode.cn/problems/minimum-cost-to-make-all-characters-equal)||Medium|
 ||2711|Difference of Number of Distinct Values on Diagonals|[:us:](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals) [:cn:](https://leetcode.cn/problems/difference-of-number-of-distinct-values-on-diagonals)||Medium|
