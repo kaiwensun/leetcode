@@ -10,16 +10,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3126|2005|6|208 (90.22%)|14|
+|3130|2009|6|208 (90.23%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|58.9%|14.6%|11.0%|6.9%|4.5%|2.4%|0.9%|0.8%|
+|58.9%|14.6%|11.0%|6.9%|4.5%|2.3%|0.9%|0.8%|
 
 The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6473|maximum-sum-queries||[py](/6473.maximum-sum-queries.py)||
+|:heavy_check_mark:|6470|neither-minimum-nor-maximum||[py](/6470.neither-minimum-nor-maximum.py)||
+|:heavy_check_mark:|6465|lexicographically-smallest-string-after-substring-operation||[py](/6465.lexicographically-smallest-string-after-substring-operation.py)||
+|:heavy_check_mark:|6449|collecting-chocolates||[py](/6449.collecting-chocolates.py)||
 ||2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)||Hard|
 ||2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)||Medium|
 ||2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)||Medium|
@@ -1016,7 +1020,3 @@ The following table contains only the latest 1000 items. For a full list, check 
 |:heavy_check_mark:|1739|Building Boxes|[:us:](https://leetcode.com/problems/building-boxes) [:cn:](https://leetcode.cn/problems/building-boxes)|[py](/1501-2000/1739.Building%20Boxes.py)|Hard|
 |:heavy_check_mark:|1738|Find Kth Largest XOR Coordinate Value|[:us:](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value) [:cn:](https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value)|[py](/1501-2000/1738.Find%20Kth%20Largest%20XOR%20Coordinate%20Value.py)|Medium|
 |:heavy_check_mark:|1737|Change Minimum Characters to Satisfy One of Three Conditions|[:us:](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions) [:cn:](https://leetcode.cn/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)|[py](/1501-2000/1737.Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions.py)|Medium|
-|:heavy_check_mark:|1736|Latest Time by Replacing Hidden Digits|[:us:](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits) [:cn:](https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits)|[py](/1501-2000/1736.Latest%20Time%20by%20Replacing%20Hidden%20Digits.py)|Easy|
-||1735|Count Ways to Make Array With Product|[:us:](https://leetcode.com/problems/count-ways-to-make-array-with-product) [:cn:](https://leetcode.cn/problems/count-ways-to-make-array-with-product)||Hard|
-|:heavy_check_mark:|1734|Decode XORed Permutation|[:us:](https://leetcode.com/problems/decode-xored-permutation) [:cn:](https://leetcode.cn/problems/decode-xored-permutation)|[py](/1501-2000/1734.Decode%20XORed%20Permutation.py)|Medium|
-|:heavy_check_mark:|1733|Minimum Number of People to Teach|[:us:](https://leetcode.com/problems/minimum-number-of-people-to-teach) [:cn:](https://leetcode.cn/problems/minimum-number-of-people-to-teach)|[py](/1501-2000/1733.Minimum%20Number%20of%20People%20to%20Teach.py)|Medium|

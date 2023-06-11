@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3126|2005|6|208 (90.22%)|14|
+|3130|2009|6|208 (90.23%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|58.9%|14.6%|11.0%|6.9%|4.5%|2.4%|0.9%|0.8%|
+|58.9%|14.6%|11.0%|6.9%|4.5%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|6473|maximum-sum-queries||[py](/6473.maximum-sum-queries.py)||
+|:heavy_check_mark:|6470|neither-minimum-nor-maximum||[py](/6470.neither-minimum-nor-maximum.py)||
+|:heavy_check_mark:|6465|lexicographically-smallest-string-after-substring-operation||[py](/6465.lexicographically-smallest-string-after-substring-operation.py)||
+|:heavy_check_mark:|6449|collecting-chocolates||[py](/6449.collecting-chocolates.py)||
 ||2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)||Hard|
 ||2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)||Medium|
 ||2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)||Medium|
