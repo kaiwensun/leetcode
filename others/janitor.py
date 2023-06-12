@@ -593,7 +593,7 @@ class Topic(GraphQLData):
                                     metadata,
                                     "----",
                                     "{content}"]).format(**param)
-        with open(abs_path, "w") as out:
+        with open(abs_path, "w", encoding='utf-8') as out:
             out.write(file_content)
             print("[INFO] Generated discussion at %s" % abs_path)
             print(param["title"])
@@ -648,7 +648,7 @@ def update_file(relative_path, content):
     abs_path = os.path.join(root_path, relative_path)
     if not os.path.isfile(abs_path):
         raise Exception("Cannot find file: %s" % abs_path)
-    with open(abs_path, "w") as out:
+    with open(abs_path, "w", encoding='utf-8') as out:
         out.write(content)
 
 # ======== markdowne ========
@@ -852,11 +852,11 @@ def gen_markdown(questions, solutions, title, markdown_type):
 def load_resources(client, offline):
 
     def save_online_resource(json_dict, abs_path):
-        with open(abs_path, "w") as out:
+        with open(abs_path, "w", encoding='utf-8') as out:
             json.dump(json_dict, out, indent=2)
 
     def load_online_resource_from_file(abs_path):
-        with open(abs_path, "r") as f:
+        with open(abs_path, "r", encoding='utf-8') as f:
             return json.load(f)
 
     def get_online_problems(category, offline):
