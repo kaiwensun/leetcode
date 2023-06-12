@@ -200,6 +200,7 @@ class Solution:
             Solution.ROOT_PATH = get_root_path()
         self._abs_path = abs_path
         self._abs_folder, self._basename = os.path.split(abs_path)
+        self._basename = self._basename.replace("?", "？")
         self._parse_basename()
 
     def is_in_root(self):
@@ -297,7 +298,8 @@ class Solution:
             if question:
                 if self._title == question.slug():
                     self._title = question.title()
-                elif self._title != question.title():
+                elif self._title.replace("?", "？") != question.title().replace("?", "？"):
+                    import pdb; pdb.set_trace()
                     raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
                         question.title(), self._title, self._basename))
 
@@ -369,7 +371,7 @@ class Solution:
         if self._hint is not None:
             res.append("(" + self._hint + ")")
         res.append(self._typ)
-        return ".".join(res)
+        return ".".join(res).replace("?", "？")
 
     def _set_question(self):
         if self.id() in ONLINE_MAP:
