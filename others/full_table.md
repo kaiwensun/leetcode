@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3130|2009|6|208 (90.23%)|14|
+|3130|2010|6|207 (90.28%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -26,7 +26,7 @@
 ||2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)||Hard|
 ||2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)||Medium|
 ||2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)||Medium|
-||2729|Check if The Number is Fascinating|[:us:](https://leetcode.com/problems/check-if-the-number-is-fascinating) [:cn:](https://leetcode.cn/problems/check-if-the-number-is-fascinating)||Easy|
+|:heavy_check_mark:|2729|Check if The Number is Fascinating|[:us:](https://leetcode.com/problems/check-if-the-number-is-fascinating) [:cn:](https://leetcode.cn/problems/check-if-the-number-is-fascinating)|[py](/2501-3000/2729.Check%20if%20The%20Number%20is%20Fascinating.py)|Easy|
 |:lock:|2728|Count Houses in a Circular Street|[:us:](https://leetcode.com/problems/count-houses-in-a-circular-street) [:cn:](https://leetcode.cn/problems/count-houses-in-a-circular-street)||Easy|
 ||2727|Is Object Empty|[:us:](https://leetcode.com/problems/is-object-empty) [:cn:](https://leetcode.cn/problems/is-object-empty)||Easy|
 ||2726|Calculator with Method Chaining|[:us:](https://leetcode.com/problems/calculator-with-method-chaining) [:cn:](https://leetcode.cn/problems/calculator-with-method-chaining)||Easy|

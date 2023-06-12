@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|636|0|6|208 (0.00%)|14|
+|635|0|6|207 (0.00%)|14|
 
 
 
@@ -18,7 +18,6 @@
 ||2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)||Hard|
 ||2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)||Medium|
 ||2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)||Medium|
-||2729|Check if The Number is Fascinating|[:us:](https://leetcode.com/problems/check-if-the-number-is-fascinating) [:cn:](https://leetcode.cn/problems/check-if-the-number-is-fascinating)||Easy|
 ||2727|Is Object Empty|[:us:](https://leetcode.com/problems/is-object-empty) [:cn:](https://leetcode.cn/problems/is-object-empty)||Easy|
 ||2726|Calculator with Method Chaining|[:us:](https://leetcode.com/problems/calculator-with-method-chaining) [:cn:](https://leetcode.cn/problems/calculator-with-method-chaining)||Easy|
 ||2725|Interval Cancellation|[:us:](https://leetcode.com/problems/interval-cancellation) [:cn:](https://leetcode.cn/problems/interval-cancellation)||Easy|
