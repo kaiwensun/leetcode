@@ -19,10 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6901|total-distance-traveled||[java](/6901.total-distance-traveled.java)||
-|:heavy_check_mark:|6893|special-permutations||[py](/6893.special-permutations.py)||
-|:heavy_check_mark:|6890|find-the-value-of-the-partition||[ts](/6890.find-the-value-of-the-partition.ts)||
-|:heavy_check_mark:|6447|painting-the-walls||[py](/6447.painting-the-walls.py)||
+|:heavy_check_mark:|2742|Painting the Walls|[:us:](https://leetcode.com/problems/painting-the-walls) [:cn:](https://leetcode.cn/problems/painting-the-walls)|[py](/2501-3000/2742.Painting%20the%20Walls.py)|Hard|
+|:heavy_check_mark:|2741|Special Permutations|[:us:](https://leetcode.com/problems/special-permutations) [:cn:](https://leetcode.cn/problems/special-permutations)|[py](/2501-3000/2741.Special%20Permutations.py)|Medium|
+|:heavy_check_mark:|2740|Find the Value of the Partition|[:us:](https://leetcode.com/problems/find-the-value-of-the-partition) [:cn:](https://leetcode.cn/problems/find-the-value-of-the-partition)|[ts](/2501-3000/2740.Find%20the%20Value%20of%20the%20Partition.ts)|Medium|
+|:heavy_check_mark:|2739|Total Distance Traveled|[:us:](https://leetcode.com/problems/total-distance-traveled) [:cn:](https://leetcode.cn/problems/total-distance-traveled)|[java](/2501-3000/2739.Total%20Distance%20Traveled.java)|Easy|
 |:lock: sql |2738|Count Occurrences in Text|[:us:](https://leetcode.com/problems/count-occurrences-in-text) [:cn:](https://leetcode.cn/problems/count-occurrences-in-text)||Medium|
 |:lock:|2737|Find the Closest Marked Node|[:us:](https://leetcode.com/problems/find-the-closest-marked-node) [:cn:](https://leetcode.cn/problems/find-the-closest-marked-node)||Medium|
 |:heavy_check_mark:|2736|Maximum Sum Queries|[:us:](https://leetcode.com/problems/maximum-sum-queries) [:cn:](https://leetcode.cn/problems/maximum-sum-queries)|[py](/2501-3000/2736.Maximum%20Sum%20Queries.py)|Hard|
