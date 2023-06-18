@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3136|2014|6|207 (90.30%)|14|
+|3136|2017|6|204 (90.44%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -29,9 +29,9 @@
 |:heavy_check_mark:|2735|Collecting Chocolates|[:us:](https://leetcode.com/problems/collecting-chocolates) [:cn:](https://leetcode.cn/problems/collecting-chocolates)|[py](/2501-3000/2735.Collecting%20Chocolates.py)|Medium|
 |:heavy_check_mark:|2734|Lexicographically Smallest String After Substring Operation|[:us:](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation) [:cn:](https://leetcode.cn/problems/lexicographically-smallest-string-after-substring-operation)|[py](/2501-3000/2734.Lexicographically%20Smallest%20String%20After%20Substring%20Operation.py)|Medium|
 |:heavy_check_mark:|2733|Neither Minimum nor Maximum|[:us:](https://leetcode.com/problems/neither-minimum-nor-maximum) [:cn:](https://leetcode.cn/problems/neither-minimum-nor-maximum)|[py](/2501-3000/2733.Neither%20Minimum%20nor%20Maximum.py)|Easy|
-||2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)||Hard|
-||2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)||Medium|
-||2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)||Medium|
+|:heavy_check_mark:|2732|Find a Good Subset of the Matrix|[:us:](https://leetcode.com/problems/find-a-good-subset-of-the-matrix) [:cn:](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix)|[py](/2501-3000/2732.Find%20a%20Good%20Subset%20of%20the%20Matrix.%28DP%29.py), [py](/2501-3000/2732.Find%20a%20Good%20Subset%20of%20the%20Matrix.%28at%20most%20two%29.py)|Hard|
+|:heavy_check_mark:|2731|Movement of Robots|[:us:](https://leetcode.com/problems/movement-of-robots) [:cn:](https://leetcode.cn/problems/movement-of-robots)|[rb](/2501-3000/2731.Movement%20of%20Robots.rb)|Medium|
+|:heavy_check_mark:|2730|Find the Longest Semi-Repetitive Substring|[:us:](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring) [:cn:](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring)|[java](/2501-3000/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.java)|Medium|
 |:heavy_check_mark:|2729|Check if The Number is Fascinating|[:us:](https://leetcode.com/problems/check-if-the-number-is-fascinating) [:cn:](https://leetcode.cn/problems/check-if-the-number-is-fascinating)|[py](/2501-3000/2729.Check%20if%20The%20Number%20is%20Fascinating.py)|Easy|
 |:lock:|2728|Count Houses in a Circular Street|[:us:](https://leetcode.com/problems/count-houses-in-a-circular-street) [:cn:](https://leetcode.cn/problems/count-houses-in-a-circular-street)||Easy|
 ||2727|Is Object Empty|[:us:](https://leetcode.com/problems/is-object-empty) [:cn:](https://leetcode.cn/problems/is-object-empty)||Easy|
