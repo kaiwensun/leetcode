@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3158|2023|6|211 (90.17%)|14|
+|3157|2023|6|210 (90.21%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,7 +19,6 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6891|robot-collision||[py](/6891.robot-collision.py)||
 |:heavy_check_mark:|6916|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)|[py](/6916.Prime%20Pairs%20With%20Target%20Sum.py)|Medium|
 ||6911|Continuous Subarrays|[:us:](https://leetcode.com/problems/continuous-subarrays) [:cn:](https://leetcode.cn/problems/continuous-subarrays)||Medium|
 |:heavy_check_mark:|6909|Longest Even Odd Subarray With Threshold|[:us:](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) [:cn:](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold)|[java](/6909.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)|Easy|
@@ -32,7 +31,7 @@
 |:lock:|2754|Bind Function to Context|[:us:](https://leetcode.com/problems/bind-function-to-context) [:cn:](https://leetcode.cn/problems/bind-function-to-context)||Medium|
 |:lock:|2753|Count Houses in a Circular Street II|[:us:](https://leetcode.com/problems/count-houses-in-a-circular-street-ii) [:cn:](https://leetcode.cn/problems/count-houses-in-a-circular-street-ii)||Hard|
 |:lock: sql |2752|Customers with Maximum Number of Transactions on Consecutive Days|[:us:](https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days) [:cn:](https://leetcode.cn/problems/customers-with-maximum-number-of-transactions-on-consecutive-days)||Hard|
-||2751|Robot Collisions|[:us:](https://leetcode.com/problems/robot-collisions) [:cn:](https://leetcode.cn/problems/robot-collisions)||Hard|
+|:heavy_check_mark:|2751|Robot Collisions|[:us:](https://leetcode.com/problems/robot-collisions) [:cn:](https://leetcode.cn/problems/robot-collisions)|[py](/2501-3000/2751.Robot%20Collisions.py)|Hard|
 |:heavy_check_mark:|2750|Ways to Split Array Into Good Subarrays|[:us:](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays) [:cn:](https://leetcode.cn/problems/ways-to-split-array-into-good-subarrays)|[java](/2501-3000/2750.Ways%20to%20Split%20Array%20Into%20Good%20Subarrays.java)|Medium|
 |:heavy_check_mark:|2749|Minimum Operations to Make the Integer Zero|[:us:](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-the-integer-zero)|[py](/2501-3000/2749.Minimum%20Operations%20to%20Make%20the%20Integer%20Zero.py)|Medium|
 |:heavy_check_mark:|2748|Number of Beautiful Pairs|[:us:](https://leetcode.com/problems/number-of-beautiful-pairs) [:cn:](https://leetcode.cn/problems/number-of-beautiful-pairs)|[py](/2501-3000/2748.Number%20of%20Beautiful%20Pairs.py)|Easy|
