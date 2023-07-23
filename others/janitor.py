@@ -674,6 +674,13 @@ def gen_markdown(questions, solutions, title, markdown_type):
     CHECK_MARK = ":heavy_check_mark:"
     QUESTION_MARK = ":question:"
 
+    def is_solved(qid):
+        for sol in LOCAL_MAP.get(qid, []):
+            if not sol.original_abs_path().endswith(".md"):
+                return True
+        return False
+
+
     def gen_markdown_questions(questions):
         size_limit = ""
         if markdown_type == MarkdownType.MAIN_README:
@@ -694,11 +701,10 @@ def gen_markdown(questions, solutions, title, markdown_type):
         return size_limit + header + body
 
     def gen_markdown_question_row(question):
-
         def get_status(question):
             qid = question.id()
             status = ""
-            if LOCAL_MAP[qid] or qid in NOT_BACKFILLED:
+            if is_solved(qid) or qid in NOT_BACKFILLED:
                 if qid in ATTEMPTED:
                     print(
                         "[WARN] question %s is in ATTEMPTED but it is believed to be solved" % qid)
@@ -757,7 +763,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
 
     def gen_markdown_stats(questions, solutions):
         total = len(questions)
-        solved = len({sol.id() for sol in solutions} | NOT_BACKFILLED)
+        solved = len({sol.id() for sol in solutions if is_solved(sol.id())} | NOT_BACKFILLED)
         attempted = len(ATTEMPTED)
         us_unsolved_without_lock = len([q for q in questions if (
             q.is_us()
