@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3197|2033|6|225 (89.64%)|14|
+|3195|2033|6|223 (89.72%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -20,8 +20,6 @@
 The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6916|Prime Pairs With Target Sum||[py](/6916.Prime%20Pairs%20With%20Target%20Sum.py)||
-|:heavy_check_mark:|6909|Longest Even Odd Subarray With Threshold||[java](/6909.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)||
 |:heavy_check_mark:|2801|Count Stepping Numbers in Range|[:us:](https://leetcode.com/problems/count-stepping-numbers-in-range) [:cn:](https://leetcode.cn/problems/count-stepping-numbers-in-range)|[py](/2501-3000/2801.Count%20Stepping%20Numbers%20in%20Range.py)|Hard|
 |:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
 |:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
@@ -62,8 +60,8 @@ The following table contains only the latest 1000 items. For a full list, check 
 |:lock:|2764|is Array a Preorder of Some ‌Binary Tree|[:us:](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree) [:cn:](https://leetcode.cn/problems/is-array-a-preorder-of-some-binary-tree)||Medium|
 ||2763|Sum of Imbalance Numbers of All Subarrays|[:us:](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-imbalance-numbers-of-all-subarrays)||Hard|
 ||2762|Continuous Subarrays|[:us:](https://leetcode.com/problems/continuous-subarrays) [:cn:](https://leetcode.cn/problems/continuous-subarrays)||Medium|
-||2761|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)||Medium|
-||2760|Longest Even Odd Subarray With Threshold|[:us:](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) [:cn:](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold)||Easy|
+|:heavy_check_mark:|2761|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)|[py](/2501-3000/2761.Prime%20Pairs%20With%20Target%20Sum.py)|Medium|
+|:heavy_check_mark:|2760|Longest Even Odd Subarray With Threshold|[:us:](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) [:cn:](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold)|[java](/2501-3000/2760.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)|Easy|
 |:lock:|2759|Convert JSON String to Object|[:us:](https://leetcode.com/problems/convert-json-string-to-object) [:cn:](https://leetcode.cn/problems/convert-json-string-to-object)||Hard|
 |:lock:|2758|Next Day|[:us:](https://leetcode.com/problems/next-day) [:cn:](https://leetcode.cn/problems/next-day)||Easy|
 |:lock:|2757|Generate Circular Array Values|[:us:](https://leetcode.com/problems/generate-circular-array-values) [:cn:](https://leetcode.cn/problems/generate-circular-array-values)||Medium|
@@ -1020,3 +1018,5 @@ The following table contains only the latest 1000 items. For a full list, check 
 |:heavy_check_mark:|1806|Minimum Number of Operations to Reinitialize a Permutation|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|[py](/1501-2000/1806.Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation.py)|Medium|
 |:heavy_check_mark:|1805|Number of Different Integers in a String|[:us:](https://leetcode.com/problems/number-of-different-integers-in-a-string) [:cn:](https://leetcode.cn/problems/number-of-different-integers-in-a-string)|[py](/1501-2000/1805.Number%20of%20Different%20Integers%20in%20a%20String.py)|Easy|
 |:lock:|1804|Implement Trie II (Prefix Tree)|[:us:](https://leetcode.com/problems/implement-trie-ii-prefix-tree) [:cn:](https://leetcode.cn/problems/implement-trie-ii-prefix-tree)||Medium|
+|:heavy_check_mark:|1803|Count Pairs With XOR in a Range|[:us:](https://leetcode.com/problems/count-pairs-with-xor-in-a-range) [:cn:](https://leetcode.cn/problems/count-pairs-with-xor-in-a-range)|[py](/1501-2000/1803.Count%20Pairs%20With%20XOR%20in%20a%20Range.py)|Hard|
+|:heavy_check_mark:|1802|Maximum Value at a Given Index in a Bounded Array|[:us:](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) [:cn:](https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array)|[py](/1501-2000/1802.Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.py)|Medium|

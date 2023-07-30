@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3197|2033|6|225 (89.64%)|14|
+|3195|2033|6|223 (89.72%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,8 +19,6 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|6916|Prime Pairs With Target Sum||[py](/6916.Prime%20Pairs%20With%20Target%20Sum.py)||
-|:heavy_check_mark:|6909|Longest Even Odd Subarray With Threshold||[java](/6909.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)||
 |:heavy_check_mark:|2801|Count Stepping Numbers in Range|[:us:](https://leetcode.com/problems/count-stepping-numbers-in-range) [:cn:](https://leetcode.cn/problems/count-stepping-numbers-in-range)|[py](/2501-3000/2801.Count%20Stepping%20Numbers%20in%20Range.py)|Hard|
 |:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
 |:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
@@ -61,8 +59,8 @@
 |:lock:|2764|is Array a Preorder of Some ‌Binary Tree|[:us:](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree) [:cn:](https://leetcode.cn/problems/is-array-a-preorder-of-some-binary-tree)||Medium|
 ||2763|Sum of Imbalance Numbers of All Subarrays|[:us:](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-imbalance-numbers-of-all-subarrays)||Hard|
 ||2762|Continuous Subarrays|[:us:](https://leetcode.com/problems/continuous-subarrays) [:cn:](https://leetcode.cn/problems/continuous-subarrays)||Medium|
-||2761|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)||Medium|
-||2760|Longest Even Odd Subarray With Threshold|[:us:](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) [:cn:](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold)||Easy|
+|:heavy_check_mark:|2761|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)|[py](/2501-3000/2761.Prime%20Pairs%20With%20Target%20Sum.py)|Medium|
+|:heavy_check_mark:|2760|Longest Even Odd Subarray With Threshold|[:us:](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold) [:cn:](https://leetcode.cn/problems/longest-even-odd-subarray-with-threshold)|[java](/2501-3000/2760.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)|Easy|
 |:lock:|2759|Convert JSON String to Object|[:us:](https://leetcode.com/problems/convert-json-string-to-object) [:cn:](https://leetcode.cn/problems/convert-json-string-to-object)||Hard|
 |:lock:|2758|Next Day|[:us:](https://leetcode.com/problems/next-day) [:cn:](https://leetcode.cn/problems/next-day)||Easy|
 |:lock:|2757|Generate Circular Array Values|[:us:](https://leetcode.com/problems/generate-circular-array-values) [:cn:](https://leetcode.cn/problems/generate-circular-array-values)||Medium|
