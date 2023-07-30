@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|659|0|6|229 (0.00%)|14|
+|655|0|6|225 (0.00%)|14|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2801|Count Stepping Numbers in Range|[:us:](https://leetcode.com/problems/count-stepping-numbers-in-range) [:cn:](https://leetcode.cn/problems/count-stepping-numbers-in-range)||Hard|
-||2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)||Medium|
-||2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)||Medium|
-||2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)||Easy|
 ||2790|Maximum Number of Groups With Increasing Length|[:us:](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length) [:cn:](https://leetcode.cn/problems/maximum-number-of-groups-with-increasing-length)||Hard|
 ||2787|Ways to Express an Integer as Sum of Powers|[:us:](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers) [:cn:](https://leetcode.cn/problems/ways-to-express-an-integer-as-sum-of-powers)||Medium|
 ||2786|Visit Array Positions to Maximize Score|[:us:](https://leetcode.com/problems/visit-array-positions-to-maximize-score) [:cn:](https://leetcode.cn/problems/visit-array-positions-to-maximize-score)||Medium|

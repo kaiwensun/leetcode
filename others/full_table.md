@@ -9,22 +9,22 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3197|2029|6|229 (89.46%)|14|
+|3197|2033|6|225 (89.64%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.0%|14.5%|11.1%|6.8%|4.5%|2.3%|0.9%|0.8%|
+|59.1%|14.5%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|6916|Prime Pairs With Target Sum||[py](/6916.Prime%20Pairs%20With%20Target%20Sum.py)||
 |:heavy_check_mark:|6909|Longest Even Odd Subarray With Threshold||[java](/6909.Longest%20Even%20Odd%20Subarray%20With%20Threshold.java)||
-||2801|Count Stepping Numbers in Range|[:us:](https://leetcode.com/problems/count-stepping-numbers-in-range) [:cn:](https://leetcode.cn/problems/count-stepping-numbers-in-range)||Hard|
-||2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)||Medium|
-||2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)||Medium|
-||2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)||Easy|
+|:heavy_check_mark:|2801|Count Stepping Numbers in Range|[:us:](https://leetcode.com/problems/count-stepping-numbers-in-range) [:cn:](https://leetcode.cn/problems/count-stepping-numbers-in-range)|[py](/2501-3000/2801.Count%20Stepping%20Numbers%20in%20Range.py)|Hard|
+|:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
+|:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
+|:heavy_check_mark:|2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)|[ts](/2501-3000/2798.Number%20of%20Employees%20Who%20Met%20the%20Target.ts)|Easy|
 |:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Medium|
 |:lock:|2796|Repeat String|[:us:](https://leetcode.com/problems/repeat-string) [:cn:](https://leetcode.cn/problems/repeat-string)||Easy|
 |:lock:|2795|Parallel Execution of Promises for Individual Results Retrieval|[:us:](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval) [:cn:](https://leetcode.cn/problems/parallel-execution-of-promises-for-individual-results-retrieval)||Medium|
