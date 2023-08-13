@@ -1,8 +1,8 @@
 # 2501-3000 questions
 
-|Total|Solved|Attempted|Starred|
-|:---:|:---:|:---:|:---:|
-|318|167|0|2|
+|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
+|:---:|:---:|:---:|:---:|:---:|
+|318|167|0|84 (66.13%)|2|
 
 
 |py|ts|php|java|rb|c|cpp|

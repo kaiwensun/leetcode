@@ -777,7 +777,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
             and q.id() not in DB_PROBLEMS)])
         unsynced = len([q for q in questions if q.id() in NOT_BACKFILLED])
         starred = len([q for q in questions if q.id() in STARRED])
-        if markdown_type == MarkdownType.FULL_GROUP:
+        if markdown_type == MarkdownType.FULL_GROUP and us_without_lock == 0:
             line1 = "|Total|Solved|Attempted|"
             line2 = "|:---:|:---:|:---:|"
             line3 = "|%s|%s|%s|"

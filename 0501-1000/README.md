@@ -1,8 +1,8 @@
 # 0501-1000 questions
 
-|Total|Solved|Attempted|Starred|
-|:---:|:---:|:---:|:---:|
-|500|322|3|3|
+|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
+|:---:|:---:|:---:|:---:|:---:|
+|500|322|3|96 (76.87%)|3|
 
 
 |py|java|rb|ts|c|js|cpp|php|

@@ -1,8 +1,8 @@
 # 0001-0500 questions
 
-|Total|Solved|Attempted|Starred|
-|:---:|:---:|:---:|:---:|
-|500|393|1|3|
+|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
+|:---:|:---:|:---:|:---:|:---:|
+|500|393|1|16 (95.99%)|3|
 
 
 |py|java|rb|c|cpp|ts|js|
