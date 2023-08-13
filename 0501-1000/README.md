@@ -1,8 +1,8 @@
 # 0501-1000 questions
 
-|Total|Solved|Attempted|
-|:---:|:---:|:---:|
-|500|322|0|
+|Total|Solved|Attempted|Starred|
+|:---:|:---:|:---:|:---:|
+|500|322|3|3|
 
 
 |py|java|rb|ts|c|js|cpp|php|

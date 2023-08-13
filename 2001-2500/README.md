@@ -1,8 +1,8 @@
 # 2001-2500 questions
 
-|Total|Solved|Attempted|
-|:---:|:---:|:---:|
-|500|380|0|
+|Total|Solved|Attempted|Starred|
+|:---:|:---:|:---:|:---:|
+|500|380|0|2|
 
 
 |ts|py|java|c|rb|js|cpp|

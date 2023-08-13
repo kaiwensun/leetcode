@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|661|0|0|231 (0.00%)|
+|661|0|6|231 (0.00%)|
 
 
 

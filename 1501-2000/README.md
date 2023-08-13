@@ -1,8 +1,8 @@
 # 1501-2000 questions
 
-|Total|Solved|Attempted|
-|:---:|:---:|:---:|
-|500|366|0|
+|Total|Solved|Attempted|Starred|
+|:---:|:---:|:---:|:---:|
+|500|366|1|3|
 
 
 |py|java|ts|c|js|rb|cpp|php|
