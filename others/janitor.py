@@ -186,6 +186,7 @@ class Solution:
     KNOWN_CN_GROUPS = [
         re.compile("^LCS \d{2}$"),
         re.compile("^LCP \d{2}$"),
+        re.compile("^LCR \d{3}$"),
         re.compile("^剑指 Offer II \d{3}$"),
         re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
         re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
@@ -299,7 +300,9 @@ class Solution:
                 if self._title == question.slug():
                     self._title = question.title()
                 elif self._title.replace("?", "？") != question.title().replace("?", "？"):
-                    import pdb; pdb.set_trace()
+                    if self._basename.startswith("剑指 Offer II"):
+                        # LeetCode recently renamed 剑指 Offer II questions.
+                        return
                     raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
                         question.title(), self._title, self._basename))
 
@@ -331,7 +334,7 @@ class Solution:
             end = start + Solution.FOLDER_SIZE - 1
             return "{:04d}-{:04d}".format(start, end)
         elif any(matcher.match(self._id) for matcher in Solution.KNOWN_CN_GROUPS):
-            folders = ["LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
+            folders = ["LCS", "LCP", "LCR", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
             for folder in folders:
                 if self._id.startswith(folder):
                     return folder
@@ -388,6 +391,17 @@ class Solution:
                         "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
                     UNRECOGNIZED_CONTEST_SOLUTIONS[self.id()] = self
                 else:
+                    if self._basename.startswith("剑指 Offer II "):
+                        # LeetCode recently renamed 剑指 Offer II questions.
+                        lcr_id = self._basename.split(".", 1)[0].replace("剑指 Offer II ", "")
+                        new_qid = "LCR " + lcr_id
+                        if new_qid in ONLINE_MAP:
+                            q = ONLINE_MAP[new_qid]
+                            self._question = q
+                            self._id = q.id()
+                            print(f"[WARN] Renaming {self._basename} -> {q.id()}. {q.title()}")
+                            return
+                    pass
                     raise ValueError(
                         "Unable to auto-detect title from online source, for the basename %s", self._basename)
 
@@ -916,8 +930,8 @@ def load_resources(client, offline):
         return obj
 
     def list_code_folders():
-        folder_patterns = ["\d{4}-\d{4}", "LCS",
-                           "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
+        folder_patterns = ["\d{4}-\d{4}", "LCS", "LCP", "LCR",
+                           "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
@@ -931,7 +945,7 @@ def load_resources(client, offline):
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCS", "LCP", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
+            "\d{4}-\d{4}", "LCS", "LCP", "LCR","剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)
