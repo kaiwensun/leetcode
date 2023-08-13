@@ -2926,7 +2926,7 @@
 ||LCR 003|比特位计数|[:cn:](https://leetcode.cn/problems/w3tCBm)||Easy|
 ||LCR 004|只出现一次的数字 II|[:cn:](https://leetcode.cn/problems/WGki4K)||Medium|
 ||LCR 005|最大单词长度乘积|[:cn:](https://leetcode.cn/problems/aseY1I)||Medium|
-|:heavy_check_mark:|LCR 006|两数之和 II - 输入有序数组|[:cn:](https://leetcode.cn/problems/kLl5u1)|[ts](/LCR/LCR%20006.%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.ts)|Easy|
+|:heavy_check_mark:|LCR 006|两数之和 II - 输入有序数组|[:cn:](https://leetcode.cn/problems/kLl5u1)|[ts](/LCR/LCR%20006.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.ts)|Easy|
 ||LCR 007|三数之和|[:cn:](https://leetcode.cn/problems/1fGaJU)||Medium|
 ||LCR 008|长度最小的子数组|[:cn:](https://leetcode.cn/problems/2VG8Kg)||Medium|
 ||LCR 009|乘积小于 K 的子数组|[:cn:](https://leetcode.cn/problems/ZVAVXX)||Medium|
@@ -2989,7 +2989,7 @@
 ||LCR 066|键值映射|[:cn:](https://leetcode.cn/problems/z1R5dt)||Medium|
 ||LCR 067|数组中两个数的最大异或值|[:cn:](https://leetcode.cn/problems/ms70jA)||Medium|
 ||LCR 068|搜索插入位置|[:cn:](https://leetcode.cn/problems/N6YdxV)||Easy|
-|:heavy_check_mark:|LCR 069|山脉数组的峰顶索引|[:cn:](https://leetcode.cn/problems/B1IidL)|[ts](/LCR/LCR%20069.%E5%B1%B1%E5%B3%B0%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E9%83%A8.ts)|Easy|
+|:heavy_check_mark:|LCR 069|山脉数组的峰顶索引|[:cn:](https://leetcode.cn/problems/B1IidL)|[ts](/LCR/LCR%20069.%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.ts)|Easy|
 ||LCR 070|有序数组中的单一元素|[:cn:](https://leetcode.cn/problems/skFtm2)||Medium|
 ||LCR 071|按权重随机选择|[:cn:](https://leetcode.cn/problems/cuyjEf)||Medium|
 ||LCR 072|x 的平方根|[:cn:](https://leetcode.cn/problems/jJ0w9p)||Easy|

@@ -300,9 +300,6 @@ class Solution:
                 if self._title == question.slug():
                     self._title = question.title()
                 elif self._title.replace("?", "？") != question.title().replace("?", "？"):
-                    if self._basename.startswith("剑指 Offer II"):
-                        # LeetCode recently renamed 剑指 Offer II questions.
-                        return
                     raise ValueError("file name doesn't match online question title: (online: %s, local: %s, basename: %s)" % (
                         question.title(), self._title, self._basename))
 
@@ -391,17 +388,6 @@ class Solution:
                         "[WARN] Unable to auto-detect title from online source for %s. Probably a new weekly contest question." % self._basename)
                     UNRECOGNIZED_CONTEST_SOLUTIONS[self.id()] = self
                 else:
-                    if self._basename.startswith("剑指 Offer II "):
-                        # LeetCode recently renamed 剑指 Offer II questions.
-                        lcr_id = self._basename.split(".", 1)[0].replace("剑指 Offer II ", "")
-                        new_qid = "LCR " + lcr_id
-                        if new_qid in ONLINE_MAP:
-                            q = ONLINE_MAP[new_qid]
-                            self._question = q
-                            self._id = q.id()
-                            print(f"[WARN] Renaming {self._basename} -> {q.id()}. {q.title()}")
-                            return
-                    pass
                     raise ValueError(
                         "Unable to auto-detect title from online source, for the basename %s", self._basename)
 
