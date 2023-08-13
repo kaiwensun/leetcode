@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|665|0|6|235 (0.00%)|14|
+|661|0|6|231 (0.00%)|14|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2818|Apply Operations to Maximize Score|[:us:](https://leetcode.com/problems/apply-operations-to-maximize-score) [:cn:](https://leetcode.cn/problems/apply-operations-to-maximize-score)||Hard|
-||2817|Minimum Absolute Difference Between Elements With Constraint|[:us:](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint) [:cn:](https://leetcode.cn/problems/minimum-absolute-difference-between-elements-with-constraint)||Medium|
-||2816|Double a Number Represented as a Linked List|[:us:](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) [:cn:](https://leetcode.cn/problems/double-a-number-represented-as-a-linked-list)||Medium|
-||2815|Max Pair Sum in an Array|[:us:](https://leetcode.com/problems/max-pair-sum-in-an-array) [:cn:](https://leetcode.cn/problems/max-pair-sum-in-an-array)||Easy|
 ||2813|Maximum Elegance of a K-Length Subsequence|[:us:](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence) [:cn:](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence)||Hard|
 ||2812|Find the Safest Path in a Grid|[:us:](https://leetcode.com/problems/find-the-safest-path-in-a-grid) [:cn:](https://leetcode.cn/problems/find-the-safest-path-in-a-grid)||Medium|
 ||2811|Check if it is Possible to Split Array|[:us:](https://leetcode.com/problems/check-if-it-is-possible-to-split-array) [:cn:](https://leetcode.cn/problems/check-if-it-is-possible-to-split-array)||Medium|

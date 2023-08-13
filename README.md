@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred
 |:---:|:---:|:---:|:---:|:---:|
-|3212|2033|6|235 (89.23%)|14|
+|3212|2037|6|231 (89.41%)|14|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -20,10 +20,10 @@
 The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2818|Apply Operations to Maximize Score|[:us:](https://leetcode.com/problems/apply-operations-to-maximize-score) [:cn:](https://leetcode.cn/problems/apply-operations-to-maximize-score)||Hard|
-||2817|Minimum Absolute Difference Between Elements With Constraint|[:us:](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint) [:cn:](https://leetcode.cn/problems/minimum-absolute-difference-between-elements-with-constraint)||Medium|
-||2816|Double a Number Represented as a Linked List|[:us:](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) [:cn:](https://leetcode.cn/problems/double-a-number-represented-as-a-linked-list)||Medium|
-||2815|Max Pair Sum in an Array|[:us:](https://leetcode.com/problems/max-pair-sum-in-an-array) [:cn:](https://leetcode.cn/problems/max-pair-sum-in-an-array)||Easy|
+|:heavy_check_mark:|2818|Apply Operations to Maximize Score|[:us:](https://leetcode.com/problems/apply-operations-to-maximize-score) [:cn:](https://leetcode.cn/problems/apply-operations-to-maximize-score)|[py](/2501-3000/2818.Apply%20Operations%20to%20Maximize%20Score.py)|Hard|
+|:heavy_check_mark:|2817|Minimum Absolute Difference Between Elements With Constraint|[:us:](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint) [:cn:](https://leetcode.cn/problems/minimum-absolute-difference-between-elements-with-constraint)|[py](/2501-3000/2817.Minimum%20Absolute%20Difference%20Between%20Elements%20With%20Constraint.py)|Medium|
+|:heavy_check_mark:|2816|Double a Number Represented as a Linked List|[:us:](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) [:cn:](https://leetcode.cn/problems/double-a-number-represented-as-a-linked-list)|[py](/2501-3000/2816.Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)|Medium|
+|:heavy_check_mark:|2815|Max Pair Sum in an Array|[:us:](https://leetcode.com/problems/max-pair-sum-in-an-array) [:cn:](https://leetcode.cn/problems/max-pair-sum-in-an-array)|[py](/2501-3000/2815.Max%20Pair%20Sum%20in%20an%20Array.py)|Easy|
 |:lock:|2814|Minimum Time Takes to Reach Destination Without Drowning|[:us:](https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning) [:cn:](https://leetcode.cn/problems/minimum-time-takes-to-reach-destination-without-drowning)||Hard|
 ||2813|Maximum Elegance of a K-Length Subsequence|[:us:](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence) [:cn:](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence)||Hard|
 ||2812|Find the Safest Path in a Grid|[:us:](https://leetcode.com/problems/find-the-safest-path-in-a-grid) [:cn:](https://leetcode.cn/problems/find-the-safest-path-in-a-grid)||Medium|
