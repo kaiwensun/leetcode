@@ -183,16 +183,16 @@ class Solution:
     FOLDER_SIZE = 500
     KNOWN_TYPES = {"c", "cpp", "java", "py", "ts",
                    "rb", "sh", "js", "sql", "php", "txt", "md"}
-    KNOWN_CN_GROUPS = [
-        re.compile("^LCS \d{2}$"),
-        re.compile("^LCP \d{2}$"),
-        re.compile("^LCR \d{3}$"),
-        re.compile("^剑指 Offer II \d{3}$"),
-        re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
-        re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
-        re.compile("^DD-\d{7}"),
-        re.compile("^银联-\d{2}$")
-    ]
+    KNOWN_CN_GROUPS = {
+        "LCS": re.compile("^LCS \d{2}$"),
+        "LCP": re.compile("^LCP \d{2}$"),
+        "LCR": re.compile("^LCR \d{3}$"),
+        "剑指 Offer II": re.compile("^剑指 Offer II \d{3}$"),
+        "剑指 Offer": re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
+        "面试题": re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
+        "DD": re.compile("^DD-\d{7}"),
+        "银联": re.compile("^银联-\d{2}$")
+    }
     ROOT_PATH = None
     moved_cnt = 0
 
@@ -330,15 +330,13 @@ class Solution:
                 Solution.FOLDER_SIZE + 1
             end = start + Solution.FOLDER_SIZE - 1
             return "{:04d}-{:04d}".format(start, end)
-        elif any(matcher.match(self._id) for matcher in Solution.KNOWN_CN_GROUPS):
-            folders = ["LCS", "LCP", "LCR", "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
-            for folder in folders:
+        for folder, matcher in Solution.KNOWN_CN_GROUPS.items():
+            if matcher.match(self._id):
                 if self._id.startswith(folder):
                     return folder
-            else:
-                raise Exception("fail to assign a folder")
-        else:
-            raise ValueError("Unknown question id %s" % self._id)
+                else:
+                    raise Exception("fail to assign a folder")
+        raise ValueError("Unknown question id %s" % self._id)
 
     def desired_abs_path(self):
         if self.is_contest():
@@ -646,8 +644,8 @@ class TopicManager(GraphQLData):
 def update_file(relative_path, content):
     root_path = get_root_path()
     abs_path = os.path.join(root_path, relative_path)
-    if not os.path.isfile(abs_path):
-        raise Exception("Cannot find file: %s" % abs_path)
+    # if not os.path.isfile(abs_path):
+    #     raise Exception("Cannot find file: %s" % abs_path)
     with open(abs_path, "w", encoding='utf-8') as out:
         out.write(content)
 
@@ -658,6 +656,7 @@ class MarkdownType(Enum):
     MAIN_README = "MAIN_README"
     TODO_PROBS = "TODO_PROBS"
     FULL_TABLE = "FULL_TABLE"
+    FULL_GROUP = "FULL_GROUP"
 
 
 MAIN_README_SIZE = 1000
@@ -725,7 +724,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
         def get_solution_links(question):
             res = []
             for sol in sorted(LOCAL_MAP[question.id()], key=lambda sol: [sol.type(), sol.desired_basename()]):
-                if sol.is_us() and int(sol.id()) > 5000:
+                if sol.is_us() and int(sol.id()) > Question.QID_SPLIT:
                     abs_link = "/" + urllib.parse.quote(sol.desired_basename())
                 else:
                     abs_link = "/".join(["", urllib.parse.quote(sol.desired_folder()),
@@ -764,7 +763,7 @@ def gen_markdown(questions, solutions, title, markdown_type):
     def gen_markdown_stats(questions, solutions):
         total = len(questions)
         solved = len({sol.id() for sol in solutions if is_solved(sol.id())} | NOT_BACKFILLED)
-        attempted = len(ATTEMPTED)
+        attempted = len([q for q in questions if q.id().isdigit() and int(q.id()) in ATTEMPTED])
         us_unsolved_without_lock = len([q for q in questions if (
             q.is_us()
             and not q.lock()
@@ -776,12 +775,18 @@ def gen_markdown(questions, solutions, title, markdown_type):
             and not q.lock()
             and q.id() not in NOT_BACKFILLED
             and q.id() not in DB_PROBLEMS)])
-        unsynced = len(NOT_BACKFILLED)
-        starred = len(STARRED)
-        line1 = "|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|"
-        line2 = "|:---:|:---:|:---:|:---:|"
-        line3 = "|%s|%s|%s|%s (%s)|"
-        args = [total, solved, attempted, us_unsolved_without_lock, f"{(us_without_lock - us_unsolved_without_lock) * 100 / us_without_lock:.2f}%"]
+        unsynced = len([q for q in questions if q.id().isdigit() and int(q.id()) in NOT_BACKFILLED])
+        starred = len([q for q in questions if q.id().isdigit() and int(q.id()) in STARRED])
+        if markdown_type == MarkdownType.FULL_GROUP:
+            line1 = "|Total|Solved|Attempted|"
+            line2 = "|:---:|:---:|:---:|"
+            line3 = "|%s|%s|%s|"
+            args = [total, solved, attempted]
+        else:
+            line1 = "|Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|"
+            line2 = "|:---:|:---:|:---:|:---:|"
+            line3 = "|%s|%s|%s|%s (%s)|"
+            args = [total, solved, attempted, us_unsolved_without_lock, f"{(us_without_lock - us_unsolved_without_lock) * 100 / us_without_lock:.2f}%"]
 
         if unsynced:
             line1 += "Not synced to GitHub"
@@ -823,6 +828,9 @@ def gen_markdown(questions, solutions, title, markdown_type):
             return "\n".join([
                 f"# {title} [FORK NOT PERMITTED]",
                 "* If you like, star the original repository https://github.com/kaiwensun/leetcode"])
+
+        if markdown_type == MarkdownType.FULL_GROUP:
+            return title_and_fork_permission(title)
 
         res = [title_and_fork_permission(title),
                gen_markdown_site_links(),
@@ -928,6 +936,8 @@ def load_resources(client, offline):
         solutions = []
         for folder in folders:
             for file_name in os.listdir(folder):
+                if file_name == "README.md":
+                    continue
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
@@ -991,6 +1001,15 @@ def select_todo_without_lock(qid):
         return False
     return True
 
+def select_group(group, qid):
+    if not qid.isdigit() and isinstance(group, re.Pattern):
+        # group is one of Solution.KNOWN_CN_GROUPS.values()
+        return group.match(qid)
+    if qid.isdigit() and isinstance(group, int):
+        # group is 1, 501, 1001, 1501, etc.
+        return group == (int(qid) - 1) // Solution.FOLDER_SIZE * \
+                Solution.FOLDER_SIZE + 1
+    return False
 
 def filter_questions_and_solutions(questions, solutions, selector):
     rtn_questions = [
@@ -1029,6 +1048,19 @@ def main():
         markdown = gen_markdown(
             todo_que, todo_sol, "To do questions", MarkdownType.TODO_PROBS)
         update_file(os.path.join("others", "todo questions.md"), markdown)
+
+        # markdown for group folders
+        folder_and_matchers = list(Solution.KNOWN_CN_GROUPS.items())
+        mx_us_qid = max(int(q.id()) for q in questions if q.is_us() and int(q.id()) < Question.QID_SPLIT)
+        for start in range(1, mx_us_qid + 1, Solution.FOLDER_SIZE):
+            end = start + Solution.FOLDER_SIZE - 1
+            folder_and_matchers.append(["{:04d}-{:04d}".format(start, end), start])
+        for folder_name, matcher in folder_and_matchers:
+            que, sol = filter_questions_and_solutions(
+                questions, solutions, lambda qid: select_group(matcher, qid))
+            markdown = gen_markdown(
+                que, sol, f"{folder_name} questions", MarkdownType.FULL_GROUP)
+            update_file(os.path.join(folder_name, "README.md"), markdown)
     elif len(argv) == 2:
         search_local_solutions(argv[1])
     else:
