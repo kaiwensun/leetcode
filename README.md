@@ -17,25 +17,14 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |59.2%|14.5%|11.1%|6.8%|4.4%|2.3%|0.9%|0.8%|
 
-This readme lists only the latest 1000 items.
+|||||||
+|:---|:---|:---|:---|:---|:---|
+|[0001-0500](0001-0500/README.md)|[0501-1000](0501-1000/README.md)|[1001-1500](1001-1500/README.md)|[1501-2000](1501-2000/README.md)|[2001-2500](2001-2500/README.md)|[2501-3000](2501-3000/README.md)|
+|[DD](DD/README.md)|[LCP](LCP/README.md)|[LCR](LCR/README.md)|[LCS](LCS/README.md)|[剑指 Offer](%E5%89%91%E6%8C%87%20Offer/README.md)|[剑指 Offer II](%E5%89%91%E6%8C%87%20Offer%20II/README.md)|
+|[银联](%E9%93%B6%E8%81%94/README.md)|[面试题](%E9%9D%A2%E8%AF%95%E9%A2%98/README.md)|||||
+
+This readme lists only the latest 1000 items below.
 Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.
-So I'm splitting the full list into each of the following sub folders:
-| Questions Quick Links |
-|:---|
-|[LCS](LCS#LCS-questions)|
-|[LCP](LCP#LCP-questions)|
-|[LCR](LCR#LCR-questions)|
-|[剑指 Offer II](%E5%89%91%E6%8C%87%20Offer%20II#%E5%89%91%E6%8C%87%20Offer%20II-questions)|
-|[剑指 Offer](%E5%89%91%E6%8C%87%20Offer#%E5%89%91%E6%8C%87%20Offer-questions)|
-|[面试题](%E9%9D%A2%E8%AF%95%E9%A2%98#%E9%9D%A2%E8%AF%95%E9%A2%98-questions)|
-|[DD](DD#DD-questions)|
-|[银联](%E9%93%B6%E8%81%94#%E9%93%B6%E8%81%94-questions)|
-|[0001-0500](0001-0500#0001-0500-questions)|
-|[0501-1000](0501-1000#0501-1000-questions)|
-|[1001-1500](1001-1500#1001-1500-questions)|
-|[1501-2000](1501-2000#1501-2000-questions)|
-|[2001-2500](2001-2500#2001-2500-questions)|
-|[2501-3000](2501-3000#2501-3000-questions)|
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
