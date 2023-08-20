@@ -9,16 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|665|0|6|235 (0.00%)|
+|661|0|6|231 (0.00%)|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2827|Number of Beautiful Integers in the Range|[:us:](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range) [:cn:](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range)||Hard|
-||2826|Sorting Three Groups|[:us:](https://leetcode.com/problems/sorting-three-groups) [:cn:](https://leetcode.cn/problems/sorting-three-groups)||Medium|
-||2825|Make String a Subsequence Using Cyclic Increments|[:us:](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) [:cn:](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments)||Medium|
-||2824|Count Pairs Whose Sum is Less than Target|[:us:](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) [:cn:](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target)||Easy|
 ||2813|Maximum Elegance of a K-Length Subsequence|[:us:](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence) [:cn:](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence)||Hard|
 ||2812|Find the Safest Path in a Grid|[:us:](https://leetcode.com/problems/find-the-safest-path-in-a-grid) [:cn:](https://leetcode.cn/problems/find-the-safest-path-in-a-grid)||Medium|
 ||2811|Check if it is Possible to Split Array|[:us:](https://leetcode.com/problems/check-if-it-is-possible-to-split-array) [:cn:](https://leetcode.cn/problems/check-if-it-is-possible-to-split-array)||Medium|

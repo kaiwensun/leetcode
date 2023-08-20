@@ -2,20 +2,24 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|327|167|0|88 (65.08%)|2|
+|331|175|0|84 (67.19%)|2|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|44.8%|32.6%|7.6%|5.8%|5.2%|3.5%|0.6%|
+|45.6%|31.7%|7.2%|6.7%|5.0%|3.3%|0.6%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||2827|Number of Beautiful Integers in the Range|[:us:](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range) [:cn:](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range)||Hard|
-||2826|Sorting Three Groups|[:us:](https://leetcode.com/problems/sorting-three-groups) [:cn:](https://leetcode.cn/problems/sorting-three-groups)||Medium|
-||2825|Make String a Subsequence Using Cyclic Increments|[:us:](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) [:cn:](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments)||Medium|
-||2824|Count Pairs Whose Sum is Less than Target|[:us:](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) [:cn:](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target)||Easy|
+|:heavy_check_mark:|2831|Find the Longest Equal Subarray|[:us:](https://leetcode.com/problems/find-the-longest-equal-subarray) [:cn:](https://leetcode.cn/problems/find-the-longest-equal-subarray)|[py](/2501-3000/2831.Find%20the%20Longest%20Equal%20Subarray.py)|Medium|
+|:heavy_check_mark:|2830|Maximize the Profit as the Salesman|[:us:](https://leetcode.com/problems/maximize-the-profit-as-the-salesman) [:cn:](https://leetcode.cn/problems/maximize-the-profit-as-the-salesman)|[py](/2501-3000/2830.Maximize%20the%20Profit%20as%20the%20Salesman.py)|Medium|
+|:heavy_check_mark:|2829|Determine the Minimum Sum of a k-avoiding Array|[:us:](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array) [:cn:](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array)|[java](/2501-3000/2829.Determine%20the%20Minimum%20Sum%20of%20a%20k-avoiding%20Array.java)|Medium|
+|:heavy_check_mark:|2828|Check if a String Is an Acronym of Words|[:us:](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) [:cn:](https://leetcode.cn/problems/check-if-a-string-is-an-acronym-of-words)|[ts](/2501-3000/2828.Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.ts)|Easy|
+|:heavy_check_mark:|2827|Number of Beautiful Integers in the Range|[:us:](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range) [:cn:](https://leetcode.cn/problems/number-of-beautiful-integers-in-the-range)|[py](/2501-3000/2827.Number%20of%20Beautiful%20Integers%20in%20the%20Range.py)|Hard|
+|:heavy_check_mark:|2826|Sorting Three Groups|[:us:](https://leetcode.com/problems/sorting-three-groups) [:cn:](https://leetcode.cn/problems/sorting-three-groups)|[java](/2501-3000/2826.Sorting%20Three%20Groups.java)|Medium|
+|:heavy_check_mark:|2825|Make String a Subsequence Using Cyclic Increments|[:us:](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) [:cn:](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments)|[py](/2501-3000/2825.Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.py)|Medium|
+|:heavy_check_mark:|2824|Count Pairs Whose Sum is Less than Target|[:us:](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) [:cn:](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target)|[py](/2501-3000/2824.Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py)|Easy|
 |:lock:|2823|Deep Object Filter|[:us:](https://leetcode.com/problems/deep-object-filter) [:cn:](https://leetcode.cn/problems/deep-object-filter)||Medium|
 |:lock:|2822|Inversion of Object|[:us:](https://leetcode.com/problems/inversion-of-object) [:cn:](https://leetcode.cn/problems/inversion-of-object)||Easy|
 |:lock:|2821|Delay the Resolution of Each Promise|[:us:](https://leetcode.com/problems/delay-the-resolution-of-each-promise) [:cn:](https://leetcode.cn/problems/delay-the-resolution-of-each-promise)||Easy|
