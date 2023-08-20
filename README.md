@@ -17,7 +17,26 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |59.2%|14.5%|11.1%|6.8%|4.4%|2.3%|0.9%|0.8%|
 
-The following table contains only the latest 1000 items. For a full list, check [full_table.md](others/full_table.md). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~.
+This readme lists only the latest 1000 items.
+Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.
+So I'm splitting the full list into each of the following sub folders:
+| Questions Quick Links |
+|:---|
+|[LCS](LCS#LCS-questions)|
+|[LCP](LCP#LCP-questions)|
+|[LCR](LCR#LCR-questions)|
+|[剑指 Offer II](%E5%89%91%E6%8C%87%20Offer%20II#%E5%89%91%E6%8C%87%20Offer%20II-questions)|
+|[剑指 Offer](%E5%89%91%E6%8C%87%20Offer#%E5%89%91%E6%8C%87%20Offer-questions)|
+|[面试题](%E9%9D%A2%E8%AF%95%E9%A2%98#%E9%9D%A2%E8%AF%95%E9%A2%98-questions)|
+|[DD](DD#DD-questions)|
+|[银联](%E9%93%B6%E8%81%94#%E9%93%B6%E8%81%94-questions)|
+|[0001-0500](0001-0500#0001-0500-questions)|
+|[0501-1000](0501-1000#0501-1000-questions)|
+|[1001-1500](1001-1500#1001-1500-questions)|
+|[1501-2000](1501-2000#1501-2000-questions)|
+|[2001-2500](2001-2500#2001-2500-questions)|
+|[2501-3000](2501-3000#2501-3000-questions)|
+
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2831|Find the Longest Equal Subarray|[:us:](https://leetcode.com/problems/find-the-longest-equal-subarray) [:cn:](https://leetcode.cn/problems/find-the-longest-equal-subarray)|[py](/2501-3000/2831.Find%20the%20Longest%20Equal%20Subarray.py)|Medium|

@@ -663,7 +663,7 @@ MAIN_README_SIZE = 1000
 all_items_file_name = "full_table.md"
 
 
-def gen_markdown(questions, solutions, title, markdown_type):
+def gen_markdown(questions, solutions, title, markdown_type, folder_names=[]):
 
     CN_FLAG = ":cn:"
     US_FLAG = ":us:"
@@ -683,12 +683,20 @@ def gen_markdown(questions, solutions, title, markdown_type):
     def gen_markdown_questions(questions):
         size_limit = ""
         if markdown_type == MarkdownType.MAIN_README:
+
             all_items_file_path = os.path.join("others", all_items_file_name)
             all_items_file_path = all_items_file_path.replace("\\", "/")
-            size_limit = (f"The following table contains only the latest {MAIN_README_SIZE} items. "
-                          f"For a full list, check [{all_items_file_name}]({all_items_file_path}). (Unfortunately, starting from May 2023, directly accessing the blob also doesn't render Markdown on GitHub.)"
-                          "This is because GitHub currently limits blob rendering of a repo's README ~~to around 500 KB of data~~."
-                          )
+            newline = "\n"
+            size_limit = newline.join([
+                f"This readme lists only the latest {MAIN_README_SIZE} items.",
+                "Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.",
+                "So I'm splitting the full list into each of the following sub folders:",
+                "| Questions Quick Links |",
+                "|:---|"]
+                + [f'|[{name}]({urllib.parse.quote(name)}#{urllib.parse.quote(name)}-questions)|' for name in folder_names]
+                + [""]
+            )
+
         header = """
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
@@ -1033,9 +1041,6 @@ def main():
         correct_local_files(questions, solutions)
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
         ) for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions
-        markdown = gen_markdown(
-            all_questions, solutions, "Kaiwen's LeetCode solutions", MarkdownType.MAIN_README)
-        update_file(README_FILENAME, markdown)
 
         all_questions = sorted([sol.mock_question_for_unrecognized_contest_solution(
         ) for sol in UNRECOGNIZED_CONTEST_SOLUTIONS.values()], key=lambda q: q.id(), reverse=True) + questions
@@ -1061,6 +1066,11 @@ def main():
             markdown = gen_markdown(
                 que, sol, f"{folder_name} questions", MarkdownType.FULL_GROUP)
             update_file(os.path.join(folder_name, "README.md"), markdown)
+
+        markdown = gen_markdown(all_questions, solutions,
+            "Kaiwen's LeetCode solutions", MarkdownType.MAIN_README,
+            folder_names=[fm[0] for fm in folder_and_matchers])
+        update_file(README_FILENAME, markdown)
     elif len(argv) == 2:
         search_local_solutions(argv[1])
     else:
