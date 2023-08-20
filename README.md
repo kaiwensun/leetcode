@@ -23,9 +23,9 @@
 |[DD](DD/README.md)|[LCP](LCP/README.md)|[LCR](LCR/README.md)|[LCS](LCS/README.md)|[剑指 Offer](%E5%89%91%E6%8C%87%20Offer/README.md)|[剑指 Offer II](%E5%89%91%E6%8C%87%20Offer%20II/README.md)|
 |[银联](%E9%93%B6%E8%81%94/README.md)|[面试题](%E9%9D%A2%E8%AF%95%E9%A2%98/README.md)|||||
 
-This readme lists only the latest 1000 items below.
+This lists below only the latest 1000 items below.
 Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.
-
+For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|2831|Find the Longest Equal Subarray|[:us:](https://leetcode.com/problems/find-the-longest-equal-subarray) [:cn:](https://leetcode.cn/problems/find-the-longest-equal-subarray)|[py](/2501-3000/2831.Find%20the%20Longest%20Equal%20Subarray.py)|Medium|

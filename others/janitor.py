@@ -706,8 +706,9 @@ def gen_markdown(questions, solutions, title, markdown_type, folder_names=[]):
             size_limit = newline.join([
                 gen_markdown_subfolder_table(folder_names),
                 "",
-                f"This readme lists only the latest {MAIN_README_SIZE} items below.",
+                f"This lists below only the latest {MAIN_README_SIZE} items below.",
                 "Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.",
+                f"For a full list, check [{all_items_file_name}]({all_items_file_path})."
                 ""])
 
         header = """
