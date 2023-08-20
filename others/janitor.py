@@ -683,19 +683,32 @@ def gen_markdown(questions, solutions, title, markdown_type, folder_names=[]):
     def gen_markdown_questions(questions):
         size_limit = ""
         if markdown_type == MarkdownType.MAIN_README:
+            def gen_markdown_subfolder_table(folder_names):
+                cols = 6
+                us_folders = sorted([name for name in folder_names if re.match("^\d{4}-\d{4}$", name)])
+                cn_folders = sorted([name for name in folder_names if not re.match("^\d{4}-\d{4}$", name)])
+                def gen_markdown_subfolder_table_row(folder_names):
+                    links = [f"[{name}]({urllib.parse.quote(name)}/README.md)" for name in folder_names]
+                    links.extend([""] * (cols - len(links)))
+                    return f"|{'|'.join(links)}|"
+                res = [
+                    "|" * (cols + 1),
+                    "|" + ":---|" * cols
+                ]
+                for folders in us_folders, cn_folders:
+                    for i in range(0, len(folders), cols):
+                        res.append(gen_markdown_subfolder_table_row(folders[i:i + cols]))
+                return "\n".join(res)
 
             all_items_file_path = os.path.join("others", all_items_file_name)
             all_items_file_path = all_items_file_path.replace("\\", "/")
             newline = "\n"
             size_limit = newline.join([
-                f"This readme lists only the latest {MAIN_README_SIZE} items.",
+                gen_markdown_subfolder_table(folder_names),
+                "",
+                f"This readme lists only the latest {MAIN_README_SIZE} items below.",
                 "Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.",
-                "So I'm splitting the full list into each of the following sub folders:",
-                "| Questions Quick Links |",
-                "|:---|"]
-                + [f'|[{name}]({urllib.parse.quote(name)}#{urllib.parse.quote(name)}-questions)|' for name in folder_names]
-                + [""]
-            )
+                ""])
 
         header = """
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
