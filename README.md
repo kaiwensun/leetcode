@@ -23,7 +23,7 @@
 |[DD](DD/README.md)|[LCP](LCP/README.md)|[LCR](LCR/README.md)|[LCS](LCS/README.md)|[剑指 Offer](%E5%89%91%E6%8C%87%20Offer/README.md)|[剑指 Offer II](%E5%89%91%E6%8C%87%20Offer%20II/README.md)|
 |[银联](%E9%93%B6%E8%81%94/README.md)|[面试题](%E9%9D%A2%E8%AF%95%E9%A2%98/README.md)|||||
 
-This lists below only the latest 2000 items below.
+This lists below only the latest 5000 items below.
 Unfortunately, starting from May 2023 GitHub introduced a breaking change to further reduce the rendered blob size.
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -2028,3 +2028,1228 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|834|Sum of Distances in Tree|[:us:](https://leetcode.com/problems/sum-of-distances-in-tree) [:cn:](https://leetcode.cn/problems/sum-of-distances-in-tree)|[py](/0501-1000/0834.Sum%20of%20Distances%20in%20Tree.py)|Hard|
 ||833|Find And Replace in String|[:us:](https://leetcode.com/problems/find-and-replace-in-string) [:cn:](https://leetcode.cn/problems/find-and-replace-in-string)||Medium|
 |:heavy_check_mark:|832|Flipping an Image|[:us:](https://leetcode.com/problems/flipping-an-image) [:cn:](https://leetcode.cn/problems/flipping-an-image)|[java](/0501-1000/0832.Flipping%20an%20Image.java)|Easy|
+||831|Masking Personal Information|[:us:](https://leetcode.com/problems/masking-personal-information) [:cn:](https://leetcode.cn/problems/masking-personal-information)||Medium|
+|:heavy_check_mark:|830|Positions of Large Groups|[:us:](https://leetcode.com/problems/positions-of-large-groups) [:cn:](https://leetcode.cn/problems/positions-of-large-groups)|[java](/0501-1000/0830.Positions%20of%20Large%20Groups.java)|Easy|
+|:heavy_check_mark:|829|Consecutive Numbers Sum|[:us:](https://leetcode.com/problems/consecutive-numbers-sum) [:cn:](https://leetcode.cn/problems/consecutive-numbers-sum)|[py](/0501-1000/0829.Consecutive%20Numbers%20Sum.py)|Hard|
+|:heavy_check_mark:|828|Count Unique Characters of All Substrings of a Given String|[:us:](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string) [:cn:](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string)|[py](/0501-1000/0828.Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String.py)|Hard|
+||827|Making A Large Island|[:us:](https://leetcode.com/problems/making-a-large-island) [:cn:](https://leetcode.cn/problems/making-a-large-island)||Hard|
+||826|Most Profit Assigning Work|[:us:](https://leetcode.com/problems/most-profit-assigning-work) [:cn:](https://leetcode.cn/problems/most-profit-assigning-work)||Medium|
+|:heavy_check_mark:|825|Friends Of Appropriate Ages|[:us:](https://leetcode.com/problems/friends-of-appropriate-ages) [:cn:](https://leetcode.cn/problems/friends-of-appropriate-ages)|[py](/0501-1000/0825.Friends%20Of%20Appropriate%20Ages.py)|Medium|
+|:heavy_check_mark:|824|Goat Latin|[:us:](https://leetcode.com/problems/goat-latin) [:cn:](https://leetcode.cn/problems/goat-latin)|[py](/0501-1000/0824.Goat%20Latin.py)|Easy|
+||823|Binary Trees With Factors|[:us:](https://leetcode.com/problems/binary-trees-with-factors) [:cn:](https://leetcode.cn/problems/binary-trees-with-factors)||Medium|
+|:heavy_check_mark:|822|Card Flipping Game|[:us:](https://leetcode.com/problems/card-flipping-game) [:cn:](https://leetcode.cn/problems/card-flipping-game)|[py](/0501-1000/0822.Card%20Flipping%20Game.2.py), [py](/0501-1000/0822.Card%20Flipping%20Game.py)|Medium|
+|:heavy_check_mark:|821|Shortest Distance to a Character|[:us:](https://leetcode.com/problems/shortest-distance-to-a-character) [:cn:](https://leetcode.cn/problems/shortest-distance-to-a-character)|[py](/0501-1000/0821.Shortest%20Distance%20to%20a%20Character.py)|Easy|
+||820|Short Encoding of Words|[:us:](https://leetcode.com/problems/short-encoding-of-words) [:cn:](https://leetcode.cn/problems/short-encoding-of-words)||Medium|
+|:heavy_check_mark:|819|Most Common Word|[:us:](https://leetcode.com/problems/most-common-word) [:cn:](https://leetcode.cn/problems/most-common-word)|[java](/0501-1000/0819.Most%20Common%20Word.java)|Easy|
+||818|Race Car|[:us:](https://leetcode.com/problems/race-car) [:cn:](https://leetcode.cn/problems/race-car)||Hard|
+||817|Linked List Components|[:us:](https://leetcode.com/problems/linked-list-components) [:cn:](https://leetcode.cn/problems/linked-list-components)||Medium|
+||816|Ambiguous Coordinates|[:us:](https://leetcode.com/problems/ambiguous-coordinates) [:cn:](https://leetcode.cn/problems/ambiguous-coordinates)||Medium|
+|:heavy_check_mark:|815|Bus Routes|[:us:](https://leetcode.com/problems/bus-routes) [:cn:](https://leetcode.cn/problems/bus-routes)|[js](/0501-1000/0815.Bus%20Routes.js), [py](/0501-1000/0815.Bus%20Routes.py)|Hard|
+||814|Binary Tree Pruning|[:us:](https://leetcode.com/problems/binary-tree-pruning) [:cn:](https://leetcode.cn/problems/binary-tree-pruning)||Medium|
+|:heavy_check_mark:|813|Largest Sum of Averages|[:us:](https://leetcode.com/problems/largest-sum-of-averages) [:cn:](https://leetcode.cn/problems/largest-sum-of-averages)|[py](/0501-1000/0813.Largest%20Sum%20of%20Averages.py)|Medium|
+|:heavy_check_mark:|812|Largest Triangle Area|[:us:](https://leetcode.com/problems/largest-triangle-area) [:cn:](https://leetcode.cn/problems/largest-triangle-area)|[ts](/0501-1000/0812.Largest%20Triangle%20Area.ts)|Easy|
+|:heavy_check_mark:|811|Subdomain Visit Count|[:us:](https://leetcode.com/problems/subdomain-visit-count) [:cn:](https://leetcode.cn/problems/subdomain-visit-count)|[py](/0501-1000/0811.Subdomain%20Visit%20Count.2.py), [py](/0501-1000/0811.Subdomain%20Visit%20Count.py)|Medium|
+|:heavy_check_mark:|810|Chalkboard XOR Game|[:us:](https://leetcode.com/problems/chalkboard-xor-game) [:cn:](https://leetcode.cn/problems/chalkboard-xor-game)|[c](/0501-1000/0810.Chalkboard%20XOR%20Game.c)|Hard|
+|:heavy_check_mark:|809|Expressive Words|[:us:](https://leetcode.com/problems/expressive-words) [:cn:](https://leetcode.cn/problems/expressive-words)|[py](/0501-1000/0809.Expressive%20Words.py)|Medium|
+||808|Soup Servings|[:us:](https://leetcode.com/problems/soup-servings) [:cn:](https://leetcode.cn/problems/soup-servings)||Medium|
+|:heavy_check_mark:|807|Max Increase to Keep City Skyline|[:us:](https://leetcode.com/problems/max-increase-to-keep-city-skyline) [:cn:](https://leetcode.cn/problems/max-increase-to-keep-city-skyline)|[c](/0501-1000/0807.Max%20Increase%20to%20Keep%20City%20Skyline.c)|Medium|
+|:heavy_check_mark:|806|Number of Lines To Write String|[:us:](https://leetcode.com/problems/number-of-lines-to-write-string) [:cn:](https://leetcode.cn/problems/number-of-lines-to-write-string)|[py](/0501-1000/0806.Number%20of%20Lines%20To%20Write%20String.py)|Easy|
+|:heavy_check_mark::star:|805|Split Array With Same Average|[:us:](https://leetcode.com/problems/split-array-with-same-average) [:cn:](https://leetcode.cn/problems/split-array-with-same-average)|[rb](/0501-1000/0805.Split%20Array%20With%20Same%20Average.rb)|Hard|
+|:heavy_check_mark:|804|Unique Morse Code Words|[:us:](https://leetcode.com/problems/unique-morse-code-words) [:cn:](https://leetcode.cn/problems/unique-morse-code-words)|[py](/0501-1000/0804.Unique%20Morse%20Code%20Words.py)|Easy|
+|:heavy_check_mark:|803|Bricks Falling When Hit|[:us:](https://leetcode.com/problems/bricks-falling-when-hit) [:cn:](https://leetcode.cn/problems/bricks-falling-when-hit)|[py](/0501-1000/0803.Bricks%20Falling%20When%20Hit.py)|Hard|
+|:heavy_check_mark:|802|Find Eventual Safe States|[:us:](https://leetcode.com/problems/find-eventual-safe-states) [:cn:](https://leetcode.cn/problems/find-eventual-safe-states)|[py](/0501-1000/0802.Find%20Eventual%20Safe%20States.py)|Medium|
+||801|Minimum Swaps To Make Sequences Increasing|[:us:](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing) [:cn:](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing)||Hard|
+|:lock:|800|Similar RGB Color|[:us:](https://leetcode.com/problems/similar-rgb-color) [:cn:](https://leetcode.cn/problems/similar-rgb-color)||Easy|
+|:heavy_check_mark:|799|Champagne Tower|[:us:](https://leetcode.com/problems/champagne-tower) [:cn:](https://leetcode.cn/problems/champagne-tower)|[py](/0501-1000/0799.Champagne%20Tower.py)|Medium|
+|:question:|798|Smallest Rotation with Highest Score|[:us:](https://leetcode.com/problems/smallest-rotation-with-highest-score) [:cn:](https://leetcode.cn/problems/smallest-rotation-with-highest-score)||Hard|
+|:heavy_check_mark:|797|All Paths From Source to Target|[:us:](https://leetcode.com/problems/all-paths-from-source-to-target) [:cn:](https://leetcode.cn/problems/all-paths-from-source-to-target)|[java](/0501-1000/0797.All%20Paths%20From%20Source%20to%20Target.java)|Medium|
+|:heavy_check_mark:|796|Rotate String|[:us:](https://leetcode.com/problems/rotate-string) [:cn:](https://leetcode.cn/problems/rotate-string)|[ts](/0501-1000/0796.Rotate%20String.ts)|Easy|
+||795|Number of Subarrays with Bounded Maximum|[:us:](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum) [:cn:](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum)||Medium|
+|:heavy_check_mark:|794|Valid Tic-Tac-Toe State|[:us:](https://leetcode.com/problems/valid-tic-tac-toe-state) [:cn:](https://leetcode.cn/problems/valid-tic-tac-toe-state)|[py](/0501-1000/0794.Valid%20Tic-Tac-Toe%20State.py)|Medium|
+||793|Preimage Size of Factorial Zeroes Function|[:us:](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) [:cn:](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function)||Hard|
+|:heavy_check_mark:|792|Number of Matching Subsequences|[:us:](https://leetcode.com/problems/number-of-matching-subsequences) [:cn:](https://leetcode.cn/problems/number-of-matching-subsequences)|[py](/0501-1000/0792.Number%20of%20Matching%20Subsequences.py)|Medium|
+|:heavy_check_mark:|791|Custom Sort String|[:us:](https://leetcode.com/problems/custom-sort-string) [:cn:](https://leetcode.cn/problems/custom-sort-string)|[py](/0501-1000/0791.Custom%20Sort%20String.2.py), [py](/0501-1000/0791.Custom%20Sort%20String.py)|Medium|
+|:heavy_check_mark:|790|Domino and Tromino Tiling|[:us:](https://leetcode.com/problems/domino-and-tromino-tiling) [:cn:](https://leetcode.cn/problems/domino-and-tromino-tiling)|[java](/0501-1000/0790.Domino%20and%20Tromino%20Tiling.java), [py](/0501-1000/0790.Domino%20and%20Tromino%20Tiling.py)|Medium|
+|:heavy_check_mark:|789|Escape The Ghosts|[:us:](https://leetcode.com/problems/escape-the-ghosts) [:cn:](https://leetcode.cn/problems/escape-the-ghosts)|[py](/0501-1000/0789.Escape%20The%20Ghosts.py)|Medium|
+|:heavy_check_mark:|788|Rotated Digits|[:us:](https://leetcode.com/problems/rotated-digits) [:cn:](https://leetcode.cn/problems/rotated-digits)|[py](/0501-1000/0788.Rotated%20Digits.py)|Medium|
+|:heavy_check_mark:|787|Cheapest Flights Within K Stops|[:us:](https://leetcode.com/problems/cheapest-flights-within-k-stops) [:cn:](https://leetcode.cn/problems/cheapest-flights-within-k-stops)|[py](/0501-1000/0787.Cheapest%20Flights%20Within%20K%20Stops.py), [rb](/0501-1000/0787.Cheapest%20Flights%20Within%20K%20Stops.rb)|Medium|
+|:heavy_check_mark:|786|K-th Smallest Prime Fraction|[:us:](https://leetcode.com/problems/k-th-smallest-prime-fraction) [:cn:](https://leetcode.cn/problems/k-th-smallest-prime-fraction)|[py](/0501-1000/0786.K-th%20Smallest%20Prime%20Fraction.py)|Medium|
+|:heavy_check_mark:|785|Is Graph Bipartite?|[:us:](https://leetcode.com/problems/is-graph-bipartite) [:cn:](https://leetcode.cn/problems/is-graph-bipartite)|[rb](/0501-1000/0785.Is%20Graph%20Bipartite%EF%BC%9F.rb)|Medium|
+||784|Letter Case Permutation|[:us:](https://leetcode.com/problems/letter-case-permutation) [:cn:](https://leetcode.cn/problems/letter-case-permutation)||Medium|
+|:heavy_check_mark:|783|Minimum Distance Between BST Nodes|[:us:](https://leetcode.com/problems/minimum-distance-between-bst-nodes) [:cn:](https://leetcode.cn/problems/minimum-distance-between-bst-nodes)|[py](/0501-1000/0783.Minimum%20Distance%20Between%20BST%20Nodes.py)|Easy|
+|:heavy_check_mark:|782|Transform to Chessboard|[:us:](https://leetcode.com/problems/transform-to-chessboard) [:cn:](https://leetcode.cn/problems/transform-to-chessboard)|[py](/0501-1000/0782.Transform%20to%20Chessboard.py)|Hard|
+|:heavy_check_mark:|781|Rabbits in Forest|[:us:](https://leetcode.com/problems/rabbits-in-forest) [:cn:](https://leetcode.cn/problems/rabbits-in-forest)|[py](/0501-1000/0781.Rabbits%20in%20Forest.py)|Medium|
+|:heavy_check_mark:|780|Reaching Points|[:us:](https://leetcode.com/problems/reaching-points) [:cn:](https://leetcode.cn/problems/reaching-points)|[ts](/0501-1000/0780.Reaching%20Points.ts)|Hard|
+||779|K-th Symbol in Grammar|[:us:](https://leetcode.com/problems/k-th-symbol-in-grammar) [:cn:](https://leetcode.cn/problems/k-th-symbol-in-grammar)||Medium|
+|:heavy_check_mark:|778|Swim in Rising Water|[:us:](https://leetcode.com/problems/swim-in-rising-water) [:cn:](https://leetcode.cn/problems/swim-in-rising-water)|[py](/0501-1000/0778.Swim%20in%20Rising%20Water.py)|Hard|
+||777|Swap Adjacent in LR String|[:us:](https://leetcode.com/problems/swap-adjacent-in-lr-string) [:cn:](https://leetcode.cn/problems/swap-adjacent-in-lr-string)||Medium|
+|:lock:|776|Split BST|[:us:](https://leetcode.com/problems/split-bst) [:cn:](https://leetcode.cn/problems/split-bst)||Medium|
+||775|Global and Local Inversions|[:us:](https://leetcode.com/problems/global-and-local-inversions) [:cn:](https://leetcode.cn/problems/global-and-local-inversions)||Medium|
+|:lock:|774|Minimize Max Distance to Gas Station|[:us:](https://leetcode.com/problems/minimize-max-distance-to-gas-station) [:cn:](https://leetcode.cn/problems/minimize-max-distance-to-gas-station)||Hard|
+|:heavy_check_mark:|773|Sliding Puzzle|[:us:](https://leetcode.com/problems/sliding-puzzle) [:cn:](https://leetcode.cn/problems/sliding-puzzle)|[py](/0501-1000/0773.Sliding%20Puzzle.py)|Hard|
+|:lock:|772|Basic Calculator III|[:us:](https://leetcode.com/problems/basic-calculator-iii) [:cn:](https://leetcode.cn/problems/basic-calculator-iii)||Hard|
+|:heavy_check_mark:|771|Jewels and Stones|[:us:](https://leetcode.com/problems/jewels-and-stones) [:cn:](https://leetcode.cn/problems/jewels-and-stones)|[rb](/0501-1000/0771.Jewels%20and%20Stones.rb)|Easy|
+||770|Basic Calculator IV|[:us:](https://leetcode.com/problems/basic-calculator-iv) [:cn:](https://leetcode.cn/problems/basic-calculator-iv)||Hard|
+|:heavy_check_mark:|769|Max Chunks To Make Sorted|[:us:](https://leetcode.com/problems/max-chunks-to-make-sorted) [:cn:](https://leetcode.cn/problems/max-chunks-to-make-sorted)|[py](/0501-1000/0769.Max%20Chunks%20To%20Make%20Sorted.py)|Medium|
+|:heavy_check_mark:|768|Max Chunks To Make Sorted II|[:us:](https://leetcode.com/problems/max-chunks-to-make-sorted-ii) [:cn:](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii)|[py](/0501-1000/0768.Max%20Chunks%20To%20Make%20Sorted%20II.py)|Hard|
+|:heavy_check_mark:|767|Reorganize String|[:us:](https://leetcode.com/problems/reorganize-string) [:cn:](https://leetcode.cn/problems/reorganize-string)|[py](/0501-1000/0767.Reorganize%20String.py)|Medium|
+|:heavy_check_mark:|766|Toeplitz Matrix|[:us:](https://leetcode.com/problems/toeplitz-matrix) [:cn:](https://leetcode.cn/problems/toeplitz-matrix)|[java](/0501-1000/0766.Toeplitz%20Matrix.2.java), [java](/0501-1000/0766.Toeplitz%20Matrix.java)|Easy|
+|:heavy_check_mark:|765|Couples Holding Hands|[:us:](https://leetcode.com/problems/couples-holding-hands) [:cn:](https://leetcode.cn/problems/couples-holding-hands)|[py](/0501-1000/0765.Couples%20Holding%20Hands.py)|Hard|
+|:heavy_check_mark:|764|Largest Plus Sign|[:us:](https://leetcode.com/problems/largest-plus-sign) [:cn:](https://leetcode.cn/problems/largest-plus-sign)|[java](/0501-1000/0764.Largest%20Plus%20Sign.java)|Medium|
+|:heavy_check_mark:|763|Partition Labels|[:us:](https://leetcode.com/problems/partition-labels) [:cn:](https://leetcode.cn/problems/partition-labels)|[py](/0501-1000/0763.Partition%20Labels.py)|Medium|
+||762|Prime Number of Set Bits in Binary Representation|[:us:](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) [:cn:](https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation)||Easy|
+|:heavy_check_mark:|761|Special Binary String|[:us:](https://leetcode.com/problems/special-binary-string) [:cn:](https://leetcode.cn/problems/special-binary-string)|[py](/0501-1000/0761.Special%20Binary%20String.py)|Hard|
+|:heavy_check_mark::lock:|760|Find Anagram Mappings|[:us:](https://leetcode.com/problems/find-anagram-mappings) [:cn:](https://leetcode.cn/problems/find-anagram-mappings)|[py](/0501-1000/0760.Find%20Anagram%20Mappings.py)|Easy|
+|:lock:|759|Employee Free Time|[:us:](https://leetcode.com/problems/employee-free-time) [:cn:](https://leetcode.cn/problems/employee-free-time)||Hard|
+|:lock:|758|Bold Words in String|[:us:](https://leetcode.com/problems/bold-words-in-string) [:cn:](https://leetcode.cn/problems/bold-words-in-string)||Medium|
+||757|Set Intersection Size At Least Two|[:us:](https://leetcode.com/problems/set-intersection-size-at-least-two) [:cn:](https://leetcode.cn/problems/set-intersection-size-at-least-two)||Hard|
+|:heavy_check_mark:|756|Pyramid Transition Matrix|[:us:](https://leetcode.com/problems/pyramid-transition-matrix) [:cn:](https://leetcode.cn/problems/pyramid-transition-matrix)|[java](/0501-1000/0756.Pyramid%20Transition%20Matrix.java)|Medium|
+|:lock:|755|Pour Water|[:us:](https://leetcode.com/problems/pour-water) [:cn:](https://leetcode.cn/problems/pour-water)||Medium|
+||754|Reach a Number|[:us:](https://leetcode.com/problems/reach-a-number) [:cn:](https://leetcode.cn/problems/reach-a-number)||Medium|
+||753|Cracking the Safe|[:us:](https://leetcode.com/problems/cracking-the-safe) [:cn:](https://leetcode.cn/problems/cracking-the-safe)||Hard|
+|:heavy_check_mark:|752|Open the Lock|[:us:](https://leetcode.com/problems/open-the-lock) [:cn:](https://leetcode.cn/problems/open-the-lock)|[py](/0501-1000/0752.Open%20the%20Lock.%28step%20cost%20being%20the%20next%20stage%20-%20Dijkstra%29.py), [py](/0501-1000/0752.Open%20the%20Lock.2.py), [py](/0501-1000/0752.Open%20the%20Lock.py)|Medium|
+|:lock:|751|IP to CIDR|[:us:](https://leetcode.com/problems/ip-to-cidr) [:cn:](https://leetcode.cn/problems/ip-to-cidr)||Medium|
+|:lock:|750|Number Of Corner Rectangles|[:us:](https://leetcode.com/problems/number-of-corner-rectangles) [:cn:](https://leetcode.cn/problems/number-of-corner-rectangles)||Medium|
+||749|Contain Virus|[:us:](https://leetcode.com/problems/contain-virus) [:cn:](https://leetcode.cn/problems/contain-virus)||Hard|
+|:heavy_check_mark:|748|Shortest Completing Word|[:us:](https://leetcode.com/problems/shortest-completing-word) [:cn:](https://leetcode.cn/problems/shortest-completing-word)|[ts](/0501-1000/0748.Shortest%20Completing%20Word.ts)|Easy|
+|:heavy_check_mark:|747|Largest Number At Least Twice of Others|[:us:](https://leetcode.com/problems/largest-number-at-least-twice-of-others) [:cn:](https://leetcode.cn/problems/largest-number-at-least-twice-of-others)|[java](/0501-1000/0747.Largest%20Number%20At%20Least%20Twice%20of%20Others.java)|Easy|
+|:heavy_check_mark:|746|Min Cost Climbing Stairs|[:us:](https://leetcode.com/problems/min-cost-climbing-stairs) [:cn:](https://leetcode.cn/problems/min-cost-climbing-stairs)|[py](/0501-1000/0746.Min%20Cost%20Climbing%20Stairs.py)|Easy|
+||745|Prefix and Suffix Search|[:us:](https://leetcode.com/problems/prefix-and-suffix-search) [:cn:](https://leetcode.cn/problems/prefix-and-suffix-search)||Hard|
+|:heavy_check_mark:|744|Find Smallest Letter Greater Than Target|[:us:](https://leetcode.com/problems/find-smallest-letter-greater-than-target) [:cn:](https://leetcode.cn/problems/find-smallest-letter-greater-than-target)|[ts](/0501-1000/0744.Find%20Smallest%20Letter%20Greater%20Than%20Target.ts)|Easy|
+|:heavy_check_mark:|743|Network Delay Time|[:us:](https://leetcode.com/problems/network-delay-time) [:cn:](https://leetcode.cn/problems/network-delay-time)|[py](/0501-1000/0743.Network%20Delay%20Time.py)|Medium|
+|:lock:|742|Closest Leaf in a Binary Tree|[:us:](https://leetcode.com/problems/closest-leaf-in-a-binary-tree) [:cn:](https://leetcode.cn/problems/closest-leaf-in-a-binary-tree)||Medium|
+|:heavy_check_mark:|741|Cherry Pickup|[:us:](https://leetcode.com/problems/cherry-pickup) [:cn:](https://leetcode.cn/problems/cherry-pickup)|[py](/0501-1000/0741.Cherry%20Pickup.py)|Hard|
+|:heavy_check_mark:|740|Delete and Earn|[:us:](https://leetcode.com/problems/delete-and-earn) [:cn:](https://leetcode.cn/problems/delete-and-earn)|[java](/0501-1000/0740.Delete%20and%20Earn.java)|Medium|
+||739|Daily Temperatures|[:us:](https://leetcode.com/problems/daily-temperatures) [:cn:](https://leetcode.cn/problems/daily-temperatures)||Medium|
+|:heavy_check_mark:|738|Monotone Increasing Digits|[:us:](https://leetcode.com/problems/monotone-increasing-digits) [:cn:](https://leetcode.cn/problems/monotone-increasing-digits)|[py](/0501-1000/0738.Monotone%20Increasing%20Digits.py)|Medium|
+|:lock:|737|Sentence Similarity II|[:us:](https://leetcode.com/problems/sentence-similarity-ii) [:cn:](https://leetcode.cn/problems/sentence-similarity-ii)||Medium|
+||736|Parse Lisp Expression|[:us:](https://leetcode.com/problems/parse-lisp-expression) [:cn:](https://leetcode.cn/problems/parse-lisp-expression)||Hard|
+|:heavy_check_mark:|735|Asteroid Collision|[:us:](https://leetcode.com/problems/asteroid-collision) [:cn:](https://leetcode.cn/problems/asteroid-collision)|[py](/0501-1000/0735.Asteroid%20Collision.py)|Medium|
+|:lock:|734|Sentence Similarity|[:us:](https://leetcode.com/problems/sentence-similarity) [:cn:](https://leetcode.cn/problems/sentence-similarity)||Easy|
+|:heavy_check_mark:|733|Flood Fill|[:us:](https://leetcode.com/problems/flood-fill) [:cn:](https://leetcode.cn/problems/flood-fill)|[rb](/0501-1000/0733.Flood%20Fill.rb)|Easy|
+||732|My Calendar III|[:us:](https://leetcode.com/problems/my-calendar-iii) [:cn:](https://leetcode.cn/problems/my-calendar-iii)||Hard|
+|:heavy_check_mark:|731|My Calendar II|[:us:](https://leetcode.com/problems/my-calendar-ii) [:cn:](https://leetcode.cn/problems/my-calendar-ii)|[py](/0501-1000/0731.My%20Calendar%20II.py)|Medium|
+||730|Count Different Palindromic Subsequences|[:us:](https://leetcode.com/problems/count-different-palindromic-subsequences) [:cn:](https://leetcode.cn/problems/count-different-palindromic-subsequences)||Hard|
+|:heavy_check_mark:|729|My Calendar I|[:us:](https://leetcode.com/problems/my-calendar-i) [:cn:](https://leetcode.cn/problems/my-calendar-i)|[py](/0501-1000/0729.My%20Calendar%20I.py)|Medium|
+|:heavy_check_mark:|728|Self Dividing Numbers|[:us:](https://leetcode.com/problems/self-dividing-numbers) [:cn:](https://leetcode.cn/problems/self-dividing-numbers)|[py](/0501-1000/0728.Self%20Dividing%20Numbers.py)|Easy|
+|:lock:|727|Minimum Window Subsequence|[:us:](https://leetcode.com/problems/minimum-window-subsequence) [:cn:](https://leetcode.cn/problems/minimum-window-subsequence)||Hard|
+|:heavy_check_mark:|726|Number of Atoms|[:us:](https://leetcode.com/problems/number-of-atoms) [:cn:](https://leetcode.cn/problems/number-of-atoms)|[py](/0501-1000/0726.Number%20of%20Atoms.py)|Hard|
+|:heavy_check_mark:|725|Split Linked List in Parts|[:us:](https://leetcode.com/problems/split-linked-list-in-parts) [:cn:](https://leetcode.cn/problems/split-linked-list-in-parts)|[c](/0501-1000/0725.Split%20Linked%20List%20in%20Parts.c)|Medium|
+|:heavy_check_mark:|724|Find Pivot Index|[:us:](https://leetcode.com/problems/find-pivot-index) [:cn:](https://leetcode.cn/problems/find-pivot-index)|[py](/0501-1000/0724.Find%20Pivot%20Index.py)|Easy|
+|:lock:|723|Candy Crush|[:us:](https://leetcode.com/problems/candy-crush) [:cn:](https://leetcode.cn/problems/candy-crush)||Medium|
+|:heavy_check_mark:|722|Remove Comments|[:us:](https://leetcode.com/problems/remove-comments) [:cn:](https://leetcode.cn/problems/remove-comments)|[py](/0501-1000/0722.Remove%20Comments.py)|Medium|
+|:heavy_check_mark:|721|Accounts Merge|[:us:](https://leetcode.com/problems/accounts-merge) [:cn:](https://leetcode.cn/problems/accounts-merge)|[py](/0501-1000/0721.Accounts%20Merge.py)|Medium|
+|:heavy_check_mark:|720|Longest Word in Dictionary|[:us:](https://leetcode.com/problems/longest-word-in-dictionary) [:cn:](https://leetcode.cn/problems/longest-word-in-dictionary)|[ts](/0501-1000/0720.Longest%20Word%20in%20Dictionary.ts)|Medium|
+||719|Find K-th Smallest Pair Distance|[:us:](https://leetcode.com/problems/find-k-th-smallest-pair-distance) [:cn:](https://leetcode.cn/problems/find-k-th-smallest-pair-distance)||Hard|
+||718|Maximum Length of Repeated Subarray|[:us:](https://leetcode.com/problems/maximum-length-of-repeated-subarray) [:cn:](https://leetcode.cn/problems/maximum-length-of-repeated-subarray)||Medium|
+|:heavy_check_mark:|717|1-bit and 2-bit Characters|[:us:](https://leetcode.com/problems/1-bit-and-2-bit-characters) [:cn:](https://leetcode.cn/problems/1-bit-and-2-bit-characters)|[ts](/0501-1000/0717.1-bit%20and%202-bit%20Characters.ts)|Easy|
+|:lock:|716|Max Stack|[:us:](https://leetcode.com/problems/max-stack) [:cn:](https://leetcode.cn/problems/max-stack)||Hard|
+||715|Range Module|[:us:](https://leetcode.com/problems/range-module) [:cn:](https://leetcode.cn/problems/range-module)||Hard|
+|:heavy_check_mark:|714|Best Time to Buy and Sell Stock with Transaction Fee|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|[java](/0501-1000/0714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java)|Medium|
+|:heavy_check_mark:|713|Subarray Product Less Than K|[:us:](https://leetcode.com/problems/subarray-product-less-than-k) [:cn:](https://leetcode.cn/problems/subarray-product-less-than-k)|[py](/0501-1000/0713.Subarray%20Product%20Less%20Than%20K.py)|Medium|
+||712|Minimum ASCII Delete Sum for Two Strings|[:us:](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) [:cn:](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings)||Medium|
+|:lock:|711|Number of Distinct Islands II|[:us:](https://leetcode.com/problems/number-of-distinct-islands-ii) [:cn:](https://leetcode.cn/problems/number-of-distinct-islands-ii)||Hard|
+|:heavy_check_mark:|710|Random Pick with Blacklist|[:us:](https://leetcode.com/problems/random-pick-with-blacklist) [:cn:](https://leetcode.cn/problems/random-pick-with-blacklist)|[py](/0501-1000/0710.Random%20Pick%20with%20Blacklist.py)|Hard|
+|:heavy_check_mark:|709|To Lower Case|[:us:](https://leetcode.com/problems/to-lower-case) [:cn:](https://leetcode.cn/problems/to-lower-case)|[ts](/0501-1000/0709.To%20Lower%20Case.ts)|Easy|
+|:lock:|708|Insert into a Sorted Circular Linked List|[:us:](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list) [:cn:](https://leetcode.cn/problems/insert-into-a-sorted-circular-linked-list)||Medium|
+||707|Design Linked List|[:us:](https://leetcode.com/problems/design-linked-list) [:cn:](https://leetcode.cn/problems/design-linked-list)||Medium|
+|:heavy_check_mark:|706|Design HashMap|[:us:](https://leetcode.com/problems/design-hashmap) [:cn:](https://leetcode.cn/problems/design-hashmap)|[java](/0501-1000/0706.Design%20HashMap.java)|Easy|
+|:heavy_check_mark:|705|Design HashSet|[:us:](https://leetcode.com/problems/design-hashset) [:cn:](https://leetcode.cn/problems/design-hashset)|[rb](/0501-1000/0705.Design%20HashSet.rb)|Easy|
+|:heavy_check_mark:|704|Binary Search|[:us:](https://leetcode.com/problems/binary-search) [:cn:](https://leetcode.cn/problems/binary-search)|[c](/0501-1000/0704.Binary%20Search.c)|Easy|
+|:heavy_check_mark:|703|Kth Largest Element in a Stream|[:us:](https://leetcode.com/problems/kth-largest-element-in-a-stream) [:cn:](https://leetcode.cn/problems/kth-largest-element-in-a-stream)|[py](/0501-1000/0703.Kth%20Largest%20Element%20in%20a%20Stream.py)|Easy|
+|:lock:|702|Search in a Sorted Array of Unknown Size|[:us:](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size) [:cn:](https://leetcode.cn/problems/search-in-a-sorted-array-of-unknown-size)||Medium|
+|:heavy_check_mark:|701|Insert into a Binary Search Tree|[:us:](https://leetcode.com/problems/insert-into-a-binary-search-tree) [:cn:](https://leetcode.cn/problems/insert-into-a-binary-search-tree)|[cpp](/0501-1000/0701.Insert%20into%20a%20Binary%20Search%20Tree.cpp), [rb](/0501-1000/0701.Insert%20into%20a%20Binary%20Search%20Tree.rb)|Medium|
+|:heavy_check_mark:|700|Search in a Binary Search Tree|[:us:](https://leetcode.com/problems/search-in-a-binary-search-tree) [:cn:](https://leetcode.cn/problems/search-in-a-binary-search-tree)|[rb](/0501-1000/0700.Search%20in%20a%20Binary%20Search%20Tree.rb)|Easy|
+||699|Falling Squares|[:us:](https://leetcode.com/problems/falling-squares) [:cn:](https://leetcode.cn/problems/falling-squares)||Hard|
+|:heavy_check_mark:|698|Partition to K Equal Sum Subsets|[:us:](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) [:cn:](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets)|[py](/0501-1000/0698.Partition%20to%20K%20Equal%20Sum%20Subsets.py)|Medium|
+|:heavy_check_mark:|697|Degree of an Array|[:us:](https://leetcode.com/problems/degree-of-an-array) [:cn:](https://leetcode.cn/problems/degree-of-an-array)|[java](/0501-1000/0697.Degree%20of%20an%20Array.java)|Easy|
+|:heavy_check_mark:|696|Count Binary Substrings|[:us:](https://leetcode.com/problems/count-binary-substrings) [:cn:](https://leetcode.cn/problems/count-binary-substrings)|[py](/0501-1000/0696.Count%20Binary%20Substrings.py)|Easy|
+|:heavy_check_mark:|695|Max Area of Island|[:us:](https://leetcode.com/problems/max-area-of-island) [:cn:](https://leetcode.cn/problems/max-area-of-island)|[py](/0501-1000/0695.Max%20Area%20of%20Island.py)|Medium|
+|:lock:|694|Number of Distinct Islands|[:us:](https://leetcode.com/problems/number-of-distinct-islands) [:cn:](https://leetcode.cn/problems/number-of-distinct-islands)||Medium|
+|:heavy_check_mark:|693|Binary Number with Alternating Bits|[:us:](https://leetcode.com/problems/binary-number-with-alternating-bits) [:cn:](https://leetcode.cn/problems/binary-number-with-alternating-bits)|[ts](/0501-1000/0693.Binary%20Number%20with%20Alternating%20Bits.ts)|Easy|
+|:heavy_check_mark:|692|Top K Frequent Words|[:us:](https://leetcode.com/problems/top-k-frequent-words) [:cn:](https://leetcode.cn/problems/top-k-frequent-words)|[py](/0501-1000/0692.Top%20K%20Frequent%20Words.py)|Medium|
+||691|Stickers to Spell Word|[:us:](https://leetcode.com/problems/stickers-to-spell-word) [:cn:](https://leetcode.cn/problems/stickers-to-spell-word)||Hard|
+|:heavy_check_mark:|690|Employee Importance|[:us:](https://leetcode.com/problems/employee-importance) [:cn:](https://leetcode.cn/problems/employee-importance)|[php](/0501-1000/0690.Employee%20Importance.php)|Medium|
+|:heavy_check_mark:|689|Maximum Sum of 3 Non-Overlapping Subarrays|[:us:](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) [:cn:](https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays)|[py](/0501-1000/0689.Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py)|Hard|
+|:heavy_check_mark:|688|Knight Probability in Chessboard|[:us:](https://leetcode.com/problems/knight-probability-in-chessboard) [:cn:](https://leetcode.cn/problems/knight-probability-in-chessboard)|[py](/0501-1000/0688.Knight%20Probability%20in%20Chessboard.py)|Medium|
+|:heavy_check_mark:|687|Longest Univalue Path|[:us:](https://leetcode.com/problems/longest-univalue-path) [:cn:](https://leetcode.cn/problems/longest-univalue-path)|[py](/0501-1000/0687.Longest%20Univalue%20Path.py)|Medium|
+|:heavy_check_mark:|686|Repeated String Match|[:us:](https://leetcode.com/problems/repeated-string-match) [:cn:](https://leetcode.cn/problems/repeated-string-match)|[ts](/0501-1000/0686.Repeated%20String%20Match.ts)|Medium|
+||685|Redundant Connection II|[:us:](https://leetcode.com/problems/redundant-connection-ii) [:cn:](https://leetcode.cn/problems/redundant-connection-ii)||Hard|
+|:heavy_check_mark:|684|Redundant Connection|[:us:](https://leetcode.com/problems/redundant-connection) [:cn:](https://leetcode.cn/problems/redundant-connection)|[py](/0501-1000/0684.Redundant%20Connection.py)|Medium|
+|:heavy_check_mark::lock:|683|K Empty Slots|[:us:](https://leetcode.com/problems/k-empty-slots) [:cn:](https://leetcode.cn/problems/k-empty-slots)|[py](/0501-1000/0683.K%20Empty%20Slots.py)|Hard|
+|:heavy_check_mark:|682|Baseball Game|[:us:](https://leetcode.com/problems/baseball-game) [:cn:](https://leetcode.cn/problems/baseball-game)|[ts](/0501-1000/0682.Baseball%20Game.ts)|Easy|
+|:lock:|681|Next Closest Time|[:us:](https://leetcode.com/problems/next-closest-time) [:cn:](https://leetcode.cn/problems/next-closest-time)||Medium|
+|:heavy_check_mark:|680|Valid Palindrome II|[:us:](https://leetcode.com/problems/valid-palindrome-ii) [:cn:](https://leetcode.cn/problems/valid-palindrome-ii)|[py](/0501-1000/0680.Valid%20Palindrome%20II.py)|Easy|
+||679|24 Game|[:us:](https://leetcode.com/problems/24-game) [:cn:](https://leetcode.cn/problems/24-game)||Hard|
+|:heavy_check_mark:|678|Valid Parenthesis String|[:us:](https://leetcode.com/problems/valid-parenthesis-string) [:cn:](https://leetcode.cn/problems/valid-parenthesis-string)|[rb](/0501-1000/0678.Valid%20Parenthesis%20String.2.rb), [rb](/0501-1000/0678.Valid%20Parenthesis%20String.rb)|Medium|
+|:heavy_check_mark:|677|Map Sum Pairs|[:us:](https://leetcode.com/problems/map-sum-pairs) [:cn:](https://leetcode.cn/problems/map-sum-pairs)|[py](/0501-1000/0677.Map%20Sum%20Pairs.py)|Medium|
+||676|Implement Magic Dictionary|[:us:](https://leetcode.com/problems/implement-magic-dictionary) [:cn:](https://leetcode.cn/problems/implement-magic-dictionary)||Medium|
+||675|Cut Off Trees for Golf Event|[:us:](https://leetcode.com/problems/cut-off-trees-for-golf-event) [:cn:](https://leetcode.cn/problems/cut-off-trees-for-golf-event)||Hard|
+|:heavy_check_mark:|674|Longest Continuous Increasing Subsequence|[:us:](https://leetcode.com/problems/longest-continuous-increasing-subsequence) [:cn:](https://leetcode.cn/problems/longest-continuous-increasing-subsequence)|[c](/0501-1000/0674.Longest%20Continuous%20Increasing%20Subsequence.c)|Easy|
+|:heavy_check_mark:|673|Number of Longest Increasing Subsequence|[:us:](https://leetcode.com/problems/number-of-longest-increasing-subsequence) [:cn:](https://leetcode.cn/problems/number-of-longest-increasing-subsequence)|[py](/0501-1000/0673.Number%20of%20Longest%20Increasing%20Subsequence.py)|Medium|
+||672|Bulb Switcher II|[:us:](https://leetcode.com/problems/bulb-switcher-ii) [:cn:](https://leetcode.cn/problems/bulb-switcher-ii)||Medium|
+|:heavy_check_mark:|671|Second Minimum Node In a Binary Tree|[:us:](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) [:cn:](https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree)|[java](/0501-1000/0671.Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java)|Easy|
+||670|Maximum Swap|[:us:](https://leetcode.com/problems/maximum-swap) [:cn:](https://leetcode.cn/problems/maximum-swap)||Medium|
+|:heavy_check_mark:|669|Trim a Binary Search Tree|[:us:](https://leetcode.com/problems/trim-a-binary-search-tree) [:cn:](https://leetcode.cn/problems/trim-a-binary-search-tree)|[cpp](/0501-1000/0669.Trim%20a%20Binary%20Search%20Tree.cpp)|Medium|
+||668|Kth Smallest Number in Multiplication Table|[:us:](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) [:cn:](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table)||Hard|
+|:heavy_check_mark:|667|Beautiful Arrangement II|[:us:](https://leetcode.com/problems/beautiful-arrangement-ii) [:cn:](https://leetcode.cn/problems/beautiful-arrangement-ii)|[py](/0501-1000/0667.Beautiful%20Arrangement%20II.py)|Medium|
+|:lock:|666|Path Sum IV|[:us:](https://leetcode.com/problems/path-sum-iv) [:cn:](https://leetcode.cn/problems/path-sum-iv)||Medium|
+|:heavy_check_mark:|665|Non-decreasing Array|[:us:](https://leetcode.com/problems/non-decreasing-array) [:cn:](https://leetcode.cn/problems/non-decreasing-array)|[c](/0501-1000/0665.Non-decreasing%20Array.c)|Medium|
+|:heavy_check_mark:|664|Strange Printer|[:us:](https://leetcode.com/problems/strange-printer) [:cn:](https://leetcode.cn/problems/strange-printer)|[py](/0501-1000/0664.Strange%20Printer.py)|Hard|
+|:lock:|663|Equal Tree Partition|[:us:](https://leetcode.com/problems/equal-tree-partition) [:cn:](https://leetcode.cn/problems/equal-tree-partition)||Medium|
+|:heavy_check_mark:|662|Maximum Width of Binary Tree|[:us:](https://leetcode.com/problems/maximum-width-of-binary-tree) [:cn:](https://leetcode.cn/problems/maximum-width-of-binary-tree)|[rb](/0501-1000/0662.Maximum%20Width%20of%20Binary%20Tree.rb)|Medium|
+|:heavy_check_mark:|661|Image Smoother|[:us:](https://leetcode.com/problems/image-smoother) [:cn:](https://leetcode.cn/problems/image-smoother)|[ts](/0501-1000/0661.Image%20Smoother.ts)|Easy|
+|:lock:|660|Remove 9|[:us:](https://leetcode.com/problems/remove-9) [:cn:](https://leetcode.cn/problems/remove-9)||Hard|
+|:heavy_check_mark:|659|Split Array into Consecutive Subsequences|[:us:](https://leetcode.com/problems/split-array-into-consecutive-subsequences) [:cn:](https://leetcode.cn/problems/split-array-into-consecutive-subsequences)|[py](/0501-1000/0659.Split%20Array%20into%20Consecutive%20Subsequences.py)|Medium|
+||658|Find K Closest Elements|[:us:](https://leetcode.com/problems/find-k-closest-elements) [:cn:](https://leetcode.cn/problems/find-k-closest-elements)||Medium|
+|:heavy_check_mark:|657|Robot Return to Origin|[:us:](https://leetcode.com/problems/robot-return-to-origin) [:cn:](https://leetcode.cn/problems/robot-return-to-origin)|[java](/0501-1000/0657.Robot%20Return%20to%20Origin.java)|Easy|
+|:lock:|656|Coin Path|[:us:](https://leetcode.com/problems/coin-path) [:cn:](https://leetcode.cn/problems/coin-path)||Hard|
+|:heavy_check_mark:|655|Print Binary Tree|[:us:](https://leetcode.com/problems/print-binary-tree) [:cn:](https://leetcode.cn/problems/print-binary-tree)|[py](/0501-1000/0655.Print%20Binary%20Tree.py)|Medium|
+|:heavy_check_mark:|654|Maximum Binary Tree|[:us:](https://leetcode.com/problems/maximum-binary-tree) [:cn:](https://leetcode.cn/problems/maximum-binary-tree)|[java](/0501-1000/0654.Maximum%20Binary%20Tree.java)|Medium|
+|:heavy_check_mark:|653|Two Sum IV - Input is a BST|[:us:](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) [:cn:](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst)|[py](/0501-1000/0653.Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py)|Easy|
+|:heavy_check_mark:|652|Find Duplicate Subtrees|[:us:](https://leetcode.com/problems/find-duplicate-subtrees) [:cn:](https://leetcode.cn/problems/find-duplicate-subtrees)|[py](/0501-1000/0652.Find%20Duplicate%20Subtrees.py)|Medium|
+|:lock:|651|4 Keys Keyboard|[:us:](https://leetcode.com/problems/4-keys-keyboard) [:cn:](https://leetcode.cn/problems/4-keys-keyboard)||Medium|
+|:heavy_check_mark:|650|2 Keys Keyboard|[:us:](https://leetcode.com/problems/2-keys-keyboard) [:cn:](https://leetcode.cn/problems/2-keys-keyboard)|[py](/0501-1000/0650.2%20Keys%20Keyboard.py)|Medium|
+|:heavy_check_mark:|649|Dota2 Senate|[:us:](https://leetcode.com/problems/dota2-senate) [:cn:](https://leetcode.cn/problems/dota2-senate)|[py](/0501-1000/0649.Dota2%20Senate.py)|Medium|
+||648|Replace Words|[:us:](https://leetcode.com/problems/replace-words) [:cn:](https://leetcode.cn/problems/replace-words)||Medium|
+||647|Palindromic Substrings|[:us:](https://leetcode.com/problems/palindromic-substrings) [:cn:](https://leetcode.cn/problems/palindromic-substrings)||Medium|
+||646|Maximum Length of Pair Chain|[:us:](https://leetcode.com/problems/maximum-length-of-pair-chain) [:cn:](https://leetcode.cn/problems/maximum-length-of-pair-chain)||Medium|
+|:heavy_check_mark:|645|Set Mismatch|[:us:](https://leetcode.com/problems/set-mismatch) [:cn:](https://leetcode.cn/problems/set-mismatch)|[cpp](/0501-1000/0645.Set%20Mismatch.cpp)|Easy|
+|:lock:|644|Maximum Average Subarray II|[:us:](https://leetcode.com/problems/maximum-average-subarray-ii) [:cn:](https://leetcode.cn/problems/maximum-average-subarray-ii)||Hard|
+|:heavy_check_mark:|643|Maximum Average Subarray I|[:us:](https://leetcode.com/problems/maximum-average-subarray-i) [:cn:](https://leetcode.cn/problems/maximum-average-subarray-i)|[py](/0501-1000/0643.Maximum%20Average%20Subarray%20I.py)|Easy|
+|:lock:|642|Design Search Autocomplete System|[:us:](https://leetcode.com/problems/design-search-autocomplete-system) [:cn:](https://leetcode.cn/problems/design-search-autocomplete-system)||Hard|
+||641|Design Circular Deque|[:us:](https://leetcode.com/problems/design-circular-deque) [:cn:](https://leetcode.cn/problems/design-circular-deque)||Medium|
+||640|Solve the Equation|[:us:](https://leetcode.com/problems/solve-the-equation) [:cn:](https://leetcode.cn/problems/solve-the-equation)||Medium|
+|:heavy_check_mark:|639|Decode Ways II|[:us:](https://leetcode.com/problems/decode-ways-ii) [:cn:](https://leetcode.cn/problems/decode-ways-ii)|[ts](/0501-1000/0639.Decode%20Ways%20II.ts)|Hard|
+|:heavy_check_mark:|638|Shopping Offers|[:us:](https://leetcode.com/problems/shopping-offers) [:cn:](https://leetcode.cn/problems/shopping-offers)|[ts](/0501-1000/0638.Shopping%20Offers.ts)|Medium|
+||637|Average of Levels in Binary Tree|[:us:](https://leetcode.com/problems/average-of-levels-in-binary-tree) [:cn:](https://leetcode.cn/problems/average-of-levels-in-binary-tree)||Easy|
+||636|Exclusive Time of Functions|[:us:](https://leetcode.com/problems/exclusive-time-of-functions) [:cn:](https://leetcode.cn/problems/exclusive-time-of-functions)||Medium|
+|:lock:|635|Design Log Storage System|[:us:](https://leetcode.com/problems/design-log-storage-system) [:cn:](https://leetcode.cn/problems/design-log-storage-system)||Medium|
+|:lock:|634|Find the Derangement of An Array|[:us:](https://leetcode.com/problems/find-the-derangement-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-derangement-of-an-array)||Medium|
+|:heavy_check_mark:|633|Sum of Square Numbers|[:us:](https://leetcode.com/problems/sum-of-square-numbers) [:cn:](https://leetcode.cn/problems/sum-of-square-numbers)|[py](/0501-1000/0633.Sum%20of%20Square%20Numbers.py)|Medium|
+|:heavy_check_mark:|632|Smallest Range Covering Elements from K Lists|[:us:](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) [:cn:](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists)|[py](/0501-1000/0632.Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.py)|Hard|
+|:lock:|631|Design Excel Sum Formula|[:us:](https://leetcode.com/problems/design-excel-sum-formula) [:cn:](https://leetcode.cn/problems/design-excel-sum-formula)||Hard|
+|:heavy_check_mark::star:|630|Course Schedule III|[:us:](https://leetcode.com/problems/course-schedule-iii) [:cn:](https://leetcode.cn/problems/course-schedule-iii)|[java](/0501-1000/0630.Course%20Schedule%20III.java)|Hard|
+|:heavy_check_mark:|629|K Inverse Pairs Array|[:us:](https://leetcode.com/problems/k-inverse-pairs-array) [:cn:](https://leetcode.cn/problems/k-inverse-pairs-array)|[py](/0501-1000/0629.K%20Inverse%20Pairs%20Array.py)|Hard|
+|:heavy_check_mark:|628|Maximum Product of Three Numbers|[:us:](https://leetcode.com/problems/maximum-product-of-three-numbers) [:cn:](https://leetcode.cn/problems/maximum-product-of-three-numbers)|[py](/0501-1000/0628.Maximum%20Product%20of%20Three%20Numbers.py)|Easy|
+| sql |627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode.cn/problems/swap-salary)||Easy|
+| sql |626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats) [:cn:](https://leetcode.cn/problems/exchange-seats)||Medium|
+|:lock:|625|Minimum Factorization|[:us:](https://leetcode.com/problems/minimum-factorization) [:cn:](https://leetcode.cn/problems/minimum-factorization)||Medium|
+|:lock:|624|Maximum Distance in Arrays|[:us:](https://leetcode.com/problems/maximum-distance-in-arrays) [:cn:](https://leetcode.cn/problems/maximum-distance-in-arrays)||Medium|
+|:heavy_check_mark:|623|Add One Row to Tree|[:us:](https://leetcode.com/problems/add-one-row-to-tree) [:cn:](https://leetcode.cn/problems/add-one-row-to-tree)|[js](/0501-1000/0623.Add%20One%20Row%20to%20Tree.js)|Medium|
+|:heavy_check_mark:|622|Design Circular Queue|[:us:](https://leetcode.com/problems/design-circular-queue) [:cn:](https://leetcode.cn/problems/design-circular-queue)|[py](/0501-1000/0622.Design%20Circular%20Queue.py)|Medium|
+|:heavy_check_mark:|621|Task Scheduler|[:us:](https://leetcode.com/problems/task-scheduler) [:cn:](https://leetcode.cn/problems/task-scheduler)|[py](/0501-1000/0621.Task%20Scheduler.2.py), [py](/0501-1000/0621.Task%20Scheduler.py)|Medium|
+| sql |620|Not Boring Movies|[:us:](https://leetcode.com/problems/not-boring-movies) [:cn:](https://leetcode.cn/problems/not-boring-movies)||Easy|
+| sql |619|Biggest Single Number|[:us:](https://leetcode.com/problems/biggest-single-number) [:cn:](https://leetcode.cn/problems/biggest-single-number)||Easy|
+|:lock: sql |618|Students Report By Geography|[:us:](https://leetcode.com/problems/students-report-by-geography) [:cn:](https://leetcode.cn/problems/students-report-by-geography)||Hard|
+|:heavy_check_mark:|617|Merge Two Binary Trees|[:us:](https://leetcode.com/problems/merge-two-binary-trees) [:cn:](https://leetcode.cn/problems/merge-two-binary-trees)|[java](/0501-1000/0617.Merge%20Two%20Binary%20Trees.java)|Easy|
+|:lock:|616|Add Bold Tag in String|[:us:](https://leetcode.com/problems/add-bold-tag-in-string) [:cn:](https://leetcode.cn/problems/add-bold-tag-in-string)||Medium|
+|:lock: sql |615|Average Salary: Departments VS Company|[:us:](https://leetcode.com/problems/average-salary-departments-vs-company) [:cn:](https://leetcode.cn/problems/average-salary-departments-vs-company)||Hard|
+|:lock: sql |614|Second Degree Follower|[:us:](https://leetcode.com/problems/second-degree-follower) [:cn:](https://leetcode.cn/problems/second-degree-follower)||Medium|
+|:lock: sql |613|Shortest Distance in a Line|[:us:](https://leetcode.com/problems/shortest-distance-in-a-line) [:cn:](https://leetcode.cn/problems/shortest-distance-in-a-line)||Easy|
+|:lock: sql |612|Shortest Distance in a Plane|[:us:](https://leetcode.com/problems/shortest-distance-in-a-plane) [:cn:](https://leetcode.cn/problems/shortest-distance-in-a-plane)||Medium|
+|:heavy_check_mark:|611|Valid Triangle Number|[:us:](https://leetcode.com/problems/valid-triangle-number) [:cn:](https://leetcode.cn/problems/valid-triangle-number)|[py](/0501-1000/0611.Valid%20Triangle%20Number.py)|Medium|
+| sql |610|Triangle Judgement|[:us:](https://leetcode.com/problems/triangle-judgement) [:cn:](https://leetcode.cn/problems/triangle-judgement)||Easy|
+||609|Find Duplicate File in System|[:us:](https://leetcode.com/problems/find-duplicate-file-in-system) [:cn:](https://leetcode.cn/problems/find-duplicate-file-in-system)||Medium|
+| sql |608|Tree Node|[:us:](https://leetcode.com/problems/tree-node) [:cn:](https://leetcode.cn/problems/tree-node)||Medium|
+| sql |607|Sales Person|[:us:](https://leetcode.com/problems/sales-person) [:cn:](https://leetcode.cn/problems/sales-person)||Easy|
+|:heavy_check_mark:|606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree) [:cn:](https://leetcode.cn/problems/construct-string-from-binary-tree)|[ts](/0501-1000/0606.Construct%20String%20from%20Binary%20Tree.ts)|Easy|
+|:heavy_check_mark:|605|Can Place Flowers|[:us:](https://leetcode.com/problems/can-place-flowers) [:cn:](https://leetcode.cn/problems/can-place-flowers)|[c](/0501-1000/0605.Can%20Place%20Flowers.c)|Easy|
+|:lock:|604|Design Compressed String Iterator|[:us:](https://leetcode.com/problems/design-compressed-string-iterator) [:cn:](https://leetcode.cn/problems/design-compressed-string-iterator)||Easy|
+|:lock: sql |603|Consecutive Available Seats|[:us:](https://leetcode.com/problems/consecutive-available-seats) [:cn:](https://leetcode.cn/problems/consecutive-available-seats)||Easy|
+| sql |602|Friend Requests II: Who Has the Most Friends|[:us:](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) [:cn:](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends)||Medium|
+| sql |601|Human Traffic of Stadium|[:us:](https://leetcode.com/problems/human-traffic-of-stadium) [:cn:](https://leetcode.cn/problems/human-traffic-of-stadium)||Hard|
+|:heavy_check_mark:|600|Non-negative Integers without Consecutive Ones|[:us:](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) [:cn:](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones)|[py](/0501-1000/0600.Non-negative%20Integers%20without%20Consecutive%20Ones.py)|Hard|
+|:heavy_check_mark:|599|Minimum Index Sum of Two Lists|[:us:](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [:cn:](https://leetcode.cn/problems/minimum-index-sum-of-two-lists)|[ts](/0501-1000/0599.Minimum%20Index%20Sum%20of%20Two%20Lists.ts)|Easy|
+|:heavy_check_mark:|598|Range Addition II|[:us:](https://leetcode.com/problems/range-addition-ii) [:cn:](https://leetcode.cn/problems/range-addition-ii)|[php](/0501-1000/0598.Range%20Addition%20II.php)|Easy|
+|:lock: sql |597|Friend Requests I: Overall Acceptance Rate|[:us:](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) [:cn:](https://leetcode.cn/problems/friend-requests-i-overall-acceptance-rate)||Easy|
+| sql |596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode.cn/problems/classes-more-than-5-students)||Easy|
+|:heavy_check_mark: sql |595|Big Countries|[:us:](https://leetcode.com/problems/big-countries) [:cn:](https://leetcode.cn/problems/big-countries)|[sql](/0501-1000/0595.Big%20Countries.sql)|Easy|
+|:heavy_check_mark:|594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence) [:cn:](https://leetcode.cn/problems/longest-harmonious-subsequence)|[ts](/0501-1000/0594.Longest%20Harmonious%20Subsequence.ts)|Easy|
+|:heavy_check_mark:|593|Valid Square|[:us:](https://leetcode.com/problems/valid-square) [:cn:](https://leetcode.cn/problems/valid-square)|[py](/0501-1000/0593.Valid%20Square.py)|Medium|
+||592|Fraction Addition and Subtraction|[:us:](https://leetcode.com/problems/fraction-addition-and-subtraction) [:cn:](https://leetcode.cn/problems/fraction-addition-and-subtraction)||Medium|
+|:heavy_check_mark:|591|Tag Validator|[:us:](https://leetcode.com/problems/tag-validator) [:cn:](https://leetcode.cn/problems/tag-validator)|[ts](/0501-1000/0591.Tag%20Validator.ts)|Hard|
+|:heavy_check_mark:|590|N-ary Tree Postorder Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-postorder-traversal) [:cn:](https://leetcode.cn/problems/n-ary-tree-postorder-traversal)|[py](/0501-1000/0590.N-ary%20Tree%20Postorder%20Traversal.py)|Easy|
+|:heavy_check_mark:|589|N-ary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-preorder-traversal) [:cn:](https://leetcode.cn/problems/n-ary-tree-preorder-traversal)|[js](/0501-1000/0589.N-ary%20Tree%20Preorder%20Traversal.js)|Easy|
+|:lock:|588|Design In-Memory File System|[:us:](https://leetcode.com/problems/design-in-memory-file-system) [:cn:](https://leetcode.cn/problems/design-in-memory-file-system)||Hard|
+|:heavy_check_mark:|587|Erect the Fence|[:us:](https://leetcode.com/problems/erect-the-fence) [:cn:](https://leetcode.cn/problems/erect-the-fence)|[py](/0501-1000/0587.Erect%20the%20Fence.py)|Hard|
+| sql |586|Customer Placing the Largest Number of Orders|[:us:](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) [:cn:](https://leetcode.cn/problems/customer-placing-the-largest-number-of-orders)||Easy|
+| sql |585|Investments in 2016|[:us:](https://leetcode.com/problems/investments-in-2016) [:cn:](https://leetcode.cn/problems/investments-in-2016)||Medium|
+| sql |584|Find Customer Referee|[:us:](https://leetcode.com/problems/find-customer-referee) [:cn:](https://leetcode.cn/problems/find-customer-referee)||Easy|
+|:heavy_check_mark:|583|Delete Operation for Two Strings|[:us:](https://leetcode.com/problems/delete-operation-for-two-strings) [:cn:](https://leetcode.cn/problems/delete-operation-for-two-strings)|[java](/0501-1000/0583.Delete%20Operation%20for%20Two%20Strings.java)|Medium|
+|:lock:|582|Kill Process|[:us:](https://leetcode.com/problems/kill-process) [:cn:](https://leetcode.cn/problems/kill-process)||Medium|
+|:heavy_check_mark:|581|Shortest Unsorted Continuous Subarray|[:us:](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [:cn:](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray)|[py](/0501-1000/0581.Shortest%20Unsorted%20Continuous%20Subarray.py)|Medium|
+|:lock: sql |580|Count Student Number in Departments|[:us:](https://leetcode.com/problems/count-student-number-in-departments) [:cn:](https://leetcode.cn/problems/count-student-number-in-departments)||Medium|
+|:lock: sql |579|Find Cumulative Salary of an Employee|[:us:](https://leetcode.com/problems/find-cumulative-salary-of-an-employee) [:cn:](https://leetcode.cn/problems/find-cumulative-salary-of-an-employee)||Hard|
+|:lock: sql |578|Get Highest Answer Rate Question|[:us:](https://leetcode.com/problems/get-highest-answer-rate-question) [:cn:](https://leetcode.cn/problems/get-highest-answer-rate-question)||Medium|
+| sql |577|Employee Bonus|[:us:](https://leetcode.com/problems/employee-bonus) [:cn:](https://leetcode.cn/problems/employee-bonus)||Easy|
+|:heavy_check_mark:|576|Out of Boundary Paths|[:us:](https://leetcode.com/problems/out-of-boundary-paths) [:cn:](https://leetcode.cn/problems/out-of-boundary-paths)|[py](/0501-1000/0576.Out%20of%20Boundary%20Paths.py)|Medium|
+|:heavy_check_mark:|575|Distribute Candies|[:us:](https://leetcode.com/problems/distribute-candies) [:cn:](https://leetcode.cn/problems/distribute-candies)|[ts](/0501-1000/0575.Distribute%20Candies.ts)|Easy|
+|:lock: sql |574|Winning Candidate|[:us:](https://leetcode.com/problems/winning-candidate) [:cn:](https://leetcode.cn/problems/winning-candidate)||Medium|
+|:lock:|573|Squirrel Simulation|[:us:](https://leetcode.com/problems/squirrel-simulation) [:cn:](https://leetcode.cn/problems/squirrel-simulation)||Medium|
+||572|Subtree of Another Tree|[:us:](https://leetcode.com/problems/subtree-of-another-tree) [:cn:](https://leetcode.cn/problems/subtree-of-another-tree)||Easy|
+|:lock: sql |571|Find Median Given Frequency of Numbers|[:us:](https://leetcode.com/problems/find-median-given-frequency-of-numbers) [:cn:](https://leetcode.cn/problems/find-median-given-frequency-of-numbers)||Hard|
+| sql |570|Managers with at Least 5 Direct Reports|[:us:](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) [:cn:](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports)||Medium|
+|:lock: sql |569|Median Employee Salary|[:us:](https://leetcode.com/problems/median-employee-salary) [:cn:](https://leetcode.cn/problems/median-employee-salary)||Hard|
+|:lock:|568|Maximum Vacation Days|[:us:](https://leetcode.com/problems/maximum-vacation-days) [:cn:](https://leetcode.cn/problems/maximum-vacation-days)||Hard|
+|:heavy_check_mark:|567|Permutation in String|[:us:](https://leetcode.com/problems/permutation-in-string) [:cn:](https://leetcode.cn/problems/permutation-in-string)|[py](/0501-1000/0567.Permutation%20in%20String.py), [rb](/0501-1000/0567.Permutation%20in%20String.rb)|Medium|
+|:heavy_check_mark:|566|Reshape the Matrix|[:us:](https://leetcode.com/problems/reshape-the-matrix) [:cn:](https://leetcode.cn/problems/reshape-the-matrix)|[py](/0501-1000/0566.Reshape%20the%20Matrix.py)|Easy|
+||565|Array Nesting|[:us:](https://leetcode.com/problems/array-nesting) [:cn:](https://leetcode.cn/problems/array-nesting)||Medium|
+|:heavy_check_mark:|564|Find the Closest Palindrome|[:us:](https://leetcode.com/problems/find-the-closest-palindrome) [:cn:](https://leetcode.cn/problems/find-the-closest-palindrome)|[py](/0501-1000/0564.Find%20the%20Closest%20Palindrome.py)|Hard|
+|:heavy_check_mark:|563|Binary Tree Tilt|[:us:](https://leetcode.com/problems/binary-tree-tilt) [:cn:](https://leetcode.cn/problems/binary-tree-tilt)|[py](/0501-1000/0563.Binary%20Tree%20Tilt.py)|Easy|
+|:lock:|562|Longest Line of Consecutive One in Matrix|[:us:](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix) [:cn:](https://leetcode.cn/problems/longest-line-of-consecutive-one-in-matrix)||Medium|
+|:heavy_check_mark:|561|Array Partition|[:us:](https://leetcode.com/problems/array-partition) [:cn:](https://leetcode.cn/problems/array-partition)|[rb](/0501-1000/0561.Array%20Partition.rb)|Easy|
+|:heavy_check_mark:|560|Subarray Sum Equals K|[:us:](https://leetcode.com/problems/subarray-sum-equals-k) [:cn:](https://leetcode.cn/problems/subarray-sum-equals-k)|[rb](/0501-1000/0560.Subarray%20Sum%20Equals%20K.rb)|Medium|
+|:heavy_check_mark:|559|Maximum Depth of N-ary Tree|[:us:](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) [:cn:](https://leetcode.cn/problems/maximum-depth-of-n-ary-tree)|[py](/0501-1000/0559.Maximum%20Depth%20of%20N-ary%20Tree.py)|Easy|
+||558|Logical OR of Two Binary Grids Represented as Quad-Trees|[:us:](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) [:cn:](https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)||Medium|
+|:heavy_check_mark:|557|Reverse Words in a String III|[:us:](https://leetcode.com/problems/reverse-words-in-a-string-iii) [:cn:](https://leetcode.cn/problems/reverse-words-in-a-string-iii)|[c](/0501-1000/0557.Reverse%20Words%20in%20a%20String%20III.c)|Easy|
+|:heavy_check_mark:|556|Next Greater Element III|[:us:](https://leetcode.com/problems/next-greater-element-iii) [:cn:](https://leetcode.cn/problems/next-greater-element-iii)|[py](/0501-1000/0556.Next%20Greater%20Element%20III.py)|Medium|
+|:lock:|555|Split Concatenated Strings|[:us:](https://leetcode.com/problems/split-concatenated-strings) [:cn:](https://leetcode.cn/problems/split-concatenated-strings)||Medium|
+|:heavy_check_mark:|554|Brick Wall|[:us:](https://leetcode.com/problems/brick-wall) [:cn:](https://leetcode.cn/problems/brick-wall)|[py](/0501-1000/0554.Brick%20Wall.py)|Medium|
+|:heavy_check_mark:|553|Optimal Division|[:us:](https://leetcode.com/problems/optimal-division) [:cn:](https://leetcode.cn/problems/optimal-division)|[py](/0501-1000/0553.Optimal%20Division.2.py), [py](/0501-1000/0553.Optimal%20Division.py)|Medium|
+|:heavy_check_mark:|552|Student Attendance Record II|[:us:](https://leetcode.com/problems/student-attendance-record-ii) [:cn:](https://leetcode.cn/problems/student-attendance-record-ii)|[py](/0501-1000/0552.Student%20Attendance%20Record%20II.py)|Hard|
+|:heavy_check_mark:|551|Student Attendance Record I|[:us:](https://leetcode.com/problems/student-attendance-record-i) [:cn:](https://leetcode.cn/problems/student-attendance-record-i)|[ts](/0501-1000/0551.Student%20Attendance%20Record%20I.ts)|Easy|
+| sql |550|Game Play Analysis IV|[:us:](https://leetcode.com/problems/game-play-analysis-iv) [:cn:](https://leetcode.cn/problems/game-play-analysis-iv)||Medium|
+|:lock:|549|Binary Tree Longest Consecutive Sequence II|[:us:](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii) [:cn:](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii)||Medium|
+|:lock:|548|Split Array with Equal Sum|[:us:](https://leetcode.com/problems/split-array-with-equal-sum) [:cn:](https://leetcode.cn/problems/split-array-with-equal-sum)||Hard|
+|:heavy_check_mark:|547|Number of Provinces|[:us:](https://leetcode.com/problems/number-of-provinces) [:cn:](https://leetcode.cn/problems/number-of-provinces)|[c](/0501-1000/0547.Number%20of%20Provinces.%28Friend%20Circles%29.c)|Medium|
+||546|Remove Boxes|[:us:](https://leetcode.com/problems/remove-boxes) [:cn:](https://leetcode.cn/problems/remove-boxes)||Hard|
+|:lock:|545|Boundary of Binary Tree|[:us:](https://leetcode.com/problems/boundary-of-binary-tree) [:cn:](https://leetcode.cn/problems/boundary-of-binary-tree)||Medium|
+|:lock:|544|Output Contest Matches|[:us:](https://leetcode.com/problems/output-contest-matches) [:cn:](https://leetcode.cn/problems/output-contest-matches)||Medium|
+|:heavy_check_mark:|543|Diameter of Binary Tree|[:us:](https://leetcode.com/problems/diameter-of-binary-tree) [:cn:](https://leetcode.cn/problems/diameter-of-binary-tree)|[rb](/0501-1000/0543.Diameter%20of%20Binary%20Tree.rb)|Easy|
+|:heavy_check_mark:|542|01 Matrix|[:us:](https://leetcode.com/problems/01-matrix) [:cn:](https://leetcode.cn/problems/01-matrix)|[py](/0501-1000/0542.01%20Matrix.py)|Medium|
+|:heavy_check_mark:|541|Reverse String II|[:us:](https://leetcode.com/problems/reverse-string-ii) [:cn:](https://leetcode.cn/problems/reverse-string-ii)|[py](/0501-1000/0541.Reverse%20String%20II.py)|Easy|
+|:heavy_check_mark:|540|Single Element in a Sorted Array|[:us:](https://leetcode.com/problems/single-element-in-a-sorted-array) [:cn:](https://leetcode.cn/problems/single-element-in-a-sorted-array)|[js](/0501-1000/0540.Single%20Element%20in%20a%20Sorted%20Array.js)|Medium|
+|:heavy_check_mark:|539|Minimum Time Difference|[:us:](https://leetcode.com/problems/minimum-time-difference) [:cn:](https://leetcode.cn/problems/minimum-time-difference)|[ts](/0501-1000/0539.Minimum%20Time%20Difference.ts)|Medium|
+|:heavy_check_mark:|538|Convert BST to Greater Tree|[:us:](https://leetcode.com/problems/convert-bst-to-greater-tree) [:cn:](https://leetcode.cn/problems/convert-bst-to-greater-tree)|[py](/0501-1000/0538.Convert%20BST%20to%20Greater%20Tree.py)|Medium|
+|:heavy_check_mark:|537|Complex Number Multiplication|[:us:](https://leetcode.com/problems/complex-number-multiplication) [:cn:](https://leetcode.cn/problems/complex-number-multiplication)|[ts](/0501-1000/0537.Complex%20Number%20Multiplication.ts)|Medium|
+|:lock:|536|Construct Binary Tree from String|[:us:](https://leetcode.com/problems/construct-binary-tree-from-string) [:cn:](https://leetcode.cn/problems/construct-binary-tree-from-string)||Medium|
+|:heavy_check_mark:|535|Encode and Decode TinyURL|[:us:](https://leetcode.com/problems/encode-and-decode-tinyurl) [:cn:](https://leetcode.cn/problems/encode-and-decode-tinyurl)|[py](/0501-1000/0535.Encode%20and%20Decode%20TinyURL.py)|Medium|
+|:lock: sql |534|Game Play Analysis III|[:us:](https://leetcode.com/problems/game-play-analysis-iii) [:cn:](https://leetcode.cn/problems/game-play-analysis-iii)||Medium|
+|:lock:|533|Lonely Pixel II|[:us:](https://leetcode.com/problems/lonely-pixel-ii) [:cn:](https://leetcode.cn/problems/lonely-pixel-ii)||Medium|
+|:heavy_check_mark:|532|K-diff Pairs in an Array|[:us:](https://leetcode.com/problems/k-diff-pairs-in-an-array) [:cn:](https://leetcode.cn/problems/k-diff-pairs-in-an-array)|[py](/0501-1000/0532.K-diff%20Pairs%20in%20an%20Array.py)|Medium|
+|:lock:|531|Lonely Pixel I|[:us:](https://leetcode.com/problems/lonely-pixel-i) [:cn:](https://leetcode.cn/problems/lonely-pixel-i)||Medium|
+|:heavy_check_mark:|530|Minimum Absolute Difference in BST|[:us:](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [:cn:](https://leetcode.cn/problems/minimum-absolute-difference-in-bst)|[py](/0501-1000/0530.Minimum%20Absolute%20Difference%20in%20BST.py)|Easy|
+||529|Minesweeper|[:us:](https://leetcode.com/problems/minesweeper) [:cn:](https://leetcode.cn/problems/minesweeper)||Medium|
+|:heavy_check_mark:|528|Random Pick with Weight|[:us:](https://leetcode.com/problems/random-pick-with-weight) [:cn:](https://leetcode.cn/problems/random-pick-with-weight)|[rb](/0501-1000/0528.Random%20Pick%20with%20Weight.rb)|Medium|
+|:lock:|527|Word Abbreviation|[:us:](https://leetcode.com/problems/word-abbreviation) [:cn:](https://leetcode.cn/problems/word-abbreviation)||Hard|
+|:heavy_check_mark:|526|Beautiful Arrangement|[:us:](https://leetcode.com/problems/beautiful-arrangement) [:cn:](https://leetcode.cn/problems/beautiful-arrangement)|[py](/0501-1000/0526.Beautiful%20Arrangement.py)|Medium|
+|:heavy_check_mark:|525|Contiguous Array|[:us:](https://leetcode.com/problems/contiguous-array) [:cn:](https://leetcode.cn/problems/contiguous-array)|[py](/0501-1000/0525.Contiguous%20Array.py), [rb](/0501-1000/0525.Contiguous%20Array.2.rb), [rb](/0501-1000/0525.Contiguous%20Array.3.rb), [rb](/0501-1000/0525.Contiguous%20Array.rb)|Medium|
+|:heavy_check_mark:|524|Longest Word in Dictionary through Deleting|[:us:](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) [:cn:](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting)|[py](/0501-1000/0524.Longest%20Word%20in%20Dictionary%20through%20Deleting.py)|Medium|
+|:heavy_check_mark:|523|Continuous Subarray Sum|[:us:](https://leetcode.com/problems/continuous-subarray-sum) [:cn:](https://leetcode.cn/problems/continuous-subarray-sum)|[java](/0501-1000/0523.Continuous%20Subarray%20Sum.java)|Medium|
+||522|Longest Uncommon Subsequence II|[:us:](https://leetcode.com/problems/longest-uncommon-subsequence-ii) [:cn:](https://leetcode.cn/problems/longest-uncommon-subsequence-ii)||Medium|
+|:heavy_check_mark:|521|Longest Uncommon Subsequence I|[:us:](https://leetcode.com/problems/longest-uncommon-subsequence-i) [:cn:](https://leetcode.cn/problems/longest-uncommon-subsequence-i)|[java](/0501-1000/0521.Longest%20Uncommon%20Subsequence%20I.java)|Easy|
+|:heavy_check_mark:|520|Detect Capital|[:us:](https://leetcode.com/problems/detect-capital) [:cn:](https://leetcode.cn/problems/detect-capital)|[c](/0501-1000/0520.Detect%20Capital.c)|Easy|
+|:heavy_check_mark:|519|Random Flip Matrix|[:us:](https://leetcode.com/problems/random-flip-matrix) [:cn:](https://leetcode.cn/problems/random-flip-matrix)|[py](/0501-1000/0519.Random%20Flip%20Matrix.py)|Medium|
+|:heavy_check_mark:|518|Coin Change II|[:us:](https://leetcode.com/problems/coin-change-ii) [:cn:](https://leetcode.cn/problems/coin-change-ii)|[java](/0501-1000/0518.Coin%20Change%20II.java)|Medium|
+|:heavy_check_mark:|517|Super Washing Machines|[:us:](https://leetcode.com/problems/super-washing-machines) [:cn:](https://leetcode.cn/problems/super-washing-machines)|[ts](/0501-1000/0517.Super%20Washing%20Machines.ts)|Hard|
+|:heavy_check_mark:|516|Longest Palindromic Subsequence|[:us:](https://leetcode.com/problems/longest-palindromic-subsequence) [:cn:](https://leetcode.cn/problems/longest-palindromic-subsequence)|[py](/0501-1000/0516.Longest%20Palindromic%20Subsequence.py)|Medium|
+||515|Find Largest Value in Each Tree Row|[:us:](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [:cn:](https://leetcode.cn/problems/find-largest-value-in-each-tree-row)||Medium|
+||514|Freedom Trail|[:us:](https://leetcode.com/problems/freedom-trail) [:cn:](https://leetcode.cn/problems/freedom-trail)||Hard|
+||513|Find Bottom Left Tree Value|[:us:](https://leetcode.com/problems/find-bottom-left-tree-value) [:cn:](https://leetcode.cn/problems/find-bottom-left-tree-value)||Medium|
+|:lock: sql |512|Game Play Analysis II|[:us:](https://leetcode.com/problems/game-play-analysis-ii) [:cn:](https://leetcode.cn/problems/game-play-analysis-ii)||Easy|
+| sql |511|Game Play Analysis I|[:us:](https://leetcode.com/problems/game-play-analysis-i) [:cn:](https://leetcode.cn/problems/game-play-analysis-i)||Easy|
+|:lock:|510|Inorder Successor in BST II|[:us:](https://leetcode.com/problems/inorder-successor-in-bst-ii) [:cn:](https://leetcode.cn/problems/inorder-successor-in-bst-ii)||Medium|
+|:heavy_check_mark:|509|Fibonacci Number|[:us:](https://leetcode.com/problems/fibonacci-number) [:cn:](https://leetcode.cn/problems/fibonacci-number)|[java](/0501-1000/0509.Fibonacci%20Number.java)|Easy|
+|:heavy_check_mark:|508|Most Frequent Subtree Sum|[:us:](https://leetcode.com/problems/most-frequent-subtree-sum) [:cn:](https://leetcode.cn/problems/most-frequent-subtree-sum)|[py](/0501-1000/0508.Most%20Frequent%20Subtree%20Sum.py)|Medium|
+|:heavy_check_mark:|507|Perfect Number|[:us:](https://leetcode.com/problems/perfect-number) [:cn:](https://leetcode.cn/problems/perfect-number)|[py](/0501-1000/0507.Perfect%20Number.py)|Easy|
+|:heavy_check_mark:|506|Relative Ranks|[:us:](https://leetcode.com/problems/relative-ranks) [:cn:](https://leetcode.cn/problems/relative-ranks)|[py](/0501-1000/0506.Relative%20Ranks.py)|Easy|
+|:lock:|505|The Maze II|[:us:](https://leetcode.com/problems/the-maze-ii) [:cn:](https://leetcode.cn/problems/the-maze-ii)||Medium|
+|:heavy_check_mark:|504|Base 7|[:us:](https://leetcode.com/problems/base-7) [:cn:](https://leetcode.cn/problems/base-7)|[ts](/0501-1000/0504.Base%207.ts)|Easy|
+|:heavy_check_mark:|503|Next Greater Element II|[:us:](https://leetcode.com/problems/next-greater-element-ii) [:cn:](https://leetcode.cn/problems/next-greater-element-ii)|[py](/0501-1000/0503.Next%20Greater%20Element%20II.py)|Medium|
+|:heavy_check_mark:|502|IPO|[:us:](https://leetcode.com/problems/ipo) [:cn:](https://leetcode.cn/problems/ipo)|[py](/0501-1000/0502.IPO.py)|Hard|
+||501|Find Mode in Binary Search Tree|[:us:](https://leetcode.com/problems/find-mode-in-binary-search-tree) [:cn:](https://leetcode.cn/problems/find-mode-in-binary-search-tree)||Easy|
+|:heavy_check_mark:|500|Keyboard Row|[:us:](https://leetcode.com/problems/keyboard-row) [:cn:](https://leetcode.cn/problems/keyboard-row)|[js](/0001-0500/0500.Keyboard%20Row.js), [py](/0001-0500/0500.Keyboard%20Row.2.py), [py](/0001-0500/0500.Keyboard%20Row.py)|Easy|
+|:lock:|499|The Maze III|[:us:](https://leetcode.com/problems/the-maze-iii) [:cn:](https://leetcode.cn/problems/the-maze-iii)||Hard|
+|:heavy_check_mark:|498|Diagonal Traverse|[:us:](https://leetcode.com/problems/diagonal-traverse) [:cn:](https://leetcode.cn/problems/diagonal-traverse)|[py](/0001-0500/0498.Diagonal%20Traverse.py)|Medium|
+|:heavy_check_mark:|497|Random Point in Non-overlapping Rectangles|[:us:](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles) [:cn:](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles)|[java](/0001-0500/0497.Random%20Point%20in%20Non-overlapping%20Rectangles.java)|Medium|
+|:heavy_check_mark:|496|Next Greater Element I|[:us:](https://leetcode.com/problems/next-greater-element-i) [:cn:](https://leetcode.cn/problems/next-greater-element-i)|[py](/0001-0500/0496.Next%20Greater%20Element%20I.py)|Easy|
+|:heavy_check_mark:|495|Teemo Attacking|[:us:](https://leetcode.com/problems/teemo-attacking) [:cn:](https://leetcode.cn/problems/teemo-attacking)|[py](/0001-0500/0495.Teemo%20Attacking.2.%28Floyd%20Warshall%29.py), [py](/0001-0500/0495.Teemo%20Attacking.py)|Easy|
+|:heavy_check_mark:|494|Target Sum|[:us:](https://leetcode.com/problems/target-sum) [:cn:](https://leetcode.cn/problems/target-sum)|[java](/0001-0500/0494.Target%20Sum.java)|Medium|
+||493|Reverse Pairs|[:us:](https://leetcode.com/problems/reverse-pairs) [:cn:](https://leetcode.cn/problems/reverse-pairs)||Hard|
+|:heavy_check_mark:|492|Construct the Rectangle|[:us:](https://leetcode.com/problems/construct-the-rectangle) [:cn:](https://leetcode.cn/problems/construct-the-rectangle)|[java](/0001-0500/0492.Construct%20the%20Rectangle.java)|Easy|
+||491|Non-decreasing Subsequences|[:us:](https://leetcode.com/problems/non-decreasing-subsequences) [:cn:](https://leetcode.cn/problems/non-decreasing-subsequences)||Medium|
+|:lock:|490|The Maze|[:us:](https://leetcode.com/problems/the-maze) [:cn:](https://leetcode.cn/problems/the-maze)||Medium|
+|:lock:|489|Robot Room Cleaner|[:us:](https://leetcode.com/problems/robot-room-cleaner) [:cn:](https://leetcode.cn/problems/robot-room-cleaner)||Hard|
+|:heavy_check_mark:|488|Zuma Game|[:us:](https://leetcode.com/problems/zuma-game) [:cn:](https://leetcode.cn/problems/zuma-game)|[py](/0001-0500/0488.Zuma%20Game.py)|Hard|
+|:lock:|487|Max Consecutive Ones II|[:us:](https://leetcode.com/problems/max-consecutive-ones-ii) [:cn:](https://leetcode.cn/problems/max-consecutive-ones-ii)||Medium|
+|:heavy_check_mark:|486|Predict the Winner|[:us:](https://leetcode.com/problems/predict-the-winner) [:cn:](https://leetcode.cn/problems/predict-the-winner)|[java](/0001-0500/0486.Predict%20the%20Winner.java)|Medium|
+|:heavy_check_mark:|485|Max Consecutive Ones|[:us:](https://leetcode.com/problems/max-consecutive-ones) [:cn:](https://leetcode.cn/problems/max-consecutive-ones)|[py](/0001-0500/0485.Max%20Consecutive%20Ones.py)|Easy|
+|:lock:|484|Find Permutation|[:us:](https://leetcode.com/problems/find-permutation) [:cn:](https://leetcode.cn/problems/find-permutation)||Medium|
+|:heavy_check_mark:|483|Smallest Good Base|[:us:](https://leetcode.com/problems/smallest-good-base) [:cn:](https://leetcode.cn/problems/smallest-good-base)|[py](/0001-0500/0483.Smallest%20Good%20Base.py)|Hard|
+|:heavy_check_mark:|482|License Key Formatting|[:us:](https://leetcode.com/problems/license-key-formatting) [:cn:](https://leetcode.cn/problems/license-key-formatting)|[py](/0001-0500/0482.License%20Key%20Formatting.py)|Easy|
+||481|Magical String|[:us:](https://leetcode.com/problems/magical-string) [:cn:](https://leetcode.cn/problems/magical-string)||Medium|
+|:heavy_check_mark:|480|Sliding Window Median|[:us:](https://leetcode.com/problems/sliding-window-median) [:cn:](https://leetcode.cn/problems/sliding-window-median)|[py](/0001-0500/0480.Sliding%20Window%20Median.py)|Hard|
+||479|Largest Palindrome Product|[:us:](https://leetcode.com/problems/largest-palindrome-product) [:cn:](https://leetcode.cn/problems/largest-palindrome-product)||Hard|
+||478|Generate Random Point in a Circle|[:us:](https://leetcode.com/problems/generate-random-point-in-a-circle) [:cn:](https://leetcode.cn/problems/generate-random-point-in-a-circle)||Medium|
+|:heavy_check_mark:|477|Total Hamming Distance|[:us:](https://leetcode.com/problems/total-hamming-distance) [:cn:](https://leetcode.cn/problems/total-hamming-distance)|[cpp](/0001-0500/0477.Total%20Hamming%20Distance.cpp), [py](/0001-0500/0477.Total%20Hamming%20Distance.py)|Medium|
+|:heavy_check_mark:|476|Number Complement|[:us:](https://leetcode.com/problems/number-complement) [:cn:](https://leetcode.cn/problems/number-complement)|[rb](/0001-0500/0476.Number%20Complement.rb)|Easy|
+|:heavy_check_mark:|475|Heaters|[:us:](https://leetcode.com/problems/heaters) [:cn:](https://leetcode.cn/problems/heaters)|[ts](/0001-0500/0475.Heaters.ts)|Medium|
+|:heavy_check_mark:|474|Ones and Zeroes|[:us:](https://leetcode.com/problems/ones-and-zeroes) [:cn:](https://leetcode.cn/problems/ones-and-zeroes)|[py](/0001-0500/0474.Ones%20and%20Zeroes.py)|Medium|
+||473|Matchsticks to Square|[:us:](https://leetcode.com/problems/matchsticks-to-square) [:cn:](https://leetcode.cn/problems/matchsticks-to-square)||Medium|
+|:heavy_check_mark:|472|Concatenated Words|[:us:](https://leetcode.com/problems/concatenated-words) [:cn:](https://leetcode.cn/problems/concatenated-words)|[py](/0001-0500/0472.Concatenated%20Words.2.py), [py](/0001-0500/0472.Concatenated%20Words.py)|Hard|
+|:lock:|471|Encode String with Shortest Length|[:us:](https://leetcode.com/problems/encode-string-with-shortest-length) [:cn:](https://leetcode.cn/problems/encode-string-with-shortest-length)||Hard|
+|:heavy_check_mark:|470|Implement Rand10() Using Rand7()|[:us:](https://leetcode.com/problems/implement-rand10-using-rand7) [:cn:](https://leetcode.cn/problems/implement-rand10-using-rand7)|[c](/0001-0500/0470.Implement%20Rand10%28%29%20Using%20Rand7%28%29.c)|Medium|
+|:lock:|469|Convex Polygon|[:us:](https://leetcode.com/problems/convex-polygon) [:cn:](https://leetcode.cn/problems/convex-polygon)||Medium|
+|:heavy_check_mark:|468|Validate IP Address|[:us:](https://leetcode.com/problems/validate-ip-address) [:cn:](https://leetcode.cn/problems/validate-ip-address)|[rb](/0001-0500/0468.Validate%20IP%20Address.rb)|Medium|
+||467|Unique Substrings in Wraparound String|[:us:](https://leetcode.com/problems/unique-substrings-in-wraparound-string) [:cn:](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)||Medium|
+||466|Count The Repetitions|[:us:](https://leetcode.com/problems/count-the-repetitions) [:cn:](https://leetcode.cn/problems/count-the-repetitions)||Hard|
+|:lock:|465|Optimal Account Balancing|[:us:](https://leetcode.com/problems/optimal-account-balancing) [:cn:](https://leetcode.cn/problems/optimal-account-balancing)||Hard|
+||464|Can I Win|[:us:](https://leetcode.com/problems/can-i-win) [:cn:](https://leetcode.cn/problems/can-i-win)||Medium|
+|:heavy_check_mark:|463|Island Perimeter|[:us:](https://leetcode.com/problems/island-perimeter) [:cn:](https://leetcode.cn/problems/island-perimeter)|[cpp](/0001-0500/0463.Island%20Perimeter.cpp), [py](/0001-0500/0463.Island%20Perimeter.py), [rb](/0001-0500/0463.Island%20Perimeter.rb)|Easy|
+|:heavy_check_mark:|462|Minimum Moves to Equal Array Elements II|[:us:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) [:cn:](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii)|[c](/0001-0500/0462.Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.c)|Medium|
+|:heavy_check_mark:|461|Hamming Distance|[:us:](https://leetcode.com/problems/hamming-distance) [:cn:](https://leetcode.cn/problems/hamming-distance)|[cpp](/0001-0500/0461.Hamming%20Distance.cpp)|Easy|
+||460|LFU Cache|[:us:](https://leetcode.com/problems/lfu-cache) [:cn:](https://leetcode.cn/problems/lfu-cache)||Hard|
+|:heavy_check_mark:|459|Repeated Substring Pattern|[:us:](https://leetcode.com/problems/repeated-substring-pattern) [:cn:](https://leetcode.cn/problems/repeated-substring-pattern)|[py](/0001-0500/0459.Repeated%20Substring%20Pattern.py)|Easy|
+|:heavy_check_mark:|458|Poor Pigs|[:us:](https://leetcode.com/problems/poor-pigs) [:cn:](https://leetcode.cn/problems/poor-pigs)|[cpp](/0001-0500/0458.Poor%20Pigs.cpp), [java](/0001-0500/0458.Poor%20Pigs.java)|Hard|
+|:heavy_check_mark:|457|Circular Array Loop|[:us:](https://leetcode.com/problems/circular-array-loop) [:cn:](https://leetcode.cn/problems/circular-array-loop)|[py](/0001-0500/0457.Circular%20Array%20Loop.py)|Medium|
+|:heavy_check_mark:|456|132 Pattern|[:us:](https://leetcode.com/problems/132-pattern) [:cn:](https://leetcode.cn/problems/132-pattern)|[py](/0001-0500/0456.132%20Pattern.py)|Medium|
+|:heavy_check_mark:|455|Assign Cookies|[:us:](https://leetcode.com/problems/assign-cookies) [:cn:](https://leetcode.cn/problems/assign-cookies)|[cpp](/0001-0500/0455.Assign%20Cookies.cpp)|Easy|
+||454|4Sum II|[:us:](https://leetcode.com/problems/4sum-ii) [:cn:](https://leetcode.cn/problems/4sum-ii)||Medium|
+|:heavy_check_mark:|453|Minimum Moves to Equal Array Elements|[:us:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) [:cn:](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements)|[cpp](/0001-0500/0453.Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp)|Medium|
+|:heavy_check_mark:|452|Minimum Number of Arrows to Burst Balloons|[:us:](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) [:cn:](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons)|[py](/0001-0500/0452.Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)|Medium|
+|:heavy_check_mark:|451|Sort Characters By Frequency|[:us:](https://leetcode.com/problems/sort-characters-by-frequency) [:cn:](https://leetcode.cn/problems/sort-characters-by-frequency)|[rb](/0001-0500/0451.Sort%20Characters%20By%20Frequency.rb)|Medium|
+|:heavy_check_mark:|450|Delete Node in a BST|[:us:](https://leetcode.com/problems/delete-node-in-a-bst) [:cn:](https://leetcode.cn/problems/delete-node-in-a-bst)|[py](/0001-0500/0450.Delete%20Node%20in%20a%20BST.py)|Medium|
+|:heavy_check_mark:|449|Serialize and Deserialize BST|[:us:](https://leetcode.com/problems/serialize-and-deserialize-bst) [:cn:](https://leetcode.cn/problems/serialize-and-deserialize-bst)|[py](/0001-0500/0449.Serialize%20and%20Deserialize%20BST.py)|Medium|
+|:heavy_check_mark:|448|Find All Numbers Disappeared in an Array|[:us:](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) [:cn:](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array)|[rb](/0001-0500/0448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.rb)|Easy|
+|:heavy_check_mark:|447|Number of Boomerangs|[:us:](https://leetcode.com/problems/number-of-boomerangs) [:cn:](https://leetcode.cn/problems/number-of-boomerangs)|[cpp](/0001-0500/0447.Number%20of%20Boomerangs.cpp)|Medium|
+|:heavy_check_mark:|446|Arithmetic Slices II - Subsequence|[:us:](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) [:cn:](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence)|[py](/0001-0500/0446.Arithmetic%20Slices%20II%20-%20Subsequence.py)|Hard|
+|:heavy_check_mark:|445|Add Two Numbers II|[:us:](https://leetcode.com/problems/add-two-numbers-ii) [:cn:](https://leetcode.cn/problems/add-two-numbers-ii)|[py](/0001-0500/0445.Add%20Two%20Numbers%20II.py)|Medium|
+|:lock:|444|Sequence Reconstruction|[:us:](https://leetcode.com/problems/sequence-reconstruction) [:cn:](https://leetcode.cn/problems/sequence-reconstruction)||Medium|
+|:heavy_check_mark:|443|String Compression|[:us:](https://leetcode.com/problems/string-compression) [:cn:](https://leetcode.cn/problems/string-compression)|[c](/0001-0500/0443.String%20Compression.c)|Medium|
+|:heavy_check_mark:|442|Find All Duplicates in an Array|[:us:](https://leetcode.com/problems/find-all-duplicates-in-an-array) [:cn:](https://leetcode.cn/problems/find-all-duplicates-in-an-array)|[py](/0001-0500/0442.Find%20All%20Duplicates%20in%20an%20Array.2.py), [py](/0001-0500/0442.Find%20All%20Duplicates%20in%20an%20Array.py)|Medium|
+|:heavy_check_mark:|441|Arranging Coins|[:us:](https://leetcode.com/problems/arranging-coins) [:cn:](https://leetcode.cn/problems/arranging-coins)|[cpp](/0001-0500/0441.Arranging%20Coins.cpp), [rb](/0001-0500/0441.Arranging%20Coins.rb)|Easy|
+|:question:|440|K-th Smallest in Lexicographical Order|[:us:](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) [:cn:](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order)||Hard|
+|:lock:|439|Ternary Expression Parser|[:us:](https://leetcode.com/problems/ternary-expression-parser) [:cn:](https://leetcode.cn/problems/ternary-expression-parser)||Medium|
+|:heavy_check_mark:|438|Find All Anagrams in a String|[:us:](https://leetcode.com/problems/find-all-anagrams-in-a-string) [:cn:](https://leetcode.cn/problems/find-all-anagrams-in-a-string)|[rb](/0001-0500/0438.Find%20All%20Anagrams%20in%20a%20String.rb)|Medium|
+|:heavy_check_mark:|437|Path Sum III|[:us:](https://leetcode.com/problems/path-sum-iii) [:cn:](https://leetcode.cn/problems/path-sum-iii)|[py](/0001-0500/0437.Path%20Sum%20III.py)|Medium|
+|:heavy_check_mark:|436|Find Right Interval|[:us:](https://leetcode.com/problems/find-right-interval) [:cn:](https://leetcode.cn/problems/find-right-interval)|[py](/0001-0500/0436.Find%20Right%20Interval.py)|Medium|
+|:heavy_check_mark:|435|Non-overlapping Intervals|[:us:](https://leetcode.com/problems/non-overlapping-intervals) [:cn:](https://leetcode.cn/problems/non-overlapping-intervals)|[py](/0001-0500/0435.Non-overlapping%20Intervals.py)|Medium|
+|:heavy_check_mark:|434|Number of Segments in a String|[:us:](https://leetcode.com/problems/number-of-segments-in-a-string) [:cn:](https://leetcode.cn/problems/number-of-segments-in-a-string)|[ts](/0001-0500/0434.Number%20of%20Segments%20in%20a%20String.ts)|Easy|
+|:heavy_check_mark:|433|Minimum Genetic Mutation|[:us:](https://leetcode.com/problems/minimum-genetic-mutation) [:cn:](https://leetcode.cn/problems/minimum-genetic-mutation)|[java](/0001-0500/0433.Minimum%20Genetic%20Mutation.1.%28Hash%29.java), [java](/0001-0500/0433.Minimum%20Genetic%20Mutation.2.%28Queue%29.java)|Medium|
+|:heavy_check_mark:|432|All O`one Data Structure|[:us:](https://leetcode.com/problems/all-oone-data-structure) [:cn:](https://leetcode.cn/problems/all-oone-data-structure)|[java](/0001-0500/0432.All%20O%60one%20Data%20Structure.java)|Hard|
+|:lock:|431|Encode N-ary Tree to Binary Tree|[:us:](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree) [:cn:](https://leetcode.cn/problems/encode-n-ary-tree-to-binary-tree)||Hard|
+|:heavy_check_mark:|430|Flatten a Multilevel Doubly Linked List|[:us:](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) [:cn:](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list)|[java](/0001-0500/0430.Flatten%20a%20Multilevel%20Doubly%20Linked%20List.java)|Medium|
+|:heavy_check_mark:|429|N-ary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/n-ary-tree-level-order-traversal) [:cn:](https://leetcode.cn/problems/n-ary-tree-level-order-traversal)|[ts](/0001-0500/0429.N-ary%20Tree%20Level%20Order%20Traversal.ts)|Medium|
+|:lock:|428|Serialize and Deserialize N-ary Tree|[:us:](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree) [:cn:](https://leetcode.cn/problems/serialize-and-deserialize-n-ary-tree)||Hard|
+|:heavy_check_mark:|427|Construct Quad Tree|[:us:](https://leetcode.com/problems/construct-quad-tree) [:cn:](https://leetcode.cn/problems/construct-quad-tree)|[ts](/0001-0500/0427.Construct%20Quad%20Tree.ts)|Medium|
+|:lock:|426|Convert Binary Search Tree to Sorted Doubly Linked List|[:us:](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) [:cn:](https://leetcode.cn/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)||Medium|
+|:lock:|425|Word Squares|[:us:](https://leetcode.com/problems/word-squares) [:cn:](https://leetcode.cn/problems/word-squares)||Hard|
+|:heavy_check_mark:|424|Longest Repeating Character Replacement|[:us:](https://leetcode.com/problems/longest-repeating-character-replacement) [:cn:](https://leetcode.cn/problems/longest-repeating-character-replacement)|[py](/0001-0500/0424.Longest%20Repeating%20Character%20Replacement.py)|Medium|
+|:heavy_check_mark:|423|Reconstruct Original Digits from English|[:us:](https://leetcode.com/problems/reconstruct-original-digits-from-english) [:cn:](https://leetcode.cn/problems/reconstruct-original-digits-from-english)|[ts](/0001-0500/0423.Reconstruct%20Original%20Digits%20from%20English.ts)|Medium|
+|:lock:|422|Valid Word Square|[:us:](https://leetcode.com/problems/valid-word-square) [:cn:](https://leetcode.cn/problems/valid-word-square)||Easy|
+|:heavy_check_mark:|421|Maximum XOR of Two Numbers in an Array|[:us:](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [:cn:](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array)|[py](/0001-0500/0421.Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.py)|Medium|
+||420|Strong Password Checker|[:us:](https://leetcode.com/problems/strong-password-checker) [:cn:](https://leetcode.cn/problems/strong-password-checker)||Hard|
+|:heavy_check_mark:|419|Battleships in a Board|[:us:](https://leetcode.com/problems/battleships-in-a-board) [:cn:](https://leetcode.cn/problems/battleships-in-a-board)|[java](/0001-0500/0419.Battleships%20in%20a%20Board.java)|Medium|
+|:lock:|418|Sentence Screen Fitting|[:us:](https://leetcode.com/problems/sentence-screen-fitting) [:cn:](https://leetcode.cn/problems/sentence-screen-fitting)||Medium|
+|:heavy_check_mark:|417|Pacific Atlantic Water Flow|[:us:](https://leetcode.com/problems/pacific-atlantic-water-flow) [:cn:](https://leetcode.cn/problems/pacific-atlantic-water-flow)|[py](/0001-0500/0417.Pacific%20Atlantic%20Water%20Flow.py)|Medium|
+|:heavy_check_mark:|416|Partition Equal Subset Sum|[:us:](https://leetcode.com/problems/partition-equal-subset-sum) [:cn:](https://leetcode.cn/problems/partition-equal-subset-sum)|[py](/0001-0500/0416.Partition%20Equal%20Subset%20Sum.py)|Medium|
+|:heavy_check_mark:|415|Add Strings|[:us:](https://leetcode.com/problems/add-strings) [:cn:](https://leetcode.cn/problems/add-strings)|[cpp](/0001-0500/0415.Add%20Strings.cpp)|Easy|
+|:heavy_check_mark:|414|Third Maximum Number|[:us:](https://leetcode.com/problems/third-maximum-number) [:cn:](https://leetcode.cn/problems/third-maximum-number)|[cpp](/0001-0500/0414.Third%20Maximum%20Number.cpp)|Easy|
+|:heavy_check_mark:|413|Arithmetic Slices|[:us:](https://leetcode.com/problems/arithmetic-slices) [:cn:](https://leetcode.cn/problems/arithmetic-slices)|[py](/0001-0500/0413.Arithmetic%20Slices.py)|Medium|
+|:heavy_check_mark:|412|Fizz Buzz|[:us:](https://leetcode.com/problems/fizz-buzz) [:cn:](https://leetcode.cn/problems/fizz-buzz)|[java](/0001-0500/0412.Fizz%20Buzz.java), [py](/0001-0500/0412.Fizz%20Buzz.py)|Easy|
+|:lock:|411|Minimum Unique Word Abbreviation|[:us:](https://leetcode.com/problems/minimum-unique-word-abbreviation) [:cn:](https://leetcode.cn/problems/minimum-unique-word-abbreviation)||Hard|
+|:heavy_check_mark:|410|Split Array Largest Sum|[:us:](https://leetcode.com/problems/split-array-largest-sum) [:cn:](https://leetcode.cn/problems/split-array-largest-sum)|[py](/0001-0500/0410.Split%20Array%20Largest%20Sum.py)|Hard|
+|:heavy_check_mark:|409|Longest Palindrome|[:us:](https://leetcode.com/problems/longest-palindrome) [:cn:](https://leetcode.cn/problems/longest-palindrome)|[cpp](/0001-0500/0409.Longest%20Palindrome.cpp)|Easy|
+|:lock:|408|Valid Word Abbreviation|[:us:](https://leetcode.com/problems/valid-word-abbreviation) [:cn:](https://leetcode.cn/problems/valid-word-abbreviation)||Easy|
+|:heavy_check_mark:|407|Trapping Rain Water II|[:us:](https://leetcode.com/problems/trapping-rain-water-ii) [:cn:](https://leetcode.cn/problems/trapping-rain-water-ii)|[py](/0001-0500/0407.Trapping%20Rain%20Water%20II.py)|Hard|
+|:heavy_check_mark:|406|Queue Reconstruction by Height|[:us:](https://leetcode.com/problems/queue-reconstruction-by-height) [:cn:](https://leetcode.cn/problems/queue-reconstruction-by-height)|[py](/0001-0500/0406.Queue%20Reconstruction%20by%20Height.py), [rb](/0001-0500/0406.Queue%20Reconstruction%20by%20Height.rb)|Medium|
+|:heavy_check_mark:|405|Convert a Number to Hexadecimal|[:us:](https://leetcode.com/problems/convert-a-number-to-hexadecimal) [:cn:](https://leetcode.cn/problems/convert-a-number-to-hexadecimal)|[c](/0001-0500/0405.Convert%20a%20Number%20to%20Hexadecimal.c)|Easy|
+|:heavy_check_mark:|404|Sum of Left Leaves|[:us:](https://leetcode.com/problems/sum-of-left-leaves) [:cn:](https://leetcode.cn/problems/sum-of-left-leaves)|[cpp](/0001-0500/0404.Sum%20of%20Left%20Leaves.cpp)|Easy|
+|:heavy_check_mark:|403|Frog Jump|[:us:](https://leetcode.com/problems/frog-jump) [:cn:](https://leetcode.cn/problems/frog-jump)|[py](/0001-0500/0403.Frog%20Jump.py)|Hard|
+|:heavy_check_mark:|402|Remove K Digits|[:us:](https://leetcode.com/problems/remove-k-digits) [:cn:](https://leetcode.cn/problems/remove-k-digits)|[java](/0001-0500/0402.Remove%20K%20Digits.java), [js](/0001-0500/0402.Remove%20K%20Digits.js), [py](/0001-0500/0402.Remove%20K%20Digits.py)|Medium|
+|:heavy_check_mark:|401|Binary Watch|[:us:](https://leetcode.com/problems/binary-watch) [:cn:](https://leetcode.cn/problems/binary-watch)|[py](/0001-0500/0401.Binary%20Watch.py)|Easy|
+|:heavy_check_mark:|400|Nth Digit|[:us:](https://leetcode.com/problems/nth-digit) [:cn:](https://leetcode.cn/problems/nth-digit)|[ts](/0001-0500/0400.Nth%20Digit.ts)|Medium|
+|:heavy_check_mark:|399|Evaluate Division|[:us:](https://leetcode.com/problems/evaluate-division) [:cn:](https://leetcode.cn/problems/evaluate-division)|[py](/0001-0500/0399.Evaluate%20Division.py)|Medium|
+|:heavy_check_mark:|398|Random Pick Index|[:us:](https://leetcode.com/problems/random-pick-index) [:cn:](https://leetcode.cn/problems/random-pick-index)|[java](/0001-0500/0398.Random%20Pick%20Index.java)|Medium|
+|:heavy_check_mark:|397|Integer Replacement|[:us:](https://leetcode.com/problems/integer-replacement) [:cn:](https://leetcode.cn/problems/integer-replacement)|[cpp](/0001-0500/0397.Integer%20Replacement.cpp)|Medium|
+|:heavy_check_mark:|396|Rotate Function|[:us:](https://leetcode.com/problems/rotate-function) [:cn:](https://leetcode.cn/problems/rotate-function)|[c](/0001-0500/0396.Rotate%20Function.c)|Medium|
+|:heavy_check_mark:|395|Longest Substring with At Least K Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) [:cn:](https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters)|[py](/0001-0500/0395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.py)|Medium|
+|:heavy_check_mark:|394|Decode String|[:us:](https://leetcode.com/problems/decode-string) [:cn:](https://leetcode.cn/problems/decode-string)|[java](/0001-0500/0394.Decode%20String.java)|Medium|
+|:heavy_check_mark:|393|UTF-8 Validation|[:us:](https://leetcode.com/problems/utf-8-validation) [:cn:](https://leetcode.cn/problems/utf-8-validation)|[py](/0001-0500/0393.UTF-8%20Validation.py)|Medium|
+|:heavy_check_mark:|392|Is Subsequence|[:us:](https://leetcode.com/problems/is-subsequence) [:cn:](https://leetcode.cn/problems/is-subsequence)|[py](/0001-0500/0392.Is%20Subsequence.py), [rb](/0001-0500/0392.Is%20Subsequence.rb)|Easy|
+|:heavy_check_mark::star:|391|Perfect Rectangle|[:us:](https://leetcode.com/problems/perfect-rectangle) [:cn:](https://leetcode.cn/problems/perfect-rectangle)|[ts](/0001-0500/0391.Perfect%20Rectangle.ts)|Hard|
+|:heavy_check_mark:|390|Elimination Game|[:us:](https://leetcode.com/problems/elimination-game) [:cn:](https://leetcode.cn/problems/elimination-game)|[py](/0001-0500/0390.Elimination%20Game.py)|Medium|
+|:heavy_check_mark:|389|Find the Difference|[:us:](https://leetcode.com/problems/find-the-difference) [:cn:](https://leetcode.cn/problems/find-the-difference)|[cpp](/0001-0500/0389.Find%20the%20Difference.cpp), [py](/0001-0500/0389.Find%20the%20Difference.py)|Easy|
+|:heavy_check_mark:|388|Longest Absolute File Path|[:us:](https://leetcode.com/problems/longest-absolute-file-path) [:cn:](https://leetcode.cn/problems/longest-absolute-file-path)|[java](/0001-0500/0388.Longest%20Absolute%20File%20Path.java)|Medium|
+|:heavy_check_mark:|387|First Unique Character in a String|[:us:](https://leetcode.com/problems/first-unique-character-in-a-string) [:cn:](https://leetcode.cn/problems/first-unique-character-in-a-string)|[py](/0001-0500/0387.First%20Unique%20Character%20in%20a%20String.py), [rb](/0001-0500/0387.First%20Unique%20Character%20in%20a%20String.rb)|Easy|
+|:heavy_check_mark:|386|Lexicographical Numbers|[:us:](https://leetcode.com/problems/lexicographical-numbers) [:cn:](https://leetcode.cn/problems/lexicographical-numbers)|[ts](/0001-0500/0386.Lexicographical%20Numbers.ts)|Medium|
+|:heavy_check_mark:|385|Mini Parser|[:us:](https://leetcode.com/problems/mini-parser) [:cn:](https://leetcode.cn/problems/mini-parser)|[ts](/0001-0500/0385.Mini%20Parser.ts)|Medium|
+|:heavy_check_mark:|384|Shuffle an Array|[:us:](https://leetcode.com/problems/shuffle-an-array) [:cn:](https://leetcode.cn/problems/shuffle-an-array)|[java](/0001-0500/0384.Shuffle%20an%20Array.java)|Medium|
+|:heavy_check_mark:|383|Ransom Note|[:us:](https://leetcode.com/problems/ransom-note) [:cn:](https://leetcode.cn/problems/ransom-note)|[c](/0001-0500/0383.Ransom%20Note.2.c), [c](/0001-0500/0383.Ransom%20Note.c), [rb](/0001-0500/0383.Ransom%20Note.rb)|Easy|
+|:heavy_check_mark:|382|Linked List Random Node|[:us:](https://leetcode.com/problems/linked-list-random-node) [:cn:](https://leetcode.cn/problems/linked-list-random-node)|[ts](/0001-0500/0382.Linked%20List%20Random%20Node.ts)|Medium|
+|:heavy_check_mark:|381|Insert Delete GetRandom O(1) - Duplicates allowed|[:us:](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) [:cn:](https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed)|[py](/0001-0500/0381.Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed.py), [rb](/0001-0500/0381.Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed.rb)|Hard|
+|:heavy_check_mark:|380|Insert Delete GetRandom O(1)|[:us:](https://leetcode.com/problems/insert-delete-getrandom-o1) [:cn:](https://leetcode.cn/problems/insert-delete-getrandom-o1)|[rb](/0001-0500/0380.Insert%20Delete%20GetRandom%20O%281%29.rb)|Medium|
+|:lock:|379|Design Phone Directory|[:us:](https://leetcode.com/problems/design-phone-directory) [:cn:](https://leetcode.cn/problems/design-phone-directory)||Medium|
+|:heavy_check_mark:|378|Kth Smallest Element in a Sorted Matrix|[:us:](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) [:cn:](https://leetcode.cn/problems/kth-smallest-element-in-a-sorted-matrix)|[java](/0001-0500/0378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)|Medium|
+|:heavy_check_mark:|377|Combination Sum IV|[:us:](https://leetcode.com/problems/combination-sum-iv) [:cn:](https://leetcode.cn/problems/combination-sum-iv)|[java](/0001-0500/0377.Combination%20Sum%20IV.java)|Medium|
+|:heavy_check_mark:|376|Wiggle Subsequence|[:us:](https://leetcode.com/problems/wiggle-subsequence) [:cn:](https://leetcode.cn/problems/wiggle-subsequence)|[java](/0001-0500/0376.Wiggle%20Subsequence.java)|Medium|
+|:heavy_check_mark:|375|Guess Number Higher or Lower II|[:us:](https://leetcode.com/problems/guess-number-higher-or-lower-ii) [:cn:](https://leetcode.cn/problems/guess-number-higher-or-lower-ii)|[java](/0001-0500/0375.Guess%20Number%20Higher%20or%20Lower%20II.java)|Medium|
+|:heavy_check_mark:|374|Guess Number Higher or Lower|[:us:](https://leetcode.com/problems/guess-number-higher-or-lower) [:cn:](https://leetcode.cn/problems/guess-number-higher-or-lower)|[cpp](/0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.cpp), [py](/0001-0500/0374.Guess%20Number%20Higher%20or%20Lower.py)|Easy|
+|:heavy_check_mark:|373|Find K Pairs with Smallest Sums|[:us:](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) [:cn:](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums)|[java](/0001-0500/0373.Find%20K%20Pairs%20with%20Smallest%20Sums.java)|Medium|
+|:heavy_check_mark:|372|Super Pow|[:us:](https://leetcode.com/problems/super-pow) [:cn:](https://leetcode.cn/problems/super-pow)|[ts](/0001-0500/0372.Super%20Pow.ts)|Medium|
+|:heavy_check_mark:|371|Sum of Two Integers|[:us:](https://leetcode.com/problems/sum-of-two-integers) [:cn:](https://leetcode.cn/problems/sum-of-two-integers)|[c](/0001-0500/0371.Sum%20of%20Two%20Integers.c)|Medium|
+|:lock:|370|Range Addition|[:us:](https://leetcode.com/problems/range-addition) [:cn:](https://leetcode.cn/problems/range-addition)||Medium|
+|:lock:|369|Plus One Linked List|[:us:](https://leetcode.com/problems/plus-one-linked-list) [:cn:](https://leetcode.cn/problems/plus-one-linked-list)||Medium|
+|:heavy_check_mark:|368|Largest Divisible Subset|[:us:](https://leetcode.com/problems/largest-divisible-subset) [:cn:](https://leetcode.cn/problems/largest-divisible-subset)|[py](/0001-0500/0368.Largest%20Divisible%20Subset.py), [rb](/0001-0500/0368.Largest%20Divisible%20Subset.rb)|Medium|
+|:heavy_check_mark:|367|Valid Perfect Square|[:us:](https://leetcode.com/problems/valid-perfect-square) [:cn:](https://leetcode.cn/problems/valid-perfect-square)|[rb](/0001-0500/0367.Valid%20Perfect%20Square.rb)|Easy|
+|:lock:|366|Find Leaves of Binary Tree|[:us:](https://leetcode.com/problems/find-leaves-of-binary-tree) [:cn:](https://leetcode.cn/problems/find-leaves-of-binary-tree)||Medium|
+|:heavy_check_mark:|365|Water and Jug Problem|[:us:](https://leetcode.com/problems/water-and-jug-problem) [:cn:](https://leetcode.cn/problems/water-and-jug-problem)|[py](/0001-0500/0365.Water%20and%20Jug%20Problem.py)|Medium|
+|:lock:|364|Nested List Weight Sum II|[:us:](https://leetcode.com/problems/nested-list-weight-sum-ii) [:cn:](https://leetcode.cn/problems/nested-list-weight-sum-ii)||Medium|
+|:heavy_check_mark:|363|Max Sum of Rectangle No Larger Than K|[:us:](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) [:cn:](https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k)|[py](/0001-0500/0363.Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.py)|Hard|
+|:lock:|362|Design Hit Counter|[:us:](https://leetcode.com/problems/design-hit-counter) [:cn:](https://leetcode.cn/problems/design-hit-counter)||Medium|
+|:lock:|361|Bomb Enemy|[:us:](https://leetcode.com/problems/bomb-enemy) [:cn:](https://leetcode.cn/problems/bomb-enemy)||Medium|
+|:lock:|360|Sort Transformed Array|[:us:](https://leetcode.com/problems/sort-transformed-array) [:cn:](https://leetcode.cn/problems/sort-transformed-array)||Medium|
+|:heavy_check_mark::lock:|359|Logger Rate Limiter|[:us:](https://leetcode.com/problems/logger-rate-limiter) [:cn:](https://leetcode.cn/problems/logger-rate-limiter)|[py](/0001-0500/0359.Logger%20Rate%20Limiter.py)|Easy|
+|:lock:|358|Rearrange String k Distance Apart|[:us:](https://leetcode.com/problems/rearrange-string-k-distance-apart) [:cn:](https://leetcode.cn/problems/rearrange-string-k-distance-apart)||Hard|
+|:heavy_check_mark:|357|Count Numbers with Unique Digits|[:us:](https://leetcode.com/problems/count-numbers-with-unique-digits) [:cn:](https://leetcode.cn/problems/count-numbers-with-unique-digits)|[ts](/0001-0500/0357.Count%20Numbers%20with%20Unique%20Digits.ts)|Medium|
+|:lock:|356|Line Reflection|[:us:](https://leetcode.com/problems/line-reflection) [:cn:](https://leetcode.cn/problems/line-reflection)||Medium|
+||355|Design Twitter|[:us:](https://leetcode.com/problems/design-twitter) [:cn:](https://leetcode.cn/problems/design-twitter)||Medium|
+|:heavy_check_mark:|354|Russian Doll Envelopes|[:us:](https://leetcode.com/problems/russian-doll-envelopes) [:cn:](https://leetcode.cn/problems/russian-doll-envelopes)|[py](/0001-0500/0354.Russian%20Doll%20Envelopes.py)|Hard|
+|:lock:|353|Design Snake Game|[:us:](https://leetcode.com/problems/design-snake-game) [:cn:](https://leetcode.cn/problems/design-snake-game)||Medium|
+|:heavy_check_mark:|352|Data Stream as Disjoint Intervals|[:us:](https://leetcode.com/problems/data-stream-as-disjoint-intervals) [:cn:](https://leetcode.cn/problems/data-stream-as-disjoint-intervals)|[py](/0001-0500/0352.Data%20Stream%20as%20Disjoint%20Intervals.py)|Hard|
+|:lock:|351|Android Unlock Patterns|[:us:](https://leetcode.com/problems/android-unlock-patterns) [:cn:](https://leetcode.cn/problems/android-unlock-patterns)||Medium|
+|:heavy_check_mark:|350|Intersection of Two Arrays II|[:us:](https://leetcode.com/problems/intersection-of-two-arrays-ii) [:cn:](https://leetcode.cn/problems/intersection-of-two-arrays-ii)|[cpp](/0001-0500/0350.Intersection%20of%20Two%20Arrays%20II.cpp)|Easy|
+|:heavy_check_mark:|349|Intersection of Two Arrays|[:us:](https://leetcode.com/problems/intersection-of-two-arrays) [:cn:](https://leetcode.cn/problems/intersection-of-two-arrays)|[cpp](/0001-0500/0349.Intersection%20of%20Two%20Arrays.cpp), [py](/0001-0500/0349.Intersection%20of%20Two%20Arrays.py)|Easy|
+|:lock:|348|Design Tic-Tac-Toe|[:us:](https://leetcode.com/problems/design-tic-tac-toe) [:cn:](https://leetcode.cn/problems/design-tic-tac-toe)||Medium|
+|:heavy_check_mark:|347|Top K Frequent Elements|[:us:](https://leetcode.com/problems/top-k-frequent-elements) [:cn:](https://leetcode.cn/problems/top-k-frequent-elements)|[py](/0001-0500/0347.Top%20K%20Frequent%20Elements.2.py), [py](/0001-0500/0347.Top%20K%20Frequent%20Elements.py)|Medium|
+|:lock:|346|Moving Average from Data Stream|[:us:](https://leetcode.com/problems/moving-average-from-data-stream) [:cn:](https://leetcode.cn/problems/moving-average-from-data-stream)||Easy|
+|:heavy_check_mark:|345|Reverse Vowels of a String|[:us:](https://leetcode.com/problems/reverse-vowels-of-a-string) [:cn:](https://leetcode.cn/problems/reverse-vowels-of-a-string)|[c](/0001-0500/0345.Reverse%20Vowels%20of%20a%20String.c), [py](/0001-0500/0345.Reverse%20Vowels%20of%20a%20String.py)|Easy|
+|:heavy_check_mark:|344|Reverse String|[:us:](https://leetcode.com/problems/reverse-string) [:cn:](https://leetcode.cn/problems/reverse-string)|[c](/0001-0500/0344.Reverse%20String.c)|Easy|
+|:heavy_check_mark:|343|Integer Break|[:us:](https://leetcode.com/problems/integer-break) [:cn:](https://leetcode.cn/problems/integer-break)|[java](/0001-0500/0343.Integer%20Break.java)|Medium|
+|:heavy_check_mark:|342|Power of Four|[:us:](https://leetcode.com/problems/power-of-four) [:cn:](https://leetcode.cn/problems/power-of-four)|[py](/0001-0500/0342.Power%20of%20Four.2.py), [py](/0001-0500/0342.Power%20of%20Four.py)|Easy|
+|:heavy_check_mark:|341|Flatten Nested List Iterator|[:us:](https://leetcode.com/problems/flatten-nested-list-iterator) [:cn:](https://leetcode.cn/problems/flatten-nested-list-iterator)|[java](/0001-0500/0341.Flatten%20Nested%20List%20Iterator.java)|Medium|
+|:lock:|340|Longest Substring with At Most K Distinct Characters|[:us:](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) [:cn:](https://leetcode.cn/problems/longest-substring-with-at-most-k-distinct-characters)||Medium|
+|:lock:|339|Nested List Weight Sum|[:us:](https://leetcode.com/problems/nested-list-weight-sum) [:cn:](https://leetcode.cn/problems/nested-list-weight-sum)||Medium|
+|:heavy_check_mark:|338|Counting Bits|[:us:](https://leetcode.com/problems/counting-bits) [:cn:](https://leetcode.cn/problems/counting-bits)|[py](/0001-0500/0338.Counting%20Bits.2.py), [py](/0001-0500/0338.Counting%20Bits.py), [rb](/0001-0500/0338.Counting%20Bits.rb)|Easy|
+|:heavy_check_mark:|337|House Robber III|[:us:](https://leetcode.com/problems/house-robber-iii) [:cn:](https://leetcode.cn/problems/house-robber-iii)|[py](/0001-0500/0337.House%20Robber%20III.py)|Medium|
+||336|Palindrome Pairs|[:us:](https://leetcode.com/problems/palindrome-pairs) [:cn:](https://leetcode.cn/problems/palindrome-pairs)||Hard|
+|:heavy_check_mark:|335|Self Crossing|[:us:](https://leetcode.com/problems/self-crossing) [:cn:](https://leetcode.cn/problems/self-crossing)|[ts](/0001-0500/0335.Self%20Crossing.ts)|Hard|
+|:heavy_check_mark:|334|Increasing Triplet Subsequence|[:us:](https://leetcode.com/problems/increasing-triplet-subsequence) [:cn:](https://leetcode.cn/problems/increasing-triplet-subsequence)|[java](/0001-0500/0334.Increasing%20Triplet%20Subsequence.java), [py](/0001-0500/0334.Increasing%20Triplet%20Subsequence.py)|Medium|
+|:lock:|333|Largest BST Subtree|[:us:](https://leetcode.com/problems/largest-bst-subtree) [:cn:](https://leetcode.cn/problems/largest-bst-subtree)||Medium|
+|:heavy_check_mark:|332|Reconstruct Itinerary|[:us:](https://leetcode.com/problems/reconstruct-itinerary) [:cn:](https://leetcode.cn/problems/reconstruct-itinerary)|[rb](/0001-0500/0332.Reconstruct%20Itinerary.rb)|Hard|
+|:heavy_check_mark:|331|Verify Preorder Serialization of a Binary Tree|[:us:](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) [:cn:](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree)|[java](/0001-0500/0331.Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.java)|Medium|
+|:heavy_check_mark:|330|Patching Array|[:us:](https://leetcode.com/problems/patching-array) [:cn:](https://leetcode.cn/problems/patching-array)|[c](/0001-0500/0330.Patching%20Array.c)|Hard|
+|:heavy_check_mark:|329|Longest Increasing Path in a Matrix|[:us:](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) [:cn:](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix)|[java](/0001-0500/0329.Longest%20Increasing%20Path%20in%20a%20Matrix.java), [py](/0001-0500/0329.Longest%20Increasing%20Path%20in%20a%20Matrix.py)|Hard|
+|:heavy_check_mark:|328|Odd Even Linked List|[:us:](https://leetcode.com/problems/odd-even-linked-list) [:cn:](https://leetcode.cn/problems/odd-even-linked-list)|[java](/0001-0500/0328.Odd%20Even%20Linked%20List.java), [rb](/0001-0500/0328.Odd%20Even%20Linked%20List.rb)|Medium|
+|:heavy_check_mark:|327|Count of Range Sum|[:us:](https://leetcode.com/problems/count-of-range-sum) [:cn:](https://leetcode.cn/problems/count-of-range-sum)|[py](/0001-0500/0327.Count%20of%20Range%20Sum.py)|Hard|
+|:heavy_check_mark:|326|Power of Three|[:us:](https://leetcode.com/problems/power-of-three) [:cn:](https://leetcode.cn/problems/power-of-three)|[cpp](/0001-0500/0326.Power%20of%20Three.cpp)|Easy|
+|:lock:|325|Maximum Size Subarray Sum Equals k|[:us:](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) [:cn:](https://leetcode.cn/problems/maximum-size-subarray-sum-equals-k)||Medium|
+|:heavy_check_mark:|324|Wiggle Sort II|[:us:](https://leetcode.com/problems/wiggle-sort-ii) [:cn:](https://leetcode.cn/problems/wiggle-sort-ii)|[py](/0001-0500/0324.Wiggle%20Sort%20II.py)|Medium|
+|:lock:|323|Number of Connected Components in an Undirected Graph|[:us:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) [:cn:](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph)||Medium|
+|:heavy_check_mark:|322|Coin Change|[:us:](https://leetcode.com/problems/coin-change) [:cn:](https://leetcode.cn/problems/coin-change)|[java](/0001-0500/0322.Coin%20Change.java), [py](/0001-0500/0322.Coin%20Change.py)|Medium|
+|:heavy_check_mark::star:|321|Create Maximum Number|[:us:](https://leetcode.com/problems/create-maximum-number) [:cn:](https://leetcode.cn/problems/create-maximum-number)|[py](/0001-0500/0321.Create%20Maximum%20Number.py)|Hard|
+|:lock:|320|Generalized Abbreviation|[:us:](https://leetcode.com/problems/generalized-abbreviation) [:cn:](https://leetcode.cn/problems/generalized-abbreviation)||Medium|
+|:heavy_check_mark:|319|Bulb Switcher|[:us:](https://leetcode.com/problems/bulb-switcher) [:cn:](https://leetcode.cn/problems/bulb-switcher)|[cpp](/0001-0500/0319.Bulb%20Switcher.cpp)|Medium|
+|:heavy_check_mark:|318|Maximum Product of Word Lengths|[:us:](https://leetcode.com/problems/maximum-product-of-word-lengths) [:cn:](https://leetcode.cn/problems/maximum-product-of-word-lengths)|[py](/0001-0500/0318.Maximum%20Product%20of%20Word%20Lengths.py)|Medium|
+|:lock:|317|Shortest Distance from All Buildings|[:us:](https://leetcode.com/problems/shortest-distance-from-all-buildings) [:cn:](https://leetcode.cn/problems/shortest-distance-from-all-buildings)||Hard|
+|:heavy_check_mark:|316|Remove Duplicate Letters|[:us:](https://leetcode.com/problems/remove-duplicate-letters) [:cn:](https://leetcode.cn/problems/remove-duplicate-letters)|[py](/0001-0500/0316.Remove%20Duplicate%20Letters.py)|Medium|
+|:heavy_check_mark::star:|315|Count of Smaller Numbers After Self|[:us:](https://leetcode.com/problems/count-of-smaller-numbers-after-self) [:cn:](https://leetcode.cn/problems/count-of-smaller-numbers-after-self)|[java](/0001-0500/0315.Count%20of%20Smaller%20Numbers%20After%20Self.java)|Hard|
+|:lock:|314|Binary Tree Vertical Order Traversal|[:us:](https://leetcode.com/problems/binary-tree-vertical-order-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-vertical-order-traversal)||Medium|
+|:heavy_check_mark:|313|Super Ugly Number|[:us:](https://leetcode.com/problems/super-ugly-number) [:cn:](https://leetcode.cn/problems/super-ugly-number)|[py](/0001-0500/0313.Super%20Ugly%20Number.py)|Medium|
+|:heavy_check_mark:|312|Burst Balloons|[:us:](https://leetcode.com/problems/burst-balloons) [:cn:](https://leetcode.cn/problems/burst-balloons)|[c](/0001-0500/0312.Burst%20Balloons.c), [py](/0001-0500/0312.Burst%20Balloons.%28lru_cache%29.py), [py](/0001-0500/0312.Burst%20Balloons.1.%28iterative%29.py), [py](/0001-0500/0312.Burst%20Balloons.2.%28recursive%29.py)|Hard|
+|:lock:|311|Sparse Matrix Multiplication|[:us:](https://leetcode.com/problems/sparse-matrix-multiplication) [:cn:](https://leetcode.cn/problems/sparse-matrix-multiplication)||Medium|
+|:heavy_check_mark:|310|Minimum Height Trees|[:us:](https://leetcode.com/problems/minimum-height-trees) [:cn:](https://leetcode.cn/problems/minimum-height-trees)|[java](/0001-0500/0310.Minimum%20Height%20Trees.2.%28stack%20overflow%29.java), [py](/0001-0500/0310.Minimum%20Height%20Trees.py)|Medium|
+|:heavy_check_mark:|309|Best Time to Buy and Sell Stock with Cooldown|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown)|[py](/0001-0500/0309.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|Medium|
+|:lock:|308|Range Sum Query 2D - Mutable|[:us:](https://leetcode.com/problems/range-sum-query-2d-mutable) [:cn:](https://leetcode.cn/problems/range-sum-query-2d-mutable)||Hard|
+|:heavy_check_mark:|307|Range Sum Query - Mutable|[:us:](https://leetcode.com/problems/range-sum-query-mutable) [:cn:](https://leetcode.cn/problems/range-sum-query-mutable)|[java](/0001-0500/0307.Range%20Sum%20Query%20-%20Mutable.%28BIT%29.java), [java](/0001-0500/0307.Range%20Sum%20Query%20-%20Mutable.java), [py](/0001-0500/0307.Range%20Sum%20Query%20-%20Mutable.py)|Medium|
+|:heavy_check_mark:|306|Additive Number|[:us:](https://leetcode.com/problems/additive-number) [:cn:](https://leetcode.cn/problems/additive-number)|[ts](/0001-0500/0306.Additive%20Number.ts)|Medium|
+|:lock:|305|Number of Islands II|[:us:](https://leetcode.com/problems/number-of-islands-ii) [:cn:](https://leetcode.cn/problems/number-of-islands-ii)||Hard|
+|:heavy_check_mark:|304|Range Sum Query 2D - Immutable|[:us:](https://leetcode.com/problems/range-sum-query-2d-immutable) [:cn:](https://leetcode.cn/problems/range-sum-query-2d-immutable)|[py](/0001-0500/0304.Range%20Sum%20Query%202D%20-%20Immutable.py)|Medium|
+|:heavy_check_mark:|303|Range Sum Query - Immutable|[:us:](https://leetcode.com/problems/range-sum-query-immutable) [:cn:](https://leetcode.cn/problems/range-sum-query-immutable)|[cpp](/0001-0500/0303.Range%20Sum%20Query%20-%20Immutable.cpp), [py](/0001-0500/0303.Range%20Sum%20Query%20-%20Immutable.py)|Easy|
+|:lock:|302|Smallest Rectangle Enclosing Black Pixels|[:us:](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels) [:cn:](https://leetcode.cn/problems/smallest-rectangle-enclosing-black-pixels)||Hard|
+|:heavy_check_mark:|301|Remove Invalid Parentheses|[:us:](https://leetcode.com/problems/remove-invalid-parentheses) [:cn:](https://leetcode.cn/problems/remove-invalid-parentheses)|[ts](/0001-0500/0301.Remove%20Invalid%20Parentheses.ts)|Hard|
+|:heavy_check_mark:|300|Longest Increasing Subsequence|[:us:](https://leetcode.com/problems/longest-increasing-subsequence) [:cn:](https://leetcode.cn/problems/longest-increasing-subsequence)|[java](/0001-0500/0300.Longest%20Increasing%20Subsequence.java)|Medium|
+|:heavy_check_mark:|299|Bulls and Cows|[:us:](https://leetcode.com/problems/bulls-and-cows) [:cn:](https://leetcode.cn/problems/bulls-and-cows)|[py](/0001-0500/0299.Bulls%20and%20Cows.py)|Medium|
+|:lock:|298|Binary Tree Longest Consecutive Sequence|[:us:](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence) [:cn:](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence)||Medium|
+|:heavy_check_mark:|297|Serialize and Deserialize Binary Tree|[:us:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) [:cn:](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree)|[js](/0001-0500/0297.Serialize%20and%20Deserialize%20Binary%20Tree.js)|Hard|
+|:lock:|296|Best Meeting Point|[:us:](https://leetcode.com/problems/best-meeting-point) [:cn:](https://leetcode.cn/problems/best-meeting-point)||Hard|
+|:heavy_check_mark:|295|Find Median from Data Stream|[:us:](https://leetcode.com/problems/find-median-from-data-stream) [:cn:](https://leetcode.cn/problems/find-median-from-data-stream)|[py](/0001-0500/0295.Find%20Median%20from%20Data%20Stream.py)|Hard|
+|:lock:|294|Flip Game II|[:us:](https://leetcode.com/problems/flip-game-ii) [:cn:](https://leetcode.cn/problems/flip-game-ii)||Medium|
+|:lock:|293|Flip Game|[:us:](https://leetcode.com/problems/flip-game) [:cn:](https://leetcode.cn/problems/flip-game)||Easy|
+|:heavy_check_mark:|292|Nim Game|[:us:](https://leetcode.com/problems/nim-game) [:cn:](https://leetcode.cn/problems/nim-game)|[c](/0001-0500/0292.Nim%20Game.c)|Easy|
+|:heavy_check_mark::lock:|291|Word Pattern II|[:us:](https://leetcode.com/problems/word-pattern-ii) [:cn:](https://leetcode.cn/problems/word-pattern-ii)|[py](/0001-0500/0291.Word%20Pattern%20II.py)|Medium|
+|:heavy_check_mark:|290|Word Pattern|[:us:](https://leetcode.com/problems/word-pattern) [:cn:](https://leetcode.cn/problems/word-pattern)|[py](/0001-0500/0290.Word%20Pattern.py), [rb](/0001-0500/0290.Word%20Pattern.rb)|Easy|
+|:heavy_check_mark:|289|Game of Life|[:us:](https://leetcode.com/problems/game-of-life) [:cn:](https://leetcode.cn/problems/game-of-life)|[c](/0001-0500/0289.Game%20of%20Life.c)|Medium|
+|:lock:|288|Unique Word Abbreviation|[:us:](https://leetcode.com/problems/unique-word-abbreviation) [:cn:](https://leetcode.cn/problems/unique-word-abbreviation)||Medium|
+|:heavy_check_mark:|287|Find the Duplicate Number|[:us:](https://leetcode.com/problems/find-the-duplicate-number) [:cn:](https://leetcode.cn/problems/find-the-duplicate-number)|[rb](/0001-0500/0287.Find%20the%20Duplicate%20Number.rb)|Medium|
+|:lock:|286|Walls and Gates|[:us:](https://leetcode.com/problems/walls-and-gates) [:cn:](https://leetcode.cn/problems/walls-and-gates)||Medium|
+|:heavy_check_mark::lock:|285|Inorder Successor in BST|[:us:](https://leetcode.com/problems/inorder-successor-in-bst) [:cn:](https://leetcode.cn/problems/inorder-successor-in-bst)|[py](/0001-0500/0285.Inorder%20Successor%20in%20BST.py)|Medium|
+|:heavy_check_mark:|284|Peeking Iterator|[:us:](https://leetcode.com/problems/peeking-iterator) [:cn:](https://leetcode.cn/problems/peeking-iterator)|[py](/0001-0500/0284.Peeking%20Iterator.py)|Medium|
+|:heavy_check_mark:|283|Move Zeroes|[:us:](https://leetcode.com/problems/move-zeroes) [:cn:](https://leetcode.cn/problems/move-zeroes)|[py](/0001-0500/0283.Move%20Zeroes.2.py), [py](/0001-0500/0283.Move%20Zeroes.py), [rb](/0001-0500/0283.Move%20Zeroes.rb)|Easy|
+|:heavy_check_mark:|282|Expression Add Operators|[:us:](https://leetcode.com/problems/expression-add-operators) [:cn:](https://leetcode.cn/problems/expression-add-operators)|[py](/0001-0500/0282.Expression%20Add%20Operators.py)|Hard|
+|:lock:|281|Zigzag Iterator|[:us:](https://leetcode.com/problems/zigzag-iterator) [:cn:](https://leetcode.cn/problems/zigzag-iterator)||Medium|
+|:lock:|280|Wiggle Sort|[:us:](https://leetcode.com/problems/wiggle-sort) [:cn:](https://leetcode.cn/problems/wiggle-sort)||Medium|
+|:heavy_check_mark:|279|Perfect Squares|[:us:](https://leetcode.com/problems/perfect-squares) [:cn:](https://leetcode.cn/problems/perfect-squares)|[rb](/0001-0500/0279.Perfect%20Squares.rb)|Medium|
+|:heavy_check_mark:|278|First Bad Version|[:us:](https://leetcode.com/problems/first-bad-version) [:cn:](https://leetcode.cn/problems/first-bad-version)|[rb](/0001-0500/0278.First%20Bad%20Version.rb)|Easy|
+|:lock:|277|Find the Celebrity|[:us:](https://leetcode.com/problems/find-the-celebrity) [:cn:](https://leetcode.cn/problems/find-the-celebrity)||Medium|
+|:lock:|276|Paint Fence|[:us:](https://leetcode.com/problems/paint-fence) [:cn:](https://leetcode.cn/problems/paint-fence)||Medium|
+|:heavy_check_mark:|275|H-Index II|[:us:](https://leetcode.com/problems/h-index-ii) [:cn:](https://leetcode.cn/problems/h-index-ii)|[rb](/0001-0500/0275.H-Index%20II.rb)|Medium|
+|:heavy_check_mark:|274|H-Index|[:us:](https://leetcode.com/problems/h-index) [:cn:](https://leetcode.cn/problems/h-index)|[py](/0001-0500/0274.H-Index.py)|Medium|
+|:heavy_check_mark:|273|Integer to English Words|[:us:](https://leetcode.com/problems/integer-to-english-words) [:cn:](https://leetcode.cn/problems/integer-to-english-words)|[java](/0001-0500/0273.Integer%20to%20English%20Words.java)|Hard|
+|:lock:|272|Closest Binary Search Tree Value II|[:us:](https://leetcode.com/problems/closest-binary-search-tree-value-ii) [:cn:](https://leetcode.cn/problems/closest-binary-search-tree-value-ii)||Hard|
+|:lock:|271|Encode and Decode Strings|[:us:](https://leetcode.com/problems/encode-and-decode-strings) [:cn:](https://leetcode.cn/problems/encode-and-decode-strings)||Medium|
+|:lock:|270|Closest Binary Search Tree Value|[:us:](https://leetcode.com/problems/closest-binary-search-tree-value) [:cn:](https://leetcode.cn/problems/closest-binary-search-tree-value)||Easy|
+|:lock:|269|Alien Dictionary|[:us:](https://leetcode.com/problems/alien-dictionary) [:cn:](https://leetcode.cn/problems/alien-dictionary)||Hard|
+|:heavy_check_mark:|268|Missing Number|[:us:](https://leetcode.com/problems/missing-number) [:cn:](https://leetcode.cn/problems/missing-number)|[js](/0001-0500/0268.Missing%20Number.js)|Easy|
+|:lock:|267|Palindrome Permutation II|[:us:](https://leetcode.com/problems/palindrome-permutation-ii) [:cn:](https://leetcode.cn/problems/palindrome-permutation-ii)||Medium|
+|:lock:|266|Palindrome Permutation|[:us:](https://leetcode.com/problems/palindrome-permutation) [:cn:](https://leetcode.cn/problems/palindrome-permutation)||Easy|
+|:lock:|265|Paint House II|[:us:](https://leetcode.com/problems/paint-house-ii) [:cn:](https://leetcode.cn/problems/paint-house-ii)||Hard|
+|:heavy_check_mark:|264|Ugly Number II|[:us:](https://leetcode.com/problems/ugly-number-ii) [:cn:](https://leetcode.cn/problems/ugly-number-ii)|[rb](/0001-0500/0264.Ugly%20Number%20II.rb)|Medium|
+|:heavy_check_mark:|263|Ugly Number|[:us:](https://leetcode.com/problems/ugly-number) [:cn:](https://leetcode.cn/problems/ugly-number)|[c](/0001-0500/0263.Ugly%20Number.c), [py](/0001-0500/0263.Ugly%20Number.py)|Easy|
+| sql |262|Trips and Users|[:us:](https://leetcode.com/problems/trips-and-users) [:cn:](https://leetcode.cn/problems/trips-and-users)||Hard|
+|:lock:|261|Graph Valid Tree|[:us:](https://leetcode.com/problems/graph-valid-tree) [:cn:](https://leetcode.cn/problems/graph-valid-tree)||Medium|
+|:heavy_check_mark:|260|Single Number III|[:us:](https://leetcode.com/problems/single-number-iii) [:cn:](https://leetcode.cn/problems/single-number-iii)|[py](/0001-0500/0260.Single%20Number%20III.py), [ts](/0001-0500/0260.Single%20Number%20III.ts)|Medium|
+|:lock:|259|3Sum Smaller|[:us:](https://leetcode.com/problems/3sum-smaller) [:cn:](https://leetcode.cn/problems/3sum-smaller)||Medium|
+|:heavy_check_mark:|258|Add Digits|[:us:](https://leetcode.com/problems/add-digits) [:cn:](https://leetcode.cn/problems/add-digits)|[py](/0001-0500/0258.Add%20Digits.py)|Easy|
+|:heavy_check_mark:|257|Binary Tree Paths|[:us:](https://leetcode.com/problems/binary-tree-paths) [:cn:](https://leetcode.cn/problems/binary-tree-paths)|[py](/0001-0500/0257.Binary%20Tree%20Paths.py)|Easy|
+|:lock:|256|Paint House|[:us:](https://leetcode.com/problems/paint-house) [:cn:](https://leetcode.cn/problems/paint-house)||Medium|
+|:lock:|255|Verify Preorder Sequence in Binary Search Tree|[:us:](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree) [:cn:](https://leetcode.cn/problems/verify-preorder-sequence-in-binary-search-tree)||Medium|
+|:lock:|254|Factor Combinations|[:us:](https://leetcode.com/problems/factor-combinations) [:cn:](https://leetcode.cn/problems/factor-combinations)||Medium|
+|:lock:|253|Meeting Rooms II|[:us:](https://leetcode.com/problems/meeting-rooms-ii) [:cn:](https://leetcode.cn/problems/meeting-rooms-ii)||Medium|
+|:heavy_check_mark::lock:|252|Meeting Rooms|[:us:](https://leetcode.com/problems/meeting-rooms) [:cn:](https://leetcode.cn/problems/meeting-rooms)|[ts](/0001-0500/0252.Meeting%20Rooms.ts)|Easy|
+|:lock:|251|Flatten 2D Vector|[:us:](https://leetcode.com/problems/flatten-2d-vector) [:cn:](https://leetcode.cn/problems/flatten-2d-vector)||Medium|
+|:lock:|250|Count Univalue Subtrees|[:us:](https://leetcode.com/problems/count-univalue-subtrees) [:cn:](https://leetcode.cn/problems/count-univalue-subtrees)||Medium|
+|:lock:|249|Group Shifted Strings|[:us:](https://leetcode.com/problems/group-shifted-strings) [:cn:](https://leetcode.cn/problems/group-shifted-strings)||Medium|
+|:lock:|248|Strobogrammatic Number III|[:us:](https://leetcode.com/problems/strobogrammatic-number-iii) [:cn:](https://leetcode.cn/problems/strobogrammatic-number-iii)||Hard|
+|:lock:|247|Strobogrammatic Number II|[:us:](https://leetcode.com/problems/strobogrammatic-number-ii) [:cn:](https://leetcode.cn/problems/strobogrammatic-number-ii)||Medium|
+|:heavy_check_mark::lock:|246|Strobogrammatic Number|[:us:](https://leetcode.com/problems/strobogrammatic-number) [:cn:](https://leetcode.cn/problems/strobogrammatic-number)|[ts](/0001-0500/0246.Strobogrammatic%20Number.ts)|Easy|
+|:lock:|245|Shortest Word Distance III|[:us:](https://leetcode.com/problems/shortest-word-distance-iii) [:cn:](https://leetcode.cn/problems/shortest-word-distance-iii)||Medium|
+|:lock:|244|Shortest Word Distance II|[:us:](https://leetcode.com/problems/shortest-word-distance-ii) [:cn:](https://leetcode.cn/problems/shortest-word-distance-ii)||Medium|
+|:lock:|243|Shortest Word Distance|[:us:](https://leetcode.com/problems/shortest-word-distance) [:cn:](https://leetcode.cn/problems/shortest-word-distance)||Easy|
+|:heavy_check_mark:|242|Valid Anagram|[:us:](https://leetcode.com/problems/valid-anagram) [:cn:](https://leetcode.cn/problems/valid-anagram)|[c](/0001-0500/0242.Valid%20Anagram.c)|Easy|
+|:heavy_check_mark:|241|Different Ways to Add Parentheses|[:us:](https://leetcode.com/problems/different-ways-to-add-parentheses) [:cn:](https://leetcode.cn/problems/different-ways-to-add-parentheses)|[java](/0001-0500/0241.Different%20Ways%20to%20Add%20Parentheses.java)|Medium|
+|:heavy_check_mark:|240|Search a 2D Matrix II|[:us:](https://leetcode.com/problems/search-a-2d-matrix-ii) [:cn:](https://leetcode.cn/problems/search-a-2d-matrix-ii)|[c](/0001-0500/0240.Search%20a%202D%20Matrix%20II.c), [java](/0001-0500/0240.Search%20a%202D%20Matrix%20II.java)|Medium|
+|:heavy_check_mark:|239|Sliding Window Maximum|[:us:](https://leetcode.com/problems/sliding-window-maximum) [:cn:](https://leetcode.cn/problems/sliding-window-maximum)|[java](/0001-0500/0239.Sliding%20Window%20Maximum.java), [py](/0001-0500/0239.Sliding%20Window%20Maximum.py)|Hard|
+|:heavy_check_mark:|238|Product of Array Except Self|[:us:](https://leetcode.com/problems/product-of-array-except-self) [:cn:](https://leetcode.cn/problems/product-of-array-except-self)|[cpp](/0001-0500/0238.Product%20of%20Array%20Except%20Self.cpp), [py](/0001-0500/0238.Product%20of%20Array%20Except%20Self.py), [rb](/0001-0500/0238.Product%20of%20Array%20Except%20Self.rb)|Medium|
+|:heavy_check_mark:|237|Delete Node in a Linked List|[:us:](https://leetcode.com/problems/delete-node-in-a-linked-list) [:cn:](https://leetcode.cn/problems/delete-node-in-a-linked-list)|[cpp](/0001-0500/0237.Delete%20Node%20in%20a%20Linked%20List.cpp), [rb](/0001-0500/0237.Delete%20Node%20in%20a%20Linked%20List.rb)|Medium|
+|:heavy_check_mark:|236|Lowest Common Ancestor of a Binary Tree|[:us:](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) [:cn:](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree)|[cpp](/0001-0500/0236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|Medium|
+|:heavy_check_mark:|235|Lowest Common Ancestor of a Binary Search Tree|[:us:](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) [:cn:](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree)|[c](/0001-0500/0235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.c)|Medium|
+|:heavy_check_mark:|234|Palindrome Linked List|[:us:](https://leetcode.com/problems/palindrome-linked-list) [:cn:](https://leetcode.cn/problems/palindrome-linked-list)|[java](/0001-0500/0234.Palindrome%20Linked%20List.java)|Easy|
+|:heavy_check_mark:|233|Number of Digit One|[:us:](https://leetcode.com/problems/number-of-digit-one) [:cn:](https://leetcode.cn/problems/number-of-digit-one)|[c](/0001-0500/0233.Number%20of%20Digit%20One.c)|Hard|
+|:heavy_check_mark:|232|Implement Queue using Stacks|[:us:](https://leetcode.com/problems/implement-queue-using-stacks) [:cn:](https://leetcode.cn/problems/implement-queue-using-stacks)|[java](/0001-0500/0232.Implement%20Queue%20using%20Stacks.java)|Easy|
+|:heavy_check_mark:|231|Power of Two|[:us:](https://leetcode.com/problems/power-of-two) [:cn:](https://leetcode.cn/problems/power-of-two)|[java](/0001-0500/0231.Power%20of%20Two.java), [py](/0001-0500/0231.Power%20of%20Two.py), [rb](/0001-0500/0231.Power%20of%20Two.rb)|Easy|
+|:heavy_check_mark:|230|Kth Smallest Element in a BST|[:us:](https://leetcode.com/problems/kth-smallest-element-in-a-bst) [:cn:](https://leetcode.cn/problems/kth-smallest-element-in-a-bst)|[rb](/0001-0500/0230.Kth%20Smallest%20Element%20in%20a%20BST.rb)|Medium|
+|:heavy_check_mark:|229|Majority Element II|[:us:](https://leetcode.com/problems/majority-element-ii) [:cn:](https://leetcode.cn/problems/majority-element-ii)|[py](/0001-0500/0229.Majority%20Element%20II.py)|Medium|
+|:heavy_check_mark:|228|Summary Ranges|[:us:](https://leetcode.com/problems/summary-ranges) [:cn:](https://leetcode.cn/problems/summary-ranges)|[java](/0001-0500/0228.Summary%20Ranges.java)|Easy|
+|:heavy_check_mark:|227|Basic Calculator II|[:us:](https://leetcode.com/problems/basic-calculator-ii) [:cn:](https://leetcode.cn/problems/basic-calculator-ii)|[py](/0001-0500/0227.Basic%20Calculator%20II.py)|Medium|
+|:heavy_check_mark:|226|Invert Binary Tree|[:us:](https://leetcode.com/problems/invert-binary-tree) [:cn:](https://leetcode.cn/problems/invert-binary-tree)|[c](/0001-0500/0226.Invert%20Binary%20Tree.c), [py](/0001-0500/0226.Invert%20Binary%20Tree.py), [rb](/0001-0500/0226.Invert%20Binary%20Tree.rb)|Easy|
+|:heavy_check_mark:|225|Implement Stack using Queues|[:us:](https://leetcode.com/problems/implement-stack-using-queues) [:cn:](https://leetcode.cn/problems/implement-stack-using-queues)|[java](/0001-0500/0225.Implement%20Stack%20using%20Queues.java)|Easy|
+|:heavy_check_mark:|224|Basic Calculator|[:us:](https://leetcode.com/problems/basic-calculator) [:cn:](https://leetcode.cn/problems/basic-calculator)|[py](/0001-0500/0224.Basic%20Calculator.py)|Hard|
+|:heavy_check_mark:|223|Rectangle Area|[:us:](https://leetcode.com/problems/rectangle-area) [:cn:](https://leetcode.cn/problems/rectangle-area)|[c](/0001-0500/0223.Rectangle%20Area.c)|Medium|
+|:heavy_check_mark:|222|Count Complete Tree Nodes|[:us:](https://leetcode.com/problems/count-complete-tree-nodes) [:cn:](https://leetcode.cn/problems/count-complete-tree-nodes)|[java](/0001-0500/0222.Count%20Complete%20Tree%20Nodes.java), [rb](/0001-0500/0222.Count%20Complete%20Tree%20Nodes.rb)|Medium|
+|:heavy_check_mark:|221|Maximal Square|[:us:](https://leetcode.com/problems/maximal-square) [:cn:](https://leetcode.cn/problems/maximal-square)|[c](/0001-0500/0221.Maximal%20Square.c), [rb](/0001-0500/0221.Maximal%20Square.rb)|Medium|
+|:heavy_check_mark:|220|Contains Duplicate III|[:us:](https://leetcode.com/problems/contains-duplicate-iii) [:cn:](https://leetcode.cn/problems/contains-duplicate-iii)|[py](/0001-0500/0220.Contains%20Duplicate%20III.py)|Hard|
+|:heavy_check_mark:|219|Contains Duplicate II|[:us:](https://leetcode.com/problems/contains-duplicate-ii) [:cn:](https://leetcode.cn/problems/contains-duplicate-ii)|[c](/0001-0500/0219.Contains%20Duplicate%20II.c), [py](/0001-0500/0219.Contains%20Duplicate%20II.py)|Easy|
+|:heavy_check_mark:|218|The Skyline Problem|[:us:](https://leetcode.com/problems/the-skyline-problem) [:cn:](https://leetcode.cn/problems/the-skyline-problem)|[java](/0001-0500/0218.The%20Skyline%20Problem.java)|Hard|
+|:heavy_check_mark:|217|Contains Duplicate|[:us:](https://leetcode.com/problems/contains-duplicate) [:cn:](https://leetcode.cn/problems/contains-duplicate)|[py](/0001-0500/0217.Contains%20Duplicate.py)|Easy|
+|:heavy_check_mark:|216|Combination Sum III|[:us:](https://leetcode.com/problems/combination-sum-iii) [:cn:](https://leetcode.cn/problems/combination-sum-iii)|[java](/0001-0500/0216.Combination%20Sum%20III.java)|Medium|
+|:heavy_check_mark:|215|Kth Largest Element in an Array|[:us:](https://leetcode.com/problems/kth-largest-element-in-an-array) [:cn:](https://leetcode.cn/problems/kth-largest-element-in-an-array)|[java](/0001-0500/0215.Kth%20Largest%20Element%20in%20an%20Array.java), [py](/0001-0500/0215.Kth%20Largest%20Element%20in%20an%20Array.py)|Medium|
+||214|Shortest Palindrome|[:us:](https://leetcode.com/problems/shortest-palindrome) [:cn:](https://leetcode.cn/problems/shortest-palindrome)||Hard|
+|:heavy_check_mark:|213|House Robber II|[:us:](https://leetcode.com/problems/house-robber-ii) [:cn:](https://leetcode.cn/problems/house-robber-ii)|[py](/0001-0500/0213.House%20Robber%20II.py)|Medium|
+|:heavy_check_mark:|212|Word Search II|[:us:](https://leetcode.com/problems/word-search-ii) [:cn:](https://leetcode.cn/problems/word-search-ii)|[java](/0001-0500/0212.Word%20Search%20II.java), [py](/0001-0500/0212.Word%20Search%20II.py), [rb](/0001-0500/0212.Word%20Search%20II.rb)|Hard|
+|:heavy_check_mark:|211|Design Add and Search Words Data Structure|[:us:](https://leetcode.com/problems/design-add-and-search-words-data-structure) [:cn:](https://leetcode.cn/problems/design-add-and-search-words-data-structure)|[py](/0001-0500/0211.Design%20Add%20and%20Search%20Words%20Data%20Structure.py)|Medium|
+|:heavy_check_mark:|210|Course Schedule II|[:us:](https://leetcode.com/problems/course-schedule-ii) [:cn:](https://leetcode.cn/problems/course-schedule-ii)|[java](/0001-0500/0210.Course%20Schedule%20II.java), [py](/0001-0500/0210.Course%20Schedule%20II.py)|Medium|
+|:heavy_check_mark:|209|Minimum Size Subarray Sum|[:us:](https://leetcode.com/problems/minimum-size-subarray-sum) [:cn:](https://leetcode.cn/problems/minimum-size-subarray-sum)|[java](/0001-0500/0209.Minimum%20Size%20Subarray%20Sum.java)|Medium|
+|:heavy_check_mark:|208|Implement Trie (Prefix Tree)|[:us:](https://leetcode.com/problems/implement-trie-prefix-tree) [:cn:](https://leetcode.cn/problems/implement-trie-prefix-tree)|[rb](/0001-0500/0208.Implement%20Trie%20%28Prefix%20Tree%29.rb)|Medium|
+|:heavy_check_mark:|207|Course Schedule|[:us:](https://leetcode.com/problems/course-schedule) [:cn:](https://leetcode.cn/problems/course-schedule)|[py](/0001-0500/0207.Course%20Schedule.py), [rb](/0001-0500/0207.Course%20Schedule.rb)|Medium|
+|:heavy_check_mark:|206|Reverse Linked List|[:us:](https://leetcode.com/problems/reverse-linked-list) [:cn:](https://leetcode.cn/problems/reverse-linked-list)|[cpp](/0001-0500/0206.Reverse%20Linked%20List.cpp)|Easy|
+|:heavy_check_mark:|205|Isomorphic Strings|[:us:](https://leetcode.com/problems/isomorphic-strings) [:cn:](https://leetcode.cn/problems/isomorphic-strings)|[cpp](/0001-0500/0205.Isomorphic%20Strings.cpp)|Easy|
+|:heavy_check_mark:|204|Count Primes|[:us:](https://leetcode.com/problems/count-primes) [:cn:](https://leetcode.cn/problems/count-primes)|[py](/0001-0500/0204.Count%20Primes.%28linear%20sieve%29.py)|Medium|
+|:heavy_check_mark:|203|Remove Linked List Elements|[:us:](https://leetcode.com/problems/remove-linked-list-elements) [:cn:](https://leetcode.cn/problems/remove-linked-list-elements)|[c](/0001-0500/0203.Remove%20Linked%20List%20Elements.c), [rb](/0001-0500/0203.Remove%20Linked%20List%20Elements.rb)|Easy|
+|:heavy_check_mark:|202|Happy Number|[:us:](https://leetcode.com/problems/happy-number) [:cn:](https://leetcode.cn/problems/happy-number)|[cpp](/0001-0500/0202.Happy%20Number.cpp), [rb](/0001-0500/0202.Happy%20Number.rb)|Easy|
+|:heavy_check_mark:|201|Bitwise AND of Numbers Range|[:us:](https://leetcode.com/problems/bitwise-and-of-numbers-range) [:cn:](https://leetcode.cn/problems/bitwise-and-of-numbers-range)|[rb](/0001-0500/0201.Bitwise%20AND%20of%20Numbers%20Range.rb)|Medium|
+|:heavy_check_mark:|200|Number of Islands|[:us:](https://leetcode.com/problems/number-of-islands) [:cn:](https://leetcode.cn/problems/number-of-islands)|[c](/0001-0500/0200.Number%20of%20Islands.c), [py](/0001-0500/0200.Number%20of%20Islands.py), [rb](/0001-0500/0200.Number%20of%20Islands.rb)|Medium|
+|:heavy_check_mark:|199|Binary Tree Right Side View|[:us:](https://leetcode.com/problems/binary-tree-right-side-view) [:cn:](https://leetcode.cn/problems/binary-tree-right-side-view)|[c](/0001-0500/0199.Binary%20Tree%20Right%20Side%20View.c)|Medium|
+|:heavy_check_mark:|198|House Robber|[:us:](https://leetcode.com/problems/house-robber) [:cn:](https://leetcode.cn/problems/house-robber)|[java](/0001-0500/0198.House%20Robber.java)|Medium|
+| sql |197|Rising Temperature|[:us:](https://leetcode.com/problems/rising-temperature) [:cn:](https://leetcode.cn/problems/rising-temperature)||Easy|
+| sql |196|Delete Duplicate Emails|[:us:](https://leetcode.com/problems/delete-duplicate-emails) [:cn:](https://leetcode.cn/problems/delete-duplicate-emails)||Easy|
+|:heavy_check_mark:|195|Tenth Line|[:us:](https://leetcode.com/problems/tenth-line) [:cn:](https://leetcode.cn/problems/tenth-line)|[sh](/0001-0500/0195.Tenth%20Line.sh)|Easy|
+|:heavy_check_mark:|194|Transpose File|[:us:](https://leetcode.com/problems/transpose-file) [:cn:](https://leetcode.cn/problems/transpose-file)|[sh](/0001-0500/0194.Transpose%20File.sh)|Medium|
+|:heavy_check_mark:|193|Valid Phone Numbers|[:us:](https://leetcode.com/problems/valid-phone-numbers) [:cn:](https://leetcode.cn/problems/valid-phone-numbers)|[sh](/0001-0500/0193.Valid%20Phone%20Numbers.sh)|Easy|
+|:heavy_check_mark:|192|Word Frequency|[:us:](https://leetcode.com/problems/word-frequency) [:cn:](https://leetcode.cn/problems/word-frequency)|[sh](/0001-0500/0192.Word%20Frequency.sh)|Medium|
+|:heavy_check_mark:|191|Number of 1 Bits|[:us:](https://leetcode.com/problems/number-of-1-bits) [:cn:](https://leetcode.cn/problems/number-of-1-bits)|[cpp](/0001-0500/0191.Number%20of%201%20Bits.cpp)|Easy|
+|:heavy_check_mark:|190|Reverse Bits|[:us:](https://leetcode.com/problems/reverse-bits) [:cn:](https://leetcode.cn/problems/reverse-bits)|[cpp](/0001-0500/0190.Reverse%20Bits.cpp), [java](/0001-0500/0190.Reverse%20Bits.java)|Easy|
+|:heavy_check_mark:|189|Rotate Array|[:us:](https://leetcode.com/problems/rotate-array) [:cn:](https://leetcode.cn/problems/rotate-array)|[java](/0001-0500/0189.Rotate%20Array.java)|Medium|
+|:heavy_check_mark:|188|Best Time to Buy and Sell Stock IV|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv)|[java](/0001-0500/0188.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java)|Hard|
+|:heavy_check_mark:|187|Repeated DNA Sequences|[:us:](https://leetcode.com/problems/repeated-dna-sequences) [:cn:](https://leetcode.cn/problems/repeated-dna-sequences)|[java](/0001-0500/0187.Repeated%20DNA%20Sequences.java)|Medium|
+|:lock:|186|Reverse Words in a String II|[:us:](https://leetcode.com/problems/reverse-words-in-a-string-ii) [:cn:](https://leetcode.cn/problems/reverse-words-in-a-string-ii)||Medium|
+| sql |185|Department Top Three Salaries|[:us:](https://leetcode.com/problems/department-top-three-salaries) [:cn:](https://leetcode.cn/problems/department-top-three-salaries)||Hard|
+| sql |184|Department Highest Salary|[:us:](https://leetcode.com/problems/department-highest-salary) [:cn:](https://leetcode.cn/problems/department-highest-salary)||Medium|
+|:heavy_check_mark: sql |183|Customers Who Never Order|[:us:](https://leetcode.com/problems/customers-who-never-order) [:cn:](https://leetcode.cn/problems/customers-who-never-order)|[sql](/0001-0500/0183.Customers%20Who%20Never%20Order.sql)|Easy|
+|:heavy_check_mark: sql |182|Duplicate Emails|[:us:](https://leetcode.com/problems/duplicate-emails) [:cn:](https://leetcode.cn/problems/duplicate-emails)|[sql](/0001-0500/0182.Duplicate%20Emails.sql)|Easy|
+|:heavy_check_mark: sql |181|Employees Earning More Than Their Managers|[:us:](https://leetcode.com/problems/employees-earning-more-than-their-managers) [:cn:](https://leetcode.cn/problems/employees-earning-more-than-their-managers)|[sql](/0001-0500/0181.Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|
+| sql |180|Consecutive Numbers|[:us:](https://leetcode.com/problems/consecutive-numbers) [:cn:](https://leetcode.cn/problems/consecutive-numbers)||Medium|
+|:heavy_check_mark:|179|Largest Number|[:us:](https://leetcode.com/problems/largest-number) [:cn:](https://leetcode.cn/problems/largest-number)|[py](/0001-0500/0179.Largest%20Number.py)|Medium|
+| sql |178|Rank Scores|[:us:](https://leetcode.com/problems/rank-scores) [:cn:](https://leetcode.cn/problems/rank-scores)||Medium|
+| sql |177|Nth Highest Salary|[:us:](https://leetcode.com/problems/nth-highest-salary) [:cn:](https://leetcode.cn/problems/nth-highest-salary)||Medium|
+| sql |176|Second Highest Salary|[:us:](https://leetcode.com/problems/second-highest-salary) [:cn:](https://leetcode.cn/problems/second-highest-salary)||Medium|
+|:heavy_check_mark: sql |175|Combine Two Tables|[:us:](https://leetcode.com/problems/combine-two-tables) [:cn:](https://leetcode.cn/problems/combine-two-tables)|[sql](/0001-0500/0175.Combine%20Two%20Tables.sql)|Easy|
+|:heavy_check_mark:|174|Dungeon Game|[:us:](https://leetcode.com/problems/dungeon-game) [:cn:](https://leetcode.cn/problems/dungeon-game)|[py](/0001-0500/0174.Dungeon%20Game.py)|Hard|
+|:heavy_check_mark:|173|Binary Search Tree Iterator|[:us:](https://leetcode.com/problems/binary-search-tree-iterator) [:cn:](https://leetcode.cn/problems/binary-search-tree-iterator)|[java](/0001-0500/0173.Binary%20Search%20Tree%20Iterator.java), [py](/0001-0500/0173.Binary%20Search%20Tree%20Iterator.py)|Medium|
+|:heavy_check_mark:|172|Factorial Trailing Zeroes|[:us:](https://leetcode.com/problems/factorial-trailing-zeroes) [:cn:](https://leetcode.cn/problems/factorial-trailing-zeroes)|[java](/0001-0500/0172.Factorial%20Trailing%20Zeroes.java), [py](/0001-0500/0172.Factorial%20Trailing%20Zeroes.py)|Medium|
+|:heavy_check_mark:|171|Excel Sheet Column Number|[:us:](https://leetcode.com/problems/excel-sheet-column-number) [:cn:](https://leetcode.cn/problems/excel-sheet-column-number)|[java](/0001-0500/0171.Excel%20Sheet%20Column%20Number.java), [py](/0001-0500/0171.Excel%20Sheet%20Column%20Number.py)|Easy|
+|:lock:|170|Two Sum III - Data structure design|[:us:](https://leetcode.com/problems/two-sum-iii-data-structure-design) [:cn:](https://leetcode.cn/problems/two-sum-iii-data-structure-design)||Easy|
+|:heavy_check_mark:|169|Majority Element|[:us:](https://leetcode.com/problems/majority-element) [:cn:](https://leetcode.cn/problems/majority-element)|[c](/0001-0500/0169.Majority%20Element.c), [rb](/0001-0500/0169.Majority%20Element.rb)|Easy|
+|:heavy_check_mark:|168|Excel Sheet Column Title|[:us:](https://leetcode.com/problems/excel-sheet-column-title) [:cn:](https://leetcode.cn/problems/excel-sheet-column-title)|[java](/0001-0500/0168.Excel%20Sheet%20Column%20Title.java), [py](/0001-0500/0168.Excel%20Sheet%20Column%20Title.py)|Easy|
+|:heavy_check_mark:|167|Two Sum II - Input Array Is Sorted|[:us:](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) [:cn:](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted)|[java](/0001-0500/0167.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|Medium|
+|:heavy_check_mark:|166|Fraction to Recurring Decimal|[:us:](https://leetcode.com/problems/fraction-to-recurring-decimal) [:cn:](https://leetcode.cn/problems/fraction-to-recurring-decimal)|[py](/0001-0500/0166.Fraction%20to%20Recurring%20Decimal.py)|Medium|
+|:heavy_check_mark:|165|Compare Version Numbers|[:us:](https://leetcode.com/problems/compare-version-numbers) [:cn:](https://leetcode.cn/problems/compare-version-numbers)|[java](/0001-0500/0165.Compare%20Version%20Numbers.java)|Medium|
+|:heavy_check_mark:|164|Maximum Gap|[:us:](https://leetcode.com/problems/maximum-gap) [:cn:](https://leetcode.cn/problems/maximum-gap)|[py](/0001-0500/0164.Maximum%20Gap.py)|Hard|
+|:lock:|163|Missing Ranges|[:us:](https://leetcode.com/problems/missing-ranges) [:cn:](https://leetcode.cn/problems/missing-ranges)||Easy|
+|:heavy_check_mark:|162|Find Peak Element|[:us:](https://leetcode.com/problems/find-peak-element) [:cn:](https://leetcode.cn/problems/find-peak-element)|[py](/0001-0500/0162.Find%20Peak%20Element.py)|Medium|
+|:lock:|161|One Edit Distance|[:us:](https://leetcode.com/problems/one-edit-distance) [:cn:](https://leetcode.cn/problems/one-edit-distance)||Medium|
+|:heavy_check_mark:|160|Intersection of Two Linked Lists|[:us:](https://leetcode.com/problems/intersection-of-two-linked-lists) [:cn:](https://leetcode.cn/problems/intersection-of-two-linked-lists)|[cpp](/0001-0500/0160.Intersection%20of%20Two%20Linked%20Lists.cpp)|Easy|
+|:lock:|159|Longest Substring with At Most Two Distinct Characters|[:us:](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) [:cn:](https://leetcode.cn/problems/longest-substring-with-at-most-two-distinct-characters)||Medium|
+|:lock:|158|Read N Characters Given read4 II - Call Multiple Times|[:us:](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) [:cn:](https://leetcode.cn/problems/read-n-characters-given-read4-ii-call-multiple-times)||Hard|
+|:heavy_check_mark::lock:|157|Read N Characters Given Read4|[:us:](https://leetcode.com/problems/read-n-characters-given-read4) [:cn:](https://leetcode.cn/problems/read-n-characters-given-read4)|[c](/0001-0500/0157.Read%20N%20Characters%20Given%20Read4.c)|Easy|
+|:lock:|156|Binary Tree Upside Down|[:us:](https://leetcode.com/problems/binary-tree-upside-down) [:cn:](https://leetcode.cn/problems/binary-tree-upside-down)||Medium|
+|:heavy_check_mark:|155|Min Stack|[:us:](https://leetcode.com/problems/min-stack) [:cn:](https://leetcode.cn/problems/min-stack)|[java](/0001-0500/0155.Min%20Stack.java), [rb](/0001-0500/0155.Min%20Stack.rb)|Medium|
+|:heavy_check_mark:|154|Find Minimum in Rotated Sorted Array II|[:us:](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) [:cn:](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii)|[java](/0001-0500/0154.Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|Hard|
+|:heavy_check_mark:|153|Find Minimum in Rotated Sorted Array|[:us:](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) [:cn:](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array)|[java](/0001-0500/0153.Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|Medium|
+|:heavy_check_mark:|152|Maximum Product Subarray|[:us:](https://leetcode.com/problems/maximum-product-subarray) [:cn:](https://leetcode.cn/problems/maximum-product-subarray)|[py](/0001-0500/0152.Maximum%20Product%20Subarray.py)|Medium|
+|:heavy_check_mark:|151|Reverse Words in a String|[:us:](https://leetcode.com/problems/reverse-words-in-a-string) [:cn:](https://leetcode.cn/problems/reverse-words-in-a-string)|[c](/0001-0500/0151.Reverse%20Words%20in%20a%20String.c)|Medium|
+|:heavy_check_mark:|150|Evaluate Reverse Polish Notation|[:us:](https://leetcode.com/problems/evaluate-reverse-polish-notation) [:cn:](https://leetcode.cn/problems/evaluate-reverse-polish-notation)|[java](/0001-0500/0150.Evaluate%20Reverse%20Polish%20Notation.java), [py](/0001-0500/0150.Evaluate%20Reverse%20Polish%20Notation.py)|Medium|
+|:heavy_check_mark:|149|Max Points on a Line|[:us:](https://leetcode.com/problems/max-points-on-a-line) [:cn:](https://leetcode.cn/problems/max-points-on-a-line)|[py](/0001-0500/0149.Max%20Points%20on%20a%20Line.py)|Hard|
+|:heavy_check_mark:|148|Sort List|[:us:](https://leetcode.com/problems/sort-list) [:cn:](https://leetcode.cn/problems/sort-list)|[cpp](/0001-0500/0148.Sort%20List.cpp)|Medium|
+|:heavy_check_mark:|147|Insertion Sort List|[:us:](https://leetcode.com/problems/insertion-sort-list) [:cn:](https://leetcode.cn/problems/insertion-sort-list)|[java](/0001-0500/0147.Insertion%20Sort%20List.java)|Medium|
+|:heavy_check_mark:|146|LRU Cache|[:us:](https://leetcode.com/problems/lru-cache) [:cn:](https://leetcode.cn/problems/lru-cache)|[java](/0001-0500/0146.LRU%20Cache.java), [rb](/0001-0500/0146.LRU%20Cache.rb)|Medium|
+|:heavy_check_mark:|145|Binary Tree Postorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-postorder-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-postorder-traversal)|[java](/0001-0500/0145.Binary%20Tree%20Postorder%20Traversal.java)|Easy|
+|:heavy_check_mark:|144|Binary Tree Preorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-preorder-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-preorder-traversal)|[ts](/0001-0500/0144.Binary%20Tree%20Preorder%20Traversal.ts)|Easy|
+|:heavy_check_mark:|143|Reorder List|[:us:](https://leetcode.com/problems/reorder-list) [:cn:](https://leetcode.cn/problems/reorder-list)|[py](/0001-0500/0143.Reorder%20List.py)|Medium|
+|:heavy_check_mark:|142|Linked List Cycle II|[:us:](https://leetcode.com/problems/linked-list-cycle-ii) [:cn:](https://leetcode.cn/problems/linked-list-cycle-ii)|[js](/0001-0500/0142.Linked%20List%20Cycle%20II.js)|Medium|
+|:heavy_check_mark:|141|Linked List Cycle|[:us:](https://leetcode.com/problems/linked-list-cycle) [:cn:](https://leetcode.cn/problems/linked-list-cycle)|[cpp](/0001-0500/0141.Linked%20List%20Cycle.cpp), [java](/0001-0500/0141.Linked%20List%20Cycle.java)|Easy|
+|:heavy_check_mark:|140|Word Break II|[:us:](https://leetcode.com/problems/word-break-ii) [:cn:](https://leetcode.cn/problems/word-break-ii)|[java](/0001-0500/0140.Word%20Break%20II.2.%28check%20by%20word%20size%29.java), [java](/0001-0500/0140.Word%20Break%20II.java)|Hard|
+|:heavy_check_mark:|139|Word Break|[:us:](https://leetcode.com/problems/word-break) [:cn:](https://leetcode.cn/problems/word-break)|[cpp](/0001-0500/0139.Word%20Break.cpp)|Medium|
+|:heavy_check_mark:|138|Copy List with Random Pointer|[:us:](https://leetcode.com/problems/copy-list-with-random-pointer) [:cn:](https://leetcode.cn/problems/copy-list-with-random-pointer)|[java](/0001-0500/0138.Copy%20List%20with%20Random%20Pointer.2.%28hashmap%20in%20one%20run%2C%20overflow%29.java), [java](/0001-0500/0138.Copy%20List%20with%20Random%20Pointer.java)|Medium|
+|:heavy_check_mark:|137|Single Number II|[:us:](https://leetcode.com/problems/single-number-ii) [:cn:](https://leetcode.cn/problems/single-number-ii)|[java](/0001-0500/0137.Single%20Number%20II.2.%28bitwise%29.java), [java](/0001-0500/0137.Single%20Number%20II.java), [rb](/0001-0500/0137.Single%20Number%20II.rb)|Medium|
+|:heavy_check_mark:|136|Single Number|[:us:](https://leetcode.com/problems/single-number) [:cn:](https://leetcode.cn/problems/single-number)|[java](/0001-0500/0136.Single%20Number.java), [py](/0001-0500/0136.Single%20Number.py), [rb](/0001-0500/0136.Single%20Number.rb)|Easy|
+|:heavy_check_mark:|135|Candy|[:us:](https://leetcode.com/problems/candy) [:cn:](https://leetcode.cn/problems/candy)|[c](/0001-0500/0135.Candy.c)|Hard|
+|:heavy_check_mark:|134|Gas Station|[:us:](https://leetcode.com/problems/gas-station) [:cn:](https://leetcode.cn/problems/gas-station)|[py](/0001-0500/0134.Gas%20Station.py)|Medium|
+|:heavy_check_mark:|133|Clone Graph|[:us:](https://leetcode.com/problems/clone-graph) [:cn:](https://leetcode.cn/problems/clone-graph)|[py](/0001-0500/0133.Clone%20Graph.py)|Medium|
+|:heavy_check_mark:|132|Palindrome Partitioning II|[:us:](https://leetcode.com/problems/palindrome-partitioning-ii) [:cn:](https://leetcode.cn/problems/palindrome-partitioning-ii)|[py](/0001-0500/0132.Palindrome%20Partitioning%20II.py)|Hard|
+|:heavy_check_mark:|131|Palindrome Partitioning|[:us:](https://leetcode.com/problems/palindrome-partitioning) [:cn:](https://leetcode.cn/problems/palindrome-partitioning)|[py](/0001-0500/0131.Palindrome%20Partitioning.py)|Medium|
+|:heavy_check_mark:|130|Surrounded Regions|[:us:](https://leetcode.com/problems/surrounded-regions) [:cn:](https://leetcode.cn/problems/surrounded-regions)|[java](/0001-0500/0130.Surrounded%20Regions.java), [rb](/0001-0500/0130.Surrounded%20Regions.rb)|Medium|
+|:heavy_check_mark:|129|Sum Root to Leaf Numbers|[:us:](https://leetcode.com/problems/sum-root-to-leaf-numbers) [:cn:](https://leetcode.cn/problems/sum-root-to-leaf-numbers)|[py](/0001-0500/0129.Sum%20Root%20to%20Leaf%20Numbers.py), [rb](/0001-0500/0129.Sum%20Root%20to%20Leaf%20Numbers.rb)|Medium|
+|:heavy_check_mark:|128|Longest Consecutive Sequence|[:us:](https://leetcode.com/problems/longest-consecutive-sequence) [:cn:](https://leetcode.cn/problems/longest-consecutive-sequence)|[java](/0001-0500/0128.Longest%20Consecutive%20Sequence.java)|Medium|
+|:heavy_check_mark:|127|Word Ladder|[:us:](https://leetcode.com/problems/word-ladder) [:cn:](https://leetcode.cn/problems/word-ladder)|[py](/0001-0500/0127.Word%20Ladder.py)|Hard|
+|:heavy_check_mark:|126|Word Ladder II|[:us:](https://leetcode.com/problems/word-ladder-ii) [:cn:](https://leetcode.cn/problems/word-ladder-ii)|[py](/0001-0500/0126.Word%20Ladder%20II.py)|Hard|
+|:heavy_check_mark:|125|Valid Palindrome|[:us:](https://leetcode.com/problems/valid-palindrome) [:cn:](https://leetcode.cn/problems/valid-palindrome)|[java](/0001-0500/0125.Valid%20Palindrome.java), [rb](/0001-0500/0125.Valid%20Palindrome.rb)|Easy|
+|:heavy_check_mark:|124|Binary Tree Maximum Path Sum|[:us:](https://leetcode.com/problems/binary-tree-maximum-path-sum) [:cn:](https://leetcode.cn/problems/binary-tree-maximum-path-sum)|[java](/0001-0500/0124.Binary%20Tree%20Maximum%20Path%20Sum.java), [py](/0001-0500/0124.Binary%20Tree%20Maximum%20Path%20Sum.py), [rb](/0001-0500/0124.Binary%20Tree%20Maximum%20Path%20Sum.2.rb), [rb](/0001-0500/0124.Binary%20Tree%20Maximum%20Path%20Sum.rb)|Hard|
+|:heavy_check_mark:|123|Best Time to Buy and Sell Stock III|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii)|[py](/0001-0500/0123.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.py)|Hard|
+|:heavy_check_mark:|122|Best Time to Buy and Sell Stock II|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii)|[rb](/0001-0500/0122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.rb)|Medium|
+|:heavy_check_mark:|121|Best Time to Buy and Sell Stock|[:us:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) [:cn:](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock)|[java](/0001-0500/0121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|Easy|
+|:heavy_check_mark:|120|Triangle|[:us:](https://leetcode.com/problems/triangle) [:cn:](https://leetcode.cn/problems/triangle)|[py](/0001-0500/0120.Triangle.py)|Medium|
+|:heavy_check_mark:|119|Pascal's Triangle II|[:us:](https://leetcode.com/problems/pascals-triangle-ii) [:cn:](https://leetcode.cn/problems/pascals-triangle-ii)|[cpp](/0001-0500/0119.Pascal%27s%20Triangle%20II.cpp), [py](/0001-0500/0119.Pascal%27s%20Triangle%20II.py)|Easy|
+|:heavy_check_mark:|118|Pascal's Triangle|[:us:](https://leetcode.com/problems/pascals-triangle) [:cn:](https://leetcode.cn/problems/pascals-triangle)|[cpp](/0001-0500/0118.Pascal%27s%20Triangle.cpp)|Easy|
+|:heavy_check_mark:|117|Populating Next Right Pointers in Each Node II|[:us:](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) [:cn:](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii)|[java](/0001-0500/0117.Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java)|Medium|
+|:heavy_check_mark:|116|Populating Next Right Pointers in Each Node|[:us:](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) [:cn:](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node)|[java](/0001-0500/0116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java)|Medium|
+|:heavy_check_mark:|115|Distinct Subsequences|[:us:](https://leetcode.com/problems/distinct-subsequences) [:cn:](https://leetcode.cn/problems/distinct-subsequences)|[py](/0001-0500/0115.Distinct%20Subsequences.py)|Hard|
+|:heavy_check_mark:|114|Flatten Binary Tree to Linked List|[:us:](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) [:cn:](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list)|[java](/0001-0500/0114.Flatten%20Binary%20Tree%20to%20Linked%20List.java)|Medium|
+|:heavy_check_mark:|113|Path Sum II|[:us:](https://leetcode.com/problems/path-sum-ii) [:cn:](https://leetcode.cn/problems/path-sum-ii)|[java](/0001-0500/0113.Path%20Sum%20II.java)|Medium|
+|:heavy_check_mark:|112|Path Sum|[:us:](https://leetcode.com/problems/path-sum) [:cn:](https://leetcode.cn/problems/path-sum)|[c](/0001-0500/0112.Path%20Sum.c)|Easy|
+|:heavy_check_mark:|111|Minimum Depth of Binary Tree|[:us:](https://leetcode.com/problems/minimum-depth-of-binary-tree) [:cn:](https://leetcode.cn/problems/minimum-depth-of-binary-tree)|[cpp](/0001-0500/0111.Minimum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
+|:heavy_check_mark:|110|Balanced Binary Tree|[:us:](https://leetcode.com/problems/balanced-binary-tree) [:cn:](https://leetcode.cn/problems/balanced-binary-tree)|[c](/0001-0500/0110.Balanced%20Binary%20Tree.c)|Easy|
+|:heavy_check_mark:|109|Convert Sorted List to Binary Search Tree|[:us:](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) [:cn:](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree)|[py](/0001-0500/0109.Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py)|Medium|
+|:heavy_check_mark:|108|Convert Sorted Array to Binary Search Tree|[:us:](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) [:cn:](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree)|[py](/0001-0500/0108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)|Easy|
+|:heavy_check_mark:|107|Binary Tree Level Order Traversal II|[:us:](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) [:cn:](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii)|[java](/0001-0500/0107.Binary%20Tree%20Level%20Order%20Traversal%20II.java), [rb](/0001-0500/0107.Binary%20Tree%20Level%20Order%20Traversal%20II.rb)|Medium|
+|:heavy_check_mark:|106|Construct Binary Tree from Inorder and Postorder Traversal|[:us:](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) [:cn:](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[py](/0001-0500/0106.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)|Medium|
+|:heavy_check_mark:|105|Construct Binary Tree from Preorder and Inorder Traversal|[:us:](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) [:cn:](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[java](/0001-0500/0105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java), [py](/0001-0500/0105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)|Medium|
+|:heavy_check_mark:|104|Maximum Depth of Binary Tree|[:us:](https://leetcode.com/problems/maximum-depth-of-binary-tree) [:cn:](https://leetcode.cn/problems/maximum-depth-of-binary-tree)|[java](/0001-0500/0104.Maximum%20Depth%20of%20Binary%20Tree.java)|Easy|
+|:heavy_check_mark:|103|Binary Tree Zigzag Level Order Traversal|[:us:](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal)|[java](/0001-0500/0103.Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java)|Medium|
+|:heavy_check_mark:|102|Binary Tree Level Order Traversal|[:us:](https://leetcode.com/problems/binary-tree-level-order-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-level-order-traversal)|[java](/0001-0500/0102.Binary%20Tree%20Level%20Order%20Traversal.java)|Medium|
+|:heavy_check_mark:|101|Symmetric Tree|[:us:](https://leetcode.com/problems/symmetric-tree) [:cn:](https://leetcode.cn/problems/symmetric-tree)|[java](/0001-0500/0101.Symmetric%20Tree.java)|Easy|
+|:heavy_check_mark:|100|Same Tree|[:us:](https://leetcode.com/problems/same-tree) [:cn:](https://leetcode.cn/problems/same-tree)|[java](/0001-0500/0100.Same%20Tree.java), [rb](/0001-0500/0100.Same%20Tree.rb)|Easy|
+|:heavy_check_mark:|99|Recover Binary Search Tree|[:us:](https://leetcode.com/problems/recover-binary-search-tree) [:cn:](https://leetcode.cn/problems/recover-binary-search-tree)|[py](/0001-0500/0099.Recover%20Binary%20Search%20Tree.py)|Medium|
+|:heavy_check_mark:|98|Validate Binary Search Tree|[:us:](https://leetcode.com/problems/validate-binary-search-tree) [:cn:](https://leetcode.cn/problems/validate-binary-search-tree)|[java](/0001-0500/0098.Validate%20Binary%20Search%20Tree.java)|Medium|
+|:heavy_check_mark:|97|Interleaving String|[:us:](https://leetcode.com/problems/interleaving-string) [:cn:](https://leetcode.cn/problems/interleaving-string)|[java](/0001-0500/0097.Interleaving%20String.java)|Medium|
+|:heavy_check_mark:|96|Unique Binary Search Trees|[:us:](https://leetcode.com/problems/unique-binary-search-trees) [:cn:](https://leetcode.cn/problems/unique-binary-search-trees)|[java](/0001-0500/0096.Unique%20Binary%20Search%20Trees.java), [py](/0001-0500/0096.Unique%20Binary%20Search%20Trees.py), [rb](/0001-0500/0096.Unique%20Binary%20Search%20Trees.rb)|Medium|
+|:heavy_check_mark:|95|Unique Binary Search Trees II|[:us:](https://leetcode.com/problems/unique-binary-search-trees-ii) [:cn:](https://leetcode.cn/problems/unique-binary-search-trees-ii)|[java](/0001-0500/0095.Unique%20Binary%20Search%20Trees%20II.java), [py](/0001-0500/0095.Unique%20Binary%20Search%20Trees%20II.py)|Medium|
+|:heavy_check_mark:|94|Binary Tree Inorder Traversal|[:us:](https://leetcode.com/problems/binary-tree-inorder-traversal) [:cn:](https://leetcode.cn/problems/binary-tree-inorder-traversal)|[py](/0001-0500/0094.Binary%20Tree%20Inorder%20Traversal.py)|Easy|
+|:heavy_check_mark:|93|Restore IP Addresses|[:us:](https://leetcode.com/problems/restore-ip-addresses) [:cn:](https://leetcode.cn/problems/restore-ip-addresses)|[java](/0001-0500/0093.Restore%20IP%20Addresses.java)|Medium|
+|:heavy_check_mark:|92|Reverse Linked List II|[:us:](https://leetcode.com/problems/reverse-linked-list-ii) [:cn:](https://leetcode.cn/problems/reverse-linked-list-ii)|[java](/0001-0500/0092.Reverse%20Linked%20List%20II.java)|Medium|
+|:heavy_check_mark:|91|Decode Ways|[:us:](https://leetcode.com/problems/decode-ways) [:cn:](https://leetcode.cn/problems/decode-ways)|[cpp](/0001-0500/0091.Decode%20Ways.cpp)|Medium|
+|:heavy_check_mark:|90|Subsets II|[:us:](https://leetcode.com/problems/subsets-ii) [:cn:](https://leetcode.cn/problems/subsets-ii)|[py](/0001-0500/0090.Subsets%20II.py), [rb](/0001-0500/0090.Subsets%20II.rb)|Medium|
+|:heavy_check_mark:|89|Gray Code|[:us:](https://leetcode.com/problems/gray-code) [:cn:](https://leetcode.cn/problems/gray-code)|[java](/0001-0500/0089.Gray%20Code.java), [py](/0001-0500/0089.Gray%20Code.2.py), [py](/0001-0500/0089.Gray%20Code.3.py), [py](/0001-0500/0089.Gray%20Code.py)|Medium|
+|:heavy_check_mark:|88|Merge Sorted Array|[:us:](https://leetcode.com/problems/merge-sorted-array) [:cn:](https://leetcode.cn/problems/merge-sorted-array)|[c](/0001-0500/0088.Merge%20Sorted%20Array.c), [py](/0001-0500/0088.Merge%20Sorted%20Array.py)|Easy|
+|:heavy_check_mark:|87|Scramble String|[:us:](https://leetcode.com/problems/scramble-string) [:cn:](https://leetcode.cn/problems/scramble-string)|[py](/0001-0500/0087.Scramble%20String.py)|Hard|
+|:heavy_check_mark:|86|Partition List|[:us:](https://leetcode.com/problems/partition-list) [:cn:](https://leetcode.cn/problems/partition-list)|[java](/0001-0500/0086.Partition%20List.java)|Medium|
+|:heavy_check_mark:|85|Maximal Rectangle|[:us:](https://leetcode.com/problems/maximal-rectangle) [:cn:](https://leetcode.cn/problems/maximal-rectangle)|[py](/0001-0500/0085.Maximal%20Rectangle.2.py), [py](/0001-0500/0085.Maximal%20Rectangle.py)|Hard|
+|:heavy_check_mark:|84|Largest Rectangle in Histogram|[:us:](https://leetcode.com/problems/largest-rectangle-in-histogram) [:cn:](https://leetcode.cn/problems/largest-rectangle-in-histogram)|[java](/0001-0500/0084.Largest%20Rectangle%20in%20Histogram.java), [py](/0001-0500/0084.Largest%20Rectangle%20in%20Histogram.py)|Hard|
+|:heavy_check_mark:|83|Remove Duplicates from Sorted List|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-list) [:cn:](https://leetcode.cn/problems/remove-duplicates-from-sorted-list)|[java](/0001-0500/0083.Remove%20Duplicates%20from%20Sorted%20List.java)|Easy|
+|:heavy_check_mark:|82|Remove Duplicates from Sorted List II|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) [:cn:](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii)|[java](/0001-0500/0082.Remove%20Duplicates%20from%20Sorted%20List%20II.java)|Medium|
+|:heavy_check_mark:|81|Search in Rotated Sorted Array II|[:us:](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) [:cn:](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii)|[py](/0001-0500/0081.Search%20in%20Rotated%20Sorted%20Array%20II.py)|Medium|
+|:heavy_check_mark:|80|Remove Duplicates from Sorted Array II|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) [:cn:](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii)|[java](/0001-0500/0080.Remove%20Duplicates%20from%20Sorted%20Array%20II.java), [py](/0001-0500/0080.Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|Medium|
+|:heavy_check_mark:|79|Word Search|[:us:](https://leetcode.com/problems/word-search) [:cn:](https://leetcode.cn/problems/word-search)|[java](/0001-0500/0079.Word%20Search.java)|Medium|
+|:heavy_check_mark:|78|Subsets|[:us:](https://leetcode.com/problems/subsets) [:cn:](https://leetcode.cn/problems/subsets)|[py](/0001-0500/0078.Subsets.py), [rb](/0001-0500/0078.Subsets.rb)|Medium|
+|:heavy_check_mark:|77|Combinations|[:us:](https://leetcode.com/problems/combinations) [:cn:](https://leetcode.cn/problems/combinations)|[java](/0001-0500/0077.Combinations.java)|Medium|
+|:heavy_check_mark:|76|Minimum Window Substring|[:us:](https://leetcode.com/problems/minimum-window-substring) [:cn:](https://leetcode.cn/problems/minimum-window-substring)|[py](/0001-0500/0076.Minimum%20Window%20Substring.2.py), [py](/0001-0500/0076.Minimum%20Window%20Substring.py)|Hard|
+|:heavy_check_mark:|75|Sort Colors|[:us:](https://leetcode.com/problems/sort-colors) [:cn:](https://leetcode.cn/problems/sort-colors)|[py](/0001-0500/0075.Sort%20Colors.py), [rb](/0001-0500/0075.Sort%20Colors.rb)|Medium|
+|:heavy_check_mark:|74|Search a 2D Matrix|[:us:](https://leetcode.com/problems/search-a-2d-matrix) [:cn:](https://leetcode.cn/problems/search-a-2d-matrix)|[c](/0001-0500/0074.Search%20a%202D%20Matrix.c), [py](/0001-0500/0074.Search%20a%202D%20Matrix.py)|Medium|
+|:heavy_check_mark:|73|Set Matrix Zeroes|[:us:](https://leetcode.com/problems/set-matrix-zeroes) [:cn:](https://leetcode.cn/problems/set-matrix-zeroes)|[cpp](/0001-0500/0073.Set%20Matrix%20Zeroes.cpp)|Medium|
+|:heavy_check_mark:|72|Edit Distance|[:us:](https://leetcode.com/problems/edit-distance) [:cn:](https://leetcode.cn/problems/edit-distance)|[py](/0001-0500/0072.Edit%20Distance.py), [rb](/0001-0500/0072.Edit%20Distance.rb)|Hard|
+|:heavy_check_mark:|71|Simplify Path|[:us:](https://leetcode.com/problems/simplify-path) [:cn:](https://leetcode.cn/problems/simplify-path)|[py](/0001-0500/0071.Simplify%20Path.py)|Medium|
+|:heavy_check_mark:|70|Climbing Stairs|[:us:](https://leetcode.com/problems/climbing-stairs) [:cn:](https://leetcode.cn/problems/climbing-stairs)|[java](/0001-0500/0070.Climbing%20Stairs.java), [py](/0001-0500/0070.Climbing%20Stairs.py)|Easy|
+|:heavy_check_mark:|69|Sqrt(x)|[:us:](https://leetcode.com/problems/sqrtx) [:cn:](https://leetcode.cn/problems/sqrtx)|[cpp](/0001-0500/0069.Sqrt%28x%29.cpp)|Easy|
+|:heavy_check_mark:|68|Text Justification|[:us:](https://leetcode.com/problems/text-justification) [:cn:](https://leetcode.cn/problems/text-justification)|[java](/0001-0500/0068.Text%20Justification.java)|Hard|
+|:heavy_check_mark:|67|Add Binary|[:us:](https://leetcode.com/problems/add-binary) [:cn:](https://leetcode.cn/problems/add-binary)|[py](/0001-0500/0067.Add%20Binary.py)|Easy|
+|:heavy_check_mark:|66|Plus One|[:us:](https://leetcode.com/problems/plus-one) [:cn:](https://leetcode.cn/problems/plus-one)|[py](/0001-0500/0066.Plus%20One.py), [rb](/0001-0500/0066.Plus%20One.rb)|Easy|
+|:heavy_check_mark:|65|Valid Number|[:us:](https://leetcode.com/problems/valid-number) [:cn:](https://leetcode.cn/problems/valid-number)|[py](/0001-0500/0065.Valid%20Number.py)|Hard|
+|:heavy_check_mark:|64|Minimum Path Sum|[:us:](https://leetcode.com/problems/minimum-path-sum) [:cn:](https://leetcode.cn/problems/minimum-path-sum)|[java](/0001-0500/0064.Minimum%20Path%20Sum.java), [py](/0001-0500/0064.Minimum%20Path%20Sum.py), [rb](/0001-0500/0064.Minimum%20Path%20Sum.rb)|Medium|
+|:heavy_check_mark:|63|Unique Paths II|[:us:](https://leetcode.com/problems/unique-paths-ii) [:cn:](https://leetcode.cn/problems/unique-paths-ii)|[java](/0001-0500/0063.Unique%20Paths%20II.java)|Medium|
+|:heavy_check_mark:|62|Unique Paths|[:us:](https://leetcode.com/problems/unique-paths) [:cn:](https://leetcode.cn/problems/unique-paths)|[py](/0001-0500/0062.Unique%20Paths.2.%28iterative%20addition%29.py), [py](/0001-0500/0062.Unique%20Paths.3.%28math%29.py), [py](/0001-0500/0062.Unique%20Paths.py), [rb](/0001-0500/0062.Unique%20Paths.rb)|Medium|
+|:heavy_check_mark:|61|Rotate List|[:us:](https://leetcode.com/problems/rotate-list) [:cn:](https://leetcode.cn/problems/rotate-list)|[java](/0001-0500/0061.Rotate%20List.java)|Medium|
+|:heavy_check_mark:|60|Permutation Sequence|[:us:](https://leetcode.com/problems/permutation-sequence) [:cn:](https://leetcode.cn/problems/permutation-sequence)|[rb](/0001-0500/0060.Permutation%20Sequence.rb)|Hard|
+|:heavy_check_mark:|59|Spiral Matrix II|[:us:](https://leetcode.com/problems/spiral-matrix-ii) [:cn:](https://leetcode.cn/problems/spiral-matrix-ii)|[py](/0001-0500/0059.Spiral%20Matrix%20II.py)|Medium|
+|:heavy_check_mark:|58|Length of Last Word|[:us:](https://leetcode.com/problems/length-of-last-word) [:cn:](https://leetcode.cn/problems/length-of-last-word)|[py](/0001-0500/0058.Length%20of%20Last%20Word.py)|Easy|
+|:heavy_check_mark:|57|Insert Interval|[:us:](https://leetcode.com/problems/insert-interval) [:cn:](https://leetcode.cn/problems/insert-interval)|[py](/0001-0500/0057.Insert%20Interval.py)|Medium|
+|:heavy_check_mark:|56|Merge Intervals|[:us:](https://leetcode.com/problems/merge-intervals) [:cn:](https://leetcode.cn/problems/merge-intervals)|[java](/0001-0500/0056.Merge%20Intervals.java), [py](/0001-0500/0056.Merge%20Intervals.py)|Medium|
+|:heavy_check_mark:|55|Jump Game|[:us:](https://leetcode.com/problems/jump-game) [:cn:](https://leetcode.cn/problems/jump-game)|[py](/0001-0500/0055.Jump%20Game.2.py), [py](/0001-0500/0055.Jump%20Game.py), [rb](/0001-0500/0055.Jump%20Game.rb)|Medium|
+|:heavy_check_mark:|54|Spiral Matrix|[:us:](https://leetcode.com/problems/spiral-matrix) [:cn:](https://leetcode.cn/problems/spiral-matrix)|[java](/0001-0500/0054.Spiral%20Matrix.java), [py](/0001-0500/0054.Spiral%20Matrix.py)|Medium|
+|:heavy_check_mark:|53|Maximum Subarray|[:us:](https://leetcode.com/problems/maximum-subarray) [:cn:](https://leetcode.cn/problems/maximum-subarray)|[cpp](/0001-0500/0053.Maximum%20Subarray.cpp), [py](/0001-0500/0053.Maximum%20Subarray.py), [rb](/0001-0500/0053.Maximum%20Subarray.rb)|Medium|
+|:heavy_check_mark:|52|N-Queens II|[:us:](https://leetcode.com/problems/n-queens-ii) [:cn:](https://leetcode.cn/problems/n-queens-ii)|[py](/0001-0500/0052.N-Queens%20II.py)|Hard|
+|:heavy_check_mark:|51|N-Queens|[:us:](https://leetcode.com/problems/n-queens) [:cn:](https://leetcode.cn/problems/n-queens)|[py](/0001-0500/0051.N-Queens.py)|Hard|
+|:heavy_check_mark:|50|Pow(x, n)|[:us:](https://leetcode.com/problems/powx-n) [:cn:](https://leetcode.cn/problems/powx-n)|[c](/0001-0500/0050.Pow%28x%2C%20n%29.c), [cpp](/0001-0500/0050.Pow%28x%2C%20n%29.cpp)|Medium|
+|:heavy_check_mark:|49|Group Anagrams|[:us:](https://leetcode.com/problems/group-anagrams) [:cn:](https://leetcode.cn/problems/group-anagrams)|[py](/0001-0500/0049.Group%20Anagrams.py), [rb](/0001-0500/0049.Group%20Anagrams.rb)|Medium|
+|:heavy_check_mark:|48|Rotate Image|[:us:](https://leetcode.com/problems/rotate-image) [:cn:](https://leetcode.cn/problems/rotate-image)|[c](/0001-0500/0048.Rotate%20Image.c), [py](/0001-0500/0048.Rotate%20Image.py)|Medium|
+|:heavy_check_mark:|47|Permutations II|[:us:](https://leetcode.com/problems/permutations-ii) [:cn:](https://leetcode.cn/problems/permutations-ii)|[py](/0001-0500/0047.Permutations%20II.py)|Medium|
+|:heavy_check_mark:|46|Permutations|[:us:](https://leetcode.com/problems/permutations) [:cn:](https://leetcode.cn/problems/permutations)|[py](/0001-0500/0046.Permutations.py)|Medium|
+|:heavy_check_mark:|45|Jump Game II|[:us:](https://leetcode.com/problems/jump-game-ii) [:cn:](https://leetcode.cn/problems/jump-game-ii)|[java](/0001-0500/0045.Jump%20Game%20II.java), [py](/0001-0500/0045.Jump%20Game%20II.py)|Medium|
+|:heavy_check_mark:|44|Wildcard Matching|[:us:](https://leetcode.com/problems/wildcard-matching) [:cn:](https://leetcode.cn/problems/wildcard-matching)|[py](/0001-0500/0044.Wildcard%20Matching.2.py), [py](/0001-0500/0044.Wildcard%20Matching.py)|Hard|
+|:heavy_check_mark:|43|Multiply Strings|[:us:](https://leetcode.com/problems/multiply-strings) [:cn:](https://leetcode.cn/problems/multiply-strings)|[py](/0001-0500/0043.Multiply%20Strings.py)|Medium|
+|:heavy_check_mark:|42|Trapping Rain Water|[:us:](https://leetcode.com/problems/trapping-rain-water) [:cn:](https://leetcode.cn/problems/trapping-rain-water)|[py](/0001-0500/0042.Trapping%20Rain%20Water.2.py), [py](/0001-0500/0042.Trapping%20Rain%20Water.py)|Hard|
+|:heavy_check_mark:|41|First Missing Positive|[:us:](https://leetcode.com/problems/first-missing-positive) [:cn:](https://leetcode.cn/problems/first-missing-positive)|[py](/0001-0500/0041.First%20Missing%20Positive.py), [rb](/0001-0500/0041.First%20Missing%20Positive.rb)|Hard|
+|:heavy_check_mark:|40|Combination Sum II|[:us:](https://leetcode.com/problems/combination-sum-ii) [:cn:](https://leetcode.cn/problems/combination-sum-ii)|[py](/0001-0500/0040.Combination%20Sum%20II.py)|Medium|
+|:heavy_check_mark:|39|Combination Sum|[:us:](https://leetcode.com/problems/combination-sum) [:cn:](https://leetcode.cn/problems/combination-sum)|[py](/0001-0500/0039.Combination%20Sum.%28dynamic%20programming%29.py), [py](/0001-0500/0039.Combination%20Sum.py)|Medium|
+|:heavy_check_mark:|38|Count and Say|[:us:](https://leetcode.com/problems/count-and-say) [:cn:](https://leetcode.cn/problems/count-and-say)|[java](/0001-0500/0038.Count%20and%20Say.java), [py](/0001-0500/0038.Count%20and%20Say.py)|Medium|
+|:heavy_check_mark:|37|Sudoku Solver|[:us:](https://leetcode.com/problems/sudoku-solver) [:cn:](https://leetcode.cn/problems/sudoku-solver)|[java](/0001-0500/0037.Sudoku%20Solver.2.%28bitwise%20and%20prune%29.java), [java](/0001-0500/0037.Sudoku%20Solver.java), [py](/0001-0500/0037.Sudoku%20Solver.py)|Hard|
+|:heavy_check_mark:|36|Valid Sudoku|[:us:](https://leetcode.com/problems/valid-sudoku) [:cn:](https://leetcode.cn/problems/valid-sudoku)|[py](/0001-0500/0036.Valid%20Sudoku.py)|Medium|
+|:heavy_check_mark:|35|Search Insert Position|[:us:](https://leetcode.com/problems/search-insert-position) [:cn:](https://leetcode.cn/problems/search-insert-position)|[cpp](/0001-0500/0035.Search%20Insert%20Position.cpp), [rb](/0001-0500/0035.Search%20Insert%20Position.rb)|Easy|
+|:heavy_check_mark:|34|Find First and Last Position of Element in Sorted Array|[:us:](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) [:cn:](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array)|[java](/0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java), [py](/0001-0500/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
+|:heavy_check_mark:|33|Search in Rotated Sorted Array|[:us:](https://leetcode.com/problems/search-in-rotated-sorted-array) [:cn:](https://leetcode.cn/problems/search-in-rotated-sorted-array)|[java](/0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.java), [rb](/0001-0500/0033.Search%20in%20Rotated%20Sorted%20Array.rb)|Medium|
+|:heavy_check_mark:|32|Longest Valid Parentheses|[:us:](https://leetcode.com/problems/longest-valid-parentheses) [:cn:](https://leetcode.cn/problems/longest-valid-parentheses)|[py](/0001-0500/0032.Longest%20Valid%20Parentheses.py)|Hard|
+|:heavy_check_mark:|31|Next Permutation|[:us:](https://leetcode.com/problems/next-permutation) [:cn:](https://leetcode.cn/problems/next-permutation)|[py](/0001-0500/0031.Next%20Permutation.py)|Medium|
+|:heavy_check_mark:|30|Substring with Concatenation of All Words|[:us:](https://leetcode.com/problems/substring-with-concatenation-of-all-words) [:cn:](https://leetcode.cn/problems/substring-with-concatenation-of-all-words)|[py](/0001-0500/0030.Substring%20with%20Concatenation%20of%20All%20Words.py)|Hard|
+|:heavy_check_mark:|29|Divide Two Integers|[:us:](https://leetcode.com/problems/divide-two-integers) [:cn:](https://leetcode.cn/problems/divide-two-integers)|[java](/0001-0500/0029.Divide%20Two%20Integers.java)|Medium|
+|:heavy_check_mark:|28|Find the Index of the First Occurrence in a String|[:us:](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) [:cn:](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string)|[py](/0001-0500/0028.Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.%28KMP%29.py)|Easy|
+|:heavy_check_mark:|27|Remove Element|[:us:](https://leetcode.com/problems/remove-element) [:cn:](https://leetcode.cn/problems/remove-element)|[py](/0001-0500/0027.Remove%20Element.2.py), [py](/0001-0500/0027.Remove%20Element.py)|Easy|
+|:heavy_check_mark:|26|Remove Duplicates from Sorted Array|[:us:](https://leetcode.com/problems/remove-duplicates-from-sorted-array) [:cn:](https://leetcode.cn/problems/remove-duplicates-from-sorted-array)|[java](/0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.java), [py](/0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.1.py), [py](/0001-0500/0026.Remove%20Duplicates%20from%20Sorted%20Array.2.py)|Easy|
+|:heavy_check_mark:|25|Reverse Nodes in k-Group|[:us:](https://leetcode.com/problems/reverse-nodes-in-k-group) [:cn:](https://leetcode.cn/problems/reverse-nodes-in-k-group)|[java](/0001-0500/0025.Reverse%20Nodes%20in%20k-Group.java)|Hard|
+|:heavy_check_mark:|24|Swap Nodes in Pairs|[:us:](https://leetcode.com/problems/swap-nodes-in-pairs) [:cn:](https://leetcode.cn/problems/swap-nodes-in-pairs)|[c](/0001-0500/0024.Swap%20Nodes%20in%20Pairs.c)|Medium|
+|:heavy_check_mark:|23|Merge k Sorted Lists|[:us:](https://leetcode.com/problems/merge-k-sorted-lists) [:cn:](https://leetcode.cn/problems/merge-k-sorted-lists)|[c](/0001-0500/0023.Merge%20k%20Sorted%20Lists.c), [py](/0001-0500/0023.Merge%20k%20Sorted%20Lists.py)|Hard|
+|:heavy_check_mark:|22|Generate Parentheses|[:us:](https://leetcode.com/problems/generate-parentheses) [:cn:](https://leetcode.cn/problems/generate-parentheses)|[py](/0001-0500/0022.Generate%20Parentheses.py)|Medium|
+|:heavy_check_mark:|21|Merge Two Sorted Lists|[:us:](https://leetcode.com/problems/merge-two-sorted-lists) [:cn:](https://leetcode.cn/problems/merge-two-sorted-lists)|[py](/0001-0500/0021.Merge%20Two%20Sorted%20Lists.py)|Easy|
+|:heavy_check_mark:|20|Valid Parentheses|[:us:](https://leetcode.com/problems/valid-parentheses) [:cn:](https://leetcode.cn/problems/valid-parentheses)|[cpp](/0001-0500/0020.Valid%20Parentheses.cpp)|Easy|
+|:heavy_check_mark:|19|Remove Nth Node From End of List|[:us:](https://leetcode.com/problems/remove-nth-node-from-end-of-list) [:cn:](https://leetcode.cn/problems/remove-nth-node-from-end-of-list)|[c](/0001-0500/0019.Remove%20Nth%20Node%20From%20End%20of%20List.2.c), [c](/0001-0500/0019.Remove%20Nth%20Node%20From%20End%20of%20List.c)|Medium|
+|:heavy_check_mark:|18|4Sum|[:us:](https://leetcode.com/problems/4sum) [:cn:](https://leetcode.cn/problems/4sum)|[py](/0001-0500/0018.4Sum.py)|Medium|
+|:heavy_check_mark:|17|Letter Combinations of a Phone Number|[:us:](https://leetcode.com/problems/letter-combinations-of-a-phone-number) [:cn:](https://leetcode.cn/problems/letter-combinations-of-a-phone-number)|[py](/0001-0500/0017.Letter%20Combinations%20of%20a%20Phone%20Number.py)|Medium|
+|:heavy_check_mark:|16|3Sum Closest|[:us:](https://leetcode.com/problems/3sum-closest) [:cn:](https://leetcode.cn/problems/3sum-closest)|[py](/0001-0500/0016.3Sum%20Closest.py)|Medium|
+|:heavy_check_mark:|15|3Sum|[:us:](https://leetcode.com/problems/3sum) [:cn:](https://leetcode.cn/problems/3sum)|[py](/0001-0500/0015.3Sum.2.py), [py](/0001-0500/0015.3Sum.py)|Medium|
+|:heavy_check_mark:|14|Longest Common Prefix|[:us:](https://leetcode.com/problems/longest-common-prefix) [:cn:](https://leetcode.cn/problems/longest-common-prefix)|[py](/0001-0500/0014.Longest%20Common%20Prefix.py)|Easy|
+|:heavy_check_mark:|13|Roman to Integer|[:us:](https://leetcode.com/problems/roman-to-integer) [:cn:](https://leetcode.cn/problems/roman-to-integer)|[cpp](/0001-0500/0013.Roman%20to%20Integer.cpp)|Easy|
+|:heavy_check_mark:|12|Integer to Roman|[:us:](https://leetcode.com/problems/integer-to-roman) [:cn:](https://leetcode.cn/problems/integer-to-roman)|[java](/0001-0500/0012.Integer%20to%20Roman.java)|Medium|
+|:heavy_check_mark:|11|Container With Most Water|[:us:](https://leetcode.com/problems/container-with-most-water) [:cn:](https://leetcode.cn/problems/container-with-most-water)|[py](/0001-0500/0011.Container%20With%20Most%20Water.py)|Medium|
+|:heavy_check_mark:|10|Regular Expression Matching|[:us:](https://leetcode.com/problems/regular-expression-matching) [:cn:](https://leetcode.cn/problems/regular-expression-matching)|[java](/0001-0500/0010.Regular%20Expression%20Matching.java)|Hard|
+|:heavy_check_mark:|9|Palindrome Number|[:us:](https://leetcode.com/problems/palindrome-number) [:cn:](https://leetcode.cn/problems/palindrome-number)|[c](/0001-0500/0009.Palindrome%20Number.2.c), [c](/0001-0500/0009.Palindrome%20Number.c)|Easy|
+|:heavy_check_mark:|8|String to Integer (atoi)|[:us:](https://leetcode.com/problems/string-to-integer-atoi) [:cn:](https://leetcode.cn/problems/string-to-integer-atoi)|[java](/0001-0500/0008.String%20to%20Integer%20%28atoi%29.java)|Medium|
+|:heavy_check_mark:|7|Reverse Integer|[:us:](https://leetcode.com/problems/reverse-integer) [:cn:](https://leetcode.cn/problems/reverse-integer)|[c](/0001-0500/0007.Reverse%20Integer.c)|Medium|
+|:heavy_check_mark:|6|Zigzag Conversion|[:us:](https://leetcode.com/problems/zigzag-conversion) [:cn:](https://leetcode.cn/problems/zigzag-conversion)|[c](/0001-0500/0006.Zigzag%20Conversion.c)|Medium|
+|:heavy_check_mark:|5|Longest Palindromic Substring|[:us:](https://leetcode.com/problems/longest-palindromic-substring) [:cn:](https://leetcode.cn/problems/longest-palindromic-substring)|[c](/0001-0500/0005.Longest%20Palindromic%20Substring.c), [java](/0001-0500/0005.Longest%20Palindromic%20Substring.java), [py](/0001-0500/0005.Longest%20Palindromic%20Substring.py), [ts](/0001-0500/0005.Longest%20Palindromic%20Substring.ts)|Medium|
+|:heavy_check_mark:|4|Median of Two Sorted Arrays|[:us:](https://leetcode.com/problems/median-of-two-sorted-arrays) [:cn:](https://leetcode.cn/problems/median-of-two-sorted-arrays)|[c](/0001-0500/0004.Median%20of%20Two%20Sorted%20Arrays.c)|Hard|
+|:heavy_check_mark:|3|Longest Substring Without Repeating Characters|[:us:](https://leetcode.com/problems/longest-substring-without-repeating-characters) [:cn:](https://leetcode.cn/problems/longest-substring-without-repeating-characters)|[c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.c), [c](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.c), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.2.py), [py](/0001-0500/0003.Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
+|:heavy_check_mark:|2|Add Two Numbers|[:us:](https://leetcode.com/problems/add-two-numbers) [:cn:](https://leetcode.cn/problems/add-two-numbers)|[c](/0001-0500/0002.Add%20Two%20Numbers.c), [py](/0001-0500/0002.Add%20Two%20Numbers.py)|Medium|
+|:heavy_check_mark:|1|Two Sum|[:us:](https://leetcode.com/problems/two-sum) [:cn:](https://leetcode.cn/problems/two-sum)|[c](/0001-0500/0001.Two%20Sum.c), [java](/0001-0500/0001.Two%20Sum.java), [py](/0001-0500/0001.Two%20Sum.py)|Easy|
+|:heavy_check_mark:|DD-2019001|排列小球|[:cn:](https://leetcode.cn/problems/FHnt4H)|[py](/DD/DD-2019001.%E6%8E%92%E5%88%97%E5%B0%8F%E7%90%83.py)|Easy|
+|:heavy_check_mark:|DD-2020006|简单游戏|[:cn:](https://leetcode.cn/problems/1zD30O)|[py](/DD/DD-2020006.%E7%AE%80%E5%8D%95%E6%B8%B8%E6%88%8F.py)|Easy|
+|:heavy_check_mark:|LCP 01|Guess Numbers|[:cn:](https://leetcode.cn/problems/guess-numbers)|[py](/LCP/LCP%2001.Guess%20Numbers.py)|Easy|
+|:heavy_check_mark:|LCP 02|Deep Dark Fraction|[:cn:](https://leetcode.cn/problems/deep-dark-fraction)|[java](/LCP/LCP%2002.Deep%20Dark%20Fraction.java)|Easy|
+||LCP 03|Programmable Robot|[:cn:](https://leetcode.cn/problems/programmable-robot)||Medium|
+||LCP 04|Broken Board Dominoes|[:cn:](https://leetcode.cn/problems/broken-board-dominoes)||Hard|
+||LCP 05|Coin Bonus|[:cn:](https://leetcode.cn/problems/coin-bonus)||Hard|
+|:heavy_check_mark:|LCP 06|拿硬币|[:cn:](https://leetcode.cn/problems/na-ying-bi)|[py](/LCP/LCP%2006.%E6%8B%BF%E7%A1%AC%E5%B8%81.py)|Easy|
+|:heavy_check_mark:|LCP 07|传递信息|[:cn:](https://leetcode.cn/problems/chuan-di-xin-xi)|[py](/LCP/LCP%2007.%E4%BC%A0%E9%80%92%E4%BF%A1%E6%81%AF.py)|Easy|
+||LCP 08|剧情触发时间|[:cn:](https://leetcode.cn/problems/ju-qing-hong-fa-shi-jian)||Medium|
+||LCP 09|最小跳跃次数|[:cn:](https://leetcode.cn/problems/zui-xiao-tiao-yue-ci-shu)||Hard|
+||LCP 10|二叉树任务调度|[:cn:](https://leetcode.cn/problems/er-cha-shu-ren-wu-diao-du)||Hard|
+||LCP 11|期望个数统计|[:cn:](https://leetcode.cn/problems/qi-wang-ge-shu-tong-ji)||Easy|
+||LCP 12|小张刷题计划|[:cn:](https://leetcode.cn/problems/xiao-zhang-shua-ti-ji-hua)||Medium|
+||LCP 13|寻宝|[:cn:](https://leetcode.cn/problems/xun-bao)||Hard|
+||LCP 14|切分数组|[:cn:](https://leetcode.cn/problems/qie-fen-shu-zu)||Hard|
+||LCP 15|游乐园的迷宫|[:cn:](https://leetcode.cn/problems/you-le-yuan-de-mi-gong)||Hard|
+||LCP 16|游乐园的游览计划|[:cn:](https://leetcode.cn/problems/you-le-yuan-de-you-lan-ji-hua)||Hard|
+||LCP 17|速算机器人|[:cn:](https://leetcode.cn/problems/nGK0Fy)||Easy|
+|:heavy_check_mark:|LCP 18|早餐组合|[:cn:](https://leetcode.cn/problems/2vYnGI)|[py](/LCP/LCP%2018.%E6%97%A9%E9%A4%90%E7%BB%84%E5%90%88.py)|Easy|
+||LCP 19|秋叶收藏集|[:cn:](https://leetcode.cn/problems/UlBDOe)||Medium|
+||LCP 20|快速公交|[:cn:](https://leetcode.cn/problems/meChtZ)||Hard|
+||LCP 21|追逐游戏|[:cn:](https://leetcode.cn/problems/Za25hA)||Hard|
+||LCP 22|黑白方格画|[:cn:](https://leetcode.cn/problems/ccw6C7)||Easy|
+||LCP 23|魔术排列|[:cn:](https://leetcode.cn/problems/er94lq)||Medium|
+||LCP 24|数字游戏|[:cn:](https://leetcode.cn/problems/5TxKeK)||Hard|
+||LCP 25|古董键盘|[:cn:](https://leetcode.cn/problems/Uh984O)||Hard|
+||LCP 26|导航装置|[:cn:](https://leetcode.cn/problems/hSRGyL)||Hard|
+||LCP 27|黑盒光线反射|[:cn:](https://leetcode.cn/problems/IQvJ9i)||Hard|
+||LCP 28|采购方案|[:cn:](https://leetcode.cn/problems/4xy4Wx)||Easy|
+||LCP 29|乐团站位|[:cn:](https://leetcode.cn/problems/SNJvJP)||Medium|
+||LCP 30|魔塔游戏|[:cn:](https://leetcode.cn/problems/p0NxJO)||Medium|
+||LCP 31|变换的迷宫|[:cn:](https://leetcode.cn/problems/Db3wC1)||Hard|
+||LCP 32|批量处理任务|[:cn:](https://leetcode.cn/problems/t3fKg1)||Hard|
+||LCP 33|蓄水|[:cn:](https://leetcode.cn/problems/o8SXZn)||Easy|
+||LCP 34|二叉树染色|[:cn:](https://leetcode.cn/problems/er-cha-shu-ran-se-UGC)||Medium|
+||LCP 35|电动车游城市|[:cn:](https://leetcode.cn/problems/DFPeFJ)||Hard|
+||LCP 36|最多牌组数|[:cn:](https://leetcode.cn/problems/Up5XYM)||Hard|
+||LCP 37|最小矩形面积|[:cn:](https://leetcode.cn/problems/zui-xiao-ju-xing-mian-ji)||Hard|
+||LCP 38|守卫城堡|[:cn:](https://leetcode.cn/problems/7rLGCR)||Hard|
+||LCP 39|无人机方阵|[:cn:](https://leetcode.cn/problems/0jQkd0)||Easy|
+||LCP 40|心算挑战|[:cn:](https://leetcode.cn/problems/uOAnQW)||Easy|
+||LCP 41|黑白翻转棋|[:cn:](https://leetcode.cn/problems/fHi6rV)||Medium|
+||LCP 42|玩具套圈|[:cn:](https://leetcode.cn/problems/vFjcfV)||Hard|
+||LCP 43|十字路口的交通|[:cn:](https://leetcode.cn/problems/Y1VbOX)||Hard|
+||LCP 44|开幕式焰火|[:cn:](https://leetcode.cn/problems/sZ59z6)||Easy|
+||LCP 45|自行车炫技赛场|[:cn:](https://leetcode.cn/problems/kplEvH)||Medium|
+||LCP 46|志愿者调配|[:cn:](https://leetcode.cn/problems/05ZEDJ)||Medium|
+||LCP 47|入场安检|[:cn:](https://leetcode.cn/problems/oPs9Bm)||Hard|
+||LCP 48|无限棋局|[:cn:](https://leetcode.cn/problems/fsa7oZ)||Hard|
+||LCP 49|环形闯关游戏|[:cn:](https://leetcode.cn/problems/K8GULz)||Hard|
+||LCP 50|宝石补给|[:cn:](https://leetcode.cn/problems/WHnhjV)||Easy|
+||LCP 51|烹饪料理|[:cn:](https://leetcode.cn/problems/UEcfPD)||Easy|
+||LCP 52|二叉搜索树染色|[:cn:](https://leetcode.cn/problems/QO5KpG)||Medium|
+||LCP 53|守护太空城|[:cn:](https://leetcode.cn/problems/EJvmW4)||Hard|
+||LCP 54|夺回据点|[:cn:](https://leetcode.cn/problems/s5kipK)||Hard|
+||LCP 55|采集果实|[:cn:](https://leetcode.cn/problems/PTXy4P)||Easy|
+||LCP 56|信物传送|[:cn:](https://leetcode.cn/problems/6UEx57)||Medium|
+||LCP 57|打地鼠|[:cn:](https://leetcode.cn/problems/ZbAuEH)||Hard|
+||LCP 58|积木拼接|[:cn:](https://leetcode.cn/problems/De4qBB)||Hard|
+||LCP 59|搭桥过河|[:cn:](https://leetcode.cn/problems/NfY1m5)||Hard|
+||LCP 60|力扣泡泡龙|[:cn:](https://leetcode.cn/problems/WInSav)||Hard|
+||LCP 61|气温变化趋势|[:cn:](https://leetcode.cn/problems/6CE719)||Easy|
+||LCP 62|交通枢纽|[:cn:](https://leetcode.cn/problems/D9PW8w)||Medium|
+||LCP 63|弹珠游戏|[:cn:](https://leetcode.cn/problems/EXvqDp)||Medium|
+||LCP 64|二叉树灯饰|[:cn:](https://leetcode.cn/problems/U7WvvU)||Medium|
+||LCP 65|舒适的湿度|[:cn:](https://leetcode.cn/problems/3aqs1c)||Hard|
+||LCP 66|最小展台数量|[:cn:](https://leetcode.cn/problems/600YaG)||Easy|
+||LCP 67|装饰树|[:cn:](https://leetcode.cn/problems/KnLfVT)||Medium|
+||LCP 68|美观的花束|[:cn:](https://leetcode.cn/problems/1GxJYY)||Medium|
+||LCP 69|Hello LeetCode!|[:cn:](https://leetcode.cn/problems/rMeRt2)||Hard|
+||LCP 70|沙地治理|[:cn:](https://leetcode.cn/problems/XxZZjK)||Hard|
+||LCP 71|集水器|[:cn:](https://leetcode.cn/problems/kskhHQ)||Hard|
+||LCP 72|补给马车|[:cn:](https://leetcode.cn/problems/hqCnmP)||Easy|
+||LCP 73|探险营地|[:cn:](https://leetcode.cn/problems/0Zeoeg)||Medium|
+||LCP 74|最强祝福力场|[:cn:](https://leetcode.cn/problems/xepqZ5)||Medium|
+||LCP 75|传送卷轴|[:cn:](https://leetcode.cn/problems/rdmXM7)||Hard|
+||LCP 76|魔法棋盘|[:cn:](https://leetcode.cn/problems/1ybDKD)||Hard|
+||LCP 77|符文储备|[:cn:](https://leetcode.cn/problems/W2ZX4X)||Easy|
+||LCP 78|城墙防线|[:cn:](https://leetcode.cn/problems/Nsibyl)||Medium|
+||LCP 79|提取咒文|[:cn:](https://leetcode.cn/problems/kjpLFZ)||Medium|
+||LCP 80|生物进化录|[:cn:](https://leetcode.cn/problems/qoQAMX)||Hard|
+||LCP 81|与非的谜题|[:cn:](https://leetcode.cn/problems/ryfUiz)||Hard|
+||LCP 82|万灵之树|[:cn:](https://leetcode.cn/problems/cnHoX6)||Hard|
+||LCR 001|两数相除|[:cn:](https://leetcode.cn/problems/xoh6Oh)||Easy|
+||LCR 002|二进制求和|[:cn:](https://leetcode.cn/problems/JFETK5)||Easy|
+||LCR 003|比特位计数|[:cn:](https://leetcode.cn/problems/w3tCBm)||Easy|
+||LCR 004|只出现一次的数字 II|[:cn:](https://leetcode.cn/problems/WGki4K)||Medium|
+||LCR 005|最大单词长度乘积|[:cn:](https://leetcode.cn/problems/aseY1I)||Medium|
+|:heavy_check_mark:|LCR 006|两数之和 II - 输入有序数组|[:cn:](https://leetcode.cn/problems/kLl5u1)|[ts](/LCR/LCR%20006.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.ts)|Easy|
+||LCR 007|三数之和|[:cn:](https://leetcode.cn/problems/1fGaJU)||Medium|
+||LCR 008|长度最小的子数组|[:cn:](https://leetcode.cn/problems/2VG8Kg)||Medium|
+||LCR 009|乘积小于 K 的子数组|[:cn:](https://leetcode.cn/problems/ZVAVXX)||Medium|
+||LCR 010|和为 K 的子数组|[:cn:](https://leetcode.cn/problems/QTMn0o)||Medium|
+||LCR 011|连续数组|[:cn:](https://leetcode.cn/problems/A1NYOS)||Medium|
+||LCR 012|寻找数组的中心下标|[:cn:](https://leetcode.cn/problems/tvdfij)||Easy|
+||LCR 013|二维区域和检索 - 矩阵不可变|[:cn:](https://leetcode.cn/problems/O4NDxx)||Medium|
+||LCR 014|字符串的排列|[:cn:](https://leetcode.cn/problems/MPnaiL)||Medium|
+||LCR 015|找到字符串中所有字母异位词|[:cn:](https://leetcode.cn/problems/VabMRr)||Medium|
+||LCR 016|无重复字符的最长子串|[:cn:](https://leetcode.cn/problems/wtcaE1)||Medium|
+||LCR 017|最小覆盖子串|[:cn:](https://leetcode.cn/problems/M1oyTv)||Hard|
+||LCR 018|验证回文串|[:cn:](https://leetcode.cn/problems/XltzEq)||Easy|
+||LCR 019|验证回文串 II|[:cn:](https://leetcode.cn/problems/RQku0D)||Easy|
+||LCR 020|回文子串|[:cn:](https://leetcode.cn/problems/a7VOhD)||Medium|
+||LCR 021|删除链表的倒数第 N 个结点|[:cn:](https://leetcode.cn/problems/SLwz0R)||Medium|
+||LCR 022|环形链表 II|[:cn:](https://leetcode.cn/problems/c32eOV)||Medium|
+||LCR 023|相交链表|[:cn:](https://leetcode.cn/problems/3u1WK4)||Easy|
+||LCR 024|反转链表|[:cn:](https://leetcode.cn/problems/UHnkqh)||Easy|
+||LCR 025|两数相加 II|[:cn:](https://leetcode.cn/problems/lMSNwu)||Medium|
+||LCR 026|重排链表|[:cn:](https://leetcode.cn/problems/LGjMqU)||Medium|
+||LCR 027|回文链表|[:cn:](https://leetcode.cn/problems/aMhZSa)||Easy|
+||LCR 028|扁平化多级双向链表|[:cn:](https://leetcode.cn/problems/Qv1Da2)||Medium|
+||LCR 029|循环有序列表的插入|[:cn:](https://leetcode.cn/problems/4ueAj6)||Medium|
+||LCR 030|O(1) 时间插入、删除和获取随机元素|[:cn:](https://leetcode.cn/problems/FortPu)||Medium|
+||LCR 031|LRU 缓存|[:cn:](https://leetcode.cn/problems/OrIXps)||Medium|
+||LCR 032|有效的字母异位词|[:cn:](https://leetcode.cn/problems/dKk3P7)||Easy|
+||LCR 033|字母异位词分组|[:cn:](https://leetcode.cn/problems/sfvd7V)||Medium|
+||LCR 034|验证外星语词典|[:cn:](https://leetcode.cn/problems/lwyVBB)||Easy|
+||LCR 035|最小时间差|[:cn:](https://leetcode.cn/problems/569nqc)||Medium|
+||LCR 036|逆波兰表达式求值|[:cn:](https://leetcode.cn/problems/8Zf90G)||Medium|
+||LCR 037|行星碰撞|[:cn:](https://leetcode.cn/problems/XagZNi)||Medium|
+||LCR 038|每日温度|[:cn:](https://leetcode.cn/problems/iIQa4I)||Medium|
+||LCR 039|柱状图中最大的矩形|[:cn:](https://leetcode.cn/problems/0ynMMM)||Hard|
+||LCR 040|最大矩形|[:cn:](https://leetcode.cn/problems/PLYXKQ)||Hard|
+||LCR 041|数据流中的移动平均值|[:cn:](https://leetcode.cn/problems/qIsx9U)||Easy|
+||LCR 042|最近的请求次数|[:cn:](https://leetcode.cn/problems/H8086Q)||Easy|
+||LCR 043|完全二叉树插入器|[:cn:](https://leetcode.cn/problems/NaqhDT)||Medium|
+||LCR 044|在每个树行中找最大值|[:cn:](https://leetcode.cn/problems/hPov7L)||Medium|
+||LCR 045|找树左下角的值|[:cn:](https://leetcode.cn/problems/LwUNpT)||Medium|
+||LCR 046|二叉树的右视图|[:cn:](https://leetcode.cn/problems/WNC0Lk)||Medium|
+||LCR 047|二叉树剪枝|[:cn:](https://leetcode.cn/problems/pOCWxh)||Medium|
+||LCR 048|二叉树的序列化与反序列化|[:cn:](https://leetcode.cn/problems/h54YBf)||Hard|
+||LCR 049|求根节点到叶节点数字之和|[:cn:](https://leetcode.cn/problems/3Etpl5)||Medium|
+||LCR 050|路径总和 III|[:cn:](https://leetcode.cn/problems/6eUYwP)||Medium|
+||LCR 051|二叉树中的最大路径和|[:cn:](https://leetcode.cn/problems/jC7MId)||Hard|
+||LCR 052|递增顺序搜索树|[:cn:](https://leetcode.cn/problems/NYBBNL)||Easy|
+||LCR 053|二叉搜索树中的中序后继|[:cn:](https://leetcode.cn/problems/P5rCT8)||Medium|
+||LCR 054|把二叉搜索树转换为累加树|[:cn:](https://leetcode.cn/problems/w6cpku)||Medium|
+||LCR 055|二叉搜索树迭代器|[:cn:](https://leetcode.cn/problems/kTOapQ)||Medium|
+||LCR 056|两数之和 IV - 输入二叉搜索树|[:cn:](https://leetcode.cn/problems/opLdQZ)||Easy|
+||LCR 057|存在重复元素 III|[:cn:](https://leetcode.cn/problems/7WqeDu)||Medium|
+||LCR 058|我的日程安排表 I|[:cn:](https://leetcode.cn/problems/fi9suh)||Medium|
+||LCR 059|数据流中的第 K 大元素|[:cn:](https://leetcode.cn/problems/jBjn9C)||Easy|
+||LCR 060|前 K 个高频元素|[:cn:](https://leetcode.cn/problems/g5c51o)||Medium|
+||LCR 061|查找和最小的 K 对数字|[:cn:](https://leetcode.cn/problems/qn8gGX)||Medium|
+||LCR 062|实现 Trie (前缀树)|[:cn:](https://leetcode.cn/problems/QC3q1f)||Medium|
+||LCR 063|单词替换|[:cn:](https://leetcode.cn/problems/UhWRSj)||Medium|
+||LCR 064|实现一个魔法字典|[:cn:](https://leetcode.cn/problems/US1pGT)||Medium|
+||LCR 065|单词的压缩编码|[:cn:](https://leetcode.cn/problems/iSwD2y)||Medium|
+||LCR 066|键值映射|[:cn:](https://leetcode.cn/problems/z1R5dt)||Medium|
+||LCR 067|数组中两个数的最大异或值|[:cn:](https://leetcode.cn/problems/ms70jA)||Medium|
+||LCR 068|搜索插入位置|[:cn:](https://leetcode.cn/problems/N6YdxV)||Easy|
+|:heavy_check_mark:|LCR 069|山脉数组的峰顶索引|[:cn:](https://leetcode.cn/problems/B1IidL)|[ts](/LCR/LCR%20069.%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.ts)|Easy|
+||LCR 070|有序数组中的单一元素|[:cn:](https://leetcode.cn/problems/skFtm2)||Medium|
+||LCR 071|按权重随机选择|[:cn:](https://leetcode.cn/problems/cuyjEf)||Medium|
+||LCR 072|x 的平方根|[:cn:](https://leetcode.cn/problems/jJ0w9p)||Easy|
+||LCR 073|爱吃香蕉的狒狒|[:cn:](https://leetcode.cn/problems/nZZqjQ)||Medium|
+||LCR 074|合并区间|[:cn:](https://leetcode.cn/problems/SsGoHC)||Medium|
+||LCR 075|数组的相对排序|[:cn:](https://leetcode.cn/problems/0H97ZC)||Easy|
+||LCR 076|数组中的第 K 个最大元素|[:cn:](https://leetcode.cn/problems/xx4gT2)||Medium|
+||LCR 077|排序链表|[:cn:](https://leetcode.cn/problems/7WHec2)||Medium|
+||LCR 078|合并 K 个升序链表|[:cn:](https://leetcode.cn/problems/vvXgSW)||Hard|
+||LCR 079|子集|[:cn:](https://leetcode.cn/problems/TVdhkn)||Medium|
+||LCR 080|组合|[:cn:](https://leetcode.cn/problems/uUsW3B)||Medium|
+||LCR 081|组合总和|[:cn:](https://leetcode.cn/problems/Ygoe9J)||Medium|
+||LCR 082|组合总和 II|[:cn:](https://leetcode.cn/problems/4sjJUc)||Medium|
+||LCR 083|全排列|[:cn:](https://leetcode.cn/problems/VvJkup)||Medium|
+||LCR 084|全排列 II|[:cn:](https://leetcode.cn/problems/7p8L0Z)||Medium|
+||LCR 085|括号生成|[:cn:](https://leetcode.cn/problems/IDBivT)||Medium|
+||LCR 086|分割回文串|[:cn:](https://leetcode.cn/problems/M99OJA)||Medium|
+||LCR 087|复原 IP 地址|[:cn:](https://leetcode.cn/problems/0on3uN)||Medium|
+||LCR 088|使用最小花费爬楼梯|[:cn:](https://leetcode.cn/problems/GzCJIP)||Easy|
+||LCR 089|打家劫舍|[:cn:](https://leetcode.cn/problems/Gu0c2T)||Medium|
+||LCR 090|打家劫舍 II|[:cn:](https://leetcode.cn/problems/PzWKhm)||Medium|
+||LCR 091|粉刷房子|[:cn:](https://leetcode.cn/problems/JEj789)||Medium|
+||LCR 092|将字符串翻转到单调递增|[:cn:](https://leetcode.cn/problems/cyJERH)||Medium|
+||LCR 093|最长的斐波那契子序列的长度|[:cn:](https://leetcode.cn/problems/Q91FMA)||Medium|
+||LCR 094|分割回文串 II|[:cn:](https://leetcode.cn/problems/omKAoA)||Hard|
+||LCR 095|最长公共子序列|[:cn:](https://leetcode.cn/problems/qJnOS7)||Medium|
+||LCR 096|交错字符串|[:cn:](https://leetcode.cn/problems/IY6buf)||Medium|
+||LCR 097|不同的子序列|[:cn:](https://leetcode.cn/problems/21dk04)||Hard|
+||LCR 098|不同路径|[:cn:](https://leetcode.cn/problems/2AoeFn)||Medium|
+||LCR 099|最小路径和|[:cn:](https://leetcode.cn/problems/0i0mDW)||Medium|
+||LCR 100|三角形最小路径和|[:cn:](https://leetcode.cn/problems/IlPe0q)||Medium|
+||LCR 101|分割等和子集|[:cn:](https://leetcode.cn/problems/NUPfPr)||Easy|
+||LCR 102|目标和|[:cn:](https://leetcode.cn/problems/YaVDxD)||Medium|
+||LCR 103|零钱兑换|[:cn:](https://leetcode.cn/problems/gaM7Ch)||Medium|
+||LCR 104|组合总和 Ⅳ|[:cn:](https://leetcode.cn/problems/D0F0SV)||Medium|
+||LCR 105|岛屿的最大面积|[:cn:](https://leetcode.cn/problems/ZL6zAn)||Medium|
+||LCR 106|判断二分图|[:cn:](https://leetcode.cn/problems/vEAB3K)||Medium|
+||LCR 107|01 矩阵|[:cn:](https://leetcode.cn/problems/2bCMpM)||Medium|
+||LCR 108|单词接龙|[:cn:](https://leetcode.cn/problems/om3reC)||Hard|
+||LCR 109|打开转盘锁|[:cn:](https://leetcode.cn/problems/zlDJc7)||Medium|
+||LCR 110|所有可能的路径|[:cn:](https://leetcode.cn/problems/bP4bmD)||Medium|
+||LCR 111|除法求值|[:cn:](https://leetcode.cn/problems/vlzXQL)||Medium|
+||LCR 112|矩阵中的最长递增路径|[:cn:](https://leetcode.cn/problems/fpTFWP)||Hard|
+||LCR 113|课程表 II|[:cn:](https://leetcode.cn/problems/QA2IGt)||Medium|
+||LCR 114|火星词典|[:cn:](https://leetcode.cn/problems/Jf1JuT)||Hard|
+||LCR 115|序列重建|[:cn:](https://leetcode.cn/problems/ur2n8P)||Medium|
+||LCR 116|省份数量|[:cn:](https://leetcode.cn/problems/bLyHh0)||Medium|
+||LCR 117|相似字符串组|[:cn:](https://leetcode.cn/problems/H6lPxb)||Hard|
+||LCR 118|冗余连接|[:cn:](https://leetcode.cn/problems/7LpjUW)||Medium|
+||LCR 119|最长连续序列|[:cn:](https://leetcode.cn/problems/WhsWhI)||Medium|
+|:heavy_check_mark:|LCS 01|下载插件|[:cn:](https://leetcode.cn/problems/Ju9Xwi)|[c](/LCS/LCS%2001.%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B6.c)|Easy|
+|:heavy_check_mark:|LCS 02|完成一半题目|[:cn:](https://leetcode.cn/problems/WqXACV)|[py](/LCS/LCS%2002.%E5%AE%8C%E6%88%90%E4%B8%80%E5%8D%8A%E9%A2%98%E7%9B%AE.py)|Easy|
+|:heavy_check_mark:|LCS 03|主题空间|[:cn:](https://leetcode.cn/problems/YesdPw)|[py](/LCS/LCS%2003.%E4%B8%BB%E9%A2%98%E7%A9%BA%E9%97%B4.py)|Medium|
+|:heavy_check_mark:|剑指 Offer 03|数组中重复的数字 LCOF|[:cn:](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|[py](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2003.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%20LCOF.py)|Easy|
+||剑指 Offer 04|二维数组中的查找 LCOF|[:cn:](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)||Medium|
+||剑指 Offer 05|替换空格 LCOF|[:cn:](https://leetcode.cn/problems/ti-huan-kong-ge-lcof)||Easy|
+||剑指 Offer 06|从尾到头打印链表 LCOF|[:cn:](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)||Easy|
+||剑指 Offer 07|重建二叉树 LCOF|[:cn:](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof)||Medium|
+||剑指 Offer 09|用两个栈实现队列 LCOF|[:cn:](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)||Easy|
+|:heavy_check_mark:|剑指 Offer 10- I|斐波那契数列 LCOF|[:cn:](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof)|[rb](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2010-%20I.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%20LCOF.rb)|Easy|
+||剑指 Offer 10- II|青蛙跳台阶问题 LCOF|[:cn:](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)||Easy|
+||剑指 Offer 11|旋转数组的最小数字 LCOF|[:cn:](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)||Easy|
+||剑指 Offer 12|矩阵中的路径 LCOF|[:cn:](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof)||Medium|
+||剑指 Offer 13|机器人的运动范围 LCOF|[:cn:](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 14- I|剪绳子 LCOF|[:cn:](https://leetcode.cn/problems/jian-sheng-zi-lcof)|[py](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%E5%89%AA%E7%BB%B3%E5%AD%90%20LCOF.py)|Medium|
+||剑指 Offer 14- II|剪绳子 II LCOF|[:cn:](https://leetcode.cn/problems/jian-sheng-zi-ii-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 15|二进制中1的个数 LCOF|[:cn:](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)|[js](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2015.%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%20LCOF.js)|Easy|
+||剑指 Offer 16|数值的整数次方 LCOF|[:cn:](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)||Medium|
+||剑指 Offer 17|打印从1到最大的n位数 LCOF|[:cn:](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)||Easy|
+||剑指 Offer 18|删除链表的节点 LCOF|[:cn:](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof)||Easy|
+||剑指 Offer 19|正则表达式匹配 LCOF|[:cn:](https://leetcode.cn/problems/zheng-ze-biao-da-shi-pi-pei-lcof)||Hard|
+||剑指 Offer 20|表示数值的字符串 LCOF|[:cn:](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 21|调整数组顺序使奇数位于偶数前面 LCOF|[:cn:](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)||Easy|
+|:heavy_check_mark:|剑指 Offer 22|链表中倒数第k个节点 LCOF|[:cn:](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)|[js](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2022.%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9%20LCOF.js)|Easy|
+||剑指 Offer 24|反转链表 LCOF|[:cn:](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof)||Easy|
+||剑指 Offer 25|合并两个排序的链表 LCOF|[:cn:](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof)||Easy|
+||剑指 Offer 26|树的子结构 LCOF|[:cn:](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof)||Medium|
+||剑指 Offer 27|二叉树的镜像 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof)||Easy|
+||剑指 Offer 28|对称的二叉树 LCOF|[:cn:](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof)||Easy|
+||剑指 Offer 29|顺时针打印矩阵 LCOF|[:cn:](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)||Easy|
+||剑指 Offer 30|包含min函数的栈 LCOF|[:cn:](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof)||Easy|
+||剑指 Offer 31|栈的压入、弹出序列 LCOF|[:cn:](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof)||Medium|
+||剑指 Offer 32 - I|从上到下打印二叉树 LCOF|[:cn:](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 32 - II|从上到下打印二叉树 II LCOF|[:cn:](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)|[ts](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2032%20-%20II.%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II%20LCOF.ts)|Easy|
+||剑指 Offer 32 - III|从上到下打印二叉树 III LCOF|[:cn:](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)||Medium|
+||剑指 Offer 33|二叉搜索树的后序遍历序列 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)||Medium|
+||剑指 Offer 34|二叉树中和为某一值的路径 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)||Medium|
+||剑指 Offer 35|复杂链表的复制 LCOF|[:cn:](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof)||Medium|
+||剑指 Offer 36|二叉搜索树与双向链表 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 37|序列化二叉树 LCOF|[:cn:](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof)|[js](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2037.%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91%20LCOF.js)|Hard|
+|:heavy_check_mark:|剑指 Offer 38|字符串的排列 LCOF|[:cn:](https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof)|[py](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2038.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97%20LCOF.py)|Medium|
+||剑指 Offer 39|数组中出现次数超过一半的数字 LCOF|[:cn:](https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof)||Easy|
+||剑指 Offer 40|最小的k个数 LCOF|[:cn:](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof)||Easy|
+||剑指 Offer 41|数据流中的中位数 LCOF|[:cn:](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof)||Hard|
+|:heavy_check_mark:|剑指 Offer 42|连续子数组的最大和 LCOF|[:cn:](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)|[ts](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2042.%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C%20LCOF.ts)|Easy|
+||剑指 Offer 43|1～n整数中1出现的次数 LCOF|[:cn:](https://leetcode.cn/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof)||Hard|
+||剑指 Offer 44|数字序列中某一位的数字 LCOF|[:cn:](https://leetcode.cn/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof)||Medium|
+||剑指 Offer 45|把数组排成最小的数 LCOF|[:cn:](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof)||Medium|
+||剑指 Offer 46|把数字翻译成字符串 LCOF|[:cn:](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 47|礼物的最大价值 LCOF|[:cn:](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof)||Medium|
+||剑指 Offer 48|最长不含重复字符的子字符串 LCOF|[:cn:](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)||Medium|
+||剑指 Offer 49|丑数 LCOF|[:cn:](https://leetcode.cn/problems/chou-shu-lcof)||Medium|
+|:heavy_check_mark:|剑指 Offer 50|第一个只出现一次的字符 LCOF|[:cn:](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)|[ts](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2050.%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6%20LCOF.ts)|Easy|
+||剑指 Offer 51|数组中的逆序对 LCOF|[:cn:](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof)||Hard|
+|:heavy_check_mark:|剑指 Offer 52|两个链表的第一个公共节点 LCOF|[:cn:](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)|[c](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2052.%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9%20LCOF.c)|Easy|
+|:heavy_check_mark:|剑指 Offer 53 - I|在排序数组中查找数字 LCOF|[:cn:](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof)|[ts](/%E5%89%91%E6%8C%87%20Offer/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20LCOF.ts)|Easy|
+||剑指 Offer 53 - II|缺失的数字 LCOF|[:cn:](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof)||Easy|
+||剑指 Offer 54|二叉搜索树的第k大节点 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)||Easy|
+||剑指 Offer 55 - I|二叉树的深度 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof)||Easy|
+||剑指 Offer 55 - II|平衡二叉树 LCOF|[:cn:](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof)||Easy|
+||剑指 Offer 56 - I|数组中数字出现的次数 LCOF|[:cn:](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)||Medium|
+||剑指 Offer 56 - II|数组中数字出现的次数 II LCOF|[:cn:](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)||Medium|
+||剑指 Offer 57|和为s的两个数字 LCOF|[:cn:](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof)||Easy|
+||剑指 Offer 57 - II|和为s的连续正数序列 LCOF|[:cn:](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)||Easy|
+||剑指 Offer 58 - I|翻转单词顺序 LCOF|[:cn:](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof)||Easy|
+||剑指 Offer 58 - II|左旋转字符串 LCOF|[:cn:](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)||Easy|
+||剑指 Offer 59 - I|滑动窗口的最大值 LCOF|[:cn:](https://leetcode.cn/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof)||Hard|
+||剑指 Offer 59 - II|队列的最大值 LCOF|[:cn:](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof)||Medium|
+||剑指 Offer 60|n个骰子的点数 LCOF|[:cn:](https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof)||Medium|
+||剑指 Offer 61|扑克牌中的顺子 LCOF|[:cn:](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof)||Easy|
+||剑指 Offer 62|圆圈中最后剩下的数字 LCOF|[:cn:](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)||Easy|
+||剑指 Offer 63|股票的最大利润 LCOF|[:cn:](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof)||Medium|
+||剑指 Offer 64|求1+2+…+n LCOF|[:cn:](https://leetcode.cn/problems/qiu-12n-lcof)||Medium|
+||剑指 Offer 65|不用加减乘除做加法 LCOF|[:cn:](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof)||Easy|
+||剑指 Offer 66|构建乘积数组 LCOF|[:cn:](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof)||Medium|
+||剑指 Offer 67|把字符串转换成整数 LCOF|[:cn:](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||Medium|
+||剑指 Offer 68 - I|二叉搜索树的最近公共祖先 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
+||剑指 Offer 68 - II|二叉树的最近公共祖先 LCOF|[:cn:](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
+|:heavy_check_mark:|银联-01|回文链表|[:cn:](https://leetcode.cn/contest/cnunionpay-2022spring/problems/D7rekZ)|[ts](/%E9%93%B6%E8%81%94/%E9%93%B6%E8%81%94-01.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.ts)|Easy|
+|:heavy_check_mark:|银联-02|优惠活动系统|[:cn:](https://leetcode.cn/contest/cnunionpay-2022spring/problems/kDPV0f)|[py](/%E9%93%B6%E8%81%94/%E9%93%B6%E8%81%94-02.%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8%E7%B3%BB%E7%BB%9F.py)|Medium|
+|:heavy_check_mark:|银联-03|理财产品|[:cn:](https://leetcode.cn/contest/cnunionpay-2022spring/problems/I4mOGz)|[ts](/%E9%93%B6%E8%81%94/%E9%93%B6%E8%81%94-03.%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81.ts)|Medium|
+|:heavy_check_mark:|银联-04|合作开发|[:cn:](https://leetcode.cn/contest/cnunionpay-2022spring/problems/lCh58I)|[ts](/%E9%93%B6%E8%81%94/%E9%93%B6%E8%81%94-04.%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91.ts)|Hard|
+|:heavy_check_mark:|面试题 01.01|Is Unique LCCI|[:cn:](https://leetcode.cn/problems/is-unique-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.01.Is%20Unique%20LCCI.py)|Easy|
+||面试题 01.02|Check Permutation LCCI|[:cn:](https://leetcode.cn/problems/check-permutation-lcci)||Easy|
+||面试题 01.03|String to URL LCCI|[:cn:](https://leetcode.cn/problems/string-to-url-lcci)||Easy|
+||面试题 01.04|Palindrome Permutation LCCI|[:cn:](https://leetcode.cn/problems/palindrome-permutation-lcci)||Easy|
+|:heavy_check_mark:|面试题 01.05|One Away LCCI|[:cn:](https://leetcode.cn/problems/one-away-lcci)|[ts](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.05.One%20Away%20LCCI.ts)|Medium|
+||面试题 01.06|Compress String LCCI|[:cn:](https://leetcode.cn/problems/compress-string-lcci)||Easy|
+||面试题 01.07|Rotate Matrix LCCI|[:cn:](https://leetcode.cn/problems/rotate-matrix-lcci)||Medium|
+||面试题 01.08|Zero Matrix LCCI|[:cn:](https://leetcode.cn/problems/zero-matrix-lcci)||Medium|
+||面试题 01.09|String Rotation LCCI|[:cn:](https://leetcode.cn/problems/string-rotation-lcci)||Easy|
+||面试题 02.01|Remove Duplicate Node LCCI|[:cn:](https://leetcode.cn/problems/remove-duplicate-node-lcci)||Easy|
+||面试题 02.02|Kth Node From End of List LCCI|[:cn:](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci)||Easy|
+||面试题 02.03|Delete Middle Node LCCI|[:cn:](https://leetcode.cn/problems/delete-middle-node-lcci)||Easy|
+||面试题 02.04|Partition List LCCI|[:cn:](https://leetcode.cn/problems/partition-list-lcci)||Medium|
+||面试题 02.05|Sum Lists LCCI|[:cn:](https://leetcode.cn/problems/sum-lists-lcci)||Medium|
+||面试题 02.06|Palindrome Linked List LCCI|[:cn:](https://leetcode.cn/problems/palindrome-linked-list-lcci)||Easy|
+||面试题 02.07|Intersection of Two Linked Lists LCCI|[:cn:](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci)||Easy|
+||面试题 02.08|Linked List Cycle LCCI|[:cn:](https://leetcode.cn/problems/linked-list-cycle-lcci)||Medium|
+||面试题 03.01|Three in One LCCI|[:cn:](https://leetcode.cn/problems/three-in-one-lcci)||Easy|
+||面试题 03.02|Min Stack LCCI|[:cn:](https://leetcode.cn/problems/min-stack-lcci)||Easy|
+||面试题 03.03|Stack of Plates LCCI|[:cn:](https://leetcode.cn/problems/stack-of-plates-lcci)||Medium|
+||面试题 03.04|Implement Queue using Stacks LCCI|[:cn:](https://leetcode.cn/problems/implement-queue-using-stacks-lcci)||Easy|
+||面试题 03.05|Sort of Stacks LCCI|[:cn:](https://leetcode.cn/problems/sort-of-stacks-lcci)||Medium|
+||面试题 03.06|Animal Shelter LCCI|[:cn:](https://leetcode.cn/problems/animal-shelter-lcci)||Easy|
+||面试题 04.01|Route Between Nodes LCCI|[:cn:](https://leetcode.cn/problems/route-between-nodes-lcci)||Medium|
+||面试题 04.02|Minimum Height Tree LCCI|[:cn:](https://leetcode.cn/problems/minimum-height-tree-lcci)||Easy|
+||面试题 04.03|List of Depth LCCI|[:cn:](https://leetcode.cn/problems/list-of-depth-lcci)||Medium|
+||面试题 04.04|Check Balance LCCI|[:cn:](https://leetcode.cn/problems/check-balance-lcci)||Easy|
+||面试题 04.05|Legal Binary Search Tree LCCI|[:cn:](https://leetcode.cn/problems/legal-binary-search-tree-lcci)||Medium|
+||面试题 04.06|Successor LCCI|[:cn:](https://leetcode.cn/problems/successor-lcci)||Medium|
+||面试题 04.08|First Common Ancestor LCCI|[:cn:](https://leetcode.cn/problems/first-common-ancestor-lcci)||Medium|
+||面试题 04.09|BST Sequences LCCI|[:cn:](https://leetcode.cn/problems/bst-sequences-lcci)||Hard|
+||面试题 04.10|Check SubTree LCCI|[:cn:](https://leetcode.cn/problems/check-subtree-lcci)||Medium|
+||面试题 04.12|Paths with Sum LCCI|[:cn:](https://leetcode.cn/problems/paths-with-sum-lcci)||Medium|
+||面试题 05.01|Insert Into Bits LCCI|[:cn:](https://leetcode.cn/problems/insert-into-bits-lcci)||Easy|
+||面试题 05.02|Binary Number to String LCCI|[:cn:](https://leetcode.cn/problems/binary-number-to-string-lcci)||Medium|
+||面试题 05.03|Reverse Bits LCCI|[:cn:](https://leetcode.cn/problems/reverse-bits-lcci)||Easy|
+||面试题 05.04|Closed Number LCCI|[:cn:](https://leetcode.cn/problems/closed-number-lcci)||Medium|
+||面试题 05.06|Convert Integer LCCI|[:cn:](https://leetcode.cn/problems/convert-integer-lcci)||Easy|
+||面试题 05.07|Exchange LCCI|[:cn:](https://leetcode.cn/problems/exchange-lcci)||Easy|
+||面试题 05.08|Draw Line LCCI|[:cn:](https://leetcode.cn/problems/draw-line-lcci)||Medium|
+||面试题 08.01|Three Steps Problem LCCI|[:cn:](https://leetcode.cn/problems/three-steps-problem-lcci)||Easy|
+||面试题 08.02|Robot in a Grid LCCI|[:cn:](https://leetcode.cn/problems/robot-in-a-grid-lcci)||Medium|
+||面试题 08.03|Magic Index LCCI|[:cn:](https://leetcode.cn/problems/magic-index-lcci)||Easy|
+||面试题 08.04|Power Set LCCI|[:cn:](https://leetcode.cn/problems/power-set-lcci)||Medium|
+||面试题 08.05|Recursive Mulitply LCCI|[:cn:](https://leetcode.cn/problems/recursive-mulitply-lcci)||Medium|
+||面试题 08.06|Hanota LCCI|[:cn:](https://leetcode.cn/problems/hanota-lcci)||Easy|
+||面试题 08.07|Permutation I LCCI|[:cn:](https://leetcode.cn/problems/permutation-i-lcci)||Medium|
+||面试题 08.08|Permutation II LCCI|[:cn:](https://leetcode.cn/problems/permutation-ii-lcci)||Medium|
+||面试题 08.09|Bracket LCCI|[:cn:](https://leetcode.cn/problems/bracket-lcci)||Medium|
+||面试题 08.10|Color Fill LCCI|[:cn:](https://leetcode.cn/problems/color-fill-lcci)||Easy|
+||面试题 08.11|Coin LCCI|[:cn:](https://leetcode.cn/problems/coin-lcci)||Medium|
+||面试题 08.12|Eight Queens LCCI|[:cn:](https://leetcode.cn/problems/eight-queens-lcci)||Hard|
+||面试题 08.13|Pile Box LCCI|[:cn:](https://leetcode.cn/problems/pile-box-lcci)||Hard|
+||面试题 08.14|Boolean Evaluation LCCI|[:cn:](https://leetcode.cn/problems/boolean-evaluation-lcci)||Medium|
+||面试题 10.01|Sorted Merge LCCI|[:cn:](https://leetcode.cn/problems/sorted-merge-lcci)||Easy|
+|:heavy_check_mark:|面试题 10.02|Group Anagrams LCCI|[:cn:](https://leetcode.cn/problems/group-anagrams-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.02.Group%20Anagrams%20LCCI.py)|Medium|
+||面试题 10.03|Search Rotate Array LCCI|[:cn:](https://leetcode.cn/problems/search-rotate-array-lcci)||Medium|
+||面试题 10.05|Sparse Array Search LCCI|[:cn:](https://leetcode.cn/problems/sparse-array-search-lcci)||Easy|
+||面试题 10.09|Sorted Matrix Search LCCI|[:cn:](https://leetcode.cn/problems/sorted-matrix-search-lcci)||Medium|
+||面试题 10.10|Rank from Stream LCCI|[:cn:](https://leetcode.cn/problems/rank-from-stream-lcci)||Medium|
+||面试题 10.11|Peaks and Valleys LCCI|[:cn:](https://leetcode.cn/problems/peaks-and-valleys-lcci)||Medium|
+||面试题 16.01|Swap Numbers LCCI|[:cn:](https://leetcode.cn/problems/swap-numbers-lcci)||Medium|
+||面试题 16.02|Words Frequency LCCI|[:cn:](https://leetcode.cn/problems/words-frequency-lcci)||Medium|
+||面试题 16.03|Intersection LCCI|[:cn:](https://leetcode.cn/problems/intersection-lcci)||Hard|
+||面试题 16.04|Tic-Tac-Toe LCCI|[:cn:](https://leetcode.cn/problems/tic-tac-toe-lcci)||Medium|
+||面试题 16.05|Factorial Zeros LCCI|[:cn:](https://leetcode.cn/problems/factorial-zeros-lcci)||Easy|
+||面试题 16.06|Smallest Difference LCCI|[:cn:](https://leetcode.cn/problems/smallest-difference-lcci)||Medium|
+||面试题 16.07|Maximum LCCI|[:cn:](https://leetcode.cn/problems/maximum-lcci)||Easy|
+||面试题 16.08|English Int LCCI|[:cn:](https://leetcode.cn/problems/english-int-lcci)||Hard|
+||面试题 16.09|Operations LCCI|[:cn:](https://leetcode.cn/problems/operations-lcci)||Medium|
+||面试题 16.10|Living People LCCI|[:cn:](https://leetcode.cn/problems/living-people-lcci)||Medium|
+||面试题 16.11|Diving Board LCCI|[:cn:](https://leetcode.cn/problems/diving-board-lcci)||Easy|
+||面试题 16.13|Bisect Squares LCCI|[:cn:](https://leetcode.cn/problems/bisect-squares-lcci)||Medium|
+||面试题 16.14|Best Line LCCI|[:cn:](https://leetcode.cn/problems/best-line-lcci)||Medium|
+||面试题 16.15|Master Mind LCCI|[:cn:](https://leetcode.cn/problems/master-mind-lcci)||Easy|
+||面试题 16.16|Sub Sort LCCI|[:cn:](https://leetcode.cn/problems/sub-sort-lcci)||Medium|
+||面试题 16.17|Contiguous Sequence LCCI|[:cn:](https://leetcode.cn/problems/contiguous-sequence-lcci)||Easy|
+||面试题 16.18|Pattern Matching LCCI|[:cn:](https://leetcode.cn/problems/pattern-matching-lcci)||Medium|
+||面试题 16.19|Pond Sizes LCCI|[:cn:](https://leetcode.cn/problems/pond-sizes-lcci)||Medium|
+||面试题 16.20|T9 LCCI|[:cn:](https://leetcode.cn/problems/t9-lcci)||Medium|
+||面试题 16.21|Sum Swap LCCI|[:cn:](https://leetcode.cn/problems/sum-swap-lcci)||Medium|
+||面试题 16.22|Langtons Ant LCCI|[:cn:](https://leetcode.cn/problems/langtons-ant-lcci)||Medium|
+||面试题 16.24|Pairs With Sum LCCI|[:cn:](https://leetcode.cn/problems/pairs-with-sum-lcci)||Medium|
+||面试题 16.25|LRU Cache LCCI|[:cn:](https://leetcode.cn/problems/lru-cache-lcci)||Medium|
+||面试题 16.26|Calculator LCCI|[:cn:](https://leetcode.cn/problems/calculator-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.01|Add Without Plus LCCI|[:cn:](https://leetcode.cn/problems/add-without-plus-lcci)|[c](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.01.Add%20Without%20Plus%20LCCI.c)|Easy|
+|:heavy_check_mark:|面试题 17.04|Missing Number LCCI|[:cn:](https://leetcode.cn/problems/missing-number-lcci)|[ts](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.04.Missing%20Number%20LCCI.ts)|Easy|
+||面试题 17.05|Find Longest Subarray LCCI|[:cn:](https://leetcode.cn/problems/find-longest-subarray-lcci)||Medium|
+||面试题 17.06|Number Of 2s In Range LCCI|[:cn:](https://leetcode.cn/problems/number-of-2s-in-range-lcci)||Hard|
+||面试题 17.07|Baby Names LCCI|[:cn:](https://leetcode.cn/problems/baby-names-lcci)||Medium|
+||面试题 17.08|Circus Tower LCCI|[:cn:](https://leetcode.cn/problems/circus-tower-lcci)||Medium|
+||面试题 17.09|Get Kth Magic Number LCCI|[:cn:](https://leetcode.cn/problems/get-kth-magic-number-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.10|Find Majority Element LCCI|[:cn:](https://leetcode.cn/problems/find-majority-element-lcci)|[ts](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.10.Find%20Majority%20Element%20LCCI.ts)|Easy|
+||面试题 17.11|Find Closest LCCI|[:cn:](https://leetcode.cn/problems/find-closest-lcci)||Medium|
+||面试题 17.12|BiNode LCCI|[:cn:](https://leetcode.cn/problems/binode-lcci)||Easy|
+||面试题 17.13|Re-Space LCCI|[:cn:](https://leetcode.cn/problems/re-space-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.14|Smallest K LCCI|[:cn:](https://leetcode.cn/problems/smallest-k-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.Smallest%20K%20LCCI.py)|Medium|
+||面试题 17.15|Longest Word LCCI|[:cn:](https://leetcode.cn/problems/longest-word-lcci)||Medium|
+|:heavy_check_mark:|面试题 17.16|The Masseuse LCCI|[:cn:](https://leetcode.cn/problems/the-masseuse-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.py), [ts](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.The%20Masseuse%20LCCI.ts)|Easy|
+||面试题 17.17|Multi Search LCCI|[:cn:](https://leetcode.cn/problems/multi-search-lcci)||Medium|
+||面试题 17.18|Shortest Supersequence LCCI|[:cn:](https://leetcode.cn/problems/shortest-supersequence-lcci)||Medium|
+||面试题 17.19|Missing Two LCCI|[:cn:](https://leetcode.cn/problems/missing-two-lcci)||Hard|
+||面试题 17.20|Continuous Median LCCI|[:cn:](https://leetcode.cn/problems/continuous-median-lcci)||Hard|
+|:heavy_check_mark:|面试题 17.21|Volume of Histogram LCCI|[:cn:](https://leetcode.cn/problems/volume-of-histogram-lcci)|[java](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.21.Volume%20of%20Histogram%20LCCI.java)|Hard|
+||面试题 17.22|Word Transformer LCCI|[:cn:](https://leetcode.cn/problems/word-transformer-lcci)||Medium|
+||面试题 17.23|Max Black Square LCCI|[:cn:](https://leetcode.cn/problems/max-black-square-lcci)||Medium|
+||面试题 17.24|Max Submatrix LCCI|[:cn:](https://leetcode.cn/problems/max-submatrix-lcci)||Hard|
+||面试题 17.25|Word Rectangle LCCI|[:cn:](https://leetcode.cn/problems/word-rectangle-lcci)||Hard|
+|:heavy_check_mark:|面试题 17.26|Sparse Similarity LCCI|[:cn:](https://leetcode.cn/problems/sparse-similarity-lcci)|[py](/%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.26.Sparse%20Similarity%20LCCI.py)|Hard|
