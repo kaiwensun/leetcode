@@ -2,16 +2,21 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|331|175|0|84 (67.19%)|2|
+|336|179|0|84 (67.69%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|45.6%|31.7%|7.2%|6.7%|5.0%|3.3%|0.6%|
+|46.7%|31.0%|7.1%|6.5%|4.9%|3.3%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark::star:|2836|Maximize Value of Function in a Ball Passing Game|[:us:](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game) [:cn:](https://leetcode.cn/problems/maximize-value-of-function-in-a-ball-passing-game)|[py](/2501-3000/2836.Maximize%20Value%20of%20Function%20in%20a%20Ball%20Passing%20Game.py)|Hard|
+|:heavy_check_mark:|2835|Minimum Operations to Form Subsequence With Target Sum|[:us:](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum) [:cn:](https://leetcode.cn/problems/minimum-operations-to-form-subsequence-with-target-sum)|[py](/2501-3000/2835.Minimum%20Operations%20to%20Form%20Subsequence%20With%20Target%20Sum.py)|Hard|
+|:heavy_check_mark:|2834|Find the Minimum Possible Sum of a Beautiful Array|[:us:](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array) [:cn:](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array)|[py](/2501-3000/2834.Find%20the%20Minimum%20Possible%20Sum%20of%20a%20Beautiful%20Array.py)|Medium|
+|:heavy_check_mark:|2833|Furthest Point From Origin|[:us:](https://leetcode.com/problems/furthest-point-from-origin) [:cn:](https://leetcode.cn/problems/furthest-point-from-origin)|[py](/2501-3000/2833.Furthest%20Point%20From%20Origin.py)|Easy|
+|:lock:|2832|Maximal Range That Each Element Is Maximum in It|[:us:](https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it) [:cn:](https://leetcode.cn/problems/maximal-range-that-each-element-is-maximum-in-it)||Medium|
 |:heavy_check_mark:|2831|Find the Longest Equal Subarray|[:us:](https://leetcode.com/problems/find-the-longest-equal-subarray) [:cn:](https://leetcode.cn/problems/find-the-longest-equal-subarray)|[py](/2501-3000/2831.Find%20the%20Longest%20Equal%20Subarray.py)|Medium|
 |:heavy_check_mark:|2830|Maximize the Profit as the Salesman|[:us:](https://leetcode.com/problems/maximize-the-profit-as-the-salesman) [:cn:](https://leetcode.cn/problems/maximize-the-profit-as-the-salesman)|[py](/2501-3000/2830.Maximize%20the%20Profit%20as%20the%20Salesman.py)|Medium|
 |:heavy_check_mark:|2829|Determine the Minimum Sum of a k-avoiding Array|[:us:](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array) [:cn:](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array)|[java](/2501-3000/2829.Determine%20the%20Minimum%20Sum%20of%20a%20k-avoiding%20Array.java)|Medium|
