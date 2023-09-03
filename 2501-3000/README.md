@@ -2,16 +2,26 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|336|179|0|84 (67.69%)|3|
+|346|181|0|90 (66.42%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|46.7%|31.0%|7.1%|6.5%|4.9%|3.3%|0.5%|
+|47.3%|30.6%|7.0%|6.5%|4.8%|3.2%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2846|Minimum Edge Weight Equilibrium Queries in a Tree|[:us:](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)||Hard|
+||2845|Count of Interesting Subarrays|[:us:](https://leetcode.com/problems/count-of-interesting-subarrays) [:cn:](https://leetcode.cn/problems/count-of-interesting-subarrays)||Medium|
+|:heavy_check_mark:|2844|Minimum Operations to Make a Special Number|[:us:](https://leetcode.com/problems/minimum-operations-to-make-a-special-number) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-a-special-number)|[py](/2501-3000/2844.Minimum%20Operations%20to%20Make%20a%20Special%20Number.py)|Medium|
+|:heavy_check_mark:|2843|Count Symmetric Integers|[:us:](https://leetcode.com/problems/count-symmetric-integers) [:cn:](https://leetcode.cn/problems/count-symmetric-integers)|[py](/2501-3000/2843.Count%20Symmetric%20Integers.py)|Easy|
+||2842|Count K-Subsequences of a String With Maximum Beauty|[:us:](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty) [:cn:](https://leetcode.cn/problems/count-k-subsequences-of-a-string-with-maximum-beauty)||Hard|
+||2841|Maximum Sum of Almost Unique Subarray|[:us:](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray) [:cn:](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray)||Medium|
+||2840|Check if Strings Can be Made Equal With Operations II|[:us:](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii) [:cn:](https://leetcode.cn/problems/check-if-strings-can-be-made-equal-with-operations-ii)||Medium|
+||2839|Check if Strings Can be Made Equal With Operations I|[:us:](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) [:cn:](https://leetcode.cn/problems/check-if-strings-can-be-made-equal-with-operations-i)||Easy|
+|:lock:|2838|Maximum Coins Heroes Can Collect|[:us:](https://leetcode.com/problems/maximum-coins-heroes-can-collect) [:cn:](https://leetcode.cn/problems/maximum-coins-heroes-can-collect)||Medium|
+|:lock: sql |2837|Total Traveled Distance|[:us:](https://leetcode.com/problems/total-traveled-distance) [:cn:](https://leetcode.cn/problems/total-traveled-distance)||Easy|
 |:heavy_check_mark::star:|2836|Maximize Value of Function in a Ball Passing Game|[:us:](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game) [:cn:](https://leetcode.cn/problems/maximize-value-of-function-in-a-ball-passing-game)|[py](/2501-3000/2836.Maximize%20Value%20of%20Function%20in%20a%20Ball%20Passing%20Game.py)|Hard|
 |:heavy_check_mark:|2835|Minimum Operations to Form Subsequence With Target Sum|[:us:](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum) [:cn:](https://leetcode.cn/problems/minimum-operations-to-form-subsequence-with-target-sum)|[py](/2501-3000/2835.Minimum%20Operations%20to%20Form%20Subsequence%20With%20Target%20Sum.py)|Hard|
 |:heavy_check_mark:|2834|Find the Minimum Possible Sum of a Beautiful Array|[:us:](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array) [:cn:](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array)|[py](/2501-3000/2834.Find%20the%20Minimum%20Possible%20Sum%20of%20a%20Beautiful%20Array.py)|Medium|
