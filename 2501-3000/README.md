@@ -2,16 +2,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|347|184|0|87 (67.54%)|3|
+|351|187|0|88 (67.65%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|48.1%|30.2%|6.9%|6.3%|4.8%|3.2%|0.5%|
+|48.4%|29.7%|6.8%|6.2%|4.7%|3.6%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2851|String Transformation|[:us:](https://leetcode.com/problems/string-transformation) [:cn:](https://leetcode.cn/problems/string-transformation)||Hard|
+|:heavy_check_mark:|2850|Minimum Moves to Spread Stones Over Grid|[:us:](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid) [:cn:](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid)|[py](/2501-3000/2850.Minimum%20Moves%20to%20Spread%20Stones%20Over%20Grid.py)|Medium|
+|:heavy_check_mark:|2849|Determine if a Cell Is Reachable at a Given Time|[:us:](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time) [:cn:](https://leetcode.cn/problems/determine-if-a-cell-is-reachable-at-a-given-time)|[c](/2501-3000/2849.Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.c)|Medium|
+|:heavy_check_mark:|2848|Points That Intersect With Cars|[:us:](https://leetcode.com/problems/points-that-intersect-with-cars) [:cn:](https://leetcode.cn/problems/points-that-intersect-with-cars)|[py](/2501-3000/2848.Points%20That%20Intersect%20With%20Cars.py)|Easy|
 |:lock:|2847|Smallest Number With Given Digit Product|[:us:](https://leetcode.com/problems/smallest-number-with-given-digit-product) [:cn:](https://leetcode.cn/problems/smallest-number-with-given-digit-product)||Medium|
 ||2846|Minimum Edge Weight Equilibrium Queries in a Tree|[:us:](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)||Hard|
 ||2845|Count of Interesting Subarrays|[:us:](https://leetcode.com/problems/count-of-interesting-subarrays) [:cn:](https://leetcode.cn/problems/count-of-interesting-subarrays)||Medium|

@@ -37179,7 +37179,7 @@
     {
       "stat": {
         "question_id": 1523,
-        "question__title": "Capital Gain\/Loss",
+        "question__title": "Capital Gain/Loss",
         "question__title_slug": "capital-gainloss",
         "question__hide": false,
         "total_acs": 32134,
@@ -68024,6 +68024,86 @@
       "is_favor": false,
       "frequency": 0,
       "progress": 0
+    },
+    {
+      "stat": {
+        "question__title": "\u7b80\u5355\u6e38\u620f",
+        "question__title_slug": "1zD30O",
+        "question__hide": false,
+        "frontend_question_id": "DD-2020006"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "\u6392\u5217\u5c0f\u7403",
+        "question__title_slug": "FHnt4H",
+        "question__hide": false,
+        "frontend_question_id": "DD-2019001"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "\u56de\u6587\u94fe\u8868",
+        "question__title_slug": "D7rekZ",
+        "question__hide": false,
+        "frontend_question_id": "\u94f6\u8054-01",
+        "contest__title_slug": "cnunionpay-2022spring",
+        "category_slug": "contest"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "\u4f18\u60e0\u6d3b\u52a8\u7cfb\u7edf",
+        "question__title_slug": "kDPV0f",
+        "question__hide": false,
+        "frontend_question_id": "\u94f6\u8054-02",
+        "contest__title_slug": "cnunionpay-2022spring",
+        "category_slug": "contest"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "\u7406\u8d22\u4ea7\u54c1",
+        "question__title_slug": "I4mOGz",
+        "question__hide": false,
+        "frontend_question_id": "\u94f6\u8054-03",
+        "contest__title_slug": "cnunionpay-2022spring",
+        "category_slug": "contest"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "\u5408\u4f5c\u5f00\u53d1",
+        "question__title_slug": "lCh58I",
+        "question__hide": false,
+        "frontend_question_id": "\u94f6\u8054-04",
+        "contest__title_slug": "cnunionpay-2022spring",
+        "category_slug": "contest"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     }
   ],
   "frequency_high": 0,

@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3244|2057|6|234 (89.39%)|15|
+|3245|2057|6|235 (89.35%)|15|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -28,9 +28,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|8049|determine-if-a-cell-is-reachable-at-a-given-time||[c](/8049.determine-if-a-cell-is-reachable-at-a-given-time.c)||
-|:heavy_check_mark:|8028|points-that-intersect-with-cars||[py](/8028.points-that-intersect-with-cars.py)||
-|:heavy_check_mark:|100030|minimum-moves-to-spread-stones-over-grid||[py](/100030.minimum-moves-to-spread-stones-over-grid.py)||
+||2851|String Transformation|[:us:](https://leetcode.com/problems/string-transformation) [:cn:](https://leetcode.cn/problems/string-transformation)||Hard|
+|:heavy_check_mark:|2850|Minimum Moves to Spread Stones Over Grid|[:us:](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid) [:cn:](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid)|[py](/2501-3000/2850.Minimum%20Moves%20to%20Spread%20Stones%20Over%20Grid.py)|Medium|
+|:heavy_check_mark:|2849|Determine if a Cell Is Reachable at a Given Time|[:us:](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time) [:cn:](https://leetcode.cn/problems/determine-if-a-cell-is-reachable-at-a-given-time)|[c](/2501-3000/2849.Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.c)|Medium|
+|:heavy_check_mark:|2848|Points That Intersect With Cars|[:us:](https://leetcode.com/problems/points-that-intersect-with-cars) [:cn:](https://leetcode.cn/problems/points-that-intersect-with-cars)|[py](/2501-3000/2848.Points%20That%20Intersect%20With%20Cars.py)|Easy|
 |:lock:|2847|Smallest Number With Given Digit Product|[:us:](https://leetcode.com/problems/smallest-number-with-given-digit-product) [:cn:](https://leetcode.cn/problems/smallest-number-with-given-digit-product)||Medium|
 ||2846|Minimum Edge Weight Equilibrium Queries in a Tree|[:us:](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)||Hard|
 ||2845|Count of Interesting Subarrays|[:us:](https://leetcode.com/problems/count-of-interesting-subarrays) [:cn:](https://leetcode.cn/problems/count-of-interesting-subarrays)||Medium|
@@ -1027,4 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|1854|Maximum Population Year|[:us:](https://leetcode.com/problems/maximum-population-year) [:cn:](https://leetcode.cn/problems/maximum-population-year)|[py](/1501-2000/1854.Maximum%20Population%20Year.2.py), [py](/1501-2000/1854.Maximum%20Population%20Year.py)|Easy|
 |:lock: sql |1853|Convert Date Format|[:us:](https://leetcode.com/problems/convert-date-format) [:cn:](https://leetcode.cn/problems/convert-date-format)||Easy|
 |:lock:|1852|Distinct Numbers in Each Subarray|[:us:](https://leetcode.com/problems/distinct-numbers-in-each-subarray) [:cn:](https://leetcode.cn/problems/distinct-numbers-in-each-subarray)||Medium|
-|:heavy_check_mark:|1851|Minimum Interval to Include Each Query|[:us:](https://leetcode.com/problems/minimum-interval-to-include-each-query) [:cn:](https://leetcode.cn/problems/minimum-interval-to-include-each-query)|[py](/1501-2000/1851.Minimum%20Interval%20to%20Include%20Each%20Query.py)|Hard|

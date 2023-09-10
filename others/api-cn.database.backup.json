@@ -2739,7 +2739,7 @@
     {
       "stat": {
         "question_id": 1523,
-        "question__title": "Capital Gain\/Loss",
+        "question__title": "Capital Gain/Loss",
         "question__title_slug": "capital-gainloss",
         "question__hide": false,
         "total_acs": 32134,
