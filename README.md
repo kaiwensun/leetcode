@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3241|2054|6|234 (89.37%)|15|
+|3244|2057|6|234 (89.39%)|15|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|14.5%|11.0%|6.8%|4.4%|2.3%|0.9%|0.8%|
+|59.3%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -28,6 +28,9 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|8049|determine-if-a-cell-is-reachable-at-a-given-time||[c](/8049.determine-if-a-cell-is-reachable-at-a-given-time.c)||
+|:heavy_check_mark:|8028|points-that-intersect-with-cars||[py](/8028.points-that-intersect-with-cars.py)||
+|:heavy_check_mark:|100030|minimum-moves-to-spread-stones-over-grid||[py](/100030.minimum-moves-to-spread-stones-over-grid.py)||
 |:lock:|2847|Smallest Number With Given Digit Product|[:us:](https://leetcode.com/problems/smallest-number-with-given-digit-product) [:cn:](https://leetcode.cn/problems/smallest-number-with-given-digit-product)||Medium|
 ||2846|Minimum Edge Weight Equilibrium Queries in a Tree|[:us:](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)||Hard|
 ||2845|Count of Interesting Subarrays|[:us:](https://leetcode.com/problems/count-of-interesting-subarrays) [:cn:](https://leetcode.cn/problems/count-of-interesting-subarrays)||Medium|
@@ -1025,6 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:lock: sql |1853|Convert Date Format|[:us:](https://leetcode.com/problems/convert-date-format) [:cn:](https://leetcode.cn/problems/convert-date-format)||Easy|
 |:lock:|1852|Distinct Numbers in Each Subarray|[:us:](https://leetcode.com/problems/distinct-numbers-in-each-subarray) [:cn:](https://leetcode.cn/problems/distinct-numbers-in-each-subarray)||Medium|
 |:heavy_check_mark:|1851|Minimum Interval to Include Each Query|[:us:](https://leetcode.com/problems/minimum-interval-to-include-each-query) [:cn:](https://leetcode.cn/problems/minimum-interval-to-include-each-query)|[py](/1501-2000/1851.Minimum%20Interval%20to%20Include%20Each%20Query.py)|Hard|
-|:heavy_check_mark:|1850|Minimum Adjacent Swaps to Reach the Kth Smallest Number|[:us:](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) [:cn:](https://leetcode.cn/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)|[py](/1501-2000/1850.Minimum%20Adjacent%20Swaps%20to%20Reach%20the%20Kth%20Smallest%20Number.py)|Medium|
-|:heavy_check_mark:|1849|Splitting a String Into Descending Consecutive Values|[:us:](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values) [:cn:](https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values)|[py](/1501-2000/1849.Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values.py)|Medium|
-|:heavy_check_mark:|1848|Minimum Distance to the Target Element|[:us:](https://leetcode.com/problems/minimum-distance-to-the-target-element) [:cn:](https://leetcode.cn/problems/minimum-distance-to-the-target-element)|[py](/1501-2000/1848.Minimum%20Distance%20to%20the%20Target%20Element.py)|Easy|

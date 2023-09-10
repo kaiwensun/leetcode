@@ -9,16 +9,19 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3241|2054|6|234 (89.37%)|15|
+|3244|2057|6|234 (89.39%)|15|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|14.5%|11.0%|6.8%|4.4%|2.3%|0.9%|0.8%|
+|59.3%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|8049|determine-if-a-cell-is-reachable-at-a-given-time||[c](/8049.determine-if-a-cell-is-reachable-at-a-given-time.c)||
+|:heavy_check_mark:|8028|points-that-intersect-with-cars||[py](/8028.points-that-intersect-with-cars.py)||
+|:heavy_check_mark:|100030|minimum-moves-to-spread-stones-over-grid||[py](/100030.minimum-moves-to-spread-stones-over-grid.py)||
 |:lock:|2847|Smallest Number With Given Digit Product|[:us:](https://leetcode.com/problems/smallest-number-with-given-digit-product) [:cn:](https://leetcode.cn/problems/smallest-number-with-given-digit-product)||Medium|
 ||2846|Minimum Edge Weight Equilibrium Queries in a Tree|[:us:](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree) [:cn:](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree)||Hard|
 ||2845|Count of Interesting Subarrays|[:us:](https://leetcode.com/problems/count-of-interesting-subarrays) [:cn:](https://leetcode.cn/problems/count-of-interesting-subarrays)||Medium|
