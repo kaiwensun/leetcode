@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3257|2057|6|243 (89.02%)|15|
+|3261|2061|6|243 (89.04%)|15|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
+|59.4%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -28,6 +28,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|8048|maximum-odd-binary-number||[py](/8048.maximum-odd-binary-number.py)||
+|:heavy_check_mark:|100049|beautiful-towers-i||[py](/100049.beautiful-towers-i.py)||
+|:heavy_check_mark:|100048|beautiful-towers-ii||[py](/100048.beautiful-towers-ii.py)||
+|:heavy_check_mark:|100047|count-valid-paths-in-a-tree||[py](/100047.count-valid-paths-in-a-tree.py)||
 |:lock:|2863|Maximum Length of Semi-Decreasing Subarrays|[:us:](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays) [:cn:](https://leetcode.cn/problems/maximum-length-of-semi-decreasing-subarrays)||Medium|
 ||2862|Maximum Element-Sum of a Complete Subset of Indices|[:us:](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices) [:cn:](https://leetcode.cn/problems/maximum-element-sum-of-a-complete-subset-of-indices)||Hard|
 ||2861|Maximum Number of Alloys|[:us:](https://leetcode.com/problems/maximum-number-of-alloys) [:cn:](https://leetcode.cn/problems/maximum-number-of-alloys)||Medium|
@@ -1024,7 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|1870|Minimum Speed to Arrive on Time|[:us:](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) [:cn:](https://leetcode.cn/problems/minimum-speed-to-arrive-on-time)|[py](/1501-2000/1870.Minimum%20Speed%20to%20Arrive%20on%20Time.py)|Medium|
 |:heavy_check_mark:|1869|Longer Contiguous Segments of Ones than Zeros|[:us:](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) [:cn:](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros)|[py](/1501-2000/1869.Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py)|Easy|
 |:lock:|1868|Product of Two Run-Length Encoded Arrays|[:us:](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays) [:cn:](https://leetcode.cn/problems/product-of-two-run-length-encoded-arrays)||Medium|
-|:lock: sql |1867|Orders With Maximum Quantity Above Average|[:us:](https://leetcode.com/problems/orders-with-maximum-quantity-above-average) [:cn:](https://leetcode.cn/problems/orders-with-maximum-quantity-above-average)||Medium|
-|:heavy_check_mark:|1866|Number of Ways to Rearrange Sticks With K Sticks Visible|[:us:](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible) [:cn:](https://leetcode.cn/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)|[py](/1501-2000/1866.Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible.py)|Hard|
-|:heavy_check_mark:|1865|Finding Pairs With a Certain Sum|[:us:](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) [:cn:](https://leetcode.cn/problems/finding-pairs-with-a-certain-sum)|[py](/1501-2000/1865.Finding%20Pairs%20With%20a%20Certain%20Sum.py)|Medium|
-|:heavy_check_mark:|1864|Minimum Number of Swaps to Make the Binary String Alternating|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating) [:cn:](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating)|[py](/1501-2000/1864.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20Binary%20String%20Alternating.py)|Medium|

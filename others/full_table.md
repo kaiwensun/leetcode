@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3257|2057|6|243 (89.02%)|15|
+|3261|2061|6|243 (89.04%)|15|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
+|59.4%|14.4%|11.0%|6.8%|4.5%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|8048|maximum-odd-binary-number||[py](/8048.maximum-odd-binary-number.py)||
+|:heavy_check_mark:|100049|beautiful-towers-i||[py](/100049.beautiful-towers-i.py)||
+|:heavy_check_mark:|100048|beautiful-towers-ii||[py](/100048.beautiful-towers-ii.py)||
+|:heavy_check_mark:|100047|count-valid-paths-in-a-tree||[py](/100047.count-valid-paths-in-a-tree.py)||
 |:lock:|2863|Maximum Length of Semi-Decreasing Subarrays|[:us:](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays) [:cn:](https://leetcode.cn/problems/maximum-length-of-semi-decreasing-subarrays)||Medium|
 ||2862|Maximum Element-Sum of a Complete Subset of Indices|[:us:](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices) [:cn:](https://leetcode.cn/problems/maximum-element-sum-of-a-complete-subset-of-indices)||Hard|
 ||2861|Maximum Number of Alloys|[:us:](https://leetcode.com/problems/maximum-number-of-alloys) [:cn:](https://leetcode.cn/problems/maximum-number-of-alloys)||Medium|
