@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|351|187|0|88 (67.65%)|3|
+|363|187|0|96 (65.71%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,18 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2863|Maximum Length of Semi-Decreasing Subarrays|[:us:](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays) [:cn:](https://leetcode.cn/problems/maximum-length-of-semi-decreasing-subarrays)||Medium|
+||2862|Maximum Element-Sum of a Complete Subset of Indices|[:us:](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices) [:cn:](https://leetcode.cn/problems/maximum-element-sum-of-a-complete-subset-of-indices)||Hard|
+||2861|Maximum Number of Alloys|[:us:](https://leetcode.com/problems/maximum-number-of-alloys) [:cn:](https://leetcode.cn/problems/maximum-number-of-alloys)||Medium|
+||2860|Happy Students|[:us:](https://leetcode.com/problems/happy-students) [:cn:](https://leetcode.cn/problems/happy-students)||Medium|
+||2859|Sum of Values at Indices With K Set Bits|[:us:](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) [:cn:](https://leetcode.cn/problems/sum-of-values-at-indices-with-k-set-bits)||Easy|
+||2858|Minimum Edge Reversals So Every Node Is Reachable|[:us:](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable) [:cn:](https://leetcode.cn/problems/minimum-edge-reversals-so-every-node-is-reachable)||Hard|
+||2857|Count Pairs of Points With Distance k|[:us:](https://leetcode.com/problems/count-pairs-of-points-with-distance-k) [:cn:](https://leetcode.cn/problems/count-pairs-of-points-with-distance-k)||Medium|
+||2856|Minimum Array Length After Pair Removals|[:us:](https://leetcode.com/problems/minimum-array-length-after-pair-removals) [:cn:](https://leetcode.cn/problems/minimum-array-length-after-pair-removals)||Medium|
+||2855|Minimum Right Shifts to Sort the Array|[:us:](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array) [:cn:](https://leetcode.cn/problems/minimum-right-shifts-to-sort-the-array)||Easy|
+|:lock: sql |2854|Rolling Average Steps|[:us:](https://leetcode.com/problems/rolling-average-steps) [:cn:](https://leetcode.cn/problems/rolling-average-steps)||Medium|
+|:lock: sql |2853|Highest Salaries Difference|[:us:](https://leetcode.com/problems/highest-salaries-difference) [:cn:](https://leetcode.cn/problems/highest-salaries-difference)||Easy|
+|:lock:|2852|Sum of Remoteness of All Cells|[:us:](https://leetcode.com/problems/sum-of-remoteness-of-all-cells) [:cn:](https://leetcode.cn/problems/sum-of-remoteness-of-all-cells)||Medium|
 ||2851|String Transformation|[:us:](https://leetcode.com/problems/string-transformation) [:cn:](https://leetcode.cn/problems/string-transformation)||Hard|
 |:heavy_check_mark:|2850|Minimum Moves to Spread Stones Over Grid|[:us:](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid) [:cn:](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid)|[py](/2501-3000/2850.Minimum%20Moves%20to%20Spread%20Stones%20Over%20Grid.py)|Medium|
 |:heavy_check_mark:|2849|Determine if a Cell Is Reachable at a Given Time|[:us:](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time) [:cn:](https://leetcode.cn/problems/determine-if-a-cell-is-reachable-at-a-given-time)|[c](/2501-3000/2849.Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.c)|Medium|
@@ -66,7 +78,7 @@
 |:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
 |:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
 |:heavy_check_mark:|2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)|[ts](/2501-3000/2798.Number%20of%20Employees%20Who%20Met%20the%20Target.ts)|Easy|
-|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Medium|
+|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Easy|
 |:lock:|2796|Repeat String|[:us:](https://leetcode.com/problems/repeat-string) [:cn:](https://leetcode.cn/problems/repeat-string)||Easy|
 |:lock:|2795|Parallel Execution of Promises for Individual Results Retrieval|[:us:](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval) [:cn:](https://leetcode.cn/problems/parallel-execution-of-promises-for-individual-results-retrieval)||Medium|
 |:lock:|2794|Create Object from Two Arrays|[:us:](https://leetcode.com/problems/create-object-from-two-arrays) [:cn:](https://leetcode.cn/problems/create-object-from-two-arrays)||Easy|
@@ -188,7 +200,7 @@
 |:heavy_check_mark:|2678|Number of Senior Citizens|[:us:](https://leetcode.com/problems/number-of-senior-citizens) [:cn:](https://leetcode.cn/problems/number-of-senior-citizens)|[c](/2501-3000/2678.Number%20of%20Senior%20Citizens.c)|Easy|
 |:heavy_check_mark:|2677|Chunk Array|[:us:](https://leetcode.com/problems/chunk-array) [:cn:](https://leetcode.cn/problems/chunk-array)|[ts](/2501-3000/2677.Chunk%20Array.ts)|Easy|
 |:lock:|2676|Throttle|[:us:](https://leetcode.com/problems/throttle) [:cn:](https://leetcode.cn/problems/throttle)||Medium|
-|:lock:|2675|Array of Objects to Matrix|[:us:](https://leetcode.com/problems/array-of-objects-to-matrix) [:cn:](https://leetcode.cn/problems/array-of-objects-to-matrix)||Medium|
+|:lock:|2675|Array of Objects to Matrix|[:us:](https://leetcode.com/problems/array-of-objects-to-matrix) [:cn:](https://leetcode.cn/problems/array-of-objects-to-matrix)||Hard|
 |:lock:|2674|Split a Circular Linked List|[:us:](https://leetcode.com/problems/split-a-circular-linked-list) [:cn:](https://leetcode.cn/problems/split-a-circular-linked-list)||Medium|
 |:heavy_check_mark:|2673|Make Costs of Paths Equal in a Binary Tree|[:us:](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree) [:cn:](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree)|[java](/2501-3000/2673.Make%20Costs%20of%20Paths%20Equal%20in%20a%20Binary%20Tree.java)|Medium|
 |:heavy_check_mark:|2672|Number of Adjacent Elements With the Same Color|[:us:](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color) [:cn:](https://leetcode.cn/problems/number-of-adjacent-elements-with-the-same-color)|[ts](/2501-3000/2672.Number%20of%20Adjacent%20Elements%20With%20the%20Same%20Color.ts)|Medium|
