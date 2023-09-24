@@ -19,10 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|8048|maximum-odd-binary-number||[py](/8048.maximum-odd-binary-number.py)||
-|:heavy_check_mark:|100049|beautiful-towers-i||[py](/100049.beautiful-towers-i.py)||
-|:heavy_check_mark:|100048|beautiful-towers-ii||[py](/100048.beautiful-towers-ii.py)||
-|:heavy_check_mark:|100047|count-valid-paths-in-a-tree||[py](/100047.count-valid-paths-in-a-tree.py)||
+|:heavy_check_mark:|2867|Count Valid Paths in a Tree|[:us:](https://leetcode.com/problems/count-valid-paths-in-a-tree) [:cn:](https://leetcode.cn/problems/count-valid-paths-in-a-tree)|[py](/2501-3000/2867.Count%20Valid%20Paths%20in%20a%20Tree.py)|Hard|
+|:heavy_check_mark:|2866|Beautiful Towers II|[:us:](https://leetcode.com/problems/beautiful-towers-ii) [:cn:](https://leetcode.cn/problems/beautiful-towers-ii)|[py](/2501-3000/2866.Beautiful%20Towers%20II.py)|Medium|
+|:heavy_check_mark:|2865|Beautiful Towers I|[:us:](https://leetcode.com/problems/beautiful-towers-i) [:cn:](https://leetcode.cn/problems/beautiful-towers-i)|[py](/2501-3000/2865.Beautiful%20Towers%20I.py)|Medium|
+|:heavy_check_mark:|2864|Maximum Odd Binary Number|[:us:](https://leetcode.com/problems/maximum-odd-binary-number) [:cn:](https://leetcode.cn/problems/maximum-odd-binary-number)|[py](/2501-3000/2864.Maximum%20Odd%20Binary%20Number.py)|Easy|
 |:lock:|2863|Maximum Length of Semi-Decreasing Subarrays|[:us:](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays) [:cn:](https://leetcode.cn/problems/maximum-length-of-semi-decreasing-subarrays)||Medium|
 ||2862|Maximum Element-Sum of a Complete Subset of Indices|[:us:](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices) [:cn:](https://leetcode.cn/problems/maximum-element-sum-of-a-complete-subset-of-indices)||Hard|
 ||2861|Maximum Number of Alloys|[:us:](https://leetcode.com/problems/maximum-number-of-alloys) [:cn:](https://leetcode.cn/problems/maximum-number-of-alloys)||Medium|
