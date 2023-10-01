@@ -203,6 +203,6 @@
 ||LCR 189|设计机械累加器|[:cn:](https://leetcode.cn/problems/qiu-12n-lcof)||Medium|
 ||LCR 190|加密运算|[:cn:](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof)||Easy|
 ||LCR 191|按规则计算统计结果|[:cn:](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof)||Medium|
-||LCR 192|不使用库函数的字符串转整数|[:cn:](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||Medium|
+||LCR 192|把字符串转换成整数 (atoi)|[:cn:](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||Medium|
 ||LCR 193|求二叉搜索树的最近公共祖先|[:cn:](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|
 ||LCR 194|寻找二叉树的最近公共祖先|[:cn:](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)||Easy|

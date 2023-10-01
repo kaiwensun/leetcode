@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|367|191|0|96 (66.20%)|3|
+|372|191|0|100 (65.28%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,11 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2872|Maximum Number of K-Divisible Components|[:us:](https://leetcode.com/problems/maximum-number-of-k-divisible-components) [:cn:](https://leetcode.cn/problems/maximum-number-of-k-divisible-components)||Hard|
+||2871|Split Array Into Maximum Number of Subarrays|[:us:](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays) [:cn:](https://leetcode.cn/problems/split-array-into-maximum-number-of-subarrays)||Medium|
+||2870|Minimum Number of Operations to Make Array Empty|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-empty)||Medium|
+||2869|Minimum Operations to Collect Elements|[:us:](https://leetcode.com/problems/minimum-operations-to-collect-elements) [:cn:](https://leetcode.cn/problems/minimum-operations-to-collect-elements)||Easy|
+|:lock:|2868|The Wording Game|[:us:](https://leetcode.com/problems/the-wording-game) [:cn:](https://leetcode.cn/problems/the-wording-game)||Hard|
 |:heavy_check_mark:|2867|Count Valid Paths in a Tree|[:us:](https://leetcode.com/problems/count-valid-paths-in-a-tree) [:cn:](https://leetcode.cn/problems/count-valid-paths-in-a-tree)|[py](/2501-3000/2867.Count%20Valid%20Paths%20in%20a%20Tree.py)|Hard|
 |:heavy_check_mark:|2866|Beautiful Towers II|[:us:](https://leetcode.com/problems/beautiful-towers-ii) [:cn:](https://leetcode.cn/problems/beautiful-towers-ii)|[py](/2501-3000/2866.Beautiful%20Towers%20II.py)|Medium|
 |:heavy_check_mark:|2865|Beautiful Towers I|[:us:](https://leetcode.com/problems/beautiful-towers-i) [:cn:](https://leetcode.cn/problems/beautiful-towers-i)|[py](/2501-3000/2865.Beautiful%20Towers%20I.py)|Medium|
@@ -82,7 +87,7 @@
 |:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
 |:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
 |:heavy_check_mark:|2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)|[ts](/2501-3000/2798.Number%20of%20Employees%20Who%20Met%20the%20Target.ts)|Easy|
-|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Easy|
+|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Medium|
 |:lock:|2796|Repeat String|[:us:](https://leetcode.com/problems/repeat-string) [:cn:](https://leetcode.cn/problems/repeat-string)||Easy|
 |:lock:|2795|Parallel Execution of Promises for Individual Results Retrieval|[:us:](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval) [:cn:](https://leetcode.cn/problems/parallel-execution-of-promises-for-individual-results-retrieval)||Medium|
 |:lock:|2794|Create Object from Two Arrays|[:us:](https://leetcode.com/problems/create-object-from-two-arrays) [:cn:](https://leetcode.cn/problems/create-object-from-two-arrays)||Easy|
@@ -247,7 +252,7 @@
 |:heavy_check_mark:|2635|Apply Transform Over Each Element in Array|[:us:](https://leetcode.com/problems/apply-transform-over-each-element-in-array) [:cn:](https://leetcode.cn/problems/apply-transform-over-each-element-in-array)|[ts](/2501-3000/2635.Apply%20Transform%20Over%20Each%20Element%20in%20Array.ts)|Easy|
 |:heavy_check_mark:|2634|Filter Elements from Array|[:us:](https://leetcode.com/problems/filter-elements-from-array) [:cn:](https://leetcode.cn/problems/filter-elements-from-array)|[ts](/2501-3000/2634.Filter%20Elements%20from%20Array.ts)|Easy|
 |:heavy_check_mark::lock:|2633|Convert Object to JSON String|[:us:](https://leetcode.com/problems/convert-object-to-json-string) [:cn:](https://leetcode.cn/problems/convert-object-to-json-string)|[ts](/2501-3000/2633.Convert%20Object%20to%20JSON%20String.ts)|Medium|
-|:heavy_check_mark::lock:|2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)|[ts](/2501-3000/2632.Curry.ts)|Medium|
+|:heavy_check_mark::lock:|2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)|[ts](/2501-3000/2632.Curry.ts)|Hard|
 |:heavy_check_mark:|2631|Group By|[:us:](https://leetcode.com/problems/group-by) [:cn:](https://leetcode.cn/problems/group-by)|[ts](/2501-3000/2631.Group%20By.ts)|Medium|
 |:heavy_check_mark:|2630|Memoize II|[:us:](https://leetcode.com/problems/memoize-ii) [:cn:](https://leetcode.cn/problems/memoize-ii)|[ts](/2501-3000/2630.Memoize%20II.ts)|Hard|
 |:heavy_check_mark:|2629|Function Composition|[:us:](https://leetcode.com/problems/function-composition) [:cn:](https://leetcode.cn/problems/function-composition)|[ts](/2501-3000/2629.Function%20Composition.ts)|Easy|
