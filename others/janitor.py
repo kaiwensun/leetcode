@@ -187,8 +187,6 @@ class Solution:
         "LCS": re.compile("^LCS \d{2}$"),
         "LCP": re.compile("^LCP \d{2}$"),
         "LCR": re.compile("^LCR \d{3}$"),
-        "剑指 Offer II": re.compile("^剑指 Offer II \d{3}$"),
-        "剑指 Offer": re.compile("^剑指 Offer \d{2}( ?- I{1,3})?$"),
         "面试题": re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
         "DD": re.compile("^DD-\d{7}"),
         "银联": re.compile("^银联-\d{2}$")
@@ -946,8 +944,7 @@ def load_resources(client, offline):
         return obj
 
     def list_code_folders():
-        folder_patterns = ["\d{4}-\d{4}", "LCS", "LCP", "LCR",
-                           "剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联"]
+        folder_patterns = ["\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
@@ -963,7 +960,7 @@ def load_resources(client, offline):
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCS", "LCP", "LCR","剑指 Offer II", "剑指 Offer", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
+            "\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)

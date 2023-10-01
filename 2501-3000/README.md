@@ -2,16 +2,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|372|191|0|100 (65.28%)|3|
+|376|195|0|100 (65.75%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|49.5%|29.1%|6.6%|6.1%|4.6%|3.6%|0.5%|
+|50.5%|28.5%|6.5%|6.0%|4.5%|3.5%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2876|Count Visited Nodes in a Directed Graph|[:us:](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph) [:cn:](https://leetcode.cn/problems/count-visited-nodes-in-a-directed-graph)|[py](/2501-3000/2876.Count%20Visited%20Nodes%20in%20a%20Directed%20Graph.py)|Hard|
+|:heavy_check_mark:|2875|Minimum Size Subarray in Infinite Array|[:us:](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array) [:cn:](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array)|[py](/2501-3000/2875.Minimum%20Size%20Subarray%20in%20Infinite%20Array.py)|Medium|
+|:heavy_check_mark:|2874|Maximum Value of an Ordered Triplet II|[:us:](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) [:cn:](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii)|[py](/2501-3000/2874.Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py)|Medium|
+|:heavy_check_mark:|2873|Maximum Value of an Ordered Triplet I|[:us:](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) [:cn:](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-i)|[py](/2501-3000/2873.Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py)|Easy|
 ||2872|Maximum Number of K-Divisible Components|[:us:](https://leetcode.com/problems/maximum-number-of-k-divisible-components) [:cn:](https://leetcode.cn/problems/maximum-number-of-k-divisible-components)||Hard|
 ||2871|Split Array Into Maximum Number of Subarrays|[:us:](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays) [:cn:](https://leetcode.cn/problems/split-array-into-maximum-number-of-subarrays)||Medium|
 ||2870|Minimum Number of Operations to Make Array Empty|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-empty)||Medium|
