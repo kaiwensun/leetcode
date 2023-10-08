@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|376|195|0|100 (65.75%)|3|
+|393|195|0|115 (62.54%)|3|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,23 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock: sql |2893|Calculate Orders Within Each Interval|[:us:](https://leetcode.com/problems/calculate-orders-within-each-interval) [:cn:](https://leetcode.cn/problems/calculate-orders-within-each-interval)||Medium|
+|:lock:|2892|Minimizing Array After Replacing Pairs With Their Product|[:us:](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product) [:cn:](https://leetcode.cn/problems/minimizing-array-after-replacing-pairs-with-their-product)||Medium|
+||2891|Method Chaining|[:us:](https://leetcode.com/problems/method-chaining) [:cn:](https://leetcode.cn/problems/method-chaining)||Easy|
+||2890|Reshape Data: Melt|[:us:](https://leetcode.com/problems/reshape-data-melt) [:cn:](https://leetcode.cn/problems/reshape-data-melt)||Easy|
+||2889|Reshape Data: Pivot|[:us:](https://leetcode.com/problems/reshape-data-pivot) [:cn:](https://leetcode.cn/problems/reshape-data-pivot)||Easy|
+||2888|Reshape Data: Concatenate|[:us:](https://leetcode.com/problems/reshape-data-concatenate) [:cn:](https://leetcode.cn/problems/reshape-data-concatenate)||Easy|
+||2887|Fill Missing Data|[:us:](https://leetcode.com/problems/fill-missing-data) [:cn:](https://leetcode.cn/problems/fill-missing-data)||Easy|
+||2886|Change Data Type|[:us:](https://leetcode.com/problems/change-data-type) [:cn:](https://leetcode.cn/problems/change-data-type)||Easy|
+||2885|Rename Columns|[:us:](https://leetcode.com/problems/rename-columns) [:cn:](https://leetcode.cn/problems/rename-columns)||Easy|
+||2884|Modify Columns|[:us:](https://leetcode.com/problems/modify-columns) [:cn:](https://leetcode.cn/problems/modify-columns)||Easy|
+||2883|Drop Missing Data|[:us:](https://leetcode.com/problems/drop-missing-data) [:cn:](https://leetcode.cn/problems/drop-missing-data)||Easy|
+||2882|Drop Duplicate Rows|[:us:](https://leetcode.com/problems/drop-duplicate-rows) [:cn:](https://leetcode.cn/problems/drop-duplicate-rows)||Easy|
+||2881|Create a New Column|[:us:](https://leetcode.com/problems/create-a-new-column) [:cn:](https://leetcode.cn/problems/create-a-new-column)||Easy|
+||2880|Select Data|[:us:](https://leetcode.com/problems/select-data) [:cn:](https://leetcode.cn/problems/select-data)||Easy|
+||2879|Display the First Three Rows|[:us:](https://leetcode.com/problems/display-the-first-three-rows) [:cn:](https://leetcode.cn/problems/display-the-first-three-rows)||Easy|
+||2878|Get the Size of a DataFrame|[:us:](https://leetcode.com/problems/get-the-size-of-a-dataframe) [:cn:](https://leetcode.cn/problems/get-the-size-of-a-dataframe)||Easy|
+||2877|Create a DataFrame from List|[:us:](https://leetcode.com/problems/create-a-dataframe-from-list) [:cn:](https://leetcode.cn/problems/create-a-dataframe-from-list)||Easy|
 |:heavy_check_mark:|2876|Count Visited Nodes in a Directed Graph|[:us:](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph) [:cn:](https://leetcode.cn/problems/count-visited-nodes-in-a-directed-graph)|[py](/2501-3000/2876.Count%20Visited%20Nodes%20in%20a%20Directed%20Graph.py)|Hard|
 |:heavy_check_mark:|2875|Minimum Size Subarray in Infinite Array|[:us:](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array) [:cn:](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array)|[py](/2501-3000/2875.Minimum%20Size%20Subarray%20in%20Infinite%20Array.py)|Medium|
 |:heavy_check_mark:|2874|Maximum Value of an Ordered Triplet II|[:us:](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) [:cn:](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii)|[py](/2501-3000/2874.Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py)|Medium|
@@ -91,7 +108,7 @@
 |:heavy_check_mark:|2800|Shortest String That Contains Three Strings|[:us:](https://leetcode.com/problems/shortest-string-that-contains-three-strings) [:cn:](https://leetcode.cn/problems/shortest-string-that-contains-three-strings)|[py](/2501-3000/2800.Shortest%20String%20That%20Contains%20Three%20Strings.py)|Medium|
 |:heavy_check_mark:|2799|Count Complete Subarrays in an Array|[:us:](https://leetcode.com/problems/count-complete-subarrays-in-an-array) [:cn:](https://leetcode.cn/problems/count-complete-subarrays-in-an-array)|[py](/2501-3000/2799.Count%20Complete%20Subarrays%20in%20an%20Array.py)|Medium|
 |:heavy_check_mark:|2798|Number of Employees Who Met the Target|[:us:](https://leetcode.com/problems/number-of-employees-who-met-the-target) [:cn:](https://leetcode.cn/problems/number-of-employees-who-met-the-target)|[ts](/2501-3000/2798.Number%20of%20Employees%20Who%20Met%20the%20Target.ts)|Easy|
-|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Medium|
+|:lock:|2797|Partial Function with Placeholders|[:us:](https://leetcode.com/problems/partial-function-with-placeholders) [:cn:](https://leetcode.cn/problems/partial-function-with-placeholders)||Easy|
 |:lock:|2796|Repeat String|[:us:](https://leetcode.com/problems/repeat-string) [:cn:](https://leetcode.cn/problems/repeat-string)||Easy|
 |:lock:|2795|Parallel Execution of Promises for Individual Results Retrieval|[:us:](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval) [:cn:](https://leetcode.cn/problems/parallel-execution-of-promises-for-individual-results-retrieval)||Medium|
 |:lock:|2794|Create Object from Two Arrays|[:us:](https://leetcode.com/problems/create-object-from-two-arrays) [:cn:](https://leetcode.cn/problems/create-object-from-two-arrays)||Easy|

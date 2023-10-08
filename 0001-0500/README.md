@@ -348,7 +348,7 @@
 |:heavy_check_mark:|167|Two Sum II - Input Array Is Sorted|[:us:](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) [:cn:](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted)|[java](/0001-0500/0167.Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|Medium|
 |:heavy_check_mark:|166|Fraction to Recurring Decimal|[:us:](https://leetcode.com/problems/fraction-to-recurring-decimal) [:cn:](https://leetcode.cn/problems/fraction-to-recurring-decimal)|[py](/0001-0500/0166.Fraction%20to%20Recurring%20Decimal.py)|Medium|
 |:heavy_check_mark:|165|Compare Version Numbers|[:us:](https://leetcode.com/problems/compare-version-numbers) [:cn:](https://leetcode.cn/problems/compare-version-numbers)|[java](/0001-0500/0165.Compare%20Version%20Numbers.java)|Medium|
-|:heavy_check_mark:|164|Maximum Gap|[:us:](https://leetcode.com/problems/maximum-gap) [:cn:](https://leetcode.cn/problems/maximum-gap)|[py](/0001-0500/0164.Maximum%20Gap.py)|Hard|
+|:heavy_check_mark:|164|Maximum Gap|[:us:](https://leetcode.com/problems/maximum-gap) [:cn:](https://leetcode.cn/problems/maximum-gap)|[py](/0001-0500/0164.Maximum%20Gap.py)|Medium|
 |:lock:|163|Missing Ranges|[:us:](https://leetcode.com/problems/missing-ranges) [:cn:](https://leetcode.cn/problems/missing-ranges)||Easy|
 |:heavy_check_mark:|162|Find Peak Element|[:us:](https://leetcode.com/problems/find-peak-element) [:cn:](https://leetcode.cn/problems/find-peak-element)|[py](/0001-0500/0162.Find%20Peak%20Element.py)|Medium|
 |:lock:|161|One Edit Distance|[:us:](https://leetcode.com/problems/one-edit-distance) [:cn:](https://leetcode.cn/problems/one-edit-distance)||Medium|
