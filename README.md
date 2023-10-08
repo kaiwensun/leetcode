@@ -27,10 +27,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|8028|apply-operations-to-make-two-strings-equal||[py](/8028.apply-operations-to-make-two-strings-equal.py)||
-|:heavy_check_mark:|100103|divisible-and-non-divisible-sums-difference||[py](/100103.divisible-and-non-divisible-sums-difference.py)||
-|:heavy_check_mark:|100087|apply-operations-on-array-to-maximize-sum-of-squares||[py](/100087.apply-operations-on-array-to-maximize-sum-of-squares.py)||
-|:heavy_check_mark:|100085|minimum-processing-time||[py](/100085.minimum-processing-time.py)||
+|:heavy_check_mark:|2897|Apply Operations on Array to Maximize Sum of Squares|[:us:](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) [:cn:](https://leetcode.cn/problems/apply-operations-on-array-to-maximize-sum-of-squares)|[py](/2501-3000/2897.Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares.py)|Hard|
+|:heavy_check_mark:|2896|Apply Operations to Make Two Strings Equal|[:us:](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal) [:cn:](https://leetcode.cn/problems/apply-operations-to-make-two-strings-equal)|[py](/2501-3000/2896.Apply%20Operations%20to%20Make%20Two%20Strings%20Equal.py)|Medium|
+|:heavy_check_mark:|2895|Minimum Processing Time|[:us:](https://leetcode.com/problems/minimum-processing-time) [:cn:](https://leetcode.cn/problems/minimum-processing-time)|[py](/2501-3000/2895.Minimum%20Processing%20Time.py)|Medium|
+|:heavy_check_mark:|2894|Divisible and Non-divisible Sums Difference|[:us:](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) [:cn:](https://leetcode.cn/problems/divisible-and-non-divisible-sums-difference)|[py](/2501-3000/2894.Divisible%20and%20Non-divisible%20Sums%20Difference.py)|Easy|
 |:lock: sql |2893|Calculate Orders Within Each Interval|[:us:](https://leetcode.com/problems/calculate-orders-within-each-interval) [:cn:](https://leetcode.cn/problems/calculate-orders-within-each-interval)||Medium|
 |:lock:|2892|Minimizing Array After Replacing Pairs With Their Product|[:us:](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product) [:cn:](https://leetcode.cn/problems/minimizing-array-after-replacing-pairs-with-their-product)||Medium|
 ||2891|Method Chaining|[:us:](https://leetcode.com/problems/method-chaining) [:cn:](https://leetcode.cn/problems/method-chaining)||Easy|
