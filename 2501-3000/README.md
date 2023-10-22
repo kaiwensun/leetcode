@@ -2,16 +2,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|407|203|0|119 (62.70%)|4|
+|411|207|0|119 (63.16%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|52.4%|27.4%|6.2%|5.8%|4.3%|3.4%|0.5%|
+|53.3%|26.9%|6.1%|5.7%|4.2%|3.3%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2911|Minimum Changes to Make K Semi-palindromes|[:us:](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) [:cn:](https://leetcode.cn/problems/minimum-changes-to-make-k-semi-palindromes)|[py](/2501-3000/2911.Minimum%20Changes%20to%20Make%20K%20Semi-palindromes.py)|Hard|
+|:heavy_check_mark:|2910|Minimum Number of Groups to Create a Valid Assignment|[:us:](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment) [:cn:](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment)|[py](/2501-3000/2910.Minimum%20Number%20of%20Groups%20to%20Create%20a%20Valid%20Assignment.py)|Medium|
+|:heavy_check_mark:|2909|Minimum Sum of Mountain Triplets II|[:us:](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii) [:cn:](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-ii)|[py](/2501-3000/2909.Minimum%20Sum%20of%20Mountain%20Triplets%20II.py)|Medium|
+|:heavy_check_mark:|2908|Minimum Sum of Mountain Triplets I|[:us:](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i) [:cn:](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-i)|[py](/2501-3000/2908.Minimum%20Sum%20of%20Mountain%20Triplets%20I.py)|Easy|
 |:lock:|2907|Maximum Profitable Triplets With Increasing Prices I|[:us:](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i) [:cn:](https://leetcode.cn/problems/maximum-profitable-triplets-with-increasing-prices-i)||Medium|
 |:heavy_check_mark::star:|2906|Construct Product Matrix|[:us:](https://leetcode.com/problems/construct-product-matrix) [:cn:](https://leetcode.cn/problems/construct-product-matrix)|[py](/2501-3000/2906.Construct%20Product%20Matrix.py)|Medium|
 |:heavy_check_mark:|2905|Find Indices With Index and Value Difference II|[:us:](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii) [:cn:](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii)|[py](/2501-3000/2905.Find%20Indices%20With%20Index%20and%20Value%20Difference%20II.py)|Medium|
