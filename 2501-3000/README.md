@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|406|203|0|119 (62.70%)|4|
+|407|203|0|119 (62.70%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2907|Maximum Profitable Triplets With Increasing Prices I|[:us:](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i) [:cn:](https://leetcode.cn/problems/maximum-profitable-triplets-with-increasing-prices-i)||Medium|
 |:heavy_check_mark::star:|2906|Construct Product Matrix|[:us:](https://leetcode.com/problems/construct-product-matrix) [:cn:](https://leetcode.cn/problems/construct-product-matrix)|[py](/2501-3000/2906.Construct%20Product%20Matrix.py)|Medium|
 |:heavy_check_mark:|2905|Find Indices With Index and Value Difference II|[:us:](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii) [:cn:](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii)|[py](/2501-3000/2905.Find%20Indices%20With%20Index%20and%20Value%20Difference%20II.py)|Medium|
 |:heavy_check_mark:|2904|Shortest and Lexicographically Smallest Beautiful String|[:us:](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string) [:cn:](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string)|[py](/2501-3000/2904.Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String.py)|Medium|
