@@ -29,6 +29,8 @@ class Solution:
             coin = coins[i]
             if cnt[cuts] == 0:
                 return 0
+            if cnt[cuts] <= k:
+                return (coin >> (cuts + 1)) + sum(dp(child, i, cuts + 1) for child in graph[i] if child != parent)
             return max(
                 (coin >> cuts) - k + sum(dp(child, i, cuts) for child in graph[i] if child != parent),
                 (coin >> (cuts + 1)) + sum(dp(child, i, cuts + 1) for child in graph[i] if child != parent)
