@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|411|207|0|119 (63.16%)|4|
+|412|207|0|119 (63.16%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2912|Number of Ways to Reach Destination in the Grid|[:us:](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid) [:cn:](https://leetcode.cn/problems/number-of-ways-to-reach-destination-in-the-grid)||Hard|
 |:heavy_check_mark:|2911|Minimum Changes to Make K Semi-palindromes|[:us:](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) [:cn:](https://leetcode.cn/problems/minimum-changes-to-make-k-semi-palindromes)|[py](/2501-3000/2911.Minimum%20Changes%20to%20Make%20K%20Semi-palindromes.py)|Hard|
 |:heavy_check_mark:|2910|Minimum Number of Groups to Create a Valid Assignment|[:us:](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment) [:cn:](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment)|[py](/2501-3000/2910.Minimum%20Number%20of%20Groups%20to%20Create%20a%20Valid%20Assignment.py)|Medium|
 |:heavy_check_mark:|2909|Minimum Sum of Mountain Triplets II|[:us:](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii) [:cn:](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-ii)|[py](/2501-3000/2909.Minimum%20Sum%20of%20Mountain%20Triplets%20II.py)|Medium|
