@@ -57,7 +57,7 @@ class Client:
 
 
 class GraphQLData:
-    BASE_URL = "https://leetcode.com"
+    BASE_URL = "https://leetcode.cn"
     GRAPHQL_URL = BASE_URL + "/graphql"
 
     def __init__(self):
@@ -71,7 +71,8 @@ class GraphQLData:
             try:
                 self.csrf = self.client.cookies['csrftoken']
             except KeyError as e:
-                raise Exception(f"response does not contain csrf token - {resp}") from e
+                # raise Exception(f"response does not contain csrf token - {resp}") from e
+                pass
 
         params = {
             'operationName': "query",
