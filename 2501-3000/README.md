@@ -2,16 +2,24 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|412|207|0|119 (63.16%)|4|
+|420|211|0|123 (62.84%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|53.3%|26.9%|6.1%|5.7%|4.2%|3.3%|0.5%|
+|54.2%|26.4%|6.0%|5.6%|4.2%|3.2%|0.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2920|Maximum Points After Collecting Coins From All Nodes|[:us:](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes) [:cn:](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes)|[py](/2501-3000/2920.Maximum%20Points%20After%20Collecting%20Coins%20From%20All%20Nodes.py)|Hard|
+|:heavy_check_mark:|2919|Minimum Increment Operations to Make Array Beautiful|[:us:](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful) [:cn:](https://leetcode.cn/problems/minimum-increment-operations-to-make-array-beautiful)|[py](/2501-3000/2919.Minimum%20Increment%20Operations%20to%20Make%20Array%20Beautiful.py)|Medium|
+|:heavy_check_mark:|2918|Minimum Equal Sum of Two Arrays After Replacing Zeros|[:us:](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) [:cn:](https://leetcode.cn/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros)|[py](/2501-3000/2918.Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros.py)|Medium|
+|:heavy_check_mark:|2917|Find the K-or of an Array|[:us:](https://leetcode.com/problems/find-the-k-or-of-an-array) [:cn:](https://leetcode.cn/problems/find-the-k-or-of-an-array)|[py](/2501-3000/2917.Find%20the%20K-or%20of%20an%20Array.py)|Easy|
+||2916|Subarrays Distinct Element Sum of Squares II|[:us:](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) [:cn:](https://leetcode.cn/problems/subarrays-distinct-element-sum-of-squares-ii)||Hard|
+||2915|Length of the Longest Subsequence That Sums to Target|[:us:](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target) [:cn:](https://leetcode.cn/problems/length-of-the-longest-subsequence-that-sums-to-target)||Medium|
+||2914|Minimum Number of Changes to Make Binary String Beautiful|[:us:](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) [:cn:](https://leetcode.cn/problems/minimum-number-of-changes-to-make-binary-string-beautiful)||Medium|
+||2913|Subarrays Distinct Element Sum of Squares I|[:us:](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) [:cn:](https://leetcode.cn/problems/subarrays-distinct-element-sum-of-squares-i)||Easy|
 |:lock:|2912|Number of Ways to Reach Destination in the Grid|[:us:](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid) [:cn:](https://leetcode.cn/problems/number-of-ways-to-reach-destination-in-the-grid)||Hard|
 |:heavy_check_mark:|2911|Minimum Changes to Make K Semi-palindromes|[:us:](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) [:cn:](https://leetcode.cn/problems/minimum-changes-to-make-k-semi-palindromes)|[py](/2501-3000/2911.Minimum%20Changes%20to%20Make%20K%20Semi-palindromes.py)|Hard|
 |:heavy_check_mark:|2910|Minimum Number of Groups to Create a Valid Assignment|[:us:](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment) [:cn:](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment)|[py](/2501-3000/2910.Minimum%20Number%20of%20Groups%20to%20Create%20a%20Valid%20Assignment.py)|Medium|
