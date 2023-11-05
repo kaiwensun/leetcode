@@ -1,11 +1,9 @@
 class Solution:
     def maxBalancedSubsequenceSum(self, nums: List[int]) -> int:
-        res = float("-inf")
         n = len(nums)
-        heap = []
         array = sorted((nums[i] - i, i) for i in range(len(nums)))
 
-        segTree = [float("-inf")] * (n * 2)
+        seg_tree = [float("-inf")] * (n * 2)
 
         def find_max(left, right):
             left += n
@@ -13,11 +11,11 @@ class Solution:
             mx = float("-inf")
             while left < right:
                 if left % 2:
-                    mx = max(mx, segTree[left])
+                    mx = max(mx, seg_tree[left])
                     left += 1
                 if right % 2:
                     right -= 1
-                    mx = max(mx, segTree[right])
+                    mx = max(mx, seg_tree[right])
                 left //= 2
                 right //= 2
             return mx
@@ -25,9 +23,9 @@ class Solution:
         def set_value(i, value):
             i += n
             while i:
-                if segTree[i] >= value:
+                if seg_tree[i] >= value:
                     break
-                segTree[i] = value
+                seg_tree[i] = value
                 i //= 2
 
         res = float("-inf")
