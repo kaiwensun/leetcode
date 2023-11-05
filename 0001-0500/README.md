@@ -440,7 +440,7 @@
 |:heavy_check_mark:|75|Sort Colors|[:us:](https://leetcode.com/problems/sort-colors) [:cn:](https://leetcode.cn/problems/sort-colors)|[py](/0001-0500/0075.Sort%20Colors.py), [rb](/0001-0500/0075.Sort%20Colors.rb)|Medium|
 |:heavy_check_mark:|74|Search a 2D Matrix|[:us:](https://leetcode.com/problems/search-a-2d-matrix) [:cn:](https://leetcode.cn/problems/search-a-2d-matrix)|[c](/0001-0500/0074.Search%20a%202D%20Matrix.c), [py](/0001-0500/0074.Search%20a%202D%20Matrix.py)|Medium|
 |:heavy_check_mark:|73|Set Matrix Zeroes|[:us:](https://leetcode.com/problems/set-matrix-zeroes) [:cn:](https://leetcode.cn/problems/set-matrix-zeroes)|[cpp](/0001-0500/0073.Set%20Matrix%20Zeroes.cpp)|Medium|
-|:heavy_check_mark:|72|Edit Distance|[:us:](https://leetcode.com/problems/edit-distance) [:cn:](https://leetcode.cn/problems/edit-distance)|[py](/0001-0500/0072.Edit%20Distance.py), [rb](/0001-0500/0072.Edit%20Distance.rb)|Hard|
+|:heavy_check_mark:|72|Edit Distance|[:us:](https://leetcode.com/problems/edit-distance) [:cn:](https://leetcode.cn/problems/edit-distance)|[py](/0001-0500/0072.Edit%20Distance.py), [rb](/0001-0500/0072.Edit%20Distance.rb)|Medium|
 |:heavy_check_mark:|71|Simplify Path|[:us:](https://leetcode.com/problems/simplify-path) [:cn:](https://leetcode.cn/problems/simplify-path)|[py](/0001-0500/0071.Simplify%20Path.py)|Medium|
 |:heavy_check_mark:|70|Climbing Stairs|[:us:](https://leetcode.com/problems/climbing-stairs) [:cn:](https://leetcode.cn/problems/climbing-stairs)|[java](/0001-0500/0070.Climbing%20Stairs.java), [py](/0001-0500/0070.Climbing%20Stairs.py)|Easy|
 |:heavy_check_mark:|69|Sqrt(x)|[:us:](https://leetcode.com/problems/sqrtx) [:cn:](https://leetcode.cn/problems/sqrtx)|[cpp](/0001-0500/0069.Sqrt%28x%29.cpp)|Easy|

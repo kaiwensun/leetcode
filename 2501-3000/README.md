@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|420|211|0|123 (62.84%)|4|
+|422|211|0|123 (62.84%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,8 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock: sql |2922|Market Analysis III|[:us:](https://leetcode.com/problems/market-analysis-iii) [:cn:](https://leetcode.cn/problems/market-analysis-iii)||Medium|
+|:lock:|2921|Maximum Profitable Triplets With Increasing Prices II|[:us:](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii) [:cn:](https://leetcode.cn/problems/maximum-profitable-triplets-with-increasing-prices-ii)||Hard|
 |:heavy_check_mark:|2920|Maximum Points After Collecting Coins From All Nodes|[:us:](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes) [:cn:](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes)|[py](/2501-3000/2920.Maximum%20Points%20After%20Collecting%20Coins%20From%20All%20Nodes.py)|Hard|
 |:heavy_check_mark:|2919|Minimum Increment Operations to Make Array Beautiful|[:us:](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful) [:cn:](https://leetcode.cn/problems/minimum-increment-operations-to-make-array-beautiful)|[py](/2501-3000/2919.Minimum%20Increment%20Operations%20to%20Make%20Array%20Beautiful.py)|Medium|
 |:heavy_check_mark:|2918|Minimum Equal Sum of Two Arrays After Replacing Zeros|[:us:](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) [:cn:](https://leetcode.cn/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros)|[py](/2501-3000/2918.Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros.py)|Medium|
@@ -300,7 +302,7 @@
 |:heavy_check_mark:|2635|Apply Transform Over Each Element in Array|[:us:](https://leetcode.com/problems/apply-transform-over-each-element-in-array) [:cn:](https://leetcode.cn/problems/apply-transform-over-each-element-in-array)|[ts](/2501-3000/2635.Apply%20Transform%20Over%20Each%20Element%20in%20Array.ts)|Easy|
 |:heavy_check_mark:|2634|Filter Elements from Array|[:us:](https://leetcode.com/problems/filter-elements-from-array) [:cn:](https://leetcode.cn/problems/filter-elements-from-array)|[ts](/2501-3000/2634.Filter%20Elements%20from%20Array.ts)|Easy|
 |:heavy_check_mark::lock:|2633|Convert Object to JSON String|[:us:](https://leetcode.com/problems/convert-object-to-json-string) [:cn:](https://leetcode.cn/problems/convert-object-to-json-string)|[ts](/2501-3000/2633.Convert%20Object%20to%20JSON%20String.ts)|Medium|
-|:heavy_check_mark::lock:|2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)|[ts](/2501-3000/2632.Curry.ts)|Hard|
+|:heavy_check_mark::lock:|2632|Curry|[:us:](https://leetcode.com/problems/curry) [:cn:](https://leetcode.cn/problems/curry)|[ts](/2501-3000/2632.Curry.ts)|Medium|
 |:heavy_check_mark:|2631|Group By|[:us:](https://leetcode.com/problems/group-by) [:cn:](https://leetcode.cn/problems/group-by)|[ts](/2501-3000/2631.Group%20By.ts)|Medium|
 |:heavy_check_mark:|2630|Memoize II|[:us:](https://leetcode.com/problems/memoize-ii) [:cn:](https://leetcode.cn/problems/memoize-ii)|[ts](/2501-3000/2630.Memoize%20II.ts)|Hard|
 |:heavy_check_mark:|2629|Function Composition|[:us:](https://leetcode.com/problems/function-composition) [:cn:](https://leetcode.cn/problems/function-composition)|[ts](/2501-3000/2629.Function%20Composition.ts)|Easy|
