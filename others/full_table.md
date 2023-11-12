@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3325|2085|6|274 (87.95%)|16|
+|3329|2089|6|274 (87.97%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.8%|14.3%|10.9%|6.7%|4.4%|2.3%|0.9%|0.8%|
+|59.9%|14.2%|10.9%|6.7%|4.4%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100128|high-access-employees||[py](/100128.high-access-employees.py)||
+|:heavy_check_mark:|100124|maximum-strong-pair-xor-ii||[py](/100124.maximum-strong-pair-xor-ii.py)||
+|:heavy_check_mark:|100120|maximum-strong-pair-xor-i||[py](/100120.maximum-strong-pair-xor-i.py)||
+|:heavy_check_mark:|100117|minimum-operations-to-maximize-last-elements-in-arrays||[py](/100117.minimum-operations-to-maximize-last-elements-in-arrays.py)||
 ||100127|Distribute Candies Among Children II|[:us:](https://leetcode.com/problems/distribute-candies-among-children-ii) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-ii)||Medium|
 ||100126|Number of Strings Which Can Be Rearranged to Contain Substring|[:us:](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring) [:cn:](https://leetcode.cn/problems/number-of-strings-which-can-be-rearranged-to-contain-substring)||Medium|
 ||100125|Distribute Candies Among Children I|[:us:](https://leetcode.com/problems/distribute-candies-among-children-i) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-i)||Easy|

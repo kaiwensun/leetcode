@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3325|2085|6|274 (87.95%)|16|
+|3329|2089|6|274 (87.97%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.8%|14.3%|10.9%|6.7%|4.4%|2.3%|0.9%|0.8%|
+|59.9%|14.2%|10.9%|6.7%|4.4%|2.3%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -27,6 +27,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100128|high-access-employees||[py](/100128.high-access-employees.py)||
+|:heavy_check_mark:|100124|maximum-strong-pair-xor-ii||[py](/100124.maximum-strong-pair-xor-ii.py)||
+|:heavy_check_mark:|100120|maximum-strong-pair-xor-i||[py](/100120.maximum-strong-pair-xor-i.py)||
+|:heavy_check_mark:|100117|minimum-operations-to-maximize-last-elements-in-arrays||[py](/100117.minimum-operations-to-maximize-last-elements-in-arrays.py)||
 ||100127|Distribute Candies Among Children II|[:us:](https://leetcode.com/problems/distribute-candies-among-children-ii) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-ii)||Medium|
 ||100126|Number of Strings Which Can Be Rearranged to Contain Substring|[:us:](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring) [:cn:](https://leetcode.cn/problems/number-of-strings-which-can-be-rearranged-to-contain-substring)||Medium|
 ||100125|Distribute Candies Among Children I|[:us:](https://leetcode.com/problems/distribute-candies-among-children-i) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-i)||Easy|
@@ -1023,7 +1027,3 @@ For a full list, check [full_table.md](others/full_table.md).
 ||1938|Maximum Genetic Difference Query|[:us:](https://leetcode.com/problems/maximum-genetic-difference-query) [:cn:](https://leetcode.cn/problems/maximum-genetic-difference-query)||Hard|
 ||1937|Maximum Number of Points with Cost|[:us:](https://leetcode.com/problems/maximum-number-of-points-with-cost) [:cn:](https://leetcode.cn/problems/maximum-number-of-points-with-cost)||Medium|
 |:heavy_check_mark:|1936|Add Minimum Number of Rungs|[:us:](https://leetcode.com/problems/add-minimum-number-of-rungs) [:cn:](https://leetcode.cn/problems/add-minimum-number-of-rungs)|[py](/1501-2000/1936.Add%20Minimum%20Number%20of%20Rungs.py)|Medium|
-|:heavy_check_mark:|1935|Maximum Number of Words You Can Type|[:us:](https://leetcode.com/problems/maximum-number-of-words-you-can-type) [:cn:](https://leetcode.cn/problems/maximum-number-of-words-you-can-type)|[ts](/1501-2000/1935.Maximum%20Number%20of%20Words%20You%20Can%20Type.ts)|Easy|
-| sql |1934|Confirmation Rate|[:us:](https://leetcode.com/problems/confirmation-rate) [:cn:](https://leetcode.cn/problems/confirmation-rate)||Medium|
-|:heavy_check_mark::lock:|1933|Check if String Is Decomposable Into Value-Equal Substrings|[:us:](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings) [:cn:](https://leetcode.cn/problems/check-if-string-is-decomposable-into-value-equal-substrings)|[ts](/1501-2000/1933.Check%20if%20String%20Is%20Decomposable%20Into%20Value-Equal%20Substrings.ts)|Easy|
-|:heavy_check_mark:|1932|Merge BSTs to Create Single BST|[:us:](https://leetcode.com/problems/merge-bsts-to-create-single-bst) [:cn:](https://leetcode.cn/problems/merge-bsts-to-create-single-bst)|[py](/1501-2000/1932.Merge%20BSTs%20to%20Create%20Single%20BST.py)|Hard|
