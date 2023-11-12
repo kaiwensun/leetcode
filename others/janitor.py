@@ -323,6 +323,8 @@ class Solution:
         return self._desired_folder
 
     def _calc_desired_folder(self):
+        if self.is_contest():
+            return "."
         if self.is_us():
             num = int(self._id)
             start = (num - 1) // Solution.FOLDER_SIZE * \
