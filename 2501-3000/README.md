@@ -2,16 +2,24 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|427|215|0|123 (63.28%)|4|
+|435|219|0|127 (62.97%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|55.0%|25.9%|5.9%|5.5%|4.1%|3.2%|0.5%|
+|55.8%|25.4%|5.8%|5.4%|4.0%|3.1%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|2935|Maximum Strong Pair XOR II|[:us:](https://leetcode.com/problems/maximum-strong-pair-xor-ii) [:cn:](https://leetcode.cn/problems/maximum-strong-pair-xor-ii)|[py](/2501-3000/2935.Maximum%20Strong%20Pair%20XOR%20II.py)|Hard|
+|:heavy_check_mark:|2934|Minimum Operations to Maximize Last Elements in Arrays|[:us:](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays) [:cn:](https://leetcode.cn/problems/minimum-operations-to-maximize-last-elements-in-arrays)|[py](/2501-3000/2934.Minimum%20Operations%20to%20Maximize%20Last%20Elements%20in%20Arrays.py)|Medium|
+|:heavy_check_mark:|2933|High-Access Employees|[:us:](https://leetcode.com/problems/high-access-employees) [:cn:](https://leetcode.cn/problems/high-access-employees)|[py](/2501-3000/2933.High-Access%20Employees.py)|Medium|
+|:heavy_check_mark:|2932|Maximum Strong Pair XOR I|[:us:](https://leetcode.com/problems/maximum-strong-pair-xor-i) [:cn:](https://leetcode.cn/problems/maximum-strong-pair-xor-i)|[py](/2501-3000/2932.Maximum%20Strong%20Pair%20XOR%20I.py)|Easy|
+||2931|Maximum Spending After Buying Items|[:us:](https://leetcode.com/problems/maximum-spending-after-buying-items) [:cn:](https://leetcode.cn/problems/maximum-spending-after-buying-items)||Hard|
+||2930|Number of Strings Which Can Be Rearranged to Contain Substring|[:us:](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring) [:cn:](https://leetcode.cn/problems/number-of-strings-which-can-be-rearranged-to-contain-substring)||Medium|
+||2929|Distribute Candies Among Children II|[:us:](https://leetcode.com/problems/distribute-candies-among-children-ii) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-ii)||Medium|
+||2928|Distribute Candies Among Children I|[:us:](https://leetcode.com/problems/distribute-candies-among-children-i) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-i)||Easy|
 |:lock:|2927|Distribute Candies Among Children III|[:us:](https://leetcode.com/problems/distribute-candies-among-children-iii) [:cn:](https://leetcode.cn/problems/distribute-candies-among-children-iii)||Hard|
 |:heavy_check_mark:|2926|Maximum Balanced Subsequence Sum|[:us:](https://leetcode.com/problems/maximum-balanced-subsequence-sum) [:cn:](https://leetcode.cn/problems/maximum-balanced-subsequence-sum)|[py](/2501-3000/2926.Maximum%20Balanced%20Subsequence%20Sum.py)|Hard|
 |:heavy_check_mark:|2925|Maximum Score After Applying Operations on a Tree|[:us:](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree) [:cn:](https://leetcode.cn/problems/maximum-score-after-applying-operations-on-a-tree)|[py](/2501-3000/2925.Maximum%20Score%20After%20Applying%20Operations%20on%20a%20Tree.py)|Medium|
