@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|435|219|0|127 (62.97%)|4|
+|436|219|0|127 (62.97%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
@@ -12,6 +12,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2936|Number of Equal Numbers Blocks|[:us:](https://leetcode.com/problems/number-of-equal-numbers-blocks) [:cn:](https://leetcode.cn/problems/number-of-equal-numbers-blocks)||Medium|
 |:heavy_check_mark:|2935|Maximum Strong Pair XOR II|[:us:](https://leetcode.com/problems/maximum-strong-pair-xor-ii) [:cn:](https://leetcode.cn/problems/maximum-strong-pair-xor-ii)|[py](/2501-3000/2935.Maximum%20Strong%20Pair%20XOR%20II.py)|Hard|
 |:heavy_check_mark:|2934|Minimum Operations to Maximize Last Elements in Arrays|[:us:](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays) [:cn:](https://leetcode.cn/problems/minimum-operations-to-maximize-last-elements-in-arrays)|[py](/2501-3000/2934.Minimum%20Operations%20to%20Maximize%20Last%20Elements%20in%20Arrays.py)|Medium|
 |:heavy_check_mark:|2933|High-Access Employees|[:us:](https://leetcode.com/problems/high-access-employees) [:cn:](https://leetcode.cn/problems/high-access-employees)|[py](/2501-3000/2933.High-Access%20Employees.py)|Medium|
