@@ -9,19 +9,23 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3339|2092|6|279 (87.79%)|16|
+|3343|2096|6|279 (87.81%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.9%|14.2%|10.9%|6.7%|4.4%|2.3%|0.9%|0.8%|
+|60.0%|14.2%|10.8%|6.7%|4.4%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100142|Make Lexicographically Smallest Array by Swapping Elements|[:us:](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) [:cn:](https://leetcode.cn/problems/make-lexicographically-smallest-array-by-swapping-elements)|[py](/100142.Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py)|Medium|
+|:heavy_check_mark:|100139|Matrix Similarity After Cyclic Shifts|[:us:](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) [:cn:](https://leetcode.cn/problems/matrix-similarity-after-cyclic-shifts)|[py](/100139.Matrix%20Similarity%20After%20Cyclic%20Shifts.py)|Easy|
 ||100138|Maximize Area of Square Hole in Grid|[:us:](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid) [:cn:](https://leetcode.cn/problems/maximize-area-of-square-hole-in-grid)||Medium|
 ||100135|Find Maximum Non-decreasing Array Length|[:us:](https://leetcode.com/problems/find-maximum-non-decreasing-array-length) [:cn:](https://leetcode.cn/problems/find-maximum-non-decreasing-array-length)||Hard|
+|:heavy_check_mark:|100134|Count Beautiful Substrings I|[:us:](https://leetcode.com/problems/count-beautiful-substrings-i) [:cn:](https://leetcode.cn/problems/count-beautiful-substrings-i)|[py](/100134.Count%20Beautiful%20Substrings%20I.py)|Medium|
 ||100133|Minimum Number of Coins for Fruits|[:us:](https://leetcode.com/problems/minimum-number-of-coins-for-fruits) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits)||Medium|
+|:heavy_check_mark:|100132|Count Beautiful Substrings II|[:us:](https://leetcode.com/problems/count-beautiful-substrings-ii) [:cn:](https://leetcode.cn/problems/count-beautiful-substrings-ii)|[py](/100132.Count%20Beautiful%20Substrings%20II.py)|Hard|
 ||100121|Find Words Containing Character|[:us:](https://leetcode.com/problems/find-words-containing-character) [:cn:](https://leetcode.cn/problems/find-words-containing-character)||Easy|
 |:lock:|2941|Maximum GCD-Sum of a Subarray|[:us:](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray) [:cn:](https://leetcode.cn/problems/maximum-gcd-sum-of-a-subarray)||Hard|
 ||2940|Find Building Where Alice and Bob Can Meet|[:us:](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet) [:cn:](https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet)||Hard|
