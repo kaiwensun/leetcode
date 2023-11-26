@@ -2,16 +2,21 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|436|219|0|127 (62.97%)|4|
+|441|222|0|128 (63.11%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|55.8%|25.4%|5.8%|5.4%|4.0%|3.1%|0.4%|
+|56.4%|25.1%|5.7%|5.3%|4.0%|3.1%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2941|Maximum GCD-Sum of a Subarray|[:us:](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray) [:cn:](https://leetcode.cn/problems/maximum-gcd-sum-of-a-subarray)||Hard|
+||2940|Find Building Where Alice and Bob Can Meet|[:us:](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet) [:cn:](https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet)||Hard|
+|:heavy_check_mark:|2939|Maximum Xor Product|[:us:](https://leetcode.com/problems/maximum-xor-product) [:cn:](https://leetcode.cn/problems/maximum-xor-product)|[py](/2501-3000/2939.Maximum%20Xor%20Product.py)|Medium|
+|:heavy_check_mark:|2938|Separate Black and White Balls|[:us:](https://leetcode.com/problems/separate-black-and-white-balls) [:cn:](https://leetcode.cn/problems/separate-black-and-white-balls)|[py](/2501-3000/2938.Separate%20Black%20and%20White%20Balls.py)|Medium|
+|:heavy_check_mark:|2937|Make Three Strings Equal|[:us:](https://leetcode.com/problems/make-three-strings-equal) [:cn:](https://leetcode.cn/problems/make-three-strings-equal)|[py](/2501-3000/2937.Make%20Three%20Strings%20Equal.py)|Easy|
 |:lock:|2936|Number of Equal Numbers Blocks|[:us:](https://leetcode.com/problems/number-of-equal-numbers-blocks) [:cn:](https://leetcode.cn/problems/number-of-equal-numbers-blocks)||Medium|
 |:heavy_check_mark:|2935|Maximum Strong Pair XOR II|[:us:](https://leetcode.com/problems/maximum-strong-pair-xor-ii) [:cn:](https://leetcode.cn/problems/maximum-strong-pair-xor-ii)|[py](/2501-3000/2935.Maximum%20Strong%20Pair%20XOR%20II.py)|Hard|
 |:heavy_check_mark:|2934|Minimum Operations to Maximize Last Elements in Arrays|[:us:](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays) [:cn:](https://leetcode.cn/problems/minimum-operations-to-maximize-last-elements-in-arrays)|[py](/2501-3000/2934.Minimum%20Operations%20to%20Maximize%20Last%20Elements%20in%20Arrays.py)|Medium|
