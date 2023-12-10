@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3353|2096|6|287 (87.51%)|16|
+|3357|2100|6|287 (87.53%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.0%|14.2%|10.8%|6.7%|4.4%|2.3%|0.9%|0.8%|
+|60.1%|14.2%|10.8%|6.6%|4.4%|2.3%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100155|double-modular-exponentiation||[py](/100155.double-modular-exponentiation.py)||
+|:heavy_check_mark:|100143|count-tested-devices-after-test-operations||[py](/100143.count-tested-devices-after-test-operations.py)||
+|:heavy_check_mark:|100137|count-subarrays-where-max-element-appears-at-least-k-times||[py](/100137.count-subarrays-where-max-element-appears-at-least-k-times.py)||
+|:heavy_check_mark:|100136|count-the-number-of-good-partitions||[py](/100136.count-the-number-of-good-partitions.py)||
 ||100152|Remove Adjacent Almost-Equal Characters|[:us:](https://leetcode.com/problems/remove-adjacent-almost-equal-characters) [:cn:](https://leetcode.cn/problems/remove-adjacent-almost-equal-characters)||Medium|
 ||100140|Number of Possible Sets of Closing Branches|[:us:](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches) [:cn:](https://leetcode.cn/problems/number-of-possible-sets-of-closing-branches)||Hard|
 ||100130|Find Common Elements Between Two Arrays|[:us:](https://leetcode.com/problems/find-common-elements-between-two-arrays) [:cn:](https://leetcode.cn/problems/find-common-elements-between-two-arrays)||Easy|

@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3353|2096|6|287 (87.51%)|16|
+|3357|2100|6|287 (87.53%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.0%|14.2%|10.8%|6.7%|4.4%|2.3%|0.9%|0.8%|
+|60.1%|14.2%|10.8%|6.6%|4.4%|2.3%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -27,6 +27,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100155|double-modular-exponentiation||[py](/100155.double-modular-exponentiation.py)||
+|:heavy_check_mark:|100143|count-tested-devices-after-test-operations||[py](/100143.count-tested-devices-after-test-operations.py)||
+|:heavy_check_mark:|100137|count-subarrays-where-max-element-appears-at-least-k-times||[py](/100137.count-subarrays-where-max-element-appears-at-least-k-times.py)||
+|:heavy_check_mark:|100136|count-the-number-of-good-partitions||[py](/100136.count-the-number-of-good-partitions.py)||
 ||100152|Remove Adjacent Almost-Equal Characters|[:us:](https://leetcode.com/problems/remove-adjacent-almost-equal-characters) [:cn:](https://leetcode.cn/problems/remove-adjacent-almost-equal-characters)||Medium|
 ||100140|Number of Possible Sets of Closing Branches|[:us:](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches) [:cn:](https://leetcode.cn/problems/number-of-possible-sets-of-closing-branches)||Hard|
 ||100130|Find Common Elements Between Two Arrays|[:us:](https://leetcode.com/problems/find-common-elements-between-two-arrays) [:cn:](https://leetcode.cn/problems/find-common-elements-between-two-arrays)||Easy|
@@ -1023,7 +1027,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark::lock:|1966|Binary Searchable Numbers in an Unsorted Array|[:us:](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array) [:cn:](https://leetcode.cn/problems/binary-searchable-numbers-in-an-unsorted-array)|[py](/1501-2000/1966.Binary%20Searchable%20Numbers%20in%20an%20Unsorted%20Array.py)|Medium|
 | sql |1965|Employees With Missing Information|[:us:](https://leetcode.com/problems/employees-with-missing-information) [:cn:](https://leetcode.cn/problems/employees-with-missing-information)||Easy|
 |:heavy_check_mark:|1964|Find the Longest Valid Obstacle Course at Each Position|[:us:](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position) [:cn:](https://leetcode.cn/problems/find-the-longest-valid-obstacle-course-at-each-position)|[py](/1501-2000/1964.Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.py)|Hard|
-|:heavy_check_mark:|1963|Minimum Number of Swaps to Make the String Balanced|[:us:](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) [:cn:](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced)|[py](/1501-2000/1963.Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)|Medium|
-|:heavy_check_mark:|1962|Remove Stones to Minimize the Total|[:us:](https://leetcode.com/problems/remove-stones-to-minimize-the-total) [:cn:](https://leetcode.cn/problems/remove-stones-to-minimize-the-total)|[py](/1501-2000/1962.Remove%20Stones%20to%20Minimize%20the%20Total.py)|Medium|
-|:heavy_check_mark:|1961|Check If String Is a Prefix of Array|[:us:](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) [:cn:](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array)|[py](/1501-2000/1961.Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py)|Easy|
-|:heavy_check_mark:|1960|Maximum Product of the Length of Two Palindromic Substrings|[:us:](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings) [:cn:](https://leetcode.cn/problems/maximum-product-of-the-length-of-two-palindromic-substrings)|[ts](/1501-2000/1960.Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Substrings.ts)|Hard|
