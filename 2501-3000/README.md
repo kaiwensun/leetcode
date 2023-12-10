@@ -2,16 +2,31 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|441|222|0|128 (63.11%)|4|
+|456|226|0|137 (61.94%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|56.4%|25.1%|5.7%|5.3%|4.0%|3.1%|0.4%|
+|57.1%|24.7%|5.6%|5.2%|3.9%|3.0%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||2958|Length of Longest Subarray With at Most K Frequency|[:us:](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) [:cn:](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency)||Medium|
+|:lock:|2955|Number of Same-End Substrings|[:us:](https://leetcode.com/problems/number-of-same-end-substrings) [:cn:](https://leetcode.cn/problems/number-of-same-end-substrings)||Medium|
+||2954|Count the Number of Infection Sequences|[:us:](https://leetcode.com/problems/count-the-number-of-infection-sequences) [:cn:](https://leetcode.cn/problems/count-the-number-of-infection-sequences)||Hard|
+||2953|Count Complete Substrings|[:us:](https://leetcode.com/problems/count-complete-substrings) [:cn:](https://leetcode.cn/problems/count-complete-substrings)||Hard|
+||2952|Minimum Number of Coins to be Added|[:us:](https://leetcode.com/problems/minimum-number-of-coins-to-be-added) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-to-be-added)||Medium|
+||2951|Find the Peaks|[:us:](https://leetcode.com/problems/find-the-peaks) [:cn:](https://leetcode.cn/problems/find-the-peaks)||Easy|
+|:lock:|2950|Number of Divisible Substrings|[:us:](https://leetcode.com/problems/number-of-divisible-substrings) [:cn:](https://leetcode.cn/problems/number-of-divisible-substrings)||Medium|
+|:heavy_check_mark:|2949|Count Beautiful Substrings II|[:us:](https://leetcode.com/problems/count-beautiful-substrings-ii) [:cn:](https://leetcode.cn/problems/count-beautiful-substrings-ii)|[py](/2501-3000/2949.Count%20Beautiful%20Substrings%20II.py)|Hard|
+|:heavy_check_mark:|2948|Make Lexicographically Smallest Array by Swapping Elements|[:us:](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) [:cn:](https://leetcode.cn/problems/make-lexicographically-smallest-array-by-swapping-elements)|[py](/2501-3000/2948.Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py)|Medium|
+|:heavy_check_mark:|2947|Count Beautiful Substrings I|[:us:](https://leetcode.com/problems/count-beautiful-substrings-i) [:cn:](https://leetcode.cn/problems/count-beautiful-substrings-i)|[py](/2501-3000/2947.Count%20Beautiful%20Substrings%20I.py)|Medium|
+|:heavy_check_mark:|2946|Matrix Similarity After Cyclic Shifts|[:us:](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) [:cn:](https://leetcode.cn/problems/matrix-similarity-after-cyclic-shifts)|[py](/2501-3000/2946.Matrix%20Similarity%20After%20Cyclic%20Shifts.py)|Easy|
+||2945|Find Maximum Non-decreasing Array Length|[:us:](https://leetcode.com/problems/find-maximum-non-decreasing-array-length) [:cn:](https://leetcode.cn/problems/find-maximum-non-decreasing-array-length)||Hard|
+||2944|Minimum Number of Coins for Fruits|[:us:](https://leetcode.com/problems/minimum-number-of-coins-for-fruits) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits)||Medium|
+||2943|Maximize Area of Square Hole in Grid|[:us:](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid) [:cn:](https://leetcode.cn/problems/maximize-area-of-square-hole-in-grid)||Medium|
+||2942|Find Words Containing Character|[:us:](https://leetcode.com/problems/find-words-containing-character) [:cn:](https://leetcode.cn/problems/find-words-containing-character)||Easy|
 |:lock:|2941|Maximum GCD-Sum of a Subarray|[:us:](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray) [:cn:](https://leetcode.cn/problems/maximum-gcd-sum-of-a-subarray)||Hard|
 ||2940|Find Building Where Alice and Bob Can Meet|[:us:](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet) [:cn:](https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet)||Hard|
 |:heavy_check_mark:|2939|Maximum Xor Product|[:us:](https://leetcode.com/problems/maximum-xor-product) [:cn:](https://leetcode.cn/problems/maximum-xor-product)|[py](/2501-3000/2939.Maximum%20Xor%20Product.py)|Medium|
