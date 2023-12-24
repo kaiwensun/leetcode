@@ -2,17 +2,30 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|456|226|0|137 (61.94%)|4|
+|469|230|0|144 (61.19%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|57.1%|24.7%|5.6%|5.2%|3.9%|3.0%|0.4%|
+|57.9%|24.3%|5.5%|5.1%|3.8%|3.0%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2969|Minimum Number of Coins for Fruits II|[:us:](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits-ii)||Hard|
+||2968|Apply Operations to Maximize Frequency Score|[:us:](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score) [:cn:](https://leetcode.cn/problems/apply-operations-to-maximize-frequency-score)||Hard|
+||2967|Minimum Cost to Make Array Equalindromic|[:us:](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic) [:cn:](https://leetcode.cn/problems/minimum-cost-to-make-array-equalindromic)||Medium|
+||2966|Divide Array Into Arrays With Max Difference|[:us:](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference) [:cn:](https://leetcode.cn/problems/divide-array-into-arrays-with-max-difference)||Medium|
+||2965|Find Missing and Repeated Values|[:us:](https://leetcode.com/problems/find-missing-and-repeated-values) [:cn:](https://leetcode.cn/problems/find-missing-and-repeated-values)||Easy|
+|:lock:|2964|Number of Divisible Triplet Sums|[:us:](https://leetcode.com/problems/number-of-divisible-triplet-sums) [:cn:](https://leetcode.cn/problems/number-of-divisible-triplet-sums)||Medium|
+|:heavy_check_mark:|2963|Count the Number of Good Partitions|[:us:](https://leetcode.com/problems/count-the-number-of-good-partitions) [:cn:](https://leetcode.cn/problems/count-the-number-of-good-partitions)|[py](/2501-3000/2963.Count%20the%20Number%20of%20Good%20Partitions.py)|Hard|
+|:heavy_check_mark:|2962|Count Subarrays Where Max Element Appears at Least K Times|[:us:](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times) [:cn:](https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times)|[py](/2501-3000/2962.Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)|Medium|
+|:heavy_check_mark:|2961|Double Modular Exponentiation|[:us:](https://leetcode.com/problems/double-modular-exponentiation) [:cn:](https://leetcode.cn/problems/double-modular-exponentiation)|[py](/2501-3000/2961.Double%20Modular%20Exponentiation.py)|Medium|
+|:heavy_check_mark:|2960|Count Tested Devices After Test Operations|[:us:](https://leetcode.com/problems/count-tested-devices-after-test-operations) [:cn:](https://leetcode.cn/problems/count-tested-devices-after-test-operations)|[py](/2501-3000/2960.Count%20Tested%20Devices%20After%20Test%20Operations.py)|Easy|
+||2959|Number of Possible Sets of Closing Branches|[:us:](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches) [:cn:](https://leetcode.cn/problems/number-of-possible-sets-of-closing-branches)||Hard|
 ||2958|Length of Longest Subarray With at Most K Frequency|[:us:](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) [:cn:](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency)||Medium|
+||2957|Remove Adjacent Almost-Equal Characters|[:us:](https://leetcode.com/problems/remove-adjacent-almost-equal-characters) [:cn:](https://leetcode.cn/problems/remove-adjacent-almost-equal-characters)||Medium|
+||2956|Find Common Elements Between Two Arrays|[:us:](https://leetcode.com/problems/find-common-elements-between-two-arrays) [:cn:](https://leetcode.cn/problems/find-common-elements-between-two-arrays)||Easy|
 |:lock:|2955|Number of Same-End Substrings|[:us:](https://leetcode.com/problems/number-of-same-end-substrings) [:cn:](https://leetcode.cn/problems/number-of-same-end-substrings)||Medium|
 ||2954|Count the Number of Infection Sequences|[:us:](https://leetcode.com/problems/count-the-number-of-infection-sequences) [:cn:](https://leetcode.cn/problems/count-the-number-of-infection-sequences)||Hard|
 ||2953|Count Complete Substrings|[:us:](https://leetcode.com/problems/count-complete-substrings) [:cn:](https://leetcode.cn/problems/count-complete-substrings)||Hard|
@@ -204,7 +217,7 @@
 ||2767|Partition String Into Minimum Beautiful Substrings|[:us:](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings) [:cn:](https://leetcode.cn/problems/partition-string-into-minimum-beautiful-substrings)||Medium|
 ||2766|Relocate Marbles|[:us:](https://leetcode.com/problems/relocate-marbles) [:cn:](https://leetcode.cn/problems/relocate-marbles)||Medium|
 ||2765|Longest Alternating Subarray|[:us:](https://leetcode.com/problems/longest-alternating-subarray) [:cn:](https://leetcode.cn/problems/longest-alternating-subarray)||Easy|
-|:lock:|2764|is Array a Preorder of Some ‌Binary Tree|[:us:](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree) [:cn:](https://leetcode.cn/problems/is-array-a-preorder-of-some-binary-tree)||Medium|
+|:lock:|2764|Is Array a Preorder of Some ‌Binary Tree|[:us:](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree) [:cn:](https://leetcode.cn/problems/is-array-a-preorder-of-some-binary-tree)||Medium|
 ||2763|Sum of Imbalance Numbers of All Subarrays|[:us:](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-imbalance-numbers-of-all-subarrays)||Hard|
 ||2762|Continuous Subarrays|[:us:](https://leetcode.com/problems/continuous-subarrays) [:cn:](https://leetcode.cn/problems/continuous-subarrays)||Medium|
 |:heavy_check_mark:|2761|Prime Pairs With Target Sum|[:us:](https://leetcode.com/problems/prime-pairs-with-target-sum) [:cn:](https://leetcode.cn/problems/prime-pairs-with-target-sum)|[py](/2501-3000/2761.Prime%20Pairs%20With%20Target%20Sum.py)|Medium|
