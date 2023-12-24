@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3367|2100|6|295 (87.22%)|16|
+|3371|2104|6|295 (87.25%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -29,6 +29,10 @@ For a full list, check [full_table.md](others/full_table.md).
 |:---|:---|:---|:---|:---|:---|
 ||100180|Find Polygon With the Largest Perimeter|[:us:](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) [:cn:](https://leetcode.cn/problems/find-polygon-with-the-largest-perimeter)||Medium|
 ||100171|Count the Number of Incremovable Subarrays I|[:us:](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i) [:cn:](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-i)||Easy|
+|:heavy_check_mark:|100169|Maximum Square Area by Removing Fences From a Field|[:us:](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field) [:cn:](https://leetcode.cn/problems/maximum-square-area-by-removing-fences-from-a-field)|[py](/100169.Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field.py)|Medium|
+|:heavy_check_mark:|100158|Minimum Cost to Convert String II|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-ii)|[py](/100158.Minimum%20Cost%20to%20Convert%20String%20II.py)|Hard|
+|:heavy_check_mark:|100156|Minimum Cost to Convert String I|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-i) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-i)|[py](/100156.Minimum%20Cost%20to%20Convert%20String%20I.py)|Medium|
+|:heavy_check_mark:|100148|Minimum Number Game|[:us:](https://leetcode.com/problems/minimum-number-game) [:cn:](https://leetcode.cn/problems/minimum-number-game)|[py](/100148.Minimum%20Number%20Game.py)|Easy|
 ||100141|Find Number of Coins to Place in Tree Nodes|[:us:](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes) [:cn:](https://leetcode.cn/problems/find-number-of-coins-to-place-in-tree-nodes)||Hard|
 ||10033|Count the Number of Incremovable Subarrays II|[:us:](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii) [:cn:](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii)||Hard|
 |:lock:|2969|Minimum Number of Coins for Fruits II|[:us:](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits-ii)||Hard|
@@ -1023,7 +1027,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|1980|Find Unique Binary String|[:us:](https://leetcode.com/problems/find-unique-binary-string) [:cn:](https://leetcode.cn/problems/find-unique-binary-string)|[py](/1501-2000/1980.Find%20Unique%20Binary%20String.py)|Medium|
 |:heavy_check_mark:|1979|Find Greatest Common Divisor of Array|[:us:](https://leetcode.com/problems/find-greatest-common-divisor-of-array) [:cn:](https://leetcode.cn/problems/find-greatest-common-divisor-of-array)|[py](/1501-2000/1979.Find%20Greatest%20Common%20Divisor%20of%20Array.py)|Easy|
 | sql |1978|Employees Whose Manager Left the Company|[:us:](https://leetcode.com/problems/employees-whose-manager-left-the-company) [:cn:](https://leetcode.cn/problems/employees-whose-manager-left-the-company)||Easy|
-||1977|Number of Ways to Separate Numbers|[:us:](https://leetcode.com/problems/number-of-ways-to-separate-numbers) [:cn:](https://leetcode.cn/problems/number-of-ways-to-separate-numbers)||Hard|
-|:heavy_check_mark:|1976|Number of Ways to Arrive at Destination|[:us:](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) [:cn:](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination)|[py](/1501-2000/1976.Number%20of%20Ways%20to%20Arrive%20at%20Destination.py)|Medium|
-|:heavy_check_mark:|1975|Maximum Matrix Sum|[:us:](https://leetcode.com/problems/maximum-matrix-sum) [:cn:](https://leetcode.cn/problems/maximum-matrix-sum)|[java](/1501-2000/1975.Maximum%20Matrix%20Sum.java)|Medium|
-|:heavy_check_mark:|1974|Minimum Time to Type Word Using Special Typewriter|[:us:](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) [:cn:](https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter)|[c](/1501-2000/1974.Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.c)|Easy|
