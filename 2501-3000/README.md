@@ -2,16 +2,26 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|469|230|0|144 (61.19%)|4|
+|479|234|0|148 (60.95%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|57.9%|24.3%|5.5%|5.1%|3.8%|3.0%|0.4%|
+|58.6%|23.8%|5.4%|5.0%|3.8%|2.9%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|2979|Most Expensive Item That Can Not Be Bought|[:us:](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought) [:cn:](https://leetcode.cn/problems/most-expensive-item-that-can-not-be-bought)||Medium|
+|:lock: sql |2978|Symmetric Coordinates|[:us:](https://leetcode.com/problems/symmetric-coordinates) [:cn:](https://leetcode.cn/problems/symmetric-coordinates)||Medium|
+|:heavy_check_mark:|2977|Minimum Cost to Convert String II|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-ii)|[py](/2501-3000/2977.Minimum%20Cost%20to%20Convert%20String%20II.py)|Hard|
+|:heavy_check_mark:|2976|Minimum Cost to Convert String I|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-i) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-i)|[py](/2501-3000/2976.Minimum%20Cost%20to%20Convert%20String%20I.py)|Medium|
+|:heavy_check_mark:|2975|Maximum Square Area by Removing Fences From a Field|[:us:](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field) [:cn:](https://leetcode.cn/problems/maximum-square-area-by-removing-fences-from-a-field)|[py](/2501-3000/2975.Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field.py)|Medium|
+|:heavy_check_mark:|2974|Minimum Number Game|[:us:](https://leetcode.com/problems/minimum-number-game) [:cn:](https://leetcode.cn/problems/minimum-number-game)|[py](/2501-3000/2974.Minimum%20Number%20Game.py)|Easy|
+||2973|Find Number of Coins to Place in Tree Nodes|[:us:](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes) [:cn:](https://leetcode.cn/problems/find-number-of-coins-to-place-in-tree-nodes)||Hard|
+||2972|Count the Number of Incremovable Subarrays II|[:us:](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii) [:cn:](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii)||Hard|
+||2971|Find Polygon With the Largest Perimeter|[:us:](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) [:cn:](https://leetcode.cn/problems/find-polygon-with-the-largest-perimeter)||Medium|
+||2970|Count the Number of Incremovable Subarrays I|[:us:](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i) [:cn:](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-i)||Easy|
 |:lock:|2969|Minimum Number of Coins for Fruits II|[:us:](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii) [:cn:](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits-ii)||Hard|
 ||2968|Apply Operations to Maximize Frequency Score|[:us:](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score) [:cn:](https://leetcode.cn/problems/apply-operations-to-maximize-frequency-score)||Hard|
 ||2967|Minimum Cost to Make Array Equalindromic|[:us:](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic) [:cn:](https://leetcode.cn/problems/minimum-cost-to-make-array-equalindromic)||Medium|
