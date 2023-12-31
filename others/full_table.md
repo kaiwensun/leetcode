@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3373|2104|6|295 (87.25%)|16|
+|3377|2108|6|295 (87.27%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.1%|14.2%|10.8%|6.6%|4.4%|2.3%|0.9%|0.8%|
+|60.2%|14.1%|10.8%|6.6%|4.4%|2.2%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100185|find-longest-special-substring-that-occurs-thrice-i||[py](/100185.find-longest-special-substring-that-occurs-thrice-i.py)||
+|:heavy_check_mark:|100184|find-longest-special-substring-that-occurs-thrice-ii||[py](/100184.find-longest-special-substring-that-occurs-thrice-ii.py)||
+|:heavy_check_mark:|100166|check-if-bitwise-or-has-trailing-zeros||[py](/100166.check-if-bitwise-or-has-trailing-zeros.py)||
+|:heavy_check_mark:|100129|palindrome-rearrangement-queries||[py](/100129.palindrome-rearrangement-queries.py)||
 |:lock:|2979|Most Expensive Item That Can Not Be Bought|[:us:](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought) [:cn:](https://leetcode.cn/problems/most-expensive-item-that-can-not-be-bought)||Medium|
 |:lock: sql |2978|Symmetric Coordinates|[:us:](https://leetcode.com/problems/symmetric-coordinates) [:cn:](https://leetcode.cn/problems/symmetric-coordinates)||Medium|
 |:heavy_check_mark:|2977|Minimum Cost to Convert String II|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-ii)|[py](/2501-3000/2977.Minimum%20Cost%20to%20Convert%20String%20II.py)|Hard|

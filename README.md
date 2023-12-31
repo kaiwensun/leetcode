@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3373|2104|6|295 (87.25%)|16|
+|3377|2108|6|295 (87.27%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.1%|14.2%|10.8%|6.6%|4.4%|2.3%|0.9%|0.8%|
+|60.2%|14.1%|10.8%|6.6%|4.4%|2.2%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -27,6 +27,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100185|find-longest-special-substring-that-occurs-thrice-i||[py](/100185.find-longest-special-substring-that-occurs-thrice-i.py)||
+|:heavy_check_mark:|100184|find-longest-special-substring-that-occurs-thrice-ii||[py](/100184.find-longest-special-substring-that-occurs-thrice-ii.py)||
+|:heavy_check_mark:|100166|check-if-bitwise-or-has-trailing-zeros||[py](/100166.check-if-bitwise-or-has-trailing-zeros.py)||
+|:heavy_check_mark:|100129|palindrome-rearrangement-queries||[py](/100129.palindrome-rearrangement-queries.py)||
 |:lock:|2979|Most Expensive Item That Can Not Be Bought|[:us:](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought) [:cn:](https://leetcode.cn/problems/most-expensive-item-that-can-not-be-bought)||Medium|
 |:lock: sql |2978|Symmetric Coordinates|[:us:](https://leetcode.com/problems/symmetric-coordinates) [:cn:](https://leetcode.cn/problems/symmetric-coordinates)||Medium|
 |:heavy_check_mark:|2977|Minimum Cost to Convert String II|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-ii)|[py](/2501-3000/2977.Minimum%20Cost%20to%20Convert%20String%20II.py)|Hard|
@@ -1023,7 +1027,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|1986|Minimum Number of Work Sessions to Finish the Tasks|[:us:](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks) [:cn:](https://leetcode.cn/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|[py](/1501-2000/1986.Minimum%20Number%20of%20Work%20Sessions%20to%20Finish%20the%20Tasks.py)|Medium|
 |:heavy_check_mark:|1985|Find the Kth Largest Integer in the Array|[:us:](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array) [:cn:](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array)|[py](/1501-2000/1985.Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array.py)|Medium|
 |:heavy_check_mark:|1984|Minimum Difference Between Highest and Lowest of K Scores|[:us:](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) [:cn:](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores)|[js](/1501-2000/1984.Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.js)|Easy|
-|:lock:|1983|Widest Pair of Indices With Equal Range Sum|[:us:](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum) [:cn:](https://leetcode.cn/problems/widest-pair-of-indices-with-equal-range-sum)||Medium|
-|:heavy_check_mark:|1982|Find Array Given Subset Sums|[:us:](https://leetcode.com/problems/find-array-given-subset-sums) [:cn:](https://leetcode.cn/problems/find-array-given-subset-sums)|[py](/1501-2000/1982.Find%20Array%20Given%20Subset%20Sums.py)|Hard|
-|:heavy_check_mark:|1981|Minimize the Difference Between Target and Chosen Elements|[:us:](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements) [:cn:](https://leetcode.cn/problems/minimize-the-difference-between-target-and-chosen-elements)|[py](/1501-2000/1981.Minimize%20the%20Difference%20Between%20Target%20and%20Chosen%20Elements.py)|Medium|
-|:heavy_check_mark:|1980|Find Unique Binary String|[:us:](https://leetcode.com/problems/find-unique-binary-string) [:cn:](https://leetcode.cn/problems/find-unique-binary-string)|[py](/1501-2000/1980.Find%20Unique%20Binary%20String.py)|Medium|
