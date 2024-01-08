@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3397|2108|6|303 (86.97%)|16|
+|3397|2112|6|299 (87.14%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.2%|14.1%|10.8%|6.6%|4.4%|2.2%|0.9%|0.8%|
+|60.3%|14.1%|10.8%|6.6%|4.4%|2.2%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -27,14 +27,14 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||100187|Minimum Moves to Capture The Queen|[:us:](https://leetcode.com/problems/minimum-moves-to-capture-the-queen) [:cn:](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen)||Medium|
-||100170|Maximum Area of Longest Diagonal Rectangle|[:us:](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) [:cn:](https://leetcode.cn/problems/maximum-area-of-longest-diagonal-rectangle)||Easy|
-||100168|Minimum Number of Operations to Make Array XOR Equal to K|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)||Medium|
-||100163|Count the Number of Powerful Integers|[:us:](https://leetcode.com/problems/count-the-number-of-powerful-integers) [:cn:](https://leetcode.cn/problems/count-the-number-of-powerful-integers)||Hard|
-||100159|Minimum Number of Operations to Make X and Y Equal|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-x-and-y-equal)||Medium|
-||100157|Smallest Missing Integer Greater Than Sequential Prefix Sum|[:us:](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) [:cn:](https://leetcode.cn/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)||Easy|
-||100154|Maximize the Number of Partitions After Operations|[:us:](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-partitions-after-operations)||Hard|
-||100150|Maximum Size of a Set After Removals|[:us:](https://leetcode.com/problems/maximum-size-of-a-set-after-removals) [:cn:](https://leetcode.cn/problems/maximum-size-of-a-set-after-removals)||Medium|
+|:heavy_check_mark:|10038|Maximize the Number of Partitions After Operations|[:us:](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-partitions-after-operations)|[py](/10038.Maximize%20the%20Number%20of%20Partitions%20After%20Operations.py)|Hard|
+|:heavy_check_mark:|10037|Maximum Size of a Set After Removals|[:us:](https://leetcode.com/problems/maximum-size-of-a-set-after-removals) [:cn:](https://leetcode.cn/problems/maximum-size-of-a-set-after-removals)|[py](/10037.Maximum%20Size%20of%20a%20Set%20After%20Removals.py)|Medium|
+|:heavy_check_mark:|10036|Minimum Moves to Capture The Queen|[:us:](https://leetcode.com/problems/minimum-moves-to-capture-the-queen) [:cn:](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen)|[py](/10036.Minimum%20Moves%20to%20Capture%20The%20Queen.py)|Medium|
+|:heavy_check_mark:|10035|Maximum Area of Longest Diagonal Rectangle|[:us:](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) [:cn:](https://leetcode.cn/problems/maximum-area-of-longest-diagonal-rectangle)|[py](/10035.Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py)|Easy|
+||10034|Count the Number of Powerful Integers|[:us:](https://leetcode.com/problems/count-the-number-of-powerful-integers) [:cn:](https://leetcode.cn/problems/count-the-number-of-powerful-integers)||Hard|
+||10033|Minimum Number of Operations to Make X and Y Equal|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-x-and-y-equal)||Medium|
+||10032|Minimum Number of Operations to Make Array XOR Equal to K|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)||Medium|
+||10031|Smallest Missing Integer Greater Than Sequential Prefix Sum|[:us:](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) [:cn:](https://leetcode.cn/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)||Easy|
 |:lock: sql |2995|Viewers Turned Streamers|[:us:](https://leetcode.com/problems/viewers-turned-streamers) [:cn:](https://leetcode.cn/problems/viewers-turned-streamers)||Hard|
 |:lock: sql |2994|Friday Purchases II|[:us:](https://leetcode.com/problems/friday-purchases-ii) [:cn:](https://leetcode.cn/problems/friday-purchases-ii)||Hard|
 |:lock: sql |2993|Friday Purchases I|[:us:](https://leetcode.com/problems/friday-purchases-i) [:cn:](https://leetcode.cn/problems/friday-purchases-i)||Medium|
