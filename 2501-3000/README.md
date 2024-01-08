@@ -2,16 +2,32 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|479|234|0|148 (60.95%)|4|
+|495|238|0|148 (61.36%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|58.6%|23.8%|5.4%|5.0%|3.8%|2.9%|0.4%|
+|59.3%|23.5%|5.3%|4.9%|3.7%|2.9%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock: sql |2995|Viewers Turned Streamers|[:us:](https://leetcode.com/problems/viewers-turned-streamers) [:cn:](https://leetcode.cn/problems/viewers-turned-streamers)||Hard|
+|:lock: sql |2994|Friday Purchases II|[:us:](https://leetcode.com/problems/friday-purchases-ii) [:cn:](https://leetcode.cn/problems/friday-purchases-ii)||Hard|
+|:lock: sql |2993|Friday Purchases I|[:us:](https://leetcode.com/problems/friday-purchases-i) [:cn:](https://leetcode.cn/problems/friday-purchases-i)||Medium|
+|:lock:|2992|Number of Self-Divisible Permutations|[:us:](https://leetcode.com/problems/number-of-self-divisible-permutations) [:cn:](https://leetcode.cn/problems/number-of-self-divisible-permutations)||Medium|
+|:lock: sql |2991|Top Three Wineries|[:us:](https://leetcode.com/problems/top-three-wineries) [:cn:](https://leetcode.cn/problems/top-three-wineries)||Hard|
+|:lock: sql |2990|Loan Types|[:us:](https://leetcode.com/problems/loan-types) [:cn:](https://leetcode.cn/problems/loan-types)||Easy|
+|:lock: sql |2989|Class Performance|[:us:](https://leetcode.com/problems/class-performance) [:cn:](https://leetcode.cn/problems/class-performance)||Medium|
+|:lock: sql |2988|Manager of the Largest Department|[:us:](https://leetcode.com/problems/manager-of-the-largest-department) [:cn:](https://leetcode.cn/problems/manager-of-the-largest-department)||Medium|
+|:lock: sql |2987|Find Expensive Cities|[:us:](https://leetcode.com/problems/find-expensive-cities) [:cn:](https://leetcode.cn/problems/find-expensive-cities)||Easy|
+|:lock: sql |2986|Find Third Transaction|[:us:](https://leetcode.com/problems/find-third-transaction) [:cn:](https://leetcode.cn/problems/find-third-transaction)||Medium|
+|:lock: sql |2985|Calculate Compressed Mean|[:us:](https://leetcode.com/problems/calculate-compressed-mean) [:cn:](https://leetcode.cn/problems/calculate-compressed-mean)||Easy|
+|:lock: sql |2984|Find Peak Calling Hours for Each City|[:us:](https://leetcode.com/problems/find-peak-calling-hours-for-each-city) [:cn:](https://leetcode.cn/problems/find-peak-calling-hours-for-each-city)||Medium|
+|:heavy_check_mark:|2983|Palindrome Rearrangement Queries|[:us:](https://leetcode.com/problems/palindrome-rearrangement-queries) [:cn:](https://leetcode.cn/problems/palindrome-rearrangement-queries)|[py](/2501-3000/2983.Palindrome%20Rearrangement%20Queries.py)|Hard|
+|:heavy_check_mark:|2982|Find Longest Special Substring That Occurs Thrice II|[:us:](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii) [:cn:](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-ii)|[py](/2501-3000/2982.Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20II.py)|Medium|
+|:heavy_check_mark:|2981|Find Longest Special Substring That Occurs Thrice I|[:us:](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) [:cn:](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-i)|[py](/2501-3000/2981.Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I.py)|Medium|
+|:heavy_check_mark:|2980|Check if Bitwise OR Has Trailing Zeros|[:us:](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros) [:cn:](https://leetcode.cn/problems/check-if-bitwise-or-has-trailing-zeros)|[py](/2501-3000/2980.Check%20if%20Bitwise%20OR%20Has%20Trailing%20Zeros.py)|Easy|
 |:lock:|2979|Most Expensive Item That Can Not Be Bought|[:us:](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought) [:cn:](https://leetcode.cn/problems/most-expensive-item-that-can-not-be-bought)||Medium|
 |:lock: sql |2978|Symmetric Coordinates|[:us:](https://leetcode.com/problems/symmetric-coordinates) [:cn:](https://leetcode.cn/problems/symmetric-coordinates)||Medium|
 |:heavy_check_mark:|2977|Minimum Cost to Convert String II|[:us:](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) [:cn:](https://leetcode.cn/problems/minimum-cost-to-convert-string-ii)|[py](/2501-3000/2977.Minimum%20Cost%20to%20Convert%20String%20II.py)|Hard|
