@@ -2,16 +2,21 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|495|238|0|148 (61.36%)|4|
+|500|239|0|152 (60.82%)|4|
 
 
 |py|ts|php|java|rb|c|cpp|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|59.3%|23.5%|5.3%|4.9%|3.7%|2.9%|0.4%|
+|59.4%|23.4%|5.3%|4.9%|3.7%|2.9%|0.4%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|3000|Maximum Area of Longest Diagonal Rectangle|[:us:](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) [:cn:](https://leetcode.cn/problems/maximum-area-of-longest-diagonal-rectangle)|[py](/2501-3000/3000.Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py)|Easy|
+||2999|Count the Number of Powerful Integers|[:us:](https://leetcode.com/problems/count-the-number-of-powerful-integers) [:cn:](https://leetcode.cn/problems/count-the-number-of-powerful-integers)||Hard|
+||2998|Minimum Number of Operations to Make X and Y Equal|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-x-and-y-equal)||Medium|
+||2997|Minimum Number of Operations to Make Array XOR Equal to K|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)||Medium|
+||2996|Smallest Missing Integer Greater Than Sequential Prefix Sum|[:us:](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) [:cn:](https://leetcode.cn/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)||Easy|
 |:lock: sql |2995|Viewers Turned Streamers|[:us:](https://leetcode.com/problems/viewers-turned-streamers) [:cn:](https://leetcode.cn/problems/viewers-turned-streamers)||Hard|
 |:lock: sql |2994|Friday Purchases II|[:us:](https://leetcode.com/problems/friday-purchases-ii) [:cn:](https://leetcode.cn/problems/friday-purchases-ii)||Hard|
 |:lock: sql |2993|Friday Purchases I|[:us:](https://leetcode.com/problems/friday-purchases-i) [:cn:](https://leetcode.cn/problems/friday-purchases-i)||Medium|
