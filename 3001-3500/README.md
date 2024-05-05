@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|135|3|0|96 (3.03%)|
+|136|4|0|96 (4.00%)|
 
 
 |py|
@@ -12,6 +12,7 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|3138|Minimum Length of Anagram Concatenation|[:us:](https://leetcode.com/problems/minimum-length-of-anagram-concatenation) [:cn:](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation)|[py](/3001-3500/3138.Minimum%20Length%20of%20Anagram%20Concatenation.py)|Medium|
 |:lock:|3135|Equalize Strings by Adding or Removing Characters at Ends|[:us:](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends) [:cn:](https://leetcode.cn/problems/equalize-strings-by-adding-or-removing-characters-at-ends)||Medium|
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
 ||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|

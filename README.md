@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3533|2116|6|395 (83.71%)|16|
+|3537|2120|6|395 (83.74%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.3%|14.1%|10.7%|6.6%|4.4%|2.2%|0.9%|0.8%|
+|60.4%|14.1%|10.7%|6.6%|4.3%|2.2%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -32,6 +32,10 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|100165|Find Beautiful Indices in the Given Array I||[py](/100165.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20I.py)||
 |:heavy_check_mark:|100162|Count Elements With Maximum Frequency||[py](/100162.Count%20Elements%20With%20Maximum%20Frequency.py)||
 |:heavy_check_mark:|100160|Maximum Number That Sum of the Prices Is Less Than or Equal to K||[py](/100160.Maximum%20Number%20That%20Sum%20of%20the%20Prices%20Is%20Less%20Than%20or%20Equal%20to%20K.py)||
+|:heavy_check_mark:|100288|Minimum Cost to Equalize Array|[:us:](https://leetcode.com/problems/minimum-cost-to-equalize-array) [:cn:](https://leetcode.cn/problems/minimum-cost-to-equalize-array)|[py](/100288.Minimum%20Cost%20to%20Equalize%20Array.py)|Hard|
+|:heavy_check_mark:|100284|Valid Word|[:us:](https://leetcode.com/problems/valid-word) [:cn:](https://leetcode.cn/problems/valid-word)|[py](/100284.Valid%20Word.py)|Easy|
+|:heavy_check_mark:|100275|Minimum Number of Operations to Make Word K-Periodic|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-word-k-periodic)|[py](/100275.Minimum%20Number%20of%20Operations%20to%20Make%20Word%20K-Periodic.py)|Medium|
+|:heavy_check_mark:|3138|Minimum Length of Anagram Concatenation|[:us:](https://leetcode.com/problems/minimum-length-of-anagram-concatenation) [:cn:](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation)|[py](/3001-3500/3138.Minimum%20Length%20of%20Anagram%20Concatenation.py)|Medium|
 |:lock:|3135|Equalize Strings by Adding or Removing Characters at Ends|[:us:](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends) [:cn:](https://leetcode.cn/problems/equalize-strings-by-adding-or-removing-characters-at-ends)||Medium|
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
 ||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|
@@ -1024,7 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range)|[ts](/2001-2500/2146.K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range.ts)|Medium|
 |:heavy_check_mark:|2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode.cn/problems/count-the-hidden-sequences)|[ts](/2001-2500/2145.Count%20the%20Hidden%20Sequences.ts)|Medium|
 |:heavy_check_mark:|2144|Minimum Cost of Buying Candies With Discount|[:us:](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) [:cn:](https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount)|[ts](/2001-2500/2144.Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.ts)|Easy|
-|:lock:|2143|Choose Numbers From Two Arrays in Range|[:us:](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range) [:cn:](https://leetcode.cn/problems/choose-numbers-from-two-arrays-in-range)||Hard|
-|:lock: sql |2142|The Number of Passengers in Each Bus I|[:us:](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i) [:cn:](https://leetcode.cn/problems/the-number-of-passengers-in-each-bus-i)||Medium|
-|:heavy_check_mark:|2141|Maximum Running Time of N Computers|[:us:](https://leetcode.com/problems/maximum-running-time-of-n-computers) [:cn:](https://leetcode.cn/problems/maximum-running-time-of-n-computers)|[py](/2001-2500/2141.Maximum%20Running%20Time%20of%20N%20Computers.py)|Hard|
-|:heavy_check_mark:|2140|Solving Questions With Brainpower|[:us:](https://leetcode.com/problems/solving-questions-with-brainpower) [:cn:](https://leetcode.cn/problems/solving-questions-with-brainpower)|[py](/2001-2500/2140.Solving%20Questions%20With%20Brainpower.py)|Medium|
