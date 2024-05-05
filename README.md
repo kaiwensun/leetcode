@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3537|2120|6|395 (83.74%)|16|
+|3533|2120|6|391 (83.88%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -28,10 +28,6 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-|:heavy_check_mark:|100207|Find Beautiful Indices in the Given Array II||[py](/100207.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)||
-|:heavy_check_mark:|100165|Find Beautiful Indices in the Given Array I||[py](/100165.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20I.py)||
-|:heavy_check_mark:|100162|Count Elements With Maximum Frequency||[py](/100162.Count%20Elements%20With%20Maximum%20Frequency.py)||
-|:heavy_check_mark:|100160|Maximum Number That Sum of the Prices Is Less Than or Equal to K||[py](/100160.Maximum%20Number%20That%20Sum%20of%20the%20Prices%20Is%20Less%20Than%20or%20Equal%20to%20K.py)||
 |:heavy_check_mark:|100288|Minimum Cost to Equalize Array|[:us:](https://leetcode.com/problems/minimum-cost-to-equalize-array) [:cn:](https://leetcode.cn/problems/minimum-cost-to-equalize-array)|[py](/100288.Minimum%20Cost%20to%20Equalize%20Array.py)|Hard|
 |:heavy_check_mark:|100284|Valid Word|[:us:](https://leetcode.com/problems/valid-word) [:cn:](https://leetcode.cn/problems/valid-word)|[py](/100284.Valid%20Word.py)|Easy|
 |:heavy_check_mark:|100275|Minimum Number of Operations to Make Word K-Periodic|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-word-k-periodic)|[py](/100275.Minimum%20Number%20of%20Operations%20to%20Make%20Word%20K-Periodic.py)|Medium|
@@ -163,10 +159,10 @@ For a full list, check [full_table.md](others/full_table.md).
 ||3011|Find if Array Can Be Sorted|[:us:](https://leetcode.com/problems/find-if-array-can-be-sorted) [:cn:](https://leetcode.cn/problems/find-if-array-can-be-sorted)||Medium|
 ||3010|Divide an Array Into Subarrays With Minimum Cost I|[:us:](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) [:cn:](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i)||Easy|
 |:lock:|3009|Maximum Number of Intersections on the Chart|[:us:](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart) [:cn:](https://leetcode.cn/problems/maximum-number-of-intersections-on-the-chart)||Hard|
-||3008|Find Beautiful Indices in the Given Array II|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-ii)||Hard|
-||3007|Maximum Number That Sum of the Prices Is Less Than or Equal to K|[:us:](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) [:cn:](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)||Medium|
-||3006|Find Beautiful Indices in the Given Array I|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-i)||Medium|
-||3005|Count Elements With Maximum Frequency|[:us:](https://leetcode.com/problems/count-elements-with-maximum-frequency) [:cn:](https://leetcode.cn/problems/count-elements-with-maximum-frequency)||Easy|
+|:heavy_check_mark:|3008|Find Beautiful Indices in the Given Array II|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-ii)|[py](/3001-3500/3008.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)|Hard|
+|:heavy_check_mark:|3007|Maximum Number That Sum of the Prices Is Less Than or Equal to K|[:us:](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) [:cn:](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)|[py](/3001-3500/3007.Maximum%20Number%20That%20Sum%20of%20the%20Prices%20Is%20Less%20Than%20or%20Equal%20to%20K.py)|Medium|
+|:heavy_check_mark:|3006|Find Beautiful Indices in the Given Array I|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-i)|[py](/3001-3500/3006.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20I.py)|Medium|
+|:heavy_check_mark:|3005|Count Elements With Maximum Frequency|[:us:](https://leetcode.com/problems/count-elements-with-maximum-frequency) [:cn:](https://leetcode.cn/problems/count-elements-with-maximum-frequency)|[py](/3001-3500/3005.Count%20Elements%20With%20Maximum%20Frequency.py)|Easy|
 |:lock:|3004|Maximum Subtree of the Same Color|[:us:](https://leetcode.com/problems/maximum-subtree-of-the-same-color) [:cn:](https://leetcode.cn/problems/maximum-subtree-of-the-same-color)||Medium|
 |:heavy_check_mark:|3003|Maximize the Number of Partitions After Operations|[:us:](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-partitions-after-operations)|[py](/3001-3500/3003.Maximize%20the%20Number%20of%20Partitions%20After%20Operations.py)|Hard|
 |:heavy_check_mark:|3002|Maximum Size of a Set After Removals|[:us:](https://leetcode.com/problems/maximum-size-of-a-set-after-removals) [:cn:](https://leetcode.cn/problems/maximum-size-of-a-set-after-removals)|[py](/3001-3500/3002.Maximum%20Size%20of%20a%20Set%20After%20Removals.py)|Medium|
@@ -1028,3 +1024,7 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range)|[ts](/2001-2500/2146.K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range.ts)|Medium|
 |:heavy_check_mark:|2145|Count the Hidden Sequences|[:us:](https://leetcode.com/problems/count-the-hidden-sequences) [:cn:](https://leetcode.cn/problems/count-the-hidden-sequences)|[ts](/2001-2500/2145.Count%20the%20Hidden%20Sequences.ts)|Medium|
 |:heavy_check_mark:|2144|Minimum Cost of Buying Candies With Discount|[:us:](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) [:cn:](https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount)|[ts](/2001-2500/2144.Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.ts)|Easy|
+|:lock:|2143|Choose Numbers From Two Arrays in Range|[:us:](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range) [:cn:](https://leetcode.cn/problems/choose-numbers-from-two-arrays-in-range)||Hard|
+|:lock: sql |2142|The Number of Passengers in Each Bus I|[:us:](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i) [:cn:](https://leetcode.cn/problems/the-number-of-passengers-in-each-bus-i)||Medium|
+|:heavy_check_mark:|2141|Maximum Running Time of N Computers|[:us:](https://leetcode.com/problems/maximum-running-time-of-n-computers) [:cn:](https://leetcode.cn/problems/maximum-running-time-of-n-computers)|[py](/2001-2500/2141.Maximum%20Running%20Time%20of%20N%20Computers.py)|Hard|
+|:heavy_check_mark:|2140|Solving Questions With Brainpower|[:us:](https://leetcode.com/problems/solving-questions-with-brainpower) [:cn:](https://leetcode.cn/problems/solving-questions-with-brainpower)|[py](/2001-2500/2140.Solving%20Questions%20With%20Brainpower.py)|Medium|

@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|136|4|0|96 (4.00%)|
+|136|8|0|92 (8.00%)|
 
 
 |py|
@@ -140,10 +140,10 @@
 ||3011|Find if Array Can Be Sorted|[:us:](https://leetcode.com/problems/find-if-array-can-be-sorted) [:cn:](https://leetcode.cn/problems/find-if-array-can-be-sorted)||Medium|
 ||3010|Divide an Array Into Subarrays With Minimum Cost I|[:us:](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) [:cn:](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i)||Easy|
 |:lock:|3009|Maximum Number of Intersections on the Chart|[:us:](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart) [:cn:](https://leetcode.cn/problems/maximum-number-of-intersections-on-the-chart)||Hard|
-||3008|Find Beautiful Indices in the Given Array II|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-ii)||Hard|
-||3007|Maximum Number That Sum of the Prices Is Less Than or Equal to K|[:us:](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) [:cn:](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)||Medium|
-||3006|Find Beautiful Indices in the Given Array I|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-i)||Medium|
-||3005|Count Elements With Maximum Frequency|[:us:](https://leetcode.com/problems/count-elements-with-maximum-frequency) [:cn:](https://leetcode.cn/problems/count-elements-with-maximum-frequency)||Easy|
+|:heavy_check_mark:|3008|Find Beautiful Indices in the Given Array II|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-ii)|[py](/3001-3500/3008.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II.py)|Hard|
+|:heavy_check_mark:|3007|Maximum Number That Sum of the Prices Is Less Than or Equal to K|[:us:](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) [:cn:](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)|[py](/3001-3500/3007.Maximum%20Number%20That%20Sum%20of%20the%20Prices%20Is%20Less%20Than%20or%20Equal%20to%20K.py)|Medium|
+|:heavy_check_mark:|3006|Find Beautiful Indices in the Given Array I|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-i)|[py](/3001-3500/3006.Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20I.py)|Medium|
+|:heavy_check_mark:|3005|Count Elements With Maximum Frequency|[:us:](https://leetcode.com/problems/count-elements-with-maximum-frequency) [:cn:](https://leetcode.cn/problems/count-elements-with-maximum-frequency)|[py](/3001-3500/3005.Count%20Elements%20With%20Maximum%20Frequency.py)|Easy|
 |:lock:|3004|Maximum Subtree of the Same Color|[:us:](https://leetcode.com/problems/maximum-subtree-of-the-same-color) [:cn:](https://leetcode.cn/problems/maximum-subtree-of-the-same-color)||Medium|
 |:heavy_check_mark:|3003|Maximize the Number of Partitions After Operations|[:us:](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-partitions-after-operations)|[py](/3001-3500/3003.Maximize%20the%20Number%20of%20Partitions%20After%20Operations.py)|Hard|
 |:heavy_check_mark:|3002|Maximum Size of a Set After Removals|[:us:](https://leetcode.com/problems/maximum-size-of-a-set-after-removals) [:cn:](https://leetcode.cn/problems/maximum-size-of-a-set-after-removals)|[py](/3001-3500/3002.Maximum%20Size%20of%20a%20Set%20After%20Removals.py)|Medium|

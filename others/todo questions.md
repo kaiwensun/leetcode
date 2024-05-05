@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|823|0|6|395 (0.00%)|
+|819|0|6|391 (0.00%)|
 
 
 
@@ -107,10 +107,6 @@
 ||3012|Minimize Length of Array Using Operations|[:us:](https://leetcode.com/problems/minimize-length-of-array-using-operations) [:cn:](https://leetcode.cn/problems/minimize-length-of-array-using-operations)||Medium|
 ||3011|Find if Array Can Be Sorted|[:us:](https://leetcode.com/problems/find-if-array-can-be-sorted) [:cn:](https://leetcode.cn/problems/find-if-array-can-be-sorted)||Medium|
 ||3010|Divide an Array Into Subarrays With Minimum Cost I|[:us:](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) [:cn:](https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i)||Easy|
-||3008|Find Beautiful Indices in the Given Array II|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-ii)||Hard|
-||3007|Maximum Number That Sum of the Prices Is Less Than or Equal to K|[:us:](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) [:cn:](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k)||Medium|
-||3006|Find Beautiful Indices in the Given Array I|[:us:](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i) [:cn:](https://leetcode.cn/problems/find-beautiful-indices-in-the-given-array-i)||Medium|
-||3005|Count Elements With Maximum Frequency|[:us:](https://leetcode.com/problems/count-elements-with-maximum-frequency) [:cn:](https://leetcode.cn/problems/count-elements-with-maximum-frequency)||Easy|
 ||2999|Count the Number of Powerful Integers|[:us:](https://leetcode.com/problems/count-the-number-of-powerful-integers) [:cn:](https://leetcode.cn/problems/count-the-number-of-powerful-integers)||Hard|
 ||2998|Minimum Number of Operations to Make X and Y Equal|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-x-and-y-equal)||Medium|
 ||2997|Minimum Number of Operations to Make Array XOR Equal to K|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k)||Medium|
