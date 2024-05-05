@@ -406,7 +406,7 @@
 ||609|Find Duplicate File in System|[:us:](https://leetcode.com/problems/find-duplicate-file-in-system) [:cn:](https://leetcode.cn/problems/find-duplicate-file-in-system)||Medium|
 | sql |608|Tree Node|[:us:](https://leetcode.com/problems/tree-node) [:cn:](https://leetcode.cn/problems/tree-node)||Medium|
 | sql |607|Sales Person|[:us:](https://leetcode.com/problems/sales-person) [:cn:](https://leetcode.cn/problems/sales-person)||Easy|
-|:heavy_check_mark:|606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree) [:cn:](https://leetcode.cn/problems/construct-string-from-binary-tree)|[ts](/0501-1000/0606.Construct%20String%20from%20Binary%20Tree.ts)|Easy|
+|:heavy_check_mark:|606|Construct String from Binary Tree|[:us:](https://leetcode.com/problems/construct-string-from-binary-tree) [:cn:](https://leetcode.cn/problems/construct-string-from-binary-tree)|[ts](/0501-1000/0606.Construct%20String%20from%20Binary%20Tree.ts)|Medium|
 |:heavy_check_mark:|605|Can Place Flowers|[:us:](https://leetcode.com/problems/can-place-flowers) [:cn:](https://leetcode.cn/problems/can-place-flowers)|[c](/0501-1000/0605.Can%20Place%20Flowers.c)|Easy|
 |:lock:|604|Design Compressed String Iterator|[:us:](https://leetcode.com/problems/design-compressed-string-iterator) [:cn:](https://leetcode.cn/problems/design-compressed-string-iterator)||Easy|
 |:lock: sql |603|Consecutive Available Seats|[:us:](https://leetcode.com/problems/consecutive-available-seats) [:cn:](https://leetcode.cn/problems/consecutive-available-seats)||Easy|
