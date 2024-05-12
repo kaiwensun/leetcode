@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|821|0|6|393 (0.00%)|
+|820|0|6|392 (0.00%)|
 
 
 
@@ -20,7 +20,6 @@
 ||100295|Find Products of Elements of Big Array|[:us:](https://leetcode.com/problems/find-products-of-elements-of-big-array) [:cn:](https://leetcode.cn/problems/find-products-of-elements-of-big-array)||Hard|
 ||100289|Minimum Substring Partition of Equal Character Frequency|[:us:](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency) [:cn:](https://leetcode.cn/problems/minimum-substring-partition-of-equal-character-frequency)||Medium|
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
-||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|
 ||3130|Find All Possible Stable Binary Arrays II|[:us:](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) [:cn:](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii)||Hard|
 ||3129|Find All Possible Stable Binary Arrays I|[:us:](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) [:cn:](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-i)||Medium|
 ||3128|Right Triangles|[:us:](https://leetcode.com/problems/right-triangles) [:cn:](https://leetcode.cn/problems/right-triangles)||Medium|

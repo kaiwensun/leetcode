@@ -9,12 +9,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3543|2126|6|393 (83.85%)|16|
+|3543|2127|6|392 (83.89%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.1%|10.7%|6.6%|4.3%|2.2%|0.9%|0.8%|
+|60.4%|14.1%|10.7%|6.6%|4.4%|2.2%|0.9%|0.8%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -35,7 +35,7 @@
 |:heavy_check_mark:|3136|Valid Word|[:us:](https://leetcode.com/problems/valid-word) [:cn:](https://leetcode.cn/problems/valid-word)|[py](/3001-3500/3136.Valid%20Word.py)|Easy|
 |:lock:|3135|Equalize Strings by Adding or Removing Characters at Ends|[:us:](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends) [:cn:](https://leetcode.cn/problems/equalize-strings-by-adding-or-removing-characters-at-ends)||Medium|
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
-||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|
+|:heavy_check_mark:|3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)|[c](/3001-3500/3133.Minimum%20Array%20End.c)|Medium|
 |:heavy_check_mark:|3132|Find the Integer Added to Array II|[:us:](https://leetcode.com/problems/find-the-integer-added-to-array-ii) [:cn:](https://leetcode.cn/problems/find-the-integer-added-to-array-ii)|[py](/3001-3500/3132.Find%20the%20Integer%20Added%20to%20Array%20II.py)|Medium|
 |:heavy_check_mark:|3131|Find the Integer Added to Array I|[:us:](https://leetcode.com/problems/find-the-integer-added-to-array-i) [:cn:](https://leetcode.cn/problems/find-the-integer-added-to-array-i)|[ts](/3001-3500/3131.Find%20the%20Integer%20Added%20to%20Array%20I.ts)|Easy|
 ||3130|Find All Possible Stable Binary Arrays II|[:us:](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) [:cn:](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii)||Hard|
