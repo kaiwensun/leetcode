@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|136|8|0|92 (8.00%)|
+|141|11|0|92 (10.68%)|
 
 
 |py|
@@ -12,7 +12,12 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|3141|Maximum Hamming Distances|[:us:](https://leetcode.com/problems/maximum-hamming-distances) [:cn:](https://leetcode.cn/problems/maximum-hamming-distances)||Hard|
+|:lock: sql |3140|Consecutive Available Seats II|[:us:](https://leetcode.com/problems/consecutive-available-seats-ii) [:cn:](https://leetcode.cn/problems/consecutive-available-seats-ii)||Medium|
+|:heavy_check_mark:|3139|Minimum Cost to Equalize Array|[:us:](https://leetcode.com/problems/minimum-cost-to-equalize-array) [:cn:](https://leetcode.cn/problems/minimum-cost-to-equalize-array)|[py](/3001-3500/3139.Minimum%20Cost%20to%20Equalize%20Array.py)|Hard|
 |:heavy_check_mark:|3138|Minimum Length of Anagram Concatenation|[:us:](https://leetcode.com/problems/minimum-length-of-anagram-concatenation) [:cn:](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation)|[py](/3001-3500/3138.Minimum%20Length%20of%20Anagram%20Concatenation.py)|Medium|
+|:heavy_check_mark:|3137|Minimum Number of Operations to Make Word K-Periodic|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-word-k-periodic)|[py](/3001-3500/3137.Minimum%20Number%20of%20Operations%20to%20Make%20Word%20K-Periodic.py)|Medium|
+|:heavy_check_mark:|3136|Valid Word|[:us:](https://leetcode.com/problems/valid-word) [:cn:](https://leetcode.cn/problems/valid-word)|[py](/3001-3500/3136.Valid%20Word.py)|Easy|
 |:lock:|3135|Equalize Strings by Adding or Removing Characters at Ends|[:us:](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends) [:cn:](https://leetcode.cn/problems/equalize-strings-by-adding-or-removing-characters-at-ends)||Medium|
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
 ||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|
