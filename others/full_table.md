@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3539|2121|6|394 (83.78%)|16|
+|3543|2125|6|394 (83.81%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -19,6 +19,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100312|find-the-minimum-cost-array-permutation||[py](/100312.find-the-minimum-cost-array-permutation.py)||
+|:heavy_check_mark:|100296|permutation-difference-between-two-strings||[py](/100296.permutation-difference-between-two-strings.py)||
+|:heavy_check_mark:|100281|maximum-difference-score-in-a-grid||[py](/100281.maximum-difference-score-in-a-grid.py)||
+|:heavy_check_mark:|100274|taking-maximum-energy-from-the-mystic-dungeon||[py](/100274.taking-maximum-energy-from-the-mystic-dungeon.py)||
 ||100302|Maximum Points Inside the Square|[:us:](https://leetcode.com/problems/maximum-points-inside-the-square) [:cn:](https://leetcode.cn/problems/maximum-points-inside-the-square)||Medium|
 ||100299|Check if Grid Satisfies Conditions|[:us:](https://leetcode.com/problems/check-if-grid-satisfies-conditions) [:cn:](https://leetcode.cn/problems/check-if-grid-satisfies-conditions)||Easy|
 ||100295|Find Products of Elements of Big Array|[:us:](https://leetcode.com/problems/find-products-of-elements-of-big-array) [:cn:](https://leetcode.cn/problems/find-products-of-elements-of-big-array)||Hard|

@@ -10,7 +10,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3539|2121|6|394 (83.78%)|16|
+|3543|2125|6|394 (83.81%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|
@@ -28,6 +28,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100312|find-the-minimum-cost-array-permutation||[py](/100312.find-the-minimum-cost-array-permutation.py)||
+|:heavy_check_mark:|100296|permutation-difference-between-two-strings||[py](/100296.permutation-difference-between-two-strings.py)||
+|:heavy_check_mark:|100281|maximum-difference-score-in-a-grid||[py](/100281.maximum-difference-score-in-a-grid.py)||
+|:heavy_check_mark:|100274|taking-maximum-energy-from-the-mystic-dungeon||[py](/100274.taking-maximum-energy-from-the-mystic-dungeon.py)||
 ||100302|Maximum Points Inside the Square|[:us:](https://leetcode.com/problems/maximum-points-inside-the-square) [:cn:](https://leetcode.cn/problems/maximum-points-inside-the-square)||Medium|
 ||100299|Check if Grid Satisfies Conditions|[:us:](https://leetcode.com/problems/check-if-grid-satisfies-conditions) [:cn:](https://leetcode.cn/problems/check-if-grid-satisfies-conditions)||Easy|
 ||100295|Find Products of Elements of Big Array|[:us:](https://leetcode.com/problems/find-products-of-elements-of-big-array) [:cn:](https://leetcode.cn/problems/find-products-of-elements-of-big-array)||Hard|
@@ -1024,7 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:lock:|2152|Minimum Number of Lines to Cover Points|[:us:](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points) [:cn:](https://leetcode.cn/problems/minimum-number-of-lines-to-cover-points)||Medium|
 |:heavy_check_mark:|2151|Maximum Good People Based on Statements|[:us:](https://leetcode.com/problems/maximum-good-people-based-on-statements) [:cn:](https://leetcode.cn/problems/maximum-good-people-based-on-statements)|[py](/2001-2500/2151.Maximum%20Good%20People%20Based%20on%20Statements.py)|Hard|
 |:heavy_check_mark:|2150|Find All Lonely Numbers in the Array|[:us:](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array) [:cn:](https://leetcode.cn/problems/find-all-lonely-numbers-in-the-array)|[ts](/2001-2500/2150.Find%20All%20Lonely%20Numbers%20in%20the%20Array.ts)|Medium|
-|:heavy_check_mark:|2149|Rearrange Array Elements by Sign|[:us:](https://leetcode.com/problems/rearrange-array-elements-by-sign) [:cn:](https://leetcode.cn/problems/rearrange-array-elements-by-sign)|[ts](/2001-2500/2149.Rearrange%20Array%20Elements%20by%20Sign.2.ts), [ts](/2001-2500/2149.Rearrange%20Array%20Elements%20by%20Sign.ts)|Medium|
-|:heavy_check_mark:|2148|Count Elements With Strictly Smaller and Greater Elements|[:us:](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) [:cn:](https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements)|[ts](/2001-2500/2148.Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.ts)|Easy|
-|:heavy_check_mark:|2147|Number of Ways to Divide a Long Corridor|[:us:](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) [:cn:](https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor)|[ts](/2001-2500/2147.Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor.ts)|Hard|
-|:heavy_check_mark:|2146|K Highest Ranked Items Within a Price Range|[:us:](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) [:cn:](https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range)|[ts](/2001-2500/2146.K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range.ts)|Medium|
