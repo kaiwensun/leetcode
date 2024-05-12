@@ -2,12 +2,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|141|11|0|92 (10.68%)|
+|141|12|0|91 (11.65%)|
 
 
-|py|
-|:---:|
-|100.0%|
+|py|ts|
+|:---:|:---:|
+|91.7%|8.3%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -22,7 +22,7 @@
 ||3134|Find the Median of the Uniqueness Array|[:us:](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array) [:cn:](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array)||Hard|
 ||3133|Minimum Array End|[:us:](https://leetcode.com/problems/minimum-array-end) [:cn:](https://leetcode.cn/problems/minimum-array-end)||Medium|
 ||3132|Find the Integer Added to Array II|[:us:](https://leetcode.com/problems/find-the-integer-added-to-array-ii) [:cn:](https://leetcode.cn/problems/find-the-integer-added-to-array-ii)||Medium|
-||3131|Find the Integer Added to Array I|[:us:](https://leetcode.com/problems/find-the-integer-added-to-array-i) [:cn:](https://leetcode.cn/problems/find-the-integer-added-to-array-i)||Easy|
+|:heavy_check_mark:|3131|Find the Integer Added to Array I|[:us:](https://leetcode.com/problems/find-the-integer-added-to-array-i) [:cn:](https://leetcode.cn/problems/find-the-integer-added-to-array-i)|[ts](/3001-3500/3131.Find%20the%20Integer%20Added%20to%20Array%20I.ts)|Easy|
 ||3130|Find All Possible Stable Binary Arrays II|[:us:](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) [:cn:](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii)||Hard|
 ||3129|Find All Possible Stable Binary Arrays I|[:us:](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) [:cn:](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-i)||Medium|
 ||3128|Right Triangles|[:us:](https://leetcode.com/problems/right-triangles) [:cn:](https://leetcode.cn/problems/right-triangles)||Medium|
