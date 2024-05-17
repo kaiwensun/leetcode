@@ -2,12 +2,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|500|322|3|96 (76.87%)|3|
+|500|323|3|95 (77.11%)|3|
 
 
 |py|java|rb|ts|c|js|cpp|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|66.1%|10.3%|9.5%|7.8%|3.2%|1.4%|1.1%|0.6%|
+|66.2%|10.3%|9.5%|7.7%|3.2%|1.4%|1.1%|0.6%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
@@ -185,7 +185,7 @@
 |:heavy_check_mark:|830|Positions of Large Groups|[:us:](https://leetcode.com/problems/positions-of-large-groups) [:cn:](https://leetcode.cn/problems/positions-of-large-groups)|[java](/0501-1000/0830.Positions%20of%20Large%20Groups.java)|Easy|
 |:heavy_check_mark:|829|Consecutive Numbers Sum|[:us:](https://leetcode.com/problems/consecutive-numbers-sum) [:cn:](https://leetcode.cn/problems/consecutive-numbers-sum)|[py](/0501-1000/0829.Consecutive%20Numbers%20Sum.py)|Hard|
 |:heavy_check_mark:|828|Count Unique Characters of All Substrings of a Given String|[:us:](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string) [:cn:](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string)|[py](/0501-1000/0828.Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String.py)|Hard|
-||827|Making A Large Island|[:us:](https://leetcode.com/problems/making-a-large-island) [:cn:](https://leetcode.cn/problems/making-a-large-island)||Hard|
+|:heavy_check_mark:|827|Making A Large Island|[:us:](https://leetcode.com/problems/making-a-large-island) [:cn:](https://leetcode.cn/problems/making-a-large-island)|[py](/0501-1000/0827.Making%20A%20Large%20Island.py)|Hard|
 ||826|Most Profit Assigning Work|[:us:](https://leetcode.com/problems/most-profit-assigning-work) [:cn:](https://leetcode.cn/problems/most-profit-assigning-work)||Medium|
 |:heavy_check_mark:|825|Friends Of Appropriate Ages|[:us:](https://leetcode.com/problems/friends-of-appropriate-ages) [:cn:](https://leetcode.cn/problems/friends-of-appropriate-ages)|[py](/0501-1000/0825.Friends%20Of%20Appropriate%20Ages.py)|Medium|
 |:heavy_check_mark:|824|Goat Latin|[:us:](https://leetcode.com/problems/goat-latin) [:cn:](https://leetcode.cn/problems/goat-latin)|[py](/0501-1000/0824.Goat%20Latin.py)|Easy|

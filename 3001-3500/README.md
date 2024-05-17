@@ -2,16 +2,25 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|141|14|0|89 (13.59%)|
+|150|18|0|93 (16.22%)|
 
 
 |py|ts|c|
 |:---:|:---:|:---:|
-|85.7%|7.1%|7.1%|
+|88.9%|5.6%|5.6%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock: sql |3150|Invalid Tweets II|[:us:](https://leetcode.com/problems/invalid-tweets-ii) [:cn:](https://leetcode.cn/problems/invalid-tweets-ii)||Easy|
+|:heavy_check_mark:|3149|Find the Minimum Cost Array Permutation|[:us:](https://leetcode.com/problems/find-the-minimum-cost-array-permutation) [:cn:](https://leetcode.cn/problems/find-the-minimum-cost-array-permutation)|[py](/3001-3500/3149.Find%20the%20Minimum%20Cost%20Array%20Permutation.py)|Hard|
+|:heavy_check_mark:|3148|Maximum Difference Score in a Grid|[:us:](https://leetcode.com/problems/maximum-difference-score-in-a-grid) [:cn:](https://leetcode.cn/problems/maximum-difference-score-in-a-grid)|[py](/3001-3500/3148.Maximum%20Difference%20Score%20in%20a%20Grid.py)|Medium|
+|:heavy_check_mark:|3147|Taking Maximum Energy From the Mystic Dungeon|[:us:](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon) [:cn:](https://leetcode.cn/problems/taking-maximum-energy-from-the-mystic-dungeon)|[py](/3001-3500/3147.Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon.py)|Medium|
+|:heavy_check_mark:|3146|Permutation Difference between Two Strings|[:us:](https://leetcode.com/problems/permutation-difference-between-two-strings) [:cn:](https://leetcode.cn/problems/permutation-difference-between-two-strings)|[py](/3001-3500/3146.Permutation%20Difference%20between%20Two%20Strings.py)|Easy|
+||3145|Find Products of Elements of Big Array|[:us:](https://leetcode.com/problems/find-products-of-elements-of-big-array) [:cn:](https://leetcode.cn/problems/find-products-of-elements-of-big-array)||Hard|
+||3144|Minimum Substring Partition of Equal Character Frequency|[:us:](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency) [:cn:](https://leetcode.cn/problems/minimum-substring-partition-of-equal-character-frequency)||Medium|
+||3143|Maximum Points Inside the Square|[:us:](https://leetcode.com/problems/maximum-points-inside-the-square) [:cn:](https://leetcode.cn/problems/maximum-points-inside-the-square)||Medium|
+||3142|Check if Grid Satisfies Conditions|[:us:](https://leetcode.com/problems/check-if-grid-satisfies-conditions) [:cn:](https://leetcode.cn/problems/check-if-grid-satisfies-conditions)||Easy|
 |:lock:|3141|Maximum Hamming Distances|[:us:](https://leetcode.com/problems/maximum-hamming-distances) [:cn:](https://leetcode.cn/problems/maximum-hamming-distances)||Hard|
 |:lock: sql |3140|Consecutive Available Seats II|[:us:](https://leetcode.com/problems/consecutive-available-seats-ii) [:cn:](https://leetcode.cn/problems/consecutive-available-seats-ii)||Medium|
 |:heavy_check_mark:|3139|Minimum Cost to Equalize Array|[:us:](https://leetcode.com/problems/minimum-cost-to-equalize-array) [:cn:](https://leetcode.cn/problems/minimum-cost-to-equalize-array)|[py](/3001-3500/3139.Minimum%20Cost%20to%20Equalize%20Array.py)|Hard|
