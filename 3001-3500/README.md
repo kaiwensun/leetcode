@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|150|18|0|93 (16.22%)|
+|167|18|0|105 (14.63%)|
 
 
 |py|ts|c|
@@ -12,6 +12,23 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|3167|Better Compression of String|[:us:](https://leetcode.com/problems/better-compression-of-string) [:cn:](https://leetcode.cn/problems/better-compression-of-string)||Medium|
+|:lock: sql |3166|Calculate Parking Fees and Duration|[:us:](https://leetcode.com/problems/calculate-parking-fees-and-duration) [:cn:](https://leetcode.cn/problems/calculate-parking-fees-and-duration)||Medium|
+||3165|Maximum Sum of Subsequence With Non-adjacent Elements|[:us:](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements) [:cn:](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements)||Hard|
+||3164|Find the Number of Good Pairs II|[:us:](https://leetcode.com/problems/find-the-number-of-good-pairs-ii) [:cn:](https://leetcode.cn/problems/find-the-number-of-good-pairs-ii)||Medium|
+||3163|String Compression III|[:us:](https://leetcode.com/problems/string-compression-iii) [:cn:](https://leetcode.cn/problems/string-compression-iii)||Medium|
+||3162|Find the Number of Good Pairs I|[:us:](https://leetcode.com/problems/find-the-number-of-good-pairs-i) [:cn:](https://leetcode.cn/problems/find-the-number-of-good-pairs-i)||Easy|
+||3161|Block Placement Queries|[:us:](https://leetcode.com/problems/block-placement-queries) [:cn:](https://leetcode.cn/problems/block-placement-queries)||Hard|
+||3160|Find the Number of Distinct Colors Among the Balls|[:us:](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) [:cn:](https://leetcode.cn/problems/find-the-number-of-distinct-colors-among-the-balls)||Medium|
+||3159|Find Occurrences of an Element in an Array|[:us:](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) [:cn:](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array)||Medium|
+||3158|Find the XOR of Numbers Which Appear Twice|[:us:](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) [:cn:](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice)||Easy|
+|:lock:|3157|Find the Level of Tree with Minimum Sum|[:us:](https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum) [:cn:](https://leetcode.cn/problems/find-the-level-of-tree-with-minimum-sum)||Medium|
+|:lock: sql |3156|Employee Task Duration and Concurrent Tasks|[:us:](https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks) [:cn:](https://leetcode.cn/problems/employee-task-duration-and-concurrent-tasks)||Hard|
+|:lock:|3155|Maximum Number of Upgradable Servers|[:us:](https://leetcode.com/problems/maximum-number-of-upgradable-servers) [:cn:](https://leetcode.cn/problems/maximum-number-of-upgradable-servers)||Medium|
+||3154|Find Number of Ways to Reach the K-th Stair|[:us:](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair) [:cn:](https://leetcode.cn/problems/find-number-of-ways-to-reach-the-k-th-stair)||Hard|
+||3153|Sum of Digit Differences of All Pairs|[:us:](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs) [:cn:](https://leetcode.cn/problems/sum-of-digit-differences-of-all-pairs)||Medium|
+||3152|Special Array II|[:us:](https://leetcode.com/problems/special-array-ii) [:cn:](https://leetcode.cn/problems/special-array-ii)||Medium|
+||3151|Special Array I|[:us:](https://leetcode.com/problems/special-array-i) [:cn:](https://leetcode.cn/problems/special-array-i)||Easy|
 |:lock: sql |3150|Invalid Tweets II|[:us:](https://leetcode.com/problems/invalid-tweets-ii) [:cn:](https://leetcode.cn/problems/invalid-tweets-ii)||Easy|
 |:heavy_check_mark:|3149|Find the Minimum Cost Array Permutation|[:us:](https://leetcode.com/problems/find-the-minimum-cost-array-permutation) [:cn:](https://leetcode.cn/problems/find-the-minimum-cost-array-permutation)|[py](/3001-3500/3149.Find%20the%20Minimum%20Cost%20Array%20Permutation.py)|Hard|
 |:heavy_check_mark:|3148|Maximum Difference Score in a Grid|[:us:](https://leetcode.com/problems/maximum-difference-score-in-a-grid) [:cn:](https://leetcode.cn/problems/maximum-difference-score-in-a-grid)|[py](/3001-3500/3148.Maximum%20Difference%20Score%20in%20a%20Grid.py)|Medium|
