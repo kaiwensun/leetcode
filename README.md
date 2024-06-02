@@ -15,7 +15,7 @@
 
 |py|ts|java|rb|c|cpp|js|php|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.7%|6.6%|4.4%|2.2%|0.9%|0.8%|
+|60.5%|14.0%|10.7%|6.5%|4.4%|2.2%|0.9%|0.8%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -29,7 +29,7 @@ For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
 |:heavy_check_mark:|100322|Lexicographically Minimum String After Removing Stars|[:us:](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) [:cn:](https://leetcode.cn/problems/lexicographically-minimum-string-after-removing-stars)|[py](/100322.Lexicographically%20Minimum%20String%20After%20Removing%20Stars.py)|Medium|
-|:heavy_check_mark:|100315|Find Subarray With Bitwise AND Closest to K|[:us:](https://leetcode.com/problems/find-subarray-with-bitwise-and-closest-to-k) [:cn:](https://leetcode.cn/problems/find-subarray-with-bitwise-and-closest-to-k)|[py](/100315.Find%20Subarray%20With%20Bitwise%20AND%20Closest%20to%20K.py)|Hard|
+|:heavy_check_mark:|100315|Find Subarray With Bitwise AND Closest to K|[:us:](https://leetcode.com/problems/find-subarray-with-bitwise-and-closest-to-k) [:cn:](https://leetcode.cn/problems/find-subarray-with-bitwise-and-closest-to-k)|[py](/100315.Find%20Subarray%20With%20Bitwise%20AND%20Closest%20to%20K.2.py), [py](/100315.Find%20Subarray%20With%20Bitwise%20AND%20Closest%20to%20K.py)|Hard|
 |:heavy_check_mark:|100311|Count Days Without Meetings|[:us:](https://leetcode.com/problems/count-days-without-meetings) [:cn:](https://leetcode.cn/problems/count-days-without-meetings)|[py](/100311.Count%20Days%20Without%20Meetings.py)|Medium|
 |:heavy_check_mark:|100307|Minimum Number of Chairs in a Waiting Room|[:us:](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) [:cn:](https://leetcode.cn/problems/minimum-number-of-chairs-in-a-waiting-room)|[py](/100307.Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py)|Easy|
 |:lock:|3167|Better Compression of String|[:us:](https://leetcode.com/problems/better-compression-of-string) [:cn:](https://leetcode.cn/problems/better-compression-of-string)||Medium|
