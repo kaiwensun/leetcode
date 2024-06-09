@@ -4,7 +4,6 @@ class Solution:
         possible_sums = 0
         for r in rewardValues:
             smallers = possible_sums & (1 << r) - 1
-            (smallers | 1) << r
             possible_sums |= (smallers | 1) << r
         return possible_sums.bit_length() - 1
 

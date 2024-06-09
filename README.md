@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3575|2136|6|407 (83.44%)|16|
+|3575|2137|6|406 (83.48%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.0%|
+|60.5%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -31,7 +31,7 @@ For a full list, check [full_table.md](others/full_table.md).
 ||100331|Find the Maximum Length of a Good Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i)||Medium|
 ||100327|Find the Maximum Length of a Good Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii)||Hard|
 |:heavy_check_mark:|100325|Find the Child Who Has the Ball After K Seconds|[:us:](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-child-who-has-the-ball-after-k-seconds)|[kt](/100325.Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds.kt)|Easy|
-||100324|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)||Easy|
+|:heavy_check_mark:|100324|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)|[kt](/100324.Clear%20Digits.kt)|Easy|
 |:heavy_check_mark:|100320|Maximum Total Reward Using Operations II|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii)|[py](/100320.Maximum%20Total%20Reward%20Using%20Operations%20II.%28bitset%29.py)|Hard|
 |:heavy_check_mark:|100319|Maximum Total Reward Using Operations I|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-i)|[py](/100319.Maximum%20Total%20Reward%20Using%20Operations%20I.py)|Medium|
 |:heavy_check_mark:|100305|Find the N-th Value After K Seconds|[:us:](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds)|[py](/100305.Find%20the%20N-th%20Value%20After%20K%20Seconds.py)|Medium|

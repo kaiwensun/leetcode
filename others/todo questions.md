@@ -9,7 +9,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|835|0|6|407 (0.00%)|
+|834|0|6|406 (0.00%)|
 
 
 
@@ -17,7 +17,6 @@
 |:---|:---|:---|:---|:---|:---|
 ||100331|Find the Maximum Length of a Good Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i)||Medium|
 ||100327|Find the Maximum Length of a Good Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii)||Hard|
-||100324|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)||Easy|
 ||100297|Find The First Player to win K Games in a Row|[:us:](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row) [:cn:](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row)||Medium|
 ||3165|Maximum Sum of Subsequence With Non-adjacent Elements|[:us:](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements) [:cn:](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements)||Hard|
 ||3164|Find the Number of Good Pairs II|[:us:](https://leetcode.com/problems/find-the-number-of-good-pairs-ii) [:cn:](https://leetcode.cn/problems/find-the-number-of-good-pairs-ii)||Medium|
