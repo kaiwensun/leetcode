@@ -2,16 +2,22 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|167|18|0|105 (14.63%)|
+|173|22|0|105 (17.32%)|
 
 
 |py|ts|c|
 |:---:|:---:|:---:|
-|88.9%|5.6%|5.6%|
+|90.9%|4.5%|4.5%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|3173|Bitwise OR of Adjacent Elements|[:us:](https://leetcode.com/problems/bitwise-or-of-adjacent-elements) [:cn:](https://leetcode.cn/problems/bitwise-or-of-adjacent-elements)||Easy|
+|:lock: sql |3172|Second Day Verification|[:us:](https://leetcode.com/problems/second-day-verification) [:cn:](https://leetcode.cn/problems/second-day-verification)||Easy|
+|:heavy_check_mark:|3171|Find Subarray With Bitwise OR Closest to K|[:us:](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k) [:cn:](https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k)|[py](/3001-3500/3171.Find%20Subarray%20With%20Bitwise%20OR%20Closest%20to%20K.py)|Hard|
+|:heavy_check_mark:|3170|Lexicographically Minimum String After Removing Stars|[:us:](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) [:cn:](https://leetcode.cn/problems/lexicographically-minimum-string-after-removing-stars)|[py](/3001-3500/3170.Lexicographically%20Minimum%20String%20After%20Removing%20Stars.py)|Medium|
+|:heavy_check_mark:|3169|Count Days Without Meetings|[:us:](https://leetcode.com/problems/count-days-without-meetings) [:cn:](https://leetcode.cn/problems/count-days-without-meetings)|[py](/3001-3500/3169.Count%20Days%20Without%20Meetings.py)|Medium|
+|:heavy_check_mark:|3168|Minimum Number of Chairs in a Waiting Room|[:us:](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) [:cn:](https://leetcode.cn/problems/minimum-number-of-chairs-in-a-waiting-room)|[py](/3001-3500/3168.Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py)|Easy|
 |:lock:|3167|Better Compression of String|[:us:](https://leetcode.com/problems/better-compression-of-string) [:cn:](https://leetcode.cn/problems/better-compression-of-string)||Medium|
 |:lock: sql |3166|Calculate Parking Fees and Duration|[:us:](https://leetcode.com/problems/calculate-parking-fees-and-duration) [:cn:](https://leetcode.cn/problems/calculate-parking-fees-and-duration)||Medium|
 ||3165|Maximum Sum of Subsequence With Non-adjacent Elements|[:us:](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements) [:cn:](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements)||Hard|

@@ -3,7 +3,7 @@ class Solution:
         s = set()
         res = float("inf")
         for num in nums:
-            s = {num & prev for prev in s} | {num}
+            s = {num | prev for prev in s} | {num}
             res = min(res, min(abs(n - k) for n in s))
         return res
 
