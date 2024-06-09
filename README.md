@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3571|2132|6|407 (83.41%)|16|
+|3574|2135|6|407 (83.43%)|16|
 
 
-|py|ts|java|rb|c|cpp|js|php|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.7%|6.6%|4.4%|2.2%|0.9%|0.8%|
+|py|ts|java|rb|c|cpp|js|php|kt|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|60.5%|14.0%|10.7%|6.5%|4.4%|2.2%|0.9%|0.8%|0.0%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -28,6 +28,9 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100325|contest question 100325||[kt](/100325.kt)||
+|:heavy_check_mark:|100319|contest question 100319||[py](/100319.py)||
+|:heavy_check_mark:|100305|contest question 100305||[py](/100305.py)||
 ||100331|Find the Maximum Length of a Good Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i)||Medium|
 ||100327|Find the Maximum Length of a Good Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii)||Hard|
 ||100324|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)||Easy|
@@ -1025,6 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|2183|Count Array Pairs Divisible by K|[:us:](https://leetcode.com/problems/count-array-pairs-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-array-pairs-divisible-by-k)|[ts](/2001-2500/2183.Count%20Array%20Pairs%20Divisible%20by%20K.ts)|Hard|
 |:heavy_check_mark:|2182|Construct String With Repeat Limit|[:us:](https://leetcode.com/problems/construct-string-with-repeat-limit) [:cn:](https://leetcode.cn/problems/construct-string-with-repeat-limit)|[ts](/2001-2500/2182.Construct%20String%20With%20Repeat%20Limit.ts)|Medium|
 |:heavy_check_mark:|2181|Merge Nodes in Between Zeros|[:us:](https://leetcode.com/problems/merge-nodes-in-between-zeros) [:cn:](https://leetcode.cn/problems/merge-nodes-in-between-zeros)|[ts](/2001-2500/2181.Merge%20Nodes%20in%20Between%20Zeros.ts)|Medium|
-|:heavy_check_mark:|2180|Count Integers With Even Digit Sum|[:us:](https://leetcode.com/problems/count-integers-with-even-digit-sum) [:cn:](https://leetcode.cn/problems/count-integers-with-even-digit-sum)|[ts](/2001-2500/2180.Count%20Integers%20With%20Even%20Digit%20Sum.ts)|Easy|
-|:heavy_check_mark:|2179|Count Good Triplets in an Array|[:us:](https://leetcode.com/problems/count-good-triplets-in-an-array) [:cn:](https://leetcode.cn/problems/count-good-triplets-in-an-array)|[ts](/2001-2500/2179.Count%20Good%20Triplets%20in%20an%20Array.ts)|Hard|
-|:heavy_check_mark:|2178|Maximum Split of Positive Even Integers|[:us:](https://leetcode.com/problems/maximum-split-of-positive-even-integers) [:cn:](https://leetcode.cn/problems/maximum-split-of-positive-even-integers)|[ts](/2001-2500/2178.Maximum%20Split%20of%20Positive%20Even%20Integers.ts)|Medium|

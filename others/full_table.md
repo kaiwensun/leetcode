@@ -9,16 +9,19 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3571|2132|6|407 (83.41%)|16|
+|3574|2135|6|407 (83.43%)|16|
 
 
-|py|ts|java|rb|c|cpp|js|php|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.7%|6.6%|4.4%|2.2%|0.9%|0.8%|
+|py|ts|java|rb|c|cpp|js|php|kt|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|60.5%|14.0%|10.7%|6.5%|4.4%|2.2%|0.9%|0.8%|0.0%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100325|contest question 100325||[kt](/100325.kt)||
+|:heavy_check_mark:|100319|contest question 100319||[py](/100319.py)||
+|:heavy_check_mark:|100305|contest question 100305||[py](/100305.py)||
 ||100331|Find the Maximum Length of a Good Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i)||Medium|
 ||100327|Find the Maximum Length of a Good Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii)||Hard|
 ||100324|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)||Easy|

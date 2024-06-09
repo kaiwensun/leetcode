@@ -182,7 +182,7 @@ class Solution:
     """
 
     FOLDER_SIZE = 500
-    KNOWN_TYPES = {"c", "cpp", "java", "py", "ts",
+    KNOWN_TYPES = {"c", "cpp", "java", "py", "ts", "kt",
                    "rb", "sh", "js", "sql", "php", "txt", "md"}
     KNOWN_CN_GROUPS = {
         "LCS": re.compile("^LCS \d{2}$"),
