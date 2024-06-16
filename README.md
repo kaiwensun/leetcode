@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3575|2137|6|406 (83.48%)|16|
+|3579|2141|6|406 (83.50%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
+|60.6%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -28,6 +28,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100317|peaks-in-array||[py](/100317.peaks-in-array.py)||
+|:heavy_check_mark:|100316|maximum-total-damage-with-spell-casting||[py](/100316.maximum-total-damage-with-spell-casting.py)||
+|:heavy_check_mark:|100304|count-pairs-that-form-a-complete-day-i||[py](/100304.count-pairs-that-form-a-complete-day-i.py)||
+|:heavy_check_mark:|100301|count-pairs-that-form-a-complete-day-ii||[py](/100301.count-pairs-that-form-a-complete-day-ii.py)||
 |:heavy_check_mark:|3181|Maximum Total Reward Using Operations II|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii)|[py](/3001-3500/3181.Maximum%20Total%20Reward%20Using%20Operations%20II.%28bitset%29.py)|Hard|
 |:heavy_check_mark:|3180|Maximum Total Reward Using Operations I|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-i)|[py](/3001-3500/3180.Maximum%20Total%20Reward%20Using%20Operations%20I.py)|Medium|
 |:heavy_check_mark:|3179|Find the N-th Value After K Seconds|[:us:](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds)|[py](/3001-3500/3179.Find%20the%20N-th%20Value%20After%20K%20Seconds.py)|Medium|
@@ -1024,7 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|2188|Minimum Time to Finish the Race|[:us:](https://leetcode.com/problems/minimum-time-to-finish-the-race) [:cn:](https://leetcode.cn/problems/minimum-time-to-finish-the-race)|[ts](/2001-2500/2188.Minimum%20Time%20to%20Finish%20the%20Race.ts)|Hard|
 |:heavy_check_mark:|2187|Minimum Time to Complete Trips|[:us:](https://leetcode.com/problems/minimum-time-to-complete-trips) [:cn:](https://leetcode.cn/problems/minimum-time-to-complete-trips)|[ts](/2001-2500/2187.Minimum%20Time%20to%20Complete%20Trips.ts)|Medium|
 |:heavy_check_mark:|2186|Minimum Number of Steps to Make Two Strings Anagram II|[:us:](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii) [:cn:](https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii)|[py](/2001-2500/2186.Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.py)|Medium|
-|:heavy_check_mark:|2185|Counting Words With a Given Prefix|[:us:](https://leetcode.com/problems/counting-words-with-a-given-prefix) [:cn:](https://leetcode.cn/problems/counting-words-with-a-given-prefix)|[ts](/2001-2500/2185.Counting%20Words%20With%20a%20Given%20Prefix.ts)|Easy|
-|:lock:|2184|Number of Ways to Build Sturdy Brick Wall|[:us:](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall) [:cn:](https://leetcode.cn/problems/number-of-ways-to-build-sturdy-brick-wall)||Medium|
-|:heavy_check_mark:|2183|Count Array Pairs Divisible by K|[:us:](https://leetcode.com/problems/count-array-pairs-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-array-pairs-divisible-by-k)|[ts](/2001-2500/2183.Count%20Array%20Pairs%20Divisible%20by%20K.ts)|Hard|
-|:heavy_check_mark:|2182|Construct String With Repeat Limit|[:us:](https://leetcode.com/problems/construct-string-with-repeat-limit) [:cn:](https://leetcode.cn/problems/construct-string-with-repeat-limit)|[ts](/2001-2500/2182.Construct%20String%20With%20Repeat%20Limit.ts)|Medium|

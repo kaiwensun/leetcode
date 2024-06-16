@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3575|2137|6|406 (83.48%)|16|
+|3579|2141|6|406 (83.50%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.5%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
+|60.6%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100317|peaks-in-array||[py](/100317.peaks-in-array.py)||
+|:heavy_check_mark:|100316|maximum-total-damage-with-spell-casting||[py](/100316.maximum-total-damage-with-spell-casting.py)||
+|:heavy_check_mark:|100304|count-pairs-that-form-a-complete-day-i||[py](/100304.count-pairs-that-form-a-complete-day-i.py)||
+|:heavy_check_mark:|100301|count-pairs-that-form-a-complete-day-ii||[py](/100301.count-pairs-that-form-a-complete-day-ii.py)||
 |:heavy_check_mark:|3181|Maximum Total Reward Using Operations II|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii)|[py](/3001-3500/3181.Maximum%20Total%20Reward%20Using%20Operations%20II.%28bitset%29.py)|Hard|
 |:heavy_check_mark:|3180|Maximum Total Reward Using Operations I|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-i)|[py](/3001-3500/3180.Maximum%20Total%20Reward%20Using%20Operations%20I.py)|Medium|
 |:heavy_check_mark:|3179|Find the N-th Value After K Seconds|[:us:](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds)|[py](/3001-3500/3179.Find%20the%20N-th%20Value%20After%20K%20Seconds.py)|Medium|
