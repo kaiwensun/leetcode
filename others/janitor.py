@@ -919,6 +919,14 @@ def load_resources(client, offline):
                 'difficulty': {'level': 1},
                 'paid_only': False}
             ]
+            # LeetCode deleted so many old questions recently. Manually add catalogs for recent contest questions below and run janitor in off-line mode for now.
+            + json.loads('''[
+                {"stat":{"question_id":3422,"question__title":"Find the N-th Value After K Seconds","question__title_slug":"find-the-n-th-value-after-k-seconds","question__hide":false,"total_acs":4236,"total_submitted":7613,"total_column_articles":32,"frontend_question_id":"3179","is_new_question":false},"status":"ac","difficulty":{"level":2},"paid_only":false,"is_favor":false,"frequency":0,"progress":0},
+                {"stat":{"question_id":3443,"question__title":"Maximum Total Reward Using Operations II","question__title_slug":"maximum-total-reward-using-operations-ii","question__hide":false,"total_acs":2477,"total_submitted":6935,"total_column_articles":28,"frontend_question_id":"3181","is_new_question":false},"status":"ac","difficulty":{"level":3},"paid_only":false,"is_favor":false,"frequency":0,"progress":0},
+                {"stat":{"question_id":3442,"question__title":"Maximum Total Reward Using Operations I","question__title_slug":"maximum-total-reward-using-operations-i","question__hide":false,"total_acs":3322,"total_submitted":10518,"total_column_articles":31,"frontend_question_id":"3180","is_new_question":false},"status":"ac","difficulty":{"level":2},"paid_only":false,"is_favor":false,"frequency":0,"progress":0},
+                {"stat":{"question_id":3447,"question__title":"Clear Digits","question__title_slug":"clear-digits","question__hide":false,"total_acs":3031,"total_submitted":3889,"total_column_articles":22,"frontend_question_id":"3174","is_new_question":false},
+                {"stat":{"question_id":3450,"question__title":"Find the Child Who Has the Ball After K Seconds","question__title_slug":"find-the-child-who-has-the-ball-after-k-seconds","question__hide":false,"total_acs":4765,"total_submitted":7036,"total_column_articles":28,"frontend_question_id":"3178","is_new_question":false},"status":"ac","difficulty":{"level":1},"paid_only":false,"is_favor":false,"frequency":0,"progress":0}
+            ]''')
 
             # https://leetcode.cn/contest/api/info/cnunionpay-2022spring/
             CNUNIONPAY_2022SPRING = [

@@ -2,16 +2,24 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|173|22|0|105 (17.32%)|
+|181|27|0|108 (20.00%)|
 
 
-|py|ts|c|
-|:---:|:---:|:---:|
-|90.9%|4.5%|4.5%|
+|py|kt|ts|c|
+|:---:|:---:|:---:|:---:|
+|85.2%|7.4%|3.7%|3.7%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|3181|Maximum Total Reward Using Operations II|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii)|[py](/3001-3500/3181.Maximum%20Total%20Reward%20Using%20Operations%20II.%28bitset%29.py)|Hard|
+|:heavy_check_mark:|3180|Maximum Total Reward Using Operations I|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-i)|[py](/3001-3500/3180.Maximum%20Total%20Reward%20Using%20Operations%20I.py)|Medium|
+|:heavy_check_mark:|3179|Find the N-th Value After K Seconds|[:us:](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds)|[py](/3001-3500/3179.Find%20the%20N-th%20Value%20After%20K%20Seconds.py)|Medium|
+|:heavy_check_mark:|3178|Find the Child Who Has the Ball After K Seconds|[:us:](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-child-who-has-the-ball-after-k-seconds)|[kt](/3001-3500/3178.Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds.kt)|Easy|
+||3177|Find the Maximum Length of a Good Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii)||Hard|
+||3176|Find the Maximum Length of a Good Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i)||Medium|
+||3175|Find The First Player to win K Games in a Row|[:us:](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row) [:cn:](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row)||Medium|
+|:heavy_check_mark:|3174|Clear Digits|[:us:](https://leetcode.com/problems/clear-digits) [:cn:](https://leetcode.cn/problems/clear-digits)|[kt](/3001-3500/3174.Clear%20Digits.kt)|Easy|
 |:lock:|3173|Bitwise OR of Adjacent Elements|[:us:](https://leetcode.com/problems/bitwise-or-of-adjacent-elements) [:cn:](https://leetcode.cn/problems/bitwise-or-of-adjacent-elements)||Easy|
 |:lock: sql |3172|Second Day Verification|[:us:](https://leetcode.com/problems/second-day-verification) [:cn:](https://leetcode.cn/problems/second-day-verification)||Easy|
 |:heavy_check_mark:|3171|Find Subarray With Bitwise OR Closest to K|[:us:](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k) [:cn:](https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k)|[py](/3001-3500/3171.Find%20Subarray%20With%20Bitwise%20OR%20Closest%20to%20K.py)|Hard|
