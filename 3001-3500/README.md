@@ -2,16 +2,34 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|181|27|0|108 (20.00%)|
+|199|31|0|116 (21.09%)|
 
 
 |py|kt|ts|c|
 |:---:|:---:|:---:|:---:|
-|85.2%|7.4%|3.7%|3.7%|
+|87.1%|6.5%|3.2%|3.2%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|3199|Count Triplets with Even XOR Set Bits I|[:us:](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i) [:cn:](https://leetcode.cn/problems/count-triplets-with-even-xor-set-bits-i)||Easy|
+|:lock: sql |3198|Find Cities in Each State|[:us:](https://leetcode.com/problems/find-cities-in-each-state) [:cn:](https://leetcode.cn/problems/find-cities-in-each-state)||Easy|
+||3197|Find the Minimum Area to Cover All Ones II|[:us:](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) [:cn:](https://leetcode.cn/problems/find-the-minimum-area-to-cover-all-ones-ii)||Hard|
+||3196|Maximize Total Cost of Alternating Subarrays|[:us:](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays) [:cn:](https://leetcode.cn/problems/maximize-total-cost-of-alternating-subarrays)||Medium|
+||3195|Find the Minimum Area to Cover All Ones I|[:us:](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) [:cn:](https://leetcode.cn/problems/find-the-minimum-area-to-cover-all-ones-i)||Medium|
+||3194|Minimum Average of Smallest and Largest Elements|[:us:](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) [:cn:](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements)||Easy|
+||3193|Count the Number of Inversions|[:us:](https://leetcode.com/problems/count-the-number-of-inversions) [:cn:](https://leetcode.cn/problems/count-the-number-of-inversions)||Hard|
+||3192|Minimum Operations to Make Binary Array Elements Equal to One II|[:us:](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii)||Medium|
+||3191|Minimum Operations to Make Binary Array Elements Equal to One I|[:us:](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i)||Medium|
+||3190|Find Minimum Operations to Make All Elements Divisible by Three|[:us:](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) [:cn:](https://leetcode.cn/problems/find-minimum-operations-to-make-all-elements-divisible-by-three)||Easy|
+|:lock:|3189|Minimum Moves to Get a Peaceful Board|[:us:](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board) [:cn:](https://leetcode.cn/problems/minimum-moves-to-get-a-peaceful-board)||Medium|
+|:lock: sql |3188|Find Top Scoring Students II|[:us:](https://leetcode.com/problems/find-top-scoring-students-ii) [:cn:](https://leetcode.cn/problems/find-top-scoring-students-ii)||Hard|
+|:heavy_check_mark:|3187|Peaks in Array|[:us:](https://leetcode.com/problems/peaks-in-array) [:cn:](https://leetcode.cn/problems/peaks-in-array)|[py](/3001-3500/3187.Peaks%20in%20Array.py)|Hard|
+|:heavy_check_mark:|3186|Maximum Total Damage With Spell Casting|[:us:](https://leetcode.com/problems/maximum-total-damage-with-spell-casting) [:cn:](https://leetcode.cn/problems/maximum-total-damage-with-spell-casting)|[py](/3001-3500/3186.Maximum%20Total%20Damage%20With%20Spell%20Casting.py)|Medium|
+|:heavy_check_mark:|3185|Count Pairs That Form a Complete Day II|[:us:](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii) [:cn:](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-ii)|[py](/3001-3500/3185.Count%20Pairs%20That%20Form%20a%20Complete%20Day%20II.py)|Medium|
+|:heavy_check_mark:|3184|Count Pairs That Form a Complete Day I|[:us:](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i) [:cn:](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-i)|[py](/3001-3500/3184.Count%20Pairs%20That%20Form%20a%20Complete%20Day%20I.py)|Easy|
+|:lock:|3183|The Number of Ways to Make the Sum|[:us:](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum) [:cn:](https://leetcode.cn/problems/the-number-of-ways-to-make-the-sum)||Medium|
+|:lock: sql |3182|Find Top Scoring Students|[:us:](https://leetcode.com/problems/find-top-scoring-students) [:cn:](https://leetcode.cn/problems/find-top-scoring-students)||Medium|
 |:heavy_check_mark:|3181|Maximum Total Reward Using Operations II|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii)|[py](/3001-3500/3181.Maximum%20Total%20Reward%20Using%20Operations%20II.%28bitset%29.py)|Hard|
 |:heavy_check_mark:|3180|Maximum Total Reward Using Operations I|[:us:](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [:cn:](https://leetcode.cn/problems/maximum-total-reward-using-operations-i)|[py](/3001-3500/3180.Maximum%20Total%20Reward%20Using%20Operations%20I.py)|Medium|
 |:heavy_check_mark:|3179|Find the N-th Value After K Seconds|[:us:](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds) [:cn:](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds)|[py](/3001-3500/3179.Find%20the%20N-th%20Value%20After%20K%20Seconds.py)|Medium|
