@@ -10,12 +10,12 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3593|2141|6|414 (83.23%)|16|
+|3597|2145|6|414 (83.26%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.6%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
+|60.7%|14.0%|10.6%|6.5%|4.3%|2.2%|0.9%|0.8%|0.1%|
 
 |||||||
 |:---|:---|:---|:---|:---|:---|
@@ -28,6 +28,10 @@ Unfortunately, starting from May 2023 GitHub introduced a breaking change to fur
 For a full list, check [full_table.md](others/full_table.md).
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100358|find-the-maximum-length-of-valid-subsequence-ii||[py](/100358.find-the-maximum-length-of-valid-subsequence-ii.py)||
+|:heavy_check_mark:|100357|find-the-maximum-length-of-valid-subsequence-i||[py](/100357.find-the-maximum-length-of-valid-subsequence-i.py)||
+|:heavy_check_mark:|100340|maximum-height-of-a-triangle||[py](/100340.maximum-height-of-a-triangle.py)||
+|:heavy_check_mark:|100318|find-minimum-diameter-after-merging-two-trees||[py](/100318.find-minimum-diameter-after-merging-two-trees.py)||
 |:lock:|3199|Count Triplets with Even XOR Set Bits I|[:us:](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i) [:cn:](https://leetcode.cn/problems/count-triplets-with-even-xor-set-bits-i)||Easy|
 |:lock: sql |3198|Find Cities in Each State|[:us:](https://leetcode.com/problems/find-cities-in-each-state) [:cn:](https://leetcode.cn/problems/find-cities-in-each-state)||Easy|
 ||3197|Find the Minimum Area to Cover All Ones II|[:us:](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) [:cn:](https://leetcode.cn/problems/find-the-minimum-area-to-cover-all-ones-ii)||Hard|
@@ -1024,7 +1028,3 @@ For a full list, check [full_table.md](others/full_table.md).
 |:heavy_check_mark:|2206|Divide Array Into Equal Pairs|[:us:](https://leetcode.com/problems/divide-array-into-equal-pairs) [:cn:](https://leetcode.cn/problems/divide-array-into-equal-pairs)|[ts](/2001-2500/2206.Divide%20Array%20Into%20Equal%20Pairs.ts)|Easy|
 |:lock: sql |2205|The Number of Users That Are Eligible for Discount|[:us:](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount) [:cn:](https://leetcode.cn/problems/the-number-of-users-that-are-eligible-for-discount)||Easy|
 |:lock:|2204|Distance to a Cycle in Undirected Graph|[:us:](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph) [:cn:](https://leetcode.cn/problems/distance-to-a-cycle-in-undirected-graph)||Hard|
-|:heavy_check_mark:|2203|Minimum Weighted Subgraph With the Required Paths|[:us:](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths) [:cn:](https://leetcode.cn/problems/minimum-weighted-subgraph-with-the-required-paths)|[py](/2001-2500/2203.Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.py)|Hard|
-|:heavy_check_mark:|2202|Maximize the Topmost Element After K Moves|[:us:](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves) [:cn:](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves)|[py](/2001-2500/2202.Maximize%20the%20Topmost%20Element%20After%20K%20Moves.py)|Medium|
-|:heavy_check_mark:|2201|Count Artifacts That Can Be Extracted|[:us:](https://leetcode.com/problems/count-artifacts-that-can-be-extracted) [:cn:](https://leetcode.cn/problems/count-artifacts-that-can-be-extracted)|[py](/2001-2500/2201.Count%20Artifacts%20That%20Can%20Be%20Extracted.py)|Medium|
-|:heavy_check_mark:|2200|Find All K-Distant Indices in an Array|[:us:](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) [:cn:](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array)|[ts](/2001-2500/2200.Find%20All%20K-Distant%20Indices%20in%20an%20Array.ts)|Easy|

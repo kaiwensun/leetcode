@@ -9,16 +9,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|3593|2141|6|414 (83.23%)|16|
+|3597|2145|6|414 (83.26%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.6%|14.0%|10.6%|6.5%|4.4%|2.2%|0.9%|0.8%|0.1%|
+|60.7%|14.0%|10.6%|6.5%|4.3%|2.2%|0.9%|0.8%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|100358|find-the-maximum-length-of-valid-subsequence-ii||[py](/100358.find-the-maximum-length-of-valid-subsequence-ii.py)||
+|:heavy_check_mark:|100357|find-the-maximum-length-of-valid-subsequence-i||[py](/100357.find-the-maximum-length-of-valid-subsequence-i.py)||
+|:heavy_check_mark:|100340|maximum-height-of-a-triangle||[py](/100340.maximum-height-of-a-triangle.py)||
+|:heavy_check_mark:|100318|find-minimum-diameter-after-merging-two-trees||[py](/100318.find-minimum-diameter-after-merging-two-trees.py)||
 |:lock:|3199|Count Triplets with Even XOR Set Bits I|[:us:](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i) [:cn:](https://leetcode.cn/problems/count-triplets-with-even-xor-set-bits-i)||Easy|
 |:lock: sql |3198|Find Cities in Each State|[:us:](https://leetcode.com/problems/find-cities-in-each-state) [:cn:](https://leetcode.cn/problems/find-cities-in-each-state)||Easy|
 ||3197|Find the Minimum Area to Cover All Ones II|[:us:](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) [:cn:](https://leetcode.cn/problems/find-the-minimum-area-to-cover-all-ones-ii)||Hard|
