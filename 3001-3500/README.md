@@ -2,16 +2,22 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|199|31|0|116 (21.09%)|
+|205|35|0|116 (23.18%)|
 
 
 |py|kt|ts|c|
 |:---:|:---:|:---:|:---:|
-|87.1%|6.5%|3.2%|3.2%|
+|88.6%|5.7%|2.9%|2.9%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:lock:|3205|Maximum Array Hopping Score I|[:us:](https://leetcode.com/problems/maximum-array-hopping-score-i) [:cn:](https://leetcode.cn/problems/maximum-array-hopping-score-i)||Medium|
+|:lock: sql |3204|Bitwise User Permissions Analysis|[:us:](https://leetcode.com/problems/bitwise-user-permissions-analysis) [:cn:](https://leetcode.cn/problems/bitwise-user-permissions-analysis)||Medium|
+|:heavy_check_mark:|3203|Find Minimum Diameter After Merging Two Trees|[:us:](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) [:cn:](https://leetcode.cn/problems/find-minimum-diameter-after-merging-two-trees)|[py](/3001-3500/3203.Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees.py)|Hard|
+|:heavy_check_mark:|3202|Find the Maximum Length of Valid Subsequence II|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-valid-subsequence-ii)|[py](/3001-3500/3202.Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20II.py)|Medium|
+|:heavy_check_mark:|3201|Find the Maximum Length of Valid Subsequence I|[:us:](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) [:cn:](https://leetcode.cn/problems/find-the-maximum-length-of-valid-subsequence-i)|[py](/3001-3500/3201.Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py)|Medium|
+|:heavy_check_mark:|3200|Maximum Height of a Triangle|[:us:](https://leetcode.com/problems/maximum-height-of-a-triangle) [:cn:](https://leetcode.cn/problems/maximum-height-of-a-triangle)|[py](/3001-3500/3200.Maximum%20Height%20of%20a%20Triangle.py)|Easy|
 |:lock:|3199|Count Triplets with Even XOR Set Bits I|[:us:](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i) [:cn:](https://leetcode.cn/problems/count-triplets-with-even-xor-set-bits-i)||Easy|
 |:lock: sql |3198|Find Cities in Each State|[:us:](https://leetcode.com/problems/find-cities-in-each-state) [:cn:](https://leetcode.cn/problems/find-cities-in-each-state)||Easy|
 ||3197|Find the Minimum Area to Cover All Ones II|[:us:](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) [:cn:](https://leetcode.cn/problems/find-the-minimum-area-to-cover-all-ones-ii)||Hard|
