@@ -185,12 +185,12 @@ class Solution:
     KNOWN_TYPES = {"c", "cpp", "java", "py", "ts", "kt",
                    "rb", "sh", "js", "sql", "php", "txt", "md"}
     KNOWN_CN_GROUPS = {
-        "LCS": re.compile("^LCS \d{2}$"),
-        "LCP": re.compile("^LCP \d{2}$"),
-        "LCR": re.compile("^LCR \d{3}$"),
-        "面试题": re.compile("^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
-        "DD": re.compile("^DD-\d{7}"),
-        "银联": re.compile("^银联-\d{2}$")
+        "LCS": re.compile(r"^LCS \d{2}$"),
+        "LCP": re.compile(r"^LCP \d{2}$"),
+        "LCR": re.compile(r"^LCR \d{3}$"),
+        "面试题": re.compile(r"^面试题\s?\d{2}((\.\d{2})|(\s?-\s?I{1,3}))?$"),
+        "DD": re.compile(r"^DD-\d{7}"),
+        "银联": re.compile(r"^银联-\d{2}$")
     }
     ROOT_PATH = None
     moved_cnt = 0
@@ -224,7 +224,7 @@ class Solution:
     def _parse_basename(self):
         # id.title[.version][.hint].typ
         splited = self._basename.split(".")
-        if len(splited) > 2 and re.match("^面试题 \d{2}$", splited[0]) and re.match("^\d{2}$", splited[1]):
+        if len(splited) > 2 and re.match(r"^面试题 \d{2}$", splited[0]) and re.match(r"^\d{2}$", splited[1]):
             splited[0] += "." + splited[1]
             splited.pop(1)
         if len(splited) > 5:
@@ -686,8 +686,8 @@ def gen_markdown(questions, solutions, title, markdown_type, folder_names=[]):
         if markdown_type == MarkdownType.MAIN_README:
             def gen_markdown_subfolder_table(folder_names):
                 cols = 6
-                us_folders = sorted([name for name in folder_names if re.match("^\d{4}-\d{4}$", name)])
-                cn_folders = sorted([name for name in folder_names if not re.match("^\d{4}-\d{4}$", name)])
+                us_folders = sorted([name for name in folder_names if re.match(r"^\d{4}-\d{4}$", name)])
+                cn_folders = sorted([name for name in folder_names if not re.match(r"^\d{4}-\d{4}$", name)])
                 def gen_markdown_subfolder_table_row(folder_names):
                     links = [f"[{name}]({urllib.parse.quote(name)}/README.md)" for name in folder_names]
                     links.extend([""] * (cols - len(links)))
@@ -947,7 +947,7 @@ def load_resources(client, offline):
         return obj
 
     def list_code_folders():
-        folder_patterns = ["\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联"]
+        folder_patterns = [r"\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联"]
         folder_pattern = "^((" + ")|(".join(folder_patterns) + "))$"
         folder_matcher = re.compile(folder_pattern)
         root_path = get_root_path()
@@ -963,7 +963,7 @@ def load_resources(client, offline):
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            "\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
+            r"\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)
