@@ -862,10 +862,11 @@ def gen_markdown(questions, solutions, title, markdown_type, folder_names=[]):
         if sm == 0:
             return ""
         line1 = line2 = line3 = "|"
-        for lang, lan_cnt in cnt.most_common():
+        sorted_cnt_lang = sorted([(lang_cnt, lang) for lang, lang_cnt in cnt.items()], reverse=True)
+        for lang_cnt, lang in sorted_cnt_lang:
             line1 += lang + "|"
             line2 += ":---:|"
-            line3 += "%.1f%%|" % (lan_cnt * 100 / float(sm))
+            line3 += "%.1f%%|" % (lang_cnt * 100 / float(sm))
         return "\n".join(["", line1, line2, line3, ""])
 
     res = [
