@@ -2,16 +2,20 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|125|0|0|101 (0.00%)|
+|125|4|0|97 (3.96%)|
 
+
+|py|
+|:---:|
+|100.0%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
-||3625|Count Number of Trapezoids II|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-ii) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-ii)||Hard|
-||3624|Number of Integers With Popcount-Depth Equal to K II|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-ii)||Hard|
-||3623|Count Number of Trapezoids I|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-i) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-i)||Medium|
-||3622|Check Divisibility by Digit Sum and Product|[:us:](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) [:cn:](https://leetcode.cn/problems/check-divisibility-by-digit-sum-and-product)||Easy|
+|:heavy_check_mark:|3625|Count Number of Trapezoids II|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-ii) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-ii)|[py](/3501-4000/3625.Count%20Number%20of%20Trapezoids%20II.py)|Hard|
+|:heavy_check_mark:|3624|Number of Integers With Popcount-Depth Equal to K II|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-ii)|[py](/3501-4000/3624.Number%20of%20Integers%20With%20Popcount-Depth%20Equal%20to%20K%20II.py)|Hard|
+|:heavy_check_mark:|3623|Count Number of Trapezoids I|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-i) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-i)|[py](/3501-4000/3623.Count%20Number%20of%20Trapezoids%20I.py)|Medium|
+|:heavy_check_mark:|3622|Check Divisibility by Digit Sum and Product|[:us:](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) [:cn:](https://leetcode.cn/problems/check-divisibility-by-digit-sum-and-product)|[py](/3501-4000/3622.Check%20Divisibility%20by%20Digit%20Sum%20and%20Product.py)|Easy|
 ||3621|Number of Integers With Popcount-Depth Equal to K I|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-i)||Hard|
 ||3620|Network Recovery Pathways|[:us:](https://leetcode.com/problems/network-recovery-pathways) [:cn:](https://leetcode.cn/problems/network-recovery-pathways)||Hard|
 ||3619|Count Islands With Total Value Divisible by K|[:us:](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-islands-with-total-value-divisible-by-k)||Medium|
