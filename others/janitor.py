@@ -11,8 +11,6 @@ import sys
 import json
 import time
 from enum import Enum
-from requests_html import HTMLSession
-import pyppeteer
 import bisect
 
 UNRECOGNIZED_CONTEST_SOLUTIONS = {}
@@ -34,24 +32,17 @@ def get_root_path():
 
 
 class Client:
-    def __init__(self):
-        self.session = HTMLSession()
-
     def getJson(self, url):
         ex = None
-        res = self.session.get(url)
         for _ in range(3):
             try:
-                time.sleep(1)
-                res.html.render()
-                break
-            except (pyppeteer.errors.NetworkError, pyppeteer.errors.TimeoutError) as e:
+                resp = requests.get(url)
+                return resp.json()
+            except Exception as e:
                 print(e)
                 ex = e
         else:
             raise ex
-        text = res.html.find("html")[0].text
-        return json.loads(text)
 
 # ======== Modeling ========
 
@@ -592,6 +583,7 @@ class Topic(GraphQLData):
                                     metadata,
                                     "----",
                                     "{content}"]).format(**param)
+        os.makedirs(os.path.dirname(abs_path), exist_ok=True)
         with open(abs_path, "w", encoding='utf-8') as out:
             out.write(file_content)
             print("[INFO] Generated discussion at %s" % abs_path)
@@ -647,6 +639,7 @@ def update_file(relative_path, content):
     abs_path = os.path.join(root_path, relative_path)
     # if not os.path.isfile(abs_path):
     #     raise Exception("Cannot find file: %s" % abs_path)
+    os.makedirs(os.path.dirname(abs_path), exist_ok=True)
     with open(abs_path, "w", encoding='utf-8') as out:
         out.write(content)
 
@@ -963,7 +956,7 @@ def load_resources(client, offline):
                 solutions.append(Solution(os.path.join(folder, file_name)))
         root_path = get_root_path()
         known_children_patterns = [
-            r"\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联", ".git", ".gitignore", "others", ".DS_Store", README_FILENAME]
+            r"\d{4}-\d{4}", "LCS", "LCP", "LCR", "面试题", "DD", "银联", ".git", ".gitignore", "requirements.txt", ".venv", "others", ".DS_Store", README_FILENAME]
         known_children_pattern = "^((" + \
             ")|(".join(known_children_patterns) + "))$"
         known_children_matcher = re.compile(known_children_pattern)

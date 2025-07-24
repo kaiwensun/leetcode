@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|252|41|0|146 (21.93%)|
+|500|41|0|341 (10.73%)|
 
 
 |py|kt|ts|c|
@@ -12,6 +12,254 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||3500|Minimum Cost to Divide Array Into Subarrays|[:us:](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays) [:cn:](https://leetcode.cn/problems/minimum-cost-to-divide-array-into-subarrays)||Hard|
+||3499|Maximize Active Section with Trade I|[:us:](https://leetcode.com/problems/maximize-active-section-with-trade-i) [:cn:](https://leetcode.cn/problems/maximize-active-section-with-trade-i)||Medium|
+||3498|Reverse Degree of a String|[:us:](https://leetcode.com/problems/reverse-degree-of-a-string) [:cn:](https://leetcode.cn/problems/reverse-degree-of-a-string)||Easy|
+| sql |3497|Analyze Subscription Conversion|[:us:](https://leetcode.com/problems/analyze-subscription-conversion) [:cn:](https://leetcode.cn/problems/analyze-subscription-conversion)||Medium|
+|:lock:|3496|Maximize Score After Pair Deletions|[:us:](https://leetcode.com/problems/maximize-score-after-pair-deletions) [:cn:](https://leetcode.cn/problems/maximize-score-after-pair-deletions)||Medium|
+||3495|Minimum Operations to Make Array Elements Zero|[:us:](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-array-elements-zero)||Hard|
+||3494|Find the Minimum Amount of Time to Brew Potions|[:us:](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions) [:cn:](https://leetcode.cn/problems/find-the-minimum-amount-of-time-to-brew-potions)||Medium|
+||3493|Properties Graph|[:us:](https://leetcode.com/problems/properties-graph) [:cn:](https://leetcode.cn/problems/properties-graph)||Medium|
+||3492|Maximum Containers on a Ship|[:us:](https://leetcode.com/problems/maximum-containers-on-a-ship) [:cn:](https://leetcode.cn/problems/maximum-containers-on-a-ship)||Easy|
+|:lock:|3491|Phone Number Prefix|[:us:](https://leetcode.com/problems/phone-number-prefix) [:cn:](https://leetcode.cn/problems/phone-number-prefix)||Easy|
+||3490|Count Beautiful Numbers|[:us:](https://leetcode.com/problems/count-beautiful-numbers) [:cn:](https://leetcode.cn/problems/count-beautiful-numbers)||Hard|
+||3489|Zero Array Transformation IV|[:us:](https://leetcode.com/problems/zero-array-transformation-iv) [:cn:](https://leetcode.cn/problems/zero-array-transformation-iv)||Medium|
+||3488|Closest Equal Element Queries|[:us:](https://leetcode.com/problems/closest-equal-element-queries) [:cn:](https://leetcode.cn/problems/closest-equal-element-queries)||Medium|
+||3487|Maximum Unique Subarray Sum After Deletion|[:us:](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) [:cn:](https://leetcode.cn/problems/maximum-unique-subarray-sum-after-deletion)||Easy|
+||3486|Longest Special Path II|[:us:](https://leetcode.com/problems/longest-special-path-ii) [:cn:](https://leetcode.cn/problems/longest-special-path-ii)||Hard|
+||3485|Longest Common Prefix of K Strings After Removal|[:us:](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal) [:cn:](https://leetcode.cn/problems/longest-common-prefix-of-k-strings-after-removal)||Hard|
+||3484|Design Spreadsheet|[:us:](https://leetcode.com/problems/design-spreadsheet) [:cn:](https://leetcode.cn/problems/design-spreadsheet)||Medium|
+||3483|Unique 3-Digit Even Numbers|[:us:](https://leetcode.com/problems/unique-3-digit-even-numbers) [:cn:](https://leetcode.cn/problems/unique-3-digit-even-numbers)||Easy|
+| sql |3482|Analyze Organization Hierarchy|[:us:](https://leetcode.com/problems/analyze-organization-hierarchy) [:cn:](https://leetcode.cn/problems/analyze-organization-hierarchy)||Hard|
+|:lock:|3481|Apply Substitutions|[:us:](https://leetcode.com/problems/apply-substitutions) [:cn:](https://leetcode.cn/problems/apply-substitutions)||Medium|
+||3480|Maximize Subarrays After Removing One Conflicting Pair|[:us:](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) [:cn:](https://leetcode.cn/problems/maximize-subarrays-after-removing-one-conflicting-pair)||Hard|
+||3479|Fruits Into Baskets III|[:us:](https://leetcode.com/problems/fruits-into-baskets-iii) [:cn:](https://leetcode.cn/problems/fruits-into-baskets-iii)||Medium|
+||3478|Choose K Elements With Maximum Sum|[:us:](https://leetcode.com/problems/choose-k-elements-with-maximum-sum) [:cn:](https://leetcode.cn/problems/choose-k-elements-with-maximum-sum)||Medium|
+||3477|Fruits Into Baskets II|[:us:](https://leetcode.com/problems/fruits-into-baskets-ii) [:cn:](https://leetcode.cn/problems/fruits-into-baskets-ii)||Easy|
+|:lock:|3476|Maximize Profit from Task Assignment|[:us:](https://leetcode.com/problems/maximize-profit-from-task-assignment) [:cn:](https://leetcode.cn/problems/maximize-profit-from-task-assignment)||Medium|
+| sql |3475|DNA Pattern Recognition|[:us:](https://leetcode.com/problems/dna-pattern-recognition) [:cn:](https://leetcode.cn/problems/dna-pattern-recognition)||Medium|
+||3474|Lexicographically Smallest Generated String|[:us:](https://leetcode.com/problems/lexicographically-smallest-generated-string) [:cn:](https://leetcode.cn/problems/lexicographically-smallest-generated-string)||Hard|
+||3473|Sum of K Subarrays With Length at Least M|[:us:](https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m) [:cn:](https://leetcode.cn/problems/sum-of-k-subarrays-with-length-at-least-m)||Medium|
+||3472|Longest Palindromic Subsequence After at Most K Operations|[:us:](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations) [:cn:](https://leetcode.cn/problems/longest-palindromic-subsequence-after-at-most-k-operations)||Medium|
+||3471|Find the Largest Almost Missing Integer|[:us:](https://leetcode.com/problems/find-the-largest-almost-missing-integer) [:cn:](https://leetcode.cn/problems/find-the-largest-almost-missing-integer)||Easy|
+||3470|Permutations IV|[:us:](https://leetcode.com/problems/permutations-iv) [:cn:](https://leetcode.cn/problems/permutations-iv)||Hard|
+||3469|Find Minimum Cost to Remove Array Elements|[:us:](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements) [:cn:](https://leetcode.cn/problems/find-minimum-cost-to-remove-array-elements)||Medium|
+||3468|Find the Number of Copy Arrays|[:us:](https://leetcode.com/problems/find-the-number-of-copy-arrays) [:cn:](https://leetcode.cn/problems/find-the-number-of-copy-arrays)||Medium|
+||3467|Transform Array by Parity|[:us:](https://leetcode.com/problems/transform-array-by-parity) [:cn:](https://leetcode.cn/problems/transform-array-by-parity)||Easy|
+|:lock:|3466|Maximum Coin Collection|[:us:](https://leetcode.com/problems/maximum-coin-collection) [:cn:](https://leetcode.cn/problems/maximum-coin-collection)||Medium|
+| sql |3465|Find Products with Valid Serial Numbers|[:us:](https://leetcode.com/problems/find-products-with-valid-serial-numbers) [:cn:](https://leetcode.cn/problems/find-products-with-valid-serial-numbers)||Easy|
+||3464|Maximize the Distance Between Points on a Square|[:us:](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square) [:cn:](https://leetcode.cn/problems/maximize-the-distance-between-points-on-a-square)||Hard|
+||3463|Check If Digits Are Equal in String After Operations II|[:us:](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii) [:cn:](https://leetcode.cn/problems/check-if-digits-are-equal-in-string-after-operations-ii)||Hard|
+||3462|Maximum Sum With at Most K Elements|[:us:](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements) [:cn:](https://leetcode.cn/problems/maximum-sum-with-at-most-k-elements)||Medium|
+||3461|Check If Digits Are Equal in String After Operations I|[:us:](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) [:cn:](https://leetcode.cn/problems/check-if-digits-are-equal-in-string-after-operations-i)||Easy|
+|:lock:|3460|Longest Common Prefix After at Most One Removal|[:us:](https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal) [:cn:](https://leetcode.cn/problems/longest-common-prefix-after-at-most-one-removal)||Medium|
+||3459|Length of Longest V-Shaped Diagonal Segment|[:us:](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment) [:cn:](https://leetcode.cn/problems/length-of-longest-v-shaped-diagonal-segment)||Hard|
+||3458|Select K Disjoint Special Substrings|[:us:](https://leetcode.com/problems/select-k-disjoint-special-substrings) [:cn:](https://leetcode.cn/problems/select-k-disjoint-special-substrings)||Medium|
+||3457|Eat Pizzas!|[:us:](https://leetcode.com/problems/eat-pizzas) [:cn:](https://leetcode.cn/problems/eat-pizzas)||Medium|
+||3456|Find Special Substring of Length K|[:us:](https://leetcode.com/problems/find-special-substring-of-length-k) [:cn:](https://leetcode.cn/problems/find-special-substring-of-length-k)||Easy|
+||3455|Shortest Matching Substring|[:us:](https://leetcode.com/problems/shortest-matching-substring) [:cn:](https://leetcode.cn/problems/shortest-matching-substring)||Hard|
+||3454|Separate Squares II|[:us:](https://leetcode.com/problems/separate-squares-ii) [:cn:](https://leetcode.cn/problems/separate-squares-ii)||Hard|
+||3453|Separate Squares I|[:us:](https://leetcode.com/problems/separate-squares-i) [:cn:](https://leetcode.cn/problems/separate-squares-i)||Medium|
+||3452|Sum of Good Numbers|[:us:](https://leetcode.com/problems/sum-of-good-numbers) [:cn:](https://leetcode.cn/problems/sum-of-good-numbers)||Easy|
+| sql |3451|Find Invalid IP Addresses|[:us:](https://leetcode.com/problems/find-invalid-ip-addresses) [:cn:](https://leetcode.cn/problems/find-invalid-ip-addresses)||Hard|
+|:lock:|3450|Maximum Students on a Single Bench|[:us:](https://leetcode.com/problems/maximum-students-on-a-single-bench) [:cn:](https://leetcode.cn/problems/maximum-students-on-a-single-bench)||Easy|
+||3449|Maximize the Minimum Game Score|[:us:](https://leetcode.com/problems/maximize-the-minimum-game-score) [:cn:](https://leetcode.cn/problems/maximize-the-minimum-game-score)||Hard|
+||3448|Count Substrings Divisible By Last Digit|[:us:](https://leetcode.com/problems/count-substrings-divisible-by-last-digit) [:cn:](https://leetcode.cn/problems/count-substrings-divisible-by-last-digit)||Hard|
+||3447|Assign Elements to Groups with Constraints|[:us:](https://leetcode.com/problems/assign-elements-to-groups-with-constraints) [:cn:](https://leetcode.cn/problems/assign-elements-to-groups-with-constraints)||Medium|
+||3446|Sort Matrix by Diagonals|[:us:](https://leetcode.com/problems/sort-matrix-by-diagonals) [:cn:](https://leetcode.cn/problems/sort-matrix-by-diagonals)||Medium|
+||3445|Maximum Difference Between Even and Odd Frequency II|[:us:](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) [:cn:](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-ii)||Hard|
+||3444|Minimum Increments for Target Multiples in an Array|[:us:](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array) [:cn:](https://leetcode.cn/problems/minimum-increments-for-target-multiples-in-an-array)||Hard|
+||3443|Maximum Manhattan Distance After K Changes|[:us:](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes) [:cn:](https://leetcode.cn/problems/maximum-manhattan-distance-after-k-changes)||Medium|
+||3442|Maximum Difference Between Even and Odd Frequency I|[:us:](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) [:cn:](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-i)||Easy|
+||3441|Minimum Cost Good Caption|[:us:](https://leetcode.com/problems/minimum-cost-good-caption) [:cn:](https://leetcode.cn/problems/minimum-cost-good-caption)||Hard|
+||3440|Reschedule Meetings for Maximum Free Time II|[:us:](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii) [:cn:](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-ii)||Medium|
+||3439|Reschedule Meetings for Maximum Free Time I|[:us:](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i) [:cn:](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i)||Medium|
+||3438|Find Valid Pair of Adjacent Digits in String|[:us:](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) [:cn:](https://leetcode.cn/problems/find-valid-pair-of-adjacent-digits-in-string)||Easy|
+|:lock:|3437|Permutations III|[:us:](https://leetcode.com/problems/permutations-iii) [:cn:](https://leetcode.cn/problems/permutations-iii)||Medium|
+| sql |3436|Find Valid Emails|[:us:](https://leetcode.com/problems/find-valid-emails) [:cn:](https://leetcode.cn/problems/find-valid-emails)||Easy|
+||3435|Frequencies of Shortest Supersequences|[:us:](https://leetcode.com/problems/frequencies-of-shortest-supersequences) [:cn:](https://leetcode.cn/problems/frequencies-of-shortest-supersequences)||Hard|
+||3434|Maximum Frequency After Subarray Operation|[:us:](https://leetcode.com/problems/maximum-frequency-after-subarray-operation) [:cn:](https://leetcode.cn/problems/maximum-frequency-after-subarray-operation)||Medium|
+||3433|Count Mentions Per User|[:us:](https://leetcode.com/problems/count-mentions-per-user) [:cn:](https://leetcode.cn/problems/count-mentions-per-user)||Medium|
+||3432|Count Partitions with Even Sum Difference|[:us:](https://leetcode.com/problems/count-partitions-with-even-sum-difference) [:cn:](https://leetcode.cn/problems/count-partitions-with-even-sum-difference)||Easy|
+|:lock:|3431|Minimum Unlocked Indices to Sort Nums|[:us:](https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums) [:cn:](https://leetcode.cn/problems/minimum-unlocked-indices-to-sort-nums)||Medium|
+||3430|Maximum and Minimum Sums of at Most Size K Subarrays|[:us:](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays) [:cn:](https://leetcode.cn/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays)||Hard|
+||3429|Paint House IV|[:us:](https://leetcode.com/problems/paint-house-iv) [:cn:](https://leetcode.cn/problems/paint-house-iv)||Medium|
+||3428|Maximum and Minimum Sums of at Most Size K Subsequences|[:us:](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences) [:cn:](https://leetcode.cn/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences)||Medium|
+||3427|Sum of Variable Length Subarrays|[:us:](https://leetcode.com/problems/sum-of-variable-length-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-variable-length-subarrays)||Easy|
+||3426|Manhattan Distances of All Arrangements of Pieces|[:us:](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces) [:cn:](https://leetcode.cn/problems/manhattan-distances-of-all-arrangements-of-pieces)||Hard|
+||3425|Longest Special Path|[:us:](https://leetcode.com/problems/longest-special-path) [:cn:](https://leetcode.cn/problems/longest-special-path)||Hard|
+||3424|Minimum Cost to Make Arrays Identical|[:us:](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical) [:cn:](https://leetcode.cn/problems/minimum-cost-to-make-arrays-identical)||Medium|
+||3423|Maximum Difference Between Adjacent Elements in a Circular Array|[:us:](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) [:cn:](https://leetcode.cn/problems/maximum-difference-between-adjacent-elements-in-a-circular-array)||Easy|
+|:lock:|3422|Minimum Operations to Make Subarray Elements Equal|[:us:](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-subarray-elements-equal)||Medium|
+| sql |3421|Find Students Who Improved|[:us:](https://leetcode.com/problems/find-students-who-improved) [:cn:](https://leetcode.cn/problems/find-students-who-improved)||Medium|
+||3420|Count Non-Decreasing Subarrays After K Operations|[:us:](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) [:cn:](https://leetcode.cn/problems/count-non-decreasing-subarrays-after-k-operations)||Hard|
+||3419|Minimize the Maximum Edge Weight of Graph|[:us:](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-edge-weight-of-graph)||Medium|
+||3418|Maximum Amount of Money Robot Can Earn|[:us:](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn) [:cn:](https://leetcode.cn/problems/maximum-amount-of-money-robot-can-earn)||Medium|
+||3417|Zigzag Grid Traversal With Skip|[:us:](https://leetcode.com/problems/zigzag-grid-traversal-with-skip) [:cn:](https://leetcode.cn/problems/zigzag-grid-traversal-with-skip)||Easy|
+|:lock:|3416|Subsequences with a Unique Middle Mode II|[:us:](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii) [:cn:](https://leetcode.cn/problems/subsequences-with-a-unique-middle-mode-ii)||Hard|
+|:lock: sql |3415|Find Products with Three Consecutive Digits|[:us:](https://leetcode.com/problems/find-products-with-three-consecutive-digits) [:cn:](https://leetcode.cn/problems/find-products-with-three-consecutive-digits)||Easy|
+||3414|Maximum Score of Non-overlapping Intervals|[:us:](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) [:cn:](https://leetcode.cn/problems/maximum-score-of-non-overlapping-intervals)||Hard|
+||3413|Maximum Coins From K Consecutive Bags|[:us:](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags) [:cn:](https://leetcode.cn/problems/maximum-coins-from-k-consecutive-bags)||Medium|
+||3412|Find Mirror Score of a String|[:us:](https://leetcode.com/problems/find-mirror-score-of-a-string) [:cn:](https://leetcode.cn/problems/find-mirror-score-of-a-string)||Medium|
+||3411|Maximum Subarray With Equal Products|[:us:](https://leetcode.com/problems/maximum-subarray-with-equal-products) [:cn:](https://leetcode.cn/problems/maximum-subarray-with-equal-products)||Easy|
+||3410|Maximize Subarray Sum After Removing All Occurrences of One Element|[:us:](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element) [:cn:](https://leetcode.cn/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element)||Hard|
+||3409|Longest Subsequence With Decreasing Adjacent Difference|[:us:](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference) [:cn:](https://leetcode.cn/problems/longest-subsequence-with-decreasing-adjacent-difference)||Medium|
+||3408|Design Task Manager|[:us:](https://leetcode.com/problems/design-task-manager) [:cn:](https://leetcode.cn/problems/design-task-manager)||Medium|
+||3407|Substring Matching Pattern|[:us:](https://leetcode.com/problems/substring-matching-pattern) [:cn:](https://leetcode.cn/problems/substring-matching-pattern)||Easy|
+|:lock:|3406|Find the Lexicographically Largest String From the Box II|[:us:](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii) [:cn:](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-ii)||Hard|
+||3405|Count the Number of Arrays with K Matching Adjacent Elements|[:us:](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) [:cn:](https://leetcode.cn/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements)||Hard|
+||3404|Count Special Subsequences|[:us:](https://leetcode.com/problems/count-special-subsequences) [:cn:](https://leetcode.cn/problems/count-special-subsequences)||Medium|
+||3403|Find the Lexicographically Largest String From the Box I|[:us:](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) [:cn:](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i)||Medium|
+||3402|Minimum Operations to Make Columns Strictly Increasing|[:us:](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-columns-strictly-increasing)||Easy|
+|:lock: sql |3401|Find Circular Gift Exchange Chains|[:us:](https://leetcode.com/problems/find-circular-gift-exchange-chains) [:cn:](https://leetcode.cn/problems/find-circular-gift-exchange-chains)||Hard|
+|:lock:|3400|Maximum Number of Matching Indices After Right Shifts|[:us:](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts) [:cn:](https://leetcode.cn/problems/maximum-number-of-matching-indices-after-right-shifts)||Medium|
+||3399|Smallest Substring With Identical Characters II|[:us:](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii) [:cn:](https://leetcode.cn/problems/smallest-substring-with-identical-characters-ii)||Hard|
+||3398|Smallest Substring With Identical Characters I|[:us:](https://leetcode.com/problems/smallest-substring-with-identical-characters-i) [:cn:](https://leetcode.cn/problems/smallest-substring-with-identical-characters-i)||Hard|
+||3397|Maximum Number of Distinct Elements After Operations|[:us:](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations) [:cn:](https://leetcode.cn/problems/maximum-number-of-distinct-elements-after-operations)||Medium|
+||3396|Minimum Number of Operations to Make Elements in Array Distinct|[:us:](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) [:cn:](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)||Easy|
+||3395|Subsequences with a Unique Middle Mode I|[:us:](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i) [:cn:](https://leetcode.cn/problems/subsequences-with-a-unique-middle-mode-i)||Hard|
+||3394|Check if Grid can be Cut into Sections|[:us:](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) [:cn:](https://leetcode.cn/problems/check-if-grid-can-be-cut-into-sections)||Medium|
+||3393|Count Paths With the Given XOR Value|[:us:](https://leetcode.com/problems/count-paths-with-the-given-xor-value) [:cn:](https://leetcode.cn/problems/count-paths-with-the-given-xor-value)||Medium|
+||3392|Count Subarrays of Length Three With a Condition|[:us:](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) [:cn:](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition)||Easy|
+|:lock:|3391|Design a 3D Binary Matrix with Efficient Layer Tracking|[:us:](https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking) [:cn:](https://leetcode.cn/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking)||Medium|
+|:lock: sql |3390|Longest Team Pass Streak|[:us:](https://leetcode.com/problems/longest-team-pass-streak) [:cn:](https://leetcode.cn/problems/longest-team-pass-streak)||Hard|
+||3389|Minimum Operations to Make Character Frequencies Equal|[:us:](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-character-frequencies-equal)||Hard|
+||3388|Count Beautiful Splits in an Array|[:us:](https://leetcode.com/problems/count-beautiful-splits-in-an-array) [:cn:](https://leetcode.cn/problems/count-beautiful-splits-in-an-array)||Medium|
+||3387|Maximize Amount After Two Days of Conversions|[:us:](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions) [:cn:](https://leetcode.cn/problems/maximize-amount-after-two-days-of-conversions)||Medium|
+||3386|Button with Longest Push Time|[:us:](https://leetcode.com/problems/button-with-longest-push-time) [:cn:](https://leetcode.cn/problems/button-with-longest-push-time)||Easy|
+|:lock:|3385|Minimum Time to Break Locks II|[:us:](https://leetcode.com/problems/minimum-time-to-break-locks-ii) [:cn:](https://leetcode.cn/problems/minimum-time-to-break-locks-ii)||Hard|
+|:lock: sql |3384|Team Dominance by Pass Success|[:us:](https://leetcode.com/problems/team-dominance-by-pass-success) [:cn:](https://leetcode.cn/problems/team-dominance-by-pass-success)||Hard|
+|:lock:|3383|Minimum Runes to Add to Cast Spell|[:us:](https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell) [:cn:](https://leetcode.cn/problems/minimum-runes-to-add-to-cast-spell)||Hard|
+||3382|Maximum Area Rectangle With Point Constraints II|[:us:](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii) [:cn:](https://leetcode.cn/problems/maximum-area-rectangle-with-point-constraints-ii)||Hard|
+||3381|Maximum Subarray Sum With Length Divisible by K|[:us:](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k) [:cn:](https://leetcode.cn/problems/maximum-subarray-sum-with-length-divisible-by-k)||Medium|
+||3380|Maximum Area Rectangle With Point Constraints I|[:us:](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i) [:cn:](https://leetcode.cn/problems/maximum-area-rectangle-with-point-constraints-i)||Medium|
+||3379|Transformed Array|[:us:](https://leetcode.com/problems/transformed-array) [:cn:](https://leetcode.cn/problems/transformed-array)||Easy|
+||3378|Count Connected Components in LCM Graph|[:us:](https://leetcode.com/problems/count-connected-components-in-lcm-graph) [:cn:](https://leetcode.cn/problems/count-connected-components-in-lcm-graph)||Hard|
+||3377|Digit Operations to Make Two Integers Equal|[:us:](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal) [:cn:](https://leetcode.cn/problems/digit-operations-to-make-two-integers-equal)||Medium|
+||3376|Minimum Time to Break Locks I|[:us:](https://leetcode.com/problems/minimum-time-to-break-locks-i) [:cn:](https://leetcode.cn/problems/minimum-time-to-break-locks-i)||Medium|
+||3375|Minimum Operations to Make Array Values Equal to K|[:us:](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) [:cn:](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k)||Easy|
+| sql |3374|First Letter Capitalization II|[:us:](https://leetcode.com/problems/first-letter-capitalization-ii) [:cn:](https://leetcode.cn/problems/first-letter-capitalization-ii)||Hard|
+||3373|Maximize the Number of Target Nodes After Connecting Trees II|[:us:](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii)||Hard|
+||3372|Maximize the Number of Target Nodes After Connecting Trees I|[:us:](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) [:cn:](https://leetcode.cn/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i)||Medium|
+||3371|Identify the Largest Outlier in an Array|[:us:](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array) [:cn:](https://leetcode.cn/problems/identify-the-largest-outlier-in-an-array)||Medium|
+||3370|Smallest Number With All Set Bits|[:us:](https://leetcode.com/problems/smallest-number-with-all-set-bits) [:cn:](https://leetcode.cn/problems/smallest-number-with-all-set-bits)||Easy|
+|:lock:|3369|Design an Array Statistics Tracker|[:us:](https://leetcode.com/problems/design-an-array-statistics-tracker) [:cn:](https://leetcode.cn/problems/design-an-array-statistics-tracker)||Hard|
+|:lock: sql |3368|First Letter Capitalization|[:us:](https://leetcode.com/problems/first-letter-capitalization) [:cn:](https://leetcode.cn/problems/first-letter-capitalization)||Hard|
+||3367|Maximize Sum of Weights after Edge Removals|[:us:](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals) [:cn:](https://leetcode.cn/problems/maximize-sum-of-weights-after-edge-removals)||Hard|
+||3366|Minimum Array Sum|[:us:](https://leetcode.com/problems/minimum-array-sum) [:cn:](https://leetcode.cn/problems/minimum-array-sum)||Medium|
+||3365|Rearrange K Substrings to Form Target String|[:us:](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string) [:cn:](https://leetcode.cn/problems/rearrange-k-substrings-to-form-target-string)||Medium|
+||3364|Minimum Positive Sum Subarray|[:us:](https://leetcode.com/problems/minimum-positive-sum-subarray) [:cn:](https://leetcode.cn/problems/minimum-positive-sum-subarray)||Easy|
+||3363|Find the Maximum Number of Fruits Collected|[:us:](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected) [:cn:](https://leetcode.cn/problems/find-the-maximum-number-of-fruits-collected)||Hard|
+||3362|Zero Array Transformation III|[:us:](https://leetcode.com/problems/zero-array-transformation-iii) [:cn:](https://leetcode.cn/problems/zero-array-transformation-iii)||Medium|
+||3361|Shift Distance Between Two Strings|[:us:](https://leetcode.com/problems/shift-distance-between-two-strings) [:cn:](https://leetcode.cn/problems/shift-distance-between-two-strings)||Medium|
+||3360|Stone Removal Game|[:us:](https://leetcode.com/problems/stone-removal-game) [:cn:](https://leetcode.cn/problems/stone-removal-game)||Easy|
+|:lock:|3359|Find Sorted Submatrices With Maximum Element at Most K|[:us:](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k) [:cn:](https://leetcode.cn/problems/find-sorted-submatrices-with-maximum-element-at-most-k)||Hard|
+|:lock: sql |3358|Books with NULL Ratings|[:us:](https://leetcode.com/problems/books-with-null-ratings) [:cn:](https://leetcode.cn/problems/books-with-null-ratings)||Easy|
+||3357|Minimize the Maximum Adjacent Element Difference|[:us:](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference) [:cn:](https://leetcode.cn/problems/minimize-the-maximum-adjacent-element-difference)||Hard|
+||3356|Zero Array Transformation II|[:us:](https://leetcode.com/problems/zero-array-transformation-ii) [:cn:](https://leetcode.cn/problems/zero-array-transformation-ii)||Medium|
+||3355|Zero Array Transformation I|[:us:](https://leetcode.com/problems/zero-array-transformation-i) [:cn:](https://leetcode.cn/problems/zero-array-transformation-i)||Medium|
+||3354|Make Array Elements Equal to Zero|[:us:](https://leetcode.com/problems/make-array-elements-equal-to-zero) [:cn:](https://leetcode.cn/problems/make-array-elements-equal-to-zero)||Easy|
+|:lock:|3353|Minimum Total Operations|[:us:](https://leetcode.com/problems/minimum-total-operations) [:cn:](https://leetcode.cn/problems/minimum-total-operations)||Easy|
+||3352|Count K-Reducible Numbers Less Than N|[:us:](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n) [:cn:](https://leetcode.cn/problems/count-k-reducible-numbers-less-than-n)||Hard|
+||3351|Sum of Good Subsequences|[:us:](https://leetcode.com/problems/sum-of-good-subsequences) [:cn:](https://leetcode.cn/problems/sum-of-good-subsequences)||Hard|
+||3350|Adjacent Increasing Subarrays Detection II|[:us:](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii) [:cn:](https://leetcode.cn/problems/adjacent-increasing-subarrays-detection-ii)||Medium|
+||3349|Adjacent Increasing Subarrays Detection I|[:us:](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i) [:cn:](https://leetcode.cn/problems/adjacent-increasing-subarrays-detection-i)||Easy|
+||3348|Smallest Divisible Digit Product II|[:us:](https://leetcode.com/problems/smallest-divisible-digit-product-ii) [:cn:](https://leetcode.cn/problems/smallest-divisible-digit-product-ii)||Hard|
+||3347|Maximum Frequency of an Element After Performing Operations II|[:us:](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii) [:cn:](https://leetcode.cn/problems/maximum-frequency-of-an-element-after-performing-operations-ii)||Hard|
+||3346|Maximum Frequency of an Element After Performing Operations I|[:us:](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i) [:cn:](https://leetcode.cn/problems/maximum-frequency-of-an-element-after-performing-operations-i)||Medium|
+||3345|Smallest Divisible Digit Product I|[:us:](https://leetcode.com/problems/smallest-divisible-digit-product-i) [:cn:](https://leetcode.cn/problems/smallest-divisible-digit-product-i)||Easy|
+|:lock:|3344|Maximum Sized Array|[:us:](https://leetcode.com/problems/maximum-sized-array) [:cn:](https://leetcode.cn/problems/maximum-sized-array)||Medium|
+||3343|Count Number of Balanced Permutations|[:us:](https://leetcode.com/problems/count-number-of-balanced-permutations) [:cn:](https://leetcode.cn/problems/count-number-of-balanced-permutations)||Hard|
+||3342|Find Minimum Time to Reach Last Room II|[:us:](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) [:cn:](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-ii)||Medium|
+||3341|Find Minimum Time to Reach Last Room I|[:us:](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) [:cn:](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-i)||Medium|
+||3340|Check Balanced String|[:us:](https://leetcode.com/problems/check-balanced-string) [:cn:](https://leetcode.cn/problems/check-balanced-string)||Easy|
+|:lock:|3339|Find the Number of K-Even Arrays|[:us:](https://leetcode.com/problems/find-the-number-of-k-even-arrays) [:cn:](https://leetcode.cn/problems/find-the-number-of-k-even-arrays)||Medium|
+|:lock: sql |3338|Second Highest Salary II|[:us:](https://leetcode.com/problems/second-highest-salary-ii) [:cn:](https://leetcode.cn/problems/second-highest-salary-ii)||Medium|
+||3337|Total Characters in String After Transformations II|[:us:](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii) [:cn:](https://leetcode.cn/problems/total-characters-in-string-after-transformations-ii)||Hard|
+||3336|Find the Number of Subsequences With Equal GCD|[:us:](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) [:cn:](https://leetcode.cn/problems/find-the-number-of-subsequences-with-equal-gcd)||Hard|
+||3335|Total Characters in String After Transformations I|[:us:](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) [:cn:](https://leetcode.cn/problems/total-characters-in-string-after-transformations-i)||Medium|
+||3334|Find the Maximum Factor Score of Array|[:us:](https://leetcode.com/problems/find-the-maximum-factor-score-of-array) [:cn:](https://leetcode.cn/problems/find-the-maximum-factor-score-of-array)||Medium|
+||3333|Find the Original Typed String II|[:us:](https://leetcode.com/problems/find-the-original-typed-string-ii) [:cn:](https://leetcode.cn/problems/find-the-original-typed-string-ii)||Hard|
+||3332|Maximum Points Tourist Can Earn|[:us:](https://leetcode.com/problems/maximum-points-tourist-can-earn) [:cn:](https://leetcode.cn/problems/maximum-points-tourist-can-earn)||Medium|
+||3331|Find Subtree Sizes After Changes|[:us:](https://leetcode.com/problems/find-subtree-sizes-after-changes) [:cn:](https://leetcode.cn/problems/find-subtree-sizes-after-changes)||Medium|
+||3330|Find the Original Typed String I|[:us:](https://leetcode.com/problems/find-the-original-typed-string-i) [:cn:](https://leetcode.cn/problems/find-the-original-typed-string-i)||Easy|
+|:lock:|3329|Count Substrings With K-Frequency Characters II|[:us:](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii) [:cn:](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-ii)||Hard|
+|:lock: sql |3328|Find Cities in Each State II|[:us:](https://leetcode.com/problems/find-cities-in-each-state-ii) [:cn:](https://leetcode.cn/problems/find-cities-in-each-state-ii)||Medium|
+||3327|Check if DFS Strings Are Palindromes|[:us:](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes) [:cn:](https://leetcode.cn/problems/check-if-dfs-strings-are-palindromes)||Hard|
+||3326|Minimum Division Operations to Make Array Non Decreasing|[:us:](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing) [:cn:](https://leetcode.cn/problems/minimum-division-operations-to-make-array-non-decreasing)||Medium|
+||3325|Count Substrings With K-Frequency Characters I|[:us:](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i) [:cn:](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-i)||Medium|
+||3324|Find the Sequence of Strings Appeared on the Screen|[:us:](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen) [:cn:](https://leetcode.cn/problems/find-the-sequence-of-strings-appeared-on-the-screen)||Medium|
+|:lock:|3323|Minimize Connected Groups by Inserting Interval|[:us:](https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval) [:cn:](https://leetcode.cn/problems/minimize-connected-groups-by-inserting-interval)||Medium|
+|:lock: sql |3322|Premier League Table Ranking III|[:us:](https://leetcode.com/problems/premier-league-table-ranking-iii) [:cn:](https://leetcode.cn/problems/premier-league-table-ranking-iii)||Medium|
+||3321|Find X-Sum of All K-Long Subarrays II|[:us:](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii) [:cn:](https://leetcode.cn/problems/find-x-sum-of-all-k-long-subarrays-ii)||Hard|
+||3320|Count The Number of Winning Sequences|[:us:](https://leetcode.com/problems/count-the-number-of-winning-sequences) [:cn:](https://leetcode.cn/problems/count-the-number-of-winning-sequences)||Hard|
+||3319|K-th Largest Perfect Subtree Size in Binary Tree|[:us:](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree) [:cn:](https://leetcode.cn/problems/k-th-largest-perfect-subtree-size-in-binary-tree)||Medium|
+||3318|Find X-Sum of All K-Long Subarrays I|[:us:](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) [:cn:](https://leetcode.cn/problems/find-x-sum-of-all-k-long-subarrays-i)||Easy|
+||3317|Find the Number of Possible Ways for an Event|[:us:](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event) [:cn:](https://leetcode.cn/problems/find-the-number-of-possible-ways-for-an-event)||Hard|
+||3316|Find Maximum Removals From Source String|[:us:](https://leetcode.com/problems/find-maximum-removals-from-source-string) [:cn:](https://leetcode.cn/problems/find-maximum-removals-from-source-string)||Medium|
+||3315|Construct the Minimum Bitwise Array II|[:us:](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii) [:cn:](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-ii)||Medium|
+||3314|Construct the Minimum Bitwise Array I|[:us:](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i) [:cn:](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-i)||Easy|
+|:lock:|3313|Find the Last Marked Nodes in Tree|[:us:](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree) [:cn:](https://leetcode.cn/problems/find-the-last-marked-nodes-in-tree)||Hard|
+||3312|Sorted GCD Pair Queries|[:us:](https://leetcode.com/problems/sorted-gcd-pair-queries) [:cn:](https://leetcode.cn/problems/sorted-gcd-pair-queries)||Hard|
+||3311|Construct 2D Grid Matching Graph Layout|[:us:](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout) [:cn:](https://leetcode.cn/problems/construct-2d-grid-matching-graph-layout)||Hard|
+||3310|Remove Methods From Project|[:us:](https://leetcode.com/problems/remove-methods-from-project) [:cn:](https://leetcode.cn/problems/remove-methods-from-project)||Medium|
+||3309|Maximum Possible Number by Binary Concatenation|[:us:](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation) [:cn:](https://leetcode.cn/problems/maximum-possible-number-by-binary-concatenation)||Medium|
+|:lock: sql |3308|Find Top Performing Driver|[:us:](https://leetcode.com/problems/find-top-performing-driver) [:cn:](https://leetcode.cn/problems/find-top-performing-driver)||Medium|
+||3307|Find the K-th Character in String Game II|[:us:](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii) [:cn:](https://leetcode.cn/problems/find-the-k-th-character-in-string-game-ii)||Hard|
+||3306|Count of Substrings Containing Every Vowel and K Consonants II|[:us:](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) [:cn:](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii)||Medium|
+||3305|Count of Substrings Containing Every Vowel and K Consonants I|[:us:](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i) [:cn:](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i)||Medium|
+||3304|Find the K-th Character in String Game I|[:us:](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) [:cn:](https://leetcode.cn/problems/find-the-k-th-character-in-string-game-i)||Easy|
+||3303|Find the Occurrence of First Almost Equal Substring|[:us:](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring) [:cn:](https://leetcode.cn/problems/find-the-occurrence-of-first-almost-equal-substring)||Hard|
+||3302|Find the Lexicographically Smallest Valid Sequence|[:us:](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) [:cn:](https://leetcode.cn/problems/find-the-lexicographically-smallest-valid-sequence)||Medium|
+||3301|Maximize the Total Height of Unique Towers|[:us:](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers) [:cn:](https://leetcode.cn/problems/maximize-the-total-height-of-unique-towers)||Medium|
+||3300|Minimum Element After Replacement With Digit Sum|[:us:](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) [:cn:](https://leetcode.cn/problems/minimum-element-after-replacement-with-digit-sum)||Easy|
+|:lock:|3299|Sum of Consecutive Subsequences|[:us:](https://leetcode.com/problems/sum-of-consecutive-subsequences) [:cn:](https://leetcode.cn/problems/sum-of-consecutive-subsequences)||Hard|
+||3298|Count Substrings That Can Be Rearranged to Contain a String II|[:us:](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii) [:cn:](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii)||Hard|
+||3297|Count Substrings That Can Be Rearranged to Contain a String I|[:us:](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i) [:cn:](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i)||Medium|
+||3296|Minimum Number of Seconds to Make Mountain Height Zero|[:us:](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) [:cn:](https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero)||Medium|
+||3295|Report Spam Message|[:us:](https://leetcode.com/problems/report-spam-message) [:cn:](https://leetcode.cn/problems/report-spam-message)||Medium|
+|:lock:|3294|Convert Doubly Linked List to Array II|[:us:](https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii) [:cn:](https://leetcode.cn/problems/convert-doubly-linked-list-to-array-ii)||Medium|
+|:lock: sql |3293|Calculate Product Final Price|[:us:](https://leetcode.com/problems/calculate-product-final-price) [:cn:](https://leetcode.cn/problems/calculate-product-final-price)||Medium|
+||3292|Minimum Number of Valid Strings to Form Target II|[:us:](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii) [:cn:](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii)||Hard|
+||3291|Minimum Number of Valid Strings to Form Target I|[:us:](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i) [:cn:](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i)||Medium|
+||3290|Maximum Multiplication Score|[:us:](https://leetcode.com/problems/maximum-multiplication-score) [:cn:](https://leetcode.cn/problems/maximum-multiplication-score)||Medium|
+||3289|The Two Sneaky Numbers of Digitville|[:us:](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) [:cn:](https://leetcode.cn/problems/the-two-sneaky-numbers-of-digitville)||Easy|
+||3288|Length of the Longest Increasing Path|[:us:](https://leetcode.com/problems/length-of-the-longest-increasing-path) [:cn:](https://leetcode.cn/problems/length-of-the-longest-increasing-path)||Hard|
+||3287|Find the Maximum Sequence Value of Array|[:us:](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array) [:cn:](https://leetcode.cn/problems/find-the-maximum-sequence-value-of-array)||Hard|
+||3286|Find a Safe Walk Through a Grid|[:us:](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) [:cn:](https://leetcode.cn/problems/find-a-safe-walk-through-a-grid)||Medium|
+||3285|Find Indices of Stable Mountains|[:us:](https://leetcode.com/problems/find-indices-of-stable-mountains) [:cn:](https://leetcode.cn/problems/find-indices-of-stable-mountains)||Easy|
+|:lock:|3284|Sum of Consecutive Subarrays|[:us:](https://leetcode.com/problems/sum-of-consecutive-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-consecutive-subarrays)||Medium|
+||3283|Maximum Number of Moves to Kill All Pawns|[:us:](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns) [:cn:](https://leetcode.cn/problems/maximum-number-of-moves-to-kill-all-pawns)||Hard|
+||3282|Reach End of Array With Max Score|[:us:](https://leetcode.com/problems/reach-end-of-array-with-max-score) [:cn:](https://leetcode.cn/problems/reach-end-of-array-with-max-score)||Medium|
+||3281|Maximize Score of Numbers in Ranges|[:us:](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges) [:cn:](https://leetcode.cn/problems/maximize-score-of-numbers-in-ranges)||Medium|
+||3280|Convert Date to Binary|[:us:](https://leetcode.com/problems/convert-date-to-binary) [:cn:](https://leetcode.cn/problems/convert-date-to-binary)||Easy|
+|:lock:|3279|Maximum Total Area Occupied by Pistons|[:us:](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons) [:cn:](https://leetcode.cn/problems/maximum-total-area-occupied-by-pistons)||Hard|
+|:lock: sql |3278|Find Candidates for Data Scientist Position II|[:us:](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii) [:cn:](https://leetcode.cn/problems/find-candidates-for-data-scientist-position-ii)||Medium|
+||3277|Maximum XOR Score Subarray Queries|[:us:](https://leetcode.com/problems/maximum-xor-score-subarray-queries) [:cn:](https://leetcode.cn/problems/maximum-xor-score-subarray-queries)||Hard|
+||3276|Select Cells in Grid With Maximum Score|[:us:](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score) [:cn:](https://leetcode.cn/problems/select-cells-in-grid-with-maximum-score)||Hard|
+||3275|K-th Nearest Obstacle Queries|[:us:](https://leetcode.com/problems/k-th-nearest-obstacle-queries) [:cn:](https://leetcode.cn/problems/k-th-nearest-obstacle-queries)||Medium|
+||3274|Check if Two Chessboard Squares Have the Same Color|[:us:](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) [:cn:](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color)||Easy|
+||3273|Minimum Amount of Damage Dealt to Bob|[:us:](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob) [:cn:](https://leetcode.cn/problems/minimum-amount-of-damage-dealt-to-bob)||Hard|
+||3272|Find the Count of Good Integers|[:us:](https://leetcode.com/problems/find-the-count-of-good-integers) [:cn:](https://leetcode.cn/problems/find-the-count-of-good-integers)||Hard|
+||3271|Hash Divided String|[:us:](https://leetcode.com/problems/hash-divided-string) [:cn:](https://leetcode.cn/problems/hash-divided-string)||Medium|
+||3270|Find the Key of the Numbers|[:us:](https://leetcode.com/problems/find-the-key-of-the-numbers) [:cn:](https://leetcode.cn/problems/find-the-key-of-the-numbers)||Easy|
+|:lock:|3269|Constructing Two Increasing Arrays|[:us:](https://leetcode.com/problems/constructing-two-increasing-arrays) [:cn:](https://leetcode.cn/problems/constructing-two-increasing-arrays)||Hard|
+|:lock: sql |3268|Find Overlapping Shifts II|[:us:](https://leetcode.com/problems/find-overlapping-shifts-ii) [:cn:](https://leetcode.cn/problems/find-overlapping-shifts-ii)||Hard|
+||3267|Count Almost Equal Pairs II|[:us:](https://leetcode.com/problems/count-almost-equal-pairs-ii) [:cn:](https://leetcode.cn/problems/count-almost-equal-pairs-ii)||Hard|
+||3266|Final Array State After K Multiplication Operations II|[:us:](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii) [:cn:](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii)||Hard|
+||3265|Count Almost Equal Pairs I|[:us:](https://leetcode.com/problems/count-almost-equal-pairs-i) [:cn:](https://leetcode.cn/problems/count-almost-equal-pairs-i)||Medium|
+||3264|Final Array State After K Multiplication Operations I|[:us:](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) [:cn:](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i)||Easy|
+|:lock:|3263|Convert Doubly Linked List to Array I|[:us:](https://leetcode.com/problems/convert-doubly-linked-list-to-array-i) [:cn:](https://leetcode.cn/problems/convert-doubly-linked-list-to-array-i)||Easy|
+|:lock: sql |3262|Find Overlapping Shifts|[:us:](https://leetcode.com/problems/find-overlapping-shifts) [:cn:](https://leetcode.cn/problems/find-overlapping-shifts)||Medium|
+||3261|Count Substrings That Satisfy K-Constraint II|[:us:](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii) [:cn:](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii)||Hard|
+||3260|Find the Largest Palindrome Divisible by K|[:us:](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k) [:cn:](https://leetcode.cn/problems/find-the-largest-palindrome-divisible-by-k)||Hard|
+||3259|Maximum Energy Boost From Two Drinks|[:us:](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks) [:cn:](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks)||Medium|
+||3258|Count Substrings That Satisfy K-Constraint I|[:us:](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i) [:cn:](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i)||Easy|
+||3257|Maximum Value Sum by Placing Three Rooks II|[:us:](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii) [:cn:](https://leetcode.cn/problems/maximum-value-sum-by-placing-three-rooks-ii)||Hard|
+||3256|Maximum Value Sum by Placing Three Rooks I|[:us:](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i) [:cn:](https://leetcode.cn/problems/maximum-value-sum-by-placing-three-rooks-i)||Hard|
+||3255|Find the Power of K-Size Subarrays II|[:us:](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii) [:cn:](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii)||Medium|
+||3254|Find the Power of K-Size Subarrays I|[:us:](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i) [:cn:](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i)||Medium|
+|:lock:|3253|Construct String with Minimum Cost (Easy)|[:us:](https://leetcode.com/problems/construct-string-with-minimum-cost-easy) [:cn:](https://leetcode.cn/problems/construct-string-with-minimum-cost-easy)||Medium|
 |:lock: sql |3252|Premier League Table Ranking II|[:us:](https://leetcode.com/problems/premier-league-table-ranking-ii) [:cn:](https://leetcode.cn/problems/premier-league-table-ranking-ii)||Medium|
 ||3251|Find the Count of Monotonic Pairs II|[:us:](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii) [:cn:](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-ii)||Hard|
 ||3250|Find the Count of Monotonic Pairs I|[:us:](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i) [:cn:](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-i)||Hard|

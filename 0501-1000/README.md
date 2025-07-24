@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|500|323|3|95 (77.11%)|3|
+|500|323|3|96 (76.92%)|3|
 
 
 |py|java|rb|ts|c|js|cpp|php|
@@ -388,7 +388,7 @@
 | sql |627|Swap Salary|[:us:](https://leetcode.com/problems/swap-salary) [:cn:](https://leetcode.cn/problems/swap-salary)||Easy|
 | sql |626|Exchange Seats|[:us:](https://leetcode.com/problems/exchange-seats) [:cn:](https://leetcode.cn/problems/exchange-seats)||Medium|
 |:lock:|625|Minimum Factorization|[:us:](https://leetcode.com/problems/minimum-factorization) [:cn:](https://leetcode.cn/problems/minimum-factorization)||Medium|
-|:lock:|624|Maximum Distance in Arrays|[:us:](https://leetcode.com/problems/maximum-distance-in-arrays) [:cn:](https://leetcode.cn/problems/maximum-distance-in-arrays)||Medium|
+||624|Maximum Distance in Arrays|[:us:](https://leetcode.com/problems/maximum-distance-in-arrays) [:cn:](https://leetcode.cn/problems/maximum-distance-in-arrays)||Medium|
 |:heavy_check_mark:|623|Add One Row to Tree|[:us:](https://leetcode.com/problems/add-one-row-to-tree) [:cn:](https://leetcode.cn/problems/add-one-row-to-tree)|[js](/0501-1000/0623.Add%20One%20Row%20to%20Tree.js)|Medium|
 |:heavy_check_mark:|622|Design Circular Queue|[:us:](https://leetcode.com/problems/design-circular-queue) [:cn:](https://leetcode.cn/problems/design-circular-queue)|[py](/0501-1000/0622.Design%20Circular%20Queue.py)|Medium|
 |:heavy_check_mark:|621|Task Scheduler|[:us:](https://leetcode.com/problems/task-scheduler) [:cn:](https://leetcode.cn/problems/task-scheduler)|[py](/0501-1000/0621.Task%20Scheduler.2.py), [py](/0501-1000/0621.Task%20Scheduler.py)|Medium|
@@ -416,7 +416,7 @@
 |:heavy_check_mark:|599|Minimum Index Sum of Two Lists|[:us:](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [:cn:](https://leetcode.cn/problems/minimum-index-sum-of-two-lists)|[ts](/0501-1000/0599.Minimum%20Index%20Sum%20of%20Two%20Lists.ts)|Easy|
 |:heavy_check_mark:|598|Range Addition II|[:us:](https://leetcode.com/problems/range-addition-ii) [:cn:](https://leetcode.cn/problems/range-addition-ii)|[php](/0501-1000/0598.Range%20Addition%20II.php)|Easy|
 |:lock: sql |597|Friend Requests I: Overall Acceptance Rate|[:us:](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) [:cn:](https://leetcode.cn/problems/friend-requests-i-overall-acceptance-rate)||Easy|
-| sql |596|Classes More Than 5 Students|[:us:](https://leetcode.com/problems/classes-more-than-5-students) [:cn:](https://leetcode.cn/problems/classes-more-than-5-students)||Easy|
+| sql |596|Classes With at Least 5 Students|[:us:](https://leetcode.com/problems/classes-with-at-least-5-students) [:cn:](https://leetcode.cn/problems/classes-with-at-least-5-students)||Easy|
 |:heavy_check_mark: sql |595|Big Countries|[:us:](https://leetcode.com/problems/big-countries) [:cn:](https://leetcode.cn/problems/big-countries)|[sql](/0501-1000/0595.Big%20Countries.sql)|Easy|
 |:heavy_check_mark:|594|Longest Harmonious Subsequence|[:us:](https://leetcode.com/problems/longest-harmonious-subsequence) [:cn:](https://leetcode.cn/problems/longest-harmonious-subsequence)|[ts](/0501-1000/0594.Longest%20Harmonious%20Subsequence.ts)|Easy|
 |:heavy_check_mark:|593|Valid Square|[:us:](https://leetcode.com/problems/valid-square) [:cn:](https://leetcode.cn/problems/valid-square)|[py](/0501-1000/0593.Valid%20Square.py)|Medium|

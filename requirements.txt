@@ -1,4 +1,1 @@
 requests
-requests-html
-pyppeteer
-lxml-html-clean
