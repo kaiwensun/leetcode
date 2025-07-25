@@ -9,24 +9,25 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|Starred|
 |:---:|:---:|:---:|:---:|:---:|
-|4019|2155|6|737 (73.73%)|16|
+|4020|2158|6|734 (73.84%)|16|
 
 
 |py|ts|java|rb|c|cpp|js|php|kt|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|60.8%|13.9%|10.6%|6.5%|4.3%|2.2%|0.9%|0.7%|0.1%|
+|60.9%|13.9%|10.6%|6.5%|4.3%|2.2%|0.9%|0.7%|0.1%|
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+| sql |3626|Find Stores with Inventory Imbalance|[:us:](https://leetcode.com/problems/find-stores-with-inventory-imbalance) [:cn:](https://leetcode.cn/problems/find-stores-with-inventory-imbalance)||Medium|
 |:heavy_check_mark:|3625|Count Number of Trapezoids II|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-ii) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-ii)|[py](/3501-4000/3625.Count%20Number%20of%20Trapezoids%20II.py)|Hard|
 |:heavy_check_mark:|3624|Number of Integers With Popcount-Depth Equal to K II|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-ii)|[py](/3501-4000/3624.Number%20of%20Integers%20With%20Popcount-Depth%20Equal%20to%20K%20II.py)|Hard|
 |:heavy_check_mark:|3623|Count Number of Trapezoids I|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-i) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-i)|[py](/3501-4000/3623.Count%20Number%20of%20Trapezoids%20I.py)|Medium|
 |:heavy_check_mark:|3622|Check Divisibility by Digit Sum and Product|[:us:](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) [:cn:](https://leetcode.cn/problems/check-divisibility-by-digit-sum-and-product)|[py](/3501-4000/3622.Check%20Divisibility%20by%20Digit%20Sum%20and%20Product.py)|Easy|
 ||3621|Number of Integers With Popcount-Depth Equal to K I|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-i)||Hard|
-||3620|Network Recovery Pathways|[:us:](https://leetcode.com/problems/network-recovery-pathways) [:cn:](https://leetcode.cn/problems/network-recovery-pathways)||Hard|
-||3619|Count Islands With Total Value Divisible by K|[:us:](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-islands-with-total-value-divisible-by-k)||Medium|
-||3618|Split Array by Prime Indices|[:us:](https://leetcode.com/problems/split-array-by-prime-indices) [:cn:](https://leetcode.cn/problems/split-array-by-prime-indices)||Medium|
+|:heavy_check_mark:|3620|Network Recovery Pathways|[:us:](https://leetcode.com/problems/network-recovery-pathways) [:cn:](https://leetcode.cn/problems/network-recovery-pathways)|[py](/3501-4000/3620.Network%20Recovery%20Pathways.py)|Hard|
+|:heavy_check_mark:|3619|Count Islands With Total Value Divisible by K|[:us:](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-islands-with-total-value-divisible-by-k)|[py](/3501-4000/3619.Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K.py)|Medium|
+|:heavy_check_mark:|3618|Split Array by Prime Indices|[:us:](https://leetcode.com/problems/split-array-by-prime-indices) [:cn:](https://leetcode.cn/problems/split-array-by-prime-indices)|[py](/3501-4000/3618.Split%20Array%20by%20Prime%20Indices.py)|Medium|
 | sql |3617|Find Students with Study Spiral Pattern|[:us:](https://leetcode.com/problems/find-students-with-study-spiral-pattern) [:cn:](https://leetcode.cn/problems/find-students-with-study-spiral-pattern)||Hard|
 |:lock:|3616|Number of Student Replacements|[:us:](https://leetcode.com/problems/number-of-student-replacements) [:cn:](https://leetcode.cn/problems/number-of-student-replacements)||Medium|
 ||3615|Longest Palindromic Path in Graph|[:us:](https://leetcode.com/problems/longest-palindromic-path-in-graph) [:cn:](https://leetcode.cn/problems/longest-palindromic-path-in-graph)||Hard|

@@ -9,16 +9,14 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|1183|0|6|737 (0.00%)|
+|1181|0|6|734 (0.00%)|
 
 
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+| sql |3626|Find Stores with Inventory Imbalance|[:us:](https://leetcode.com/problems/find-stores-with-inventory-imbalance) [:cn:](https://leetcode.cn/problems/find-stores-with-inventory-imbalance)||Medium|
 ||3621|Number of Integers With Popcount-Depth Equal to K I|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-i)||Hard|
-||3620|Network Recovery Pathways|[:us:](https://leetcode.com/problems/network-recovery-pathways) [:cn:](https://leetcode.cn/problems/network-recovery-pathways)||Hard|
-||3619|Count Islands With Total Value Divisible by K|[:us:](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) [:cn:](https://leetcode.cn/problems/count-islands-with-total-value-divisible-by-k)||Medium|
-||3618|Split Array by Prime Indices|[:us:](https://leetcode.com/problems/split-array-by-prime-indices) [:cn:](https://leetcode.cn/problems/split-array-by-prime-indices)||Medium|
 | sql |3617|Find Students with Study Spiral Pattern|[:us:](https://leetcode.com/problems/find-students-with-study-spiral-pattern) [:cn:](https://leetcode.cn/problems/find-students-with-study-spiral-pattern)||Hard|
 ||3615|Longest Palindromic Path in Graph|[:us:](https://leetcode.com/problems/longest-palindromic-path-in-graph) [:cn:](https://leetcode.cn/problems/longest-palindromic-path-in-graph)||Hard|
 ||3614|Process String with Special Operations II|[:us:](https://leetcode.com/problems/process-string-with-special-operations-ii) [:cn:](https://leetcode.cn/problems/process-string-with-special-operations-ii)||Hard|
