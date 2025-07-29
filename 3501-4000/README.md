@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|126|7|0|94 (6.93%)|
+|130|9|0|96 (8.57%)|
 
 
 |py|
@@ -12,6 +12,10 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+||3630|Partition Array for Maximum XOR and AND|[:us:](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and) [:cn:](https://leetcode.cn/problems/partition-array-for-maximum-xor-and-and)||Hard|
+||3629|Minimum Jumps to Reach End via Prime Teleportation|[:us:](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) [:cn:](https://leetcode.cn/problems/minimum-jumps-to-reach-end-via-prime-teleportation)||Medium|
+|:heavy_check_mark:|3628|Maximum Number of Subsequences After One Inserting|[:us:](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting) [:cn:](https://leetcode.cn/problems/maximum-number-of-subsequences-after-one-inserting)|[py](/3501-4000/3628.Maximum%20Number%20of%20Subsequences%20After%20One%20Inserting.py)|Medium|
+|:heavy_check_mark:|3627|Maximum Median Sum of Subsequences of Size 3|[:us:](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3) [:cn:](https://leetcode.cn/problems/maximum-median-sum-of-subsequences-of-size-3)|[py](/3501-4000/3627.Maximum%20Median%20Sum%20of%20Subsequences%20of%20Size%203.py)|Medium|
 | sql |3626|Find Stores with Inventory Imbalance|[:us:](https://leetcode.com/problems/find-stores-with-inventory-imbalance) [:cn:](https://leetcode.cn/problems/find-stores-with-inventory-imbalance)||Medium|
 |:heavy_check_mark:|3625|Count Number of Trapezoids II|[:us:](https://leetcode.com/problems/count-number-of-trapezoids-ii) [:cn:](https://leetcode.cn/problems/count-number-of-trapezoids-ii)|[py](/3501-4000/3625.Count%20Number%20of%20Trapezoids%20II.py)|Hard|
 |:heavy_check_mark:|3624|Number of Integers With Popcount-Depth Equal to K II|[:us:](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii) [:cn:](https://leetcode.cn/problems/number-of-integers-with-popcount-depth-equal-to-k-ii)|[py](/3501-4000/3624.Number%20of%20Integers%20With%20Popcount-Depth%20Equal%20to%20K%20II.py)|Hard|
