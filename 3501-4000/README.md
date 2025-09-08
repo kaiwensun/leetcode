@@ -2,7 +2,7 @@
 
 |Total|Solved|Attempted|US site non-DB unsolved w/o lock (solved rate)|
 |:---:|:---:|:---:|:---:|
-|162|13|0|116 (10.08%)|
+|177|17|0|124 (12.06%)|
 
 
 |py|
@@ -12,6 +12,21 @@
 
 |Status|#|Title|Question Links|My Solutions|Difficulty ([CN](https://leetcode.cn/problemset/all))|
 |:---|:---|:---|:---|:---|:---|
+|:heavy_check_mark:|3677|Count Binary Palindromic Numbers|[:us:](https://leetcode.com/problems/count-binary-palindromic-numbers) [:cn:](https://leetcode.cn/problems/count-binary-palindromic-numbers)|[py](/3501-4000/3677.Count%20Binary%20Palindromic%20Numbers.py)|Hard|
+|:heavy_check_mark:|3676|Count Bowl Subarrays|[:us:](https://leetcode.com/problems/count-bowl-subarrays) [:cn:](https://leetcode.cn/problems/count-bowl-subarrays)|[py](/3501-4000/3676.Count%20Bowl%20Subarrays.py)|Medium|
+|:heavy_check_mark:|3675|Minimum Operations to Transform String|[:us:](https://leetcode.com/problems/minimum-operations-to-transform-string) [:cn:](https://leetcode.cn/problems/minimum-operations-to-transform-string)|[py](/3501-4000/3675.Minimum%20Operations%20to%20Transform%20String.py)|Medium|
+|:heavy_check_mark:|3674|Minimum Operations to Equalize Array|[:us:](https://leetcode.com/problems/minimum-operations-to-equalize-array) [:cn:](https://leetcode.cn/problems/minimum-operations-to-equalize-array)|[py](/3501-4000/3674.Minimum%20Operations%20to%20Equalize%20Array.py)|Easy|
+| sql |3673|Find Zombie Sessions|[:us:](https://leetcode.com/problems/find-zombie-sessions) [:cn:](https://leetcode.cn/problems/find-zombie-sessions)||Hard|
+|:lock:|3672|Sum of Weighted Modes in Subarrays|[:us:](https://leetcode.com/problems/sum-of-weighted-modes-in-subarrays) [:cn:](https://leetcode.cn/problems/sum-of-weighted-modes-in-subarrays)||Medium|
+||3671|Sum of Beautiful Subsequences|[:us:](https://leetcode.com/problems/sum-of-beautiful-subsequences) [:cn:](https://leetcode.cn/problems/sum-of-beautiful-subsequences)||Hard|
+||3670|Maximum Product of Two Integers With No Common Bits|[:us:](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits) [:cn:](https://leetcode.cn/problems/maximum-product-of-two-integers-with-no-common-bits)||Medium|
+||3669|Balanced K-Factor Decomposition|[:us:](https://leetcode.com/problems/balanced-k-factor-decomposition) [:cn:](https://leetcode.cn/problems/balanced-k-factor-decomposition)||Medium|
+||3668|Restore Finishing Order|[:us:](https://leetcode.com/problems/restore-finishing-order) [:cn:](https://leetcode.cn/problems/restore-finishing-order)||Easy|
+|:lock:|3667|Sort Array By Absolute Value|[:us:](https://leetcode.com/problems/sort-array-by-absolute-value) [:cn:](https://leetcode.cn/problems/sort-array-by-absolute-value)||Easy|
+||3666|Minimum Operations to Equalize Binary String|[:us:](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string) [:cn:](https://leetcode.cn/problems/minimum-operations-to-equalize-binary-string)||Hard|
+||3665|Twisted Mirror Path Count|[:us:](https://leetcode.com/problems/twisted-mirror-path-count) [:cn:](https://leetcode.cn/problems/twisted-mirror-path-count)||Medium|
+||3664|Two-Letter Card Game|[:us:](https://leetcode.com/problems/two-letter-card-game) [:cn:](https://leetcode.cn/problems/two-letter-card-game)||Medium|
+||3663|Find The Least Frequent Digit|[:us:](https://leetcode.com/problems/find-the-least-frequent-digit) [:cn:](https://leetcode.cn/problems/find-the-least-frequent-digit)||Easy|
 |:lock:|3662|Filter Characters by Frequency|[:us:](https://leetcode.com/problems/filter-characters-by-frequency) [:cn:](https://leetcode.cn/problems/filter-characters-by-frequency)||Easy|
 |:heavy_check_mark:|3661|Maximum Walls Destroyed by Robots|[:us:](https://leetcode.com/problems/maximum-walls-destroyed-by-robots) [:cn:](https://leetcode.cn/problems/maximum-walls-destroyed-by-robots)|[py](/3501-4000/3661.Maximum%20Walls%20Destroyed%20by%20Robots.py)|Hard|
 |:heavy_check_mark:|3660|Jump Game IX|[:us:](https://leetcode.com/problems/jump-game-ix) [:cn:](https://leetcode.cn/problems/jump-game-ix)|[py](/3501-4000/3660.Jump%20Game%20IX.py)|Medium|
